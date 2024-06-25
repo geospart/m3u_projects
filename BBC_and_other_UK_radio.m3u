@@ -5,7 +5,6 @@
 # BBC and some other U.K. stations I listen to. 
 # Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # created 06/24/2024
-# Playlist created by SMPlayer 24.5.0 (revision 10277) 
 #EXTINF:4.656,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
 #EXTINF:1.872,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
