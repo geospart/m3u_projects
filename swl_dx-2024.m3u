@@ -1,0 +1,212 @@
+#EXTM3U
+# Edited on Xed, SMPlay and VLC on Linux Mint
+# By @geospart
+# https://mastodon.social/@geospart
+# I started listening to SWL at age 13. I have always enjoyed the hobby.
+# I figured I would make an m3u based around SWL.
+# Hit me up if I missed any.
+# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# Some historic entries [easter eggs] / Sorry not Religious stations.
+# created 06/25/2024
+#EXTINF:-1, Radio Tirana International [Albania][rti.rtsh.al][✖][✅2024][✖2022💀][?][✖]
+https://radio.rtsh.al/kanale/radio-tirana-internacional-platforma-rtsh-
+#EXTINF:-1, Radio Algeria [my.radioalgerie.dz/fr/rai][✅2024]
+https://webradio.tda.dz/Internationale_64K.mp3
+#EXTINF:-1, Radio Angola [rna.ao/rna.ao][✅2024]
+https://paineldj5.com.br:20087/stream
+#EXTINF:-1, RAE Radiodifusión Argentina al Exterior [www.radionacional.com.ar/tag/lra-36-arcangel-san-gabriel][✖][✅2024][✖][?]
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35[✅2024]
+#EXTINF:-1, LRA36 National Radio Arcángel San Gabriel [Arnetina]
+https://vmf.edge-apps.net/embed/live.php?streamname=sc_rad32-100131&autoplay=true
+#EXTINF:-1, Public Radio of Armenia [en.armradio.am][✅2024]
+http://31.7.166.59:8000/stream
+#EXTINF:-1, ABC Radio Australia Multi-Language [www.abc.net.au/pacific][✅2024]
+https://live-radio01.mediahubaustralia.com/RAMW/mp3/
+#EXTINF:-1, ABC Radio Australia Multi-Language [Pacific][www.abc.net.au/pacific][✅2024]
+https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
+#EXTINF:-1, ABC Radio Australia - Pacific [abc.net.au/pacific/live][Aussie][✅2024]
+https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
+#EXTINF:-1, Radio Österreich International [Austria][www.orf.at][✖]
+https://no.stream
+#EXTINF:-1, Radio Belarus [www.tvr.by/radio/radio-belarus][✅2024]
+https://stream2.datacenter.by/belarus
+#EXTINF:-1, RTBF International [Belgium][www.rtbfi.be][✖2019]
+https://no.stream
+#EXTINF:-1, Radio Benin [ortb.bj][ortb.bj/radiobenin.html][✅2024]
+https://listen.radioking.com/radio/47608/stream/84430
+#EXTINF:-1, Bhutan Broadcasting Service Radio 1 [www.bbs.bt/news][✅2024]
+http://202.144.155.12/radio1
+#EXTINF:-1, Bhutan Broadcasting Service Radio 2 [www.bbs.bt/news][✅2024]
+http://202.144.155.12/radio2
+#EXTINF:-1, Radio Bulgaria [https://bnr.bg/en][No Stream/Daily Upload @ bnr.bg/en/podcast-in-english/broadcast][✅2024]
+https://bnr.bg/en/podcast-in-english/broadcast
+#EXTINF:-1, Radio-Télévision nationale du Burundi [www.rtnb.bi/fr][✖][✅2024][✖][?]
+https://happy.bumadventiste.org:8000/rtnb1
+#EXTINF:-1, BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][✅2024]
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
+#EXTINF:-1, BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][✅2024]
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1,BBC World Service [aac-97k][U.K.][bbc.co.uk][☑2024][norew][✅2024]
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=48000.norewind.m3u8
+#EXTINF:-1,BBC World Service [aac-95k][U.K.][bbc.co.uk][☑2024][norew][✅2024]
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+#EXTINF:-1, BBC World Service [aac-100k][U.K.][bbc.co.uk][☑2024][✅2024]
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:1.128, BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][✅2024]
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service_news_internet
+#EXTINF:-1, BBC World Service [aac-96k][U.K.][bbc.co.uk][☑2024][✅2024]
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/aks/bbc_world_service.m3u8
+#EXTINF:-1, Radio Nacional de Cabo Verde [https://www.rtc.cv/rcv/direto]
+https://www.rtc.cv/rcv/direto
+#EXTINF:-1, CRI轻松调频 [https://chinaplus.cri.cn][China Radio International][Music/Talk][✅2024]
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1, CRI轻松调频 [https://chinaplus.cri.cn][China Radio International][✅2024]
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1, CRI轻松调频 [https://chinaplus.cri.cn][China Radio International][✅2024]
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1, Voice of Free China / Radio Taiwan International [Taipai, Taiwan][en.rti.org.tw][No Stream/Daily Upload]
+https://en.rti.org.tw/radio/programMessagePlayer/programId/1414/id/110111
+#EXTINF:-1, Voice of Croatia [glashrvatske.hrt.hr/en][✖][✅2024][✖][?]
+https://25643.live.streamtheworld.com/VOICEOFCROATIAAAC.aac
+#EXTINF:-1, Radio Havana Cuba [www.radiohc.cu/en][schedule:www.radiohc.cu/audio_en_tiempo_real]
+https://icecast.teveo.cu/McW3fLhs
+#EXTINF:-1, Radio Prague [Czech Rep][english.radio.cz][www.mujrozhlas.cz/zive/radio-prague-int]
+https://rozhlas.stream/radio_prague_int_high.aac
+#EXTINF:-1, HCJB Quito Ecuador [hcjb.org][Only stream is of FM Radio][✖][✅2024][✖][?]
+https://streamingecuador.net:8287/hcjb
+#EXTINF:-1, YLE Finland [yle.fi][✖][✅2024][✖][?]
+http://no.stream
+#EXTINF:-1, Scandinavian Weekend Radio [Finland][www.swradio.net][✖][✅2024][✖][?]
+https://soundcloud.com/vestesen/scandinavian-weekend-radio-finland
+#EXTINF:-1, Radio Eritrea International [France][erena.org][🕵🕶Eritrea📻]
+https://stream-156.zeno.fm/u8h8qa8z4neuv
+#EXTINF:-1, Eye Radio [France][www.eyeradio.org][🕵🕶Eritrea📻][✖][✅2024][✖][?]
+https://media.streambrothers.com:8000/stream
+#EXTINF:-1, Quê Me Radio [France][queme.org/en][🕵🕶Vietnam📻][✖][✅2024][✖][?]
+http://no.stream
+#EXTINF:1.61959, RFI Anglais - English Radio France International [www.rfi.fr/en][✅2024]
+http://live02.rfi.fr/rfienanglais-64.mp3
+#EXTINF:-1, Sagalee Qeerroo Bilisummaa[qeerroo.org][🕵🕶Vietnam📻][✖][✅2024][✖][?]
+http://no.stream
+#EXTINF:-1, Deutsche Welle/DW [Germany][www.dw.com/en/][✅2024]
+https://dispatcher.rndfnk.com/dw/1027/mp3/64/dw08.mp3
+#EXTINF:-1, Deutsche Welle/DW [Germany][www.dw.com/en/][✅2024]
+https://d111.rndfnk.com/ard/dw/dw08/mp3/64/stream.mp3
+#EXTINF:-1, Deutsche Welle/DW [Germany][www.dw.com/en/][✅2024]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Deutsche Welle/DW [Germany][www.dw.com/en/][✅2024][🎬-Vid-SD]
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream01/streamPlaylist.m3u8
+#EXTINF:-1, Deutsche Welle/DW [Germany][www.dw.com/en/][✅2024][🎬-Vid-HD]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Radio Berlin International[DDR/East Germany][en.wikipedia.org/wiki/Rundfunk_der_DDR][✖][✅2024][✖1990💀][?]
+https://ia800304.us.archive.org/0/items/sraa-radio-berlin-international-final-episode-october-2-1990/RadioBerlinInternational-9.730MHz-02October1990-0045UTC.mp3
+#EXTINF:-1, Voice of Greece [[No Stream/Daily Upload @vog.ert.gr/program/?lang=en]
+http://no.stream
+#EXTINF:-1, Radio Budapest Hungary [www.radio.hu][✖][✅2024][✖2015💀][?][✖]
+https://ia601607.us.archive.org/27/items/sraa-radio-budapest-august-25-2009/Radio_Budapest_-_6150_-_20090825_011231GMT.mp3
+#EXTINF:-1, Ríkisútvarpið (RÚV) Iceland [www.ruv.is][✖][✅2024][✖2007💀][?][✖]
+http://no.stream
+#EXTINF:-1, All India Radio [allindiaradio.gov.in *on demand audio*][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223199.aac
+#EXTINF:-1, All India Radio [allindiaradio.gov.in][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223200.aac
+#EXTINF:-1, All India Radio [allindiaradio.gov.in][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223201.aac
+#EXTINF:-1, All India Radio [allindiaradio.gov.in][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223202.aac
+#EXTINF:-1, All India Radio [allindiaradio.gov.in][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223203.aac
+#EXTINF:-1, All India Radio [allindiaradio.gov.in][newsonair.gov.in][✅2024]
+hlspbaudio23364kbps39046_223204.aac
+#EXTINF:-1, Voice of Indonesia [Iran][https://voinews.id/][✅2024]
+https://video3-streaming.svara.fm/live/voi/playlist.m3u8
+#EXTINF:-1, IRIB World Service [Iran][parstoday.ir/en/radio][✅2024]
+https://live4.presstv.ir/irib/irib8/playlist.m3u8
+#EXTINF:-1, RTÉ [www.rte.ie][✖][✅2024][✖2004💀][?][✖]
+http://no.stream
+#EXTINF:-1, Israel Radio International [✅2024][🎬-Vid-HD]
+https://www.kan.org.il/live/radio.aspx?stationid=10
+#EXTINF:-1, Rai Italia Radio [internazionale.rai.it][✖][✅2024][✖2007💀][?][✖]
+http://no.stream
+#EXTINF:-1, NHK World-Japan [24h][www3.nhk.or.jp/nhkworld][www3.nhk.or.jp/nhkworld/en/radio/][✅2024]
+https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8
+#EXTINF:-1, NHK World-Japan [24h][www3.nhk.or.jp/nhkworld][www3.nhk.or.jp/nhkworld/en/radio/][✅2024]
+https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06_04316.aac
+#EXTINF:-1, NHK World-Japan [Multi Language][www3.nhk.or.jp/nhkworld][www3.nhk.or.jp/nhkworld/en/radio/][✅2024]
+https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
+#EXTINF:-1, NHK World-Japan [Multi Language][www3.nhk.or.jp/nhkworld][www3.nhk.or.jp/nhkworld/en/radio/][✅2024]
+https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07_04333.aac
+#EXTINF:-1, NHK World-Japan [Multi Language][www3.nhk.or.jp/nhkworld][www3.nhk.or.jp/nhkworld/en/radio/][✅2024]
+https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07_04332.aac
+#EXTINF:-1, NHK World-Japan [Multi Language][www3.nhk.or.jp/nhkworld][✅2024][🎬-Vid-HD]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1, Radio Nikkei [www.radionikkei.jp][✖][✅2024][✖][?]
+http://no.stream
+#EXTINF:-1, Radio Netherlands Worldwide/RNW Media[new] [✖][✅2024][✖2007💀][?]
+http://no.stream
+#EXTINF:-1, RNZ Pacific / Radio New Zealand Pacific [www.rnz.co.nz/international][✅2024]
+https://radionz.streamguys1.com/pacific/pacific/playlist.m3u8
+#EXTINF:-1, RNZ [National][www.rnz.co.nz/international][✅2024]
+https://radionz.streamguys1.com/national/national/playlist.m3u8
+#EXTINF:-1, [Concert-Classical][www.rnz.co.nz/international][✅2024]
+https://radionz.streamguys1.com/concert/concert/playlist.m3u8
+#EXTINF:-1, Voice of Korea [North Korea][www.vok.rep.kp][✅2024]
+https://listen7.myradio24.com/69366
+#EXTINF:-1, NRK Norway [✖][✅2024][✖2002💀][?][✖]
+http://no.stream
+#EXTINF:-1, RDP Internacional [rdpafrica.rtp.pt][✖][✅2024][✖2011💀][?][✖]
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/media_DVR_216325.aac
+#EXTINF:-1, Radio Moscow / Voice of Russia / Radio Sputnik [rus.ruvr.ru][sputnikglobe.com][✅2024][Need new media URL]
+https://sputnikglobe.com/broadcasts/live/
+#EXTINF:-1, KBS World Radio Ch1 [South Korea][✅2024][Need new media URL]
+https://wink11.gscdn.kbs.co.kr/ch1_64_2.m3u8
+#EXTINF:-1, KBS World Radio Ch2 [South Korea][✅2024][Need new media URL]
+https://wink24.gscdn.kbs.co.kr/ch2_64_2.m3u8
+#EXTINF:-1, KBS World radio Music [South Korea][✅2024][Need new media URL]
+https://winkmusic.gscdn.kbs.co.kr/music_64_2.m3u8
+#EXTINF:-1, KBS World radio [South Korea][✅2024][🎬-Vid-HD]
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1, Radio Exterior de España [REE][www.rtve.es/radio/radio-exterior/][✅2024][Need new media URL]
+http://no.stream
+#EXTINF:-1, Radio Exterior de España [REE][www.rtve.es/radio/radio-exterior/][✅2024]
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1, Radio Ceylon [Sri Lanka][www.slbc.lk][✅2024][Need new media URL]
+http://no.stream
+#EXTINF:-1, Radio Apintie [Suriname][www.apintie.sr/radio][✅2024]
+https://surilive.com:8000/;
+#EXTINF:-1, SR International – Radio Sweden [sverigesradio.se][✖][✅2024][✖2010💀][?][✖]
+https://sverigesradio.se/radiosweden
+#EXTINF:-1, Radyo Denge Welat [denge-gel.org][🕵🕶🦃🧕📻][✅2024]
+https://dengegel-rojavaradio.radioca.st/stream
+#EXTINF:-1, Radio Ranginkaman-Rainbow Radio [Sweden][radioranginkaman.org][🕵🕶🌈🧕📻][✅2024]
+https://s2.radio.co/sccac9b205/listen
+#EXTINF:-1, Radio y Televisión Martí [USA][www.martinoticias.com][✅2024]
+https://ocb-ingest.akamaized.net/hls/live/2037033/152_137R/playlist137R.m3u8
+#EXTINF:-1, Radio y Televisión Martí [USA][www.martinoticias.com][✅2024]
+https://ocb-ingest.akamaized.net/hls/live/2037033/152_137R/playlist.m3u8
+#EXTINF:-1, American Forces Network [USA][myafn.dodmedia.osd.mil][✅2024][Need new media URL]
+http://no.stream
+#EXTINF:-1, Radio Free Asia [USA][www.rfa.org/english][✅2024][Need new media URL]
+http://no.stream
+#EXTINF:-1, Radio Free Europe/Radio Liberty [USA][www.rferl.org][✅2024][No Stream/Daily Upload]
+http://no.stream
+#EXTINF:2.06367, VOA Voice of America International Edition [English][✅2024]
+https://n0e.radiojar.com/t2n88q0st5quv?rj-ttl=5&rj-tok=AAABhrUKWWEA8aHPczl8xzd0RA
+#EXTINF:2.19429, VOA Voice of America African Service [English][✅2024]
+http://voa-17.akacast.akamaistream.net/7/315/322029/v1/ibb.akacast.akamaistream.net/voa-17
+#EXTINF:1.93306, VOA Voice of America [English][✅2024]
+http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
+#EXTINF:2.3249, VOA Voice of America [Chinese][✅2024]
+http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11
+#EXTINF:1, VOA-1 The Hits Voice of America [English][✅2024]
+http://voa-22.akacast.akamaistream.net/7/48/322034/v1/ibb.akacast.akamaistream.net/voa-22
+#EXTINF:-1, Всесвітня служба радіо / World Radio Service  rui-aacplus-l  [http://www.nrcu.gov.ua][✅2024]
+http://radio.ukr.radio:8000/rui-aacplus-l
+#EXTINF:-1, Всесвітня служба радіо / World Radio Service  rui-aacp-ulow  [http://www.nrcu.gov.ua][✅2024]
+http://radio.ukr.radio:8000/rui-aacp-ulow
+#EXTINF:-1, Всесвітня служба радіо / World Radio Service  ur4-mp3  [http://www.nrcu.gov.ua][✅2024]
+http://radio.ukr.radio:8000/ur4-mp3
+#EXTINF:-1, Всесвітня служба радіо / World Radio Service  ur4-mp3-m  [http://www.nrcu.gov.ua][✅2024]
+http://radio.ukr.radio:8000/ur4-mp3-m
+#EXTINF:-1, Vatican Radio [www.vaticannews.va/en][✅2024]
+https://radio.vaticannews.va/stream-en
