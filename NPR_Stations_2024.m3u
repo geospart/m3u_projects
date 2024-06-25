@@ -105,9 +105,9 @@ http://wpln.streamguys.org/wplnfm.mp3
 https://wpln.streamguys1.com/wplnfm.aac
 #EXTINF:8.16,WPLN 90.3 [CH2-WPLN/WNXP-International-BBC][Nashville TN][NPR][nashvillepublicradio.org][☑2024]
 https://wpln.streamguys1.com/wplnam.mp3.m3u
-#EXTINF:-1, WPSU Penn State [Ch1][University Park][NPR/College][wpsu.org]
+#EXTINF:-1, WPSU Penn State [News][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
-#EXTINF:-1, WPSU Penn State [Ch1][University Park][NPR/College][wpsu.org]
+#EXTINF:-1, WPSU Penn State [Classical][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
 #EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
 https://wpln.streamguys1.com/wnxpfm.aac
