@@ -105,6 +105,10 @@ http://wpln.streamguys.org/wplnfm.mp3
 https://wpln.streamguys1.com/wplnfm.aac
 #EXTINF:8.16,WPLN 90.3 [CH2-WPLN/WNXP-International-BBC][Nashville TN][NPR][nashvillepublicradio.org][☑2024]
 https://wpln.streamguys1.com/wplnam.mp3.m3u
+#EXTINF:-1, WPSU Penn State [Ch1][University Park][NPR/College][wpsu.org]
+http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
+#EXTINF:-1, WPSU Penn State [Ch1][University Park][NPR/College][wpsu.org]
+http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
 #EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
 https://wpln.streamguys1.com/wnxpfm.aac
 #EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
@@ -187,7 +191,27 @@ https://27053.live.streamtheworld.com/KBIAFM.mp3
 https://27053.live.streamtheworld.com/KBIAHD2.mp3
 #EXTINF:1.61959,KBIA-HD3 91.3 [World Cafe/University of Missouri][Columbia MO][NPR][kbia.org]
 https://18123.live.streamtheworld.com/KBIAHD3.mp3
+#EXTINF:-1, KCRW [On Air][Santa Monica/Los Angeles][NPR][kcrw.com]
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1, KCRW [On Air][Santa Monica/Los Angeles][NPR][kcrw.com][alt]
+http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio
+#EXTINF:-1, KCRW [News][Santa Monica/Los Angeles][NPR][kcrw.com]
+https://kcrw.streamguys1.com/kcrw_192k_mp3_news
+#EXTINF:-1, KCRW [News][Santa Monica/Los Angeles][NPR][kcrw.com][alt]
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
+#EXTINF:-1, KCRW [Eclectic24][Santa Monica/Los Angeles][NPR][kcrw.com]
+https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
+#EXTINF:-1, KCRW [Bent24][Santa Monica/Los Angeles][NPR][kcrw.com]
+https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
 #EXTINF:0.914286,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][NPR][College][www.kisu.org/]
 https://kisufm.isu.edu:8443/kisufm
 #EXTINF:8.67265,KQED Public Radio [San Francisco][NPR]
 http://streams.kqed.org/kqedradio?
+#EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
+https://kut2.streamguys1.com/kut2
+#EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
+https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
+#EXTINF:-1, KUTX 98.9 [AMX][Austin TX][NPR][kutx.org]
+https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
+#EXTINF:-1, KUTX 98.9 [TMX][Austin TX][NPR][kutx.org]
+https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
