@@ -1,0 +1,165 @@
+#EXTM3U
+# Edited on Xed, SMPlay and VLC on Linux Mint
+# By @geospart
+# https://mastodon.social/@geospart
+# CBC stations I listen to. 
+# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# created 06/24/2024
+#EXTINF:30,CBC Radio 1 (YT/Whitehorse)
+https://cbcradiolive.akamaized.net/hls/live/2041052/ES_R1PWH/master.m3u8
+#EXTINF:29,CBC Radio 1 (SK/Saskatoon)
+https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/master.m3u8
+#EXTINF:0,CBC Radio 1 (SK/Regina)
+https://cbcradiolive.akamaized.net/hls/live/2041053/ES_R1SRE/master.m3u8
+#EXTINF:30,CBC Radio 1 (QC/Québec City)
+https://cbcradiolive.akamaized.net/hls/live/2041031/ES_R1EQQ/master.m3u8
+#EXTINF:30,CBC Radio 1 (QC/Nord Québec)
+https://cbcradiolive.akamaized.net/hls/live/2040992/ES_R1ECB/master.m3u8
+#EXTINF:0,CBC Radio 1 (QC/Montréal)
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:0,CBC Radio 1 (PEI/Charlottetown)
+https://cbcradiolive.akamaized.net/hls/live/2040985/ES_R1ACH/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Windsor)
+https://cbcradiolive.akamaized.net/hls/live/2041038/ES_R1EWD/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Toronto)
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Thunder Bay)
+https://cbcradiolive.akamaized.net/hls/live/2041035/ES_R1ETH/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Sudbury)
+https://cbcradiolive.akamaized.net/hls/live/2041034/ES_R1ESU/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Peterborough)
+https://cbcradiolive.akamaized.net/hls/live/2041033/ES_R1ERI1/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Ottawa)
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/London)
+https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Kitchener-Waterloo)
+https://cbcradiolive.akamaized.net/hls/live/2040995/ES_R1EKW/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Kingston)
+https://cbcradiolive.akamaized.net/hls/live/2040994/ES_R1EKI/master.m3u8
+#EXTINF:0,CBC Radio 1 (ON/Barrie)
+https://cbcradiolive.akamaized.net/hls/live/2041032/ES_R1ERI/master.m3u8
+#EXTINF:0,CBC Radio 1 (NU/Iqaluit)
+https://cbcradiolive.akamaized.net/hls/live/2040993/ES_R1EIQ/master.m3u8
+#EXTINF:0,CBC Radio 1 (NT/Yellowknife)
+https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
+#EXTINF:30,CBC Radio 1 (NT/Inuvik)
+https://cbcradiolive.akamaized.net/hls/live/2041042/ES_R1MNN/master.m3u8
+#EXTINF:0,CBC Radio 1 (NS/Sydney)
+https://cbcradiolive.akamaized.net/hls/live/2041043/ES_R1MNS/master.m3u8
+#EXTINF:30,CBC Radio 1 (NS/Halifax)
+https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+#EXTINF:0,CBC Radio 1 (NF/St. John)
+https://cbcradiolive.akamaized.net/hls/live/2037435/ES_R1NSN/master.m3u8
+#EXTINF:0,CBC Radio 1 (NF/Grand Falls)
+https://cbcradiolive.akamaized.net/hls/live/2041046/ES_R1NGN/master.m3u8
+#EXTINF:0,CBC Radio 1 (NF/Goose Bay)
+https://cbcradiolive.akamaized.net/hls/live/2041045/ES_R1NGB/master.m3u8
+#EXTINF:0,CBC Radio 1 (NF/Corner Brook)
+https://cbcradiolive.akamaized.net/hls/live/2041044/ES_R1NCR/master.m3u8
+#EXTINF:0,CBC Radio 1 (NB/Saint John)
+https://cbcradiolive.akamaized.net/hls/live/2040988/ES_R1ASB/master.m3u8
+#EXTINF:0,CBC Radio 1 (NB/Moncton)
+https://cbcradiolive.akamaized.net/hls/live/2040989/ES_R1AMC/master.m3u8
+#EXTINF:0,CBC Radio 1 (NB/Fredericton)
+https://cbcradiolive.akamaized.net/hls/live/2040986/ES_R1AFR/master.m3u8
+#EXTINF:0,CBC Radio 1 (MB/Winnipeg)
+https://cbcradiolive.akamaized.net/hls/live/2040991/ES_R1CWP/master.m3u8
+#EXTINF:0,CBC Radio 1 (BC/Victoria)
+https://cbcradiolive.akamaized.net/hls/live/2041051/ES_R1PVI/master.m3u8
+#EXTINF:0,CBC Radio 1 (BC/Vancouver)
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:0,CBC Radio 1 (BC/Prince George)
+https://cbcradiolive.akamaized.net/hls/live/2041049/ES_R1PPR/master.m3u8
+#EXTINF:0,CBC Radio 1 (BC/Kelowna)
+https://cbcradiolive.akamaized.net/hls/live/2041047/ES_R1PKE/master.m3u8
+#EXTINF:0,CBC Radio 1 (BC/Kamloops)
+https://cbcradiolive.akamaized.net/hls/live/2041048/ES_R1PKP/master.m3u8
+#EXTINF:0,CBC Radio 1 (AB/Edmonton)
+https://cbcradiolive.akamaized.net/hls/live/2041041/ES_R1MED/master.m3u8
+#EXTINF:0,CBC Radio 1 (AB/Calgary)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:30,CBC Music (Pacific)
+https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8
+#EXTINF:0,CBC Music (Mountain)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:0,CBC Music (Eastern)
+https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+#EXTINF:0,CBC Music (Central)
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/master.m3u8
+#EXTINF:0,CBC Music (Atlantic)
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:1,CBC Ici Première (Île-du-Prince-Édouard)
+https://rcavliveaudio.akamaized.net/hls/live/2006948/P-2EMCT3_CHR/master.m3u8
+#EXTINF:12.0107,CBC Ici Première (Windsor)
+https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/master.m3u8
+#EXTINF:1,CBC Ici Première (Toronto)
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
+#EXTINF:1,CBC Ici Première (Saskatchewan)
+https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/master.m3u8
+#EXTINF:1,CBC Ici Première (Saguenay-Lac-Saint-Jean)
+https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/master.m3u8
+#EXTINF:1,CBC  Ici Première (Québec)
+https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8
+#EXTINF:1,CBC Ici Première (Ottawa-Gatineau)
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/master.m3u8
+#EXTINF:2.66833,CBC Ici Première (Nouveau-Brunswick)
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8
+#EXTINF:1,CBC Ici Première (Nord de l'Ontario)
+https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/master.m3u8
+#EXTINF:1,CBC Ici Première (Montréal)
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
+#EXTINF:1,CBC Ici Première (Mauricie-Centre-du-Québec)
+https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8
+#EXTINF:1,CBC Ici Première (Manitoba)
+https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/master.m3u8
+#EXTINF:1,CBC Ici Première (Gaspésie-Îles-de-la-Madeleine)
+https://rcavliveaudio.akamaized.net/hls/live/2006951/P-2QMAT0_MAT/master.m3u8
+#EXTINF:1,CBC Ici Première (Estrie)
+https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/master.m3u8
+#EXTINF:1,CBC Ici Première (Côte-Nord)
+https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/master.m3u8
+#EXTINF:1,CBC Ici Première (Bas-Saint-Laurent)
+https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/master.m3u8
+#EXTINF:1,CBC Ici Première (Alberta)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:1,CBC Ici Première (Abitibi-Témiscamingue)
+https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/master.m3u8
+#EXTINF:1,CBC Ici Musique Classique
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8
+#EXTINF:1,CBC Ici Musique (Saskatchewan)
+https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8
+#EXTINF:1,CBC Ici Musique (Saguenay-Lac-Saint-Jean)
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8
+#EXTINF:29,CBC Ici Musique (Québec)
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
+#EXTINF:1,CBC Ici Musique (Provinces maritimes)
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
+#EXTINF:1,CBC Ici Musique (Nord de l'Ontario)
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8
+#EXTINF:1,CBC Ici Musique (Mauricie-Centre-du-Québec)
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8
+#EXTINF:1,CBC Ici Musique (Manitoba)
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8
+#EXTINF:1,CBC Ici Musique (Estrie)
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
+#EXTINF:1,CBC Ici Musique (Alberta)
+#EXTINF:5.93067,CBC Ici Musique (Montréal -  Toronto)
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:0.992653,Moon Mission Recordings -  Tokyo Deep and Electronic    [EDM-Trance]
+http://uk5.internet-radio.com:8306/%20%20%20%20
+#EXTINF:1,CBC Ici Première (Nouvelle-Écosse -  Terre-Neuve-et-Labrador)
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8
+#EXTINF:0.731429,10Radio [Wiveliscombe -  Somerset][10radio.org][mp3 128k][British]
+https://radio.canstream.co.uk:9056/live.mp3
+#EXTINF:1,CBC Ici Musique (Abitibi-Témiscamingue -  Ottawa-Gatineau)
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8
+#EXTINF:1,CBC Ici Musique (Colombie-Britannique-Yukon -  Grand Nord)
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
+#EXTINF:1,CBC Ici Première (Colombie-Britannique-Yukon -  Grand Nord)
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8
+#EXTINF:1,Abbey 104.7 [Sherborne Dorset U.K.][abbey104.com][mp3 47k][dead]
+http://5.152.208.98:8030/listen.pls?sid=2
+#EXTINF:5.93067,CBC Ici Musique (Bas-Saint-Laurent -  Côte-Nord
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
