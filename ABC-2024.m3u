@@ -1,0 +1,386 @@
+#EXTM3U
+# Edited on Xed, SMPlay and VLC on Linux Mint
+# By @geospart
+# https://mastodon.social/@geospart
+# ABC stations I listen to. 
+# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# created 06/24/2024
+# Playlist created by SMPlayer 24.5.0 (revision 10277) 
+#EXTINF:0,ABC Radio News [abc.net.au/southwestwa/live][mp3][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
+#EXTINF:0,ABC Radio [WA] SOUTH WEST WA [abc.net.au/southwestwa/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038338/localbunbury/index.m3u8
+#EXTINF:0,ABC Radio [WA] SOUTH WEST WA [abc.net.au/southwestwa/live][ABC Bunbury][mp3][*]
+https://live-radio01.mediahubaustralia.com/6BUNW/mp3/
+#EXTINF:0,ABC Radio [WA] SOUTH WEST WA [abc.net.au/southwestwa/live][ABC Bunbury][aac][*]
+https://live-radio01.mediahubaustralia.com/6BUNW/aac/
+#EXTINF:0,ABC Radio [WA] PILBARA [abc.net.au/pilbara/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038334/localkarratha/master.m3u8
+#EXTINF:0,ABC Radio [WA] PILBARA [abc.net.au/pilbara/live][ABC Karratha][mp3][*]
+https://live-radio01.mediahubaustralia.com/6KARW/mp3/
+#EXTINF:0,ABC Radio [WA] PILBARA [abc.net.au/pilbara/live][[ABC Karratha][aac][]*]
+https://live-radio01.mediahubaustralia.com/6KARW/aac/%20
+#EXTINF:0,ABC Radio [WA] PERTH [abc.net.au/perth/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/master.m3u8
+#EXTINF:0,ABC Radio [WA] PERTH [abc.net.au/perth/live][720 ABC Perth][mp3][*]
+https://live-radio01.mediahubaustralia.com/6LRW/mp3/
+#EXTINF:0,ABC Radio [WA] PERTH [abc.net.au/perth/live][720 ABC Perth][aac][*]
+https://live-radio01.mediahubaustralia.com/6LRW/aac/
+#EXTINF:0,ABC Radio [WA] MIDWEST-WHEATBELT [abc.net.au/wheatbelt/live][Geraldton][mp3][*]
+https://live-radio03.mediahubaustralia.com/6GERW/mp3/
+#EXTINF:0,ABC Radio [WA] MIDWEST-WHEATBELT [abc.net.au/wheatbelt/live][Geraldton][aac][*]
+https://live-radio03.mediahubaustralia.com/6GERW/aac/
+#EXTINF:0,ABC Radio [WA] MIDWEST &amp; WHEATBELT [abc.net.au/wheatbelt/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038256/localwheatbelt/index.m3u8
+#EXTINF:0,ABC Radio [WA] GREAT SOUTHERN [abc.net.au/greatsouthern/live][Albany][mp3][*]
+https://live-radio03.mediahubaustralia.com/6ALBW/mp3/
+#EXTINF:0,ABC Radio [WA] GREAT SOUTHERN [abc.net.au/greatsouthern/live][Albany][mp3][*]
+https://live-radio03.mediahubaustralia.com/6ALBW/aac/
+#EXTINF:0,ABC Radio [WA] GOLDFIELDS [abc.net.au/goldfields/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038335/localkalgoorlie/index.m3u8
+#EXTINF:0,ABC Radio [WA] GOLDFIELDS [abc.net.au/goldfields/live][ABC Kalgoorlie][mp3][*]
+https://live-radio01.mediahubaustralia.com/6KLGW/mp3/
+#EXTINF:0,ABC Radio [WA] GOLDFIELDS [abc.net.au/goldfields/live][ABC Kalgoorlie][aac][*]
+https://live-radio01.mediahubaustralia.com/6KLGW/aac/%20%20%20
+#EXTINF:0,ABC Radio [WA] ESPERANCE [abc.net.au/esperance/live][Esperance][mp3][*]
+https://live-radio03.mediahubaustralia.com/6ESPW/mp3/
+#EXTINF:0,ABC Radio [WA] ESPERANCE [abc.net.au/esperance/live][Esperance][aac][*]
+https://live-radio03.mediahubaustralia.com/6ESPW/aac/
+#EXTINF:0,ABC Radio [WA] ESPERANCE [abc.net.au/esperance/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038257/localesperance/index.m3u8
+#EXTINF:0,ABC Radio [Vic] WIMMERA [abc.net.au/wimmera/live][Horsham][mp3][*]
+https://live-radio01.mediahubaustralia.com/3HORW/mp3
+#EXTINF:0,ABC Radio [Vic] WIMMERA [abc.net.au/wimmera/live][Horsham][aac][*]
+https://live-radio01.mediahubaustralia.com/3HORW/aac/
+#EXTINF:0,ABC Radio [Vic] WIMMERA [abc.net.au/wimmera/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038261/localwesternvic/index.m3u8
+#EXTINF:0,ABC Radio [Vic] SOUTH WEST VICTORIA [abc.net.au/southwestvic/live][Warrnambool][mp3][*]
+https://live-radio01.mediahubaustralia.com/3WARRW/mp3/
+#EXTINF:0,ABC Radio [Vic] SOUTH WEST VICTORIA [abc.net.au/southwestvic/live][Warrnambool][aac][*]
+https://live-radio01.mediahubaustralia.com/3WARRW/aac/
+#EXTINF:0,ABC Radio [Vic] SOUTH WEST VICTORIA [abc.net.au/southwestvic/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038260/localsouthwestvic/iindex.m3u8
+#EXTINF:0,ABC Radio [Vic] SHEPPARTON [abc.net.au/shepparton/live][Shepparton][mp3][*]
+https://live-radio03.mediahubaustralia.com/3SHPW/mp3/
+#EXTINF:0,ABC Radio [Vic] SHEPPARTON [abc.net.au/shepparton/live][Shepparton][aac][*]
+https://live-radio03.mediahubaustralia.com/3SHPW/aac/
+#EXTINF:0,ABC Radio [Vic] SHEPPARTON [abc.net.au/shepparton/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038249/localshepparton/index.m3u8
+#EXTINF:0,ABC Radio [Vic] MILDURA-SWAN HILL [abc.net.au/milduraswanhill/live][mp3][*]
+https://live-radio01.mediahubaustralia.com/3MILW/mp3/
+#EXTINF:0,ABC Radio [Vic] MILDURA-SWAN HILL [abc.net.au/milduraswanhill/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038265/localmilduraswanhill/index.m3u8
+#EXTINF:0,ABC Radio [Vic] MILDURA-SWAN HILL [abc.net.au/milduraswanhill/live][aac][*]
+https://live-radio01.mediahubaustralia.com/3MILW/aac/
+#EXTINF:0,ABC Radio [Vic] MELBOURNE [abc.net.au/melbourne/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/index.m3u8
+#EXTINF:0,ABC Radio [Vic] MELBOURNE [abc.net.au/melbourne/live][774 ABC Melbourne][mp3][*]
+https://live-radio01.mediahubaustralia.com/3LRW/mp3/
+#EXTINF:0,ABC Radio [Vic] MELBOURNE [abc.net.au/melbourne/live][774 ABC Melbourne][aac][*]
+https://live-radio01.mediahubaustralia.com/3LRW/aac/
+#EXTINF:0,ABC Radio [Vic] GOULBURN MURRAY [abc.net.au/goulburnmurray/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038326/localwodonga/index.m3u8
+#EXTINF:0,ABC Radio [Vic] GOULBURN MURRAY [abc.net.au/goulburnmurray/live][ABC Wodonga][mp3]*]
+https://live-radio01.mediahubaustralia.com/3WOD/mp3/
+#EXTINF:0,ABC Radio [Vic] GOULBURN MURRAY [abc.net.au/goulburnmurray/live][ABC Wodonga][aac][*]
+https://live-radio01.mediahubaustralia.com/3WOD/aac/
+#EXTINF:0,ABC Radio [Vic] GIPPSLAND [abc.net.au/gippsland/live][mp3][*]
+https://live-radio01.mediahubaustralia.com/3SALE/mp3/
+#EXTINF:0,ABC Radio [Vic] GIPPSLAND [abc.net.au/gippsland/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038324/localsale/index.m3u8
+#EXTINF:0,ABC Radio [Vic] GIPPSLAND [abc.net.au/gippsland/live][ABC Sale][aac][*]
+https://live-radio01.mediahubaustralia.com/3SALE/aac/
+#EXTINF:0,ABC Radio [Vic] CENTRAL VICTORIA [abc.net.au/centralvic/live][Bendigo][mp3][*]
+https://live-radio01.mediahubaustralia.com/3BENW/mp3/
+#EXTINF:0,ABC Radio [Vic] CENTRAL VICTORIA [abc.net.au/centralvic/live][Bendigo][aac][*]
+https://live-radio01.mediahubaustralia.com/3BENW/aac/
+#EXTINF:0,ABC Radio [Vic] CENTRAL VICTORIA [abc.net.au/centralvic/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038259/localcentralvic/index.m3u8
+#EXTINF:0,ABC Radio [Vic] BALLARAT [abc.net.au/ballarat/live][Ballarat][mp3][*]
+https://live-radio01.mediahubaustralia.com/3BALLW/mp3/
+#EXTINF:0,ABC Radio [Vic] BALLARAT [abc.net.au/ballarat/live][Ballarat][aac]{*]
+https://live-radio01.mediahubaustralia.com/3BALLW/aac/
+#EXTINF:0,ABC Radio [Vic] BALLARAT [abc.net.au/ballarat/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038263/localballarat/index.m3u8
+#EXTINF:0,ABC Radio [Tas] NORTHERN TASMANIA [abc.net.au/northtas/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038356/locallaunceston/index.m3u8
+#EXTINF:0,ABC Radio [Tas] NORTHERN TASMANIA [abc.net.au/northtas/live][ABC Northern Tasmania][mp3][*]
+http://live-radio02.mediahubaustralia.com/7LAUW/mp3/
+#EXTINF:0,ABC Radio [Tas] NORTHERN TASMANIA [abc.net.au/northtas/live][ABC Launceston][mp3][*]
+https://live-radio01.mediahubaustralia.com/7LAUW/mp3/
+#EXTINF:0,ABC Radio [Tas] NORTHERN TASMANIA [abc.net.au/northtas/live][ABC Launceston][aac][*]
+https://live-radio01.mediahubaustralia.com/7LAUW/aac/
+#EXTINF:0,ABC Radio [SA] RIVERLAND [abc.net.au/riverland/live][Renmark][aac][*]
+https://live-radio03.mediahubaustralia.com/5RENW/aac/
+#EXTINF:0,ABC Radio [SA] RIVERLAND [abc.net.au/riverland/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
+#EXTINF:0,ABC Radio [SA] NORTH AND WEST SA [abc.net.au/northandwest/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038329/localportpirie/index.m3u8
+#EXTINF:0,ABC Radio [SA] NORTH AND WEST SA [abc.net.au/northandwest/live][ABC Port Pirie][mp3][*]
+https://live-radio01.mediahubaustralia.com/5PIRW/mp3/
+#EXTINF:0,ABC Radio [SA] NORTH AND WEST SA [abc.net.au/northandwest/live][ABC Port Pirie][aac][*]
+https://live-radio01.mediahubaustralia.com/5PIRW/aac/
+#EXTINF:0,ABC Radio [SA] ADELAIDE [abc.net.au/adelaide/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8
+#EXTINF:0,ABC Radio [SA] ADELAIDE [abc.net.au/adelaide/live][891 ABC Adelaide][mp3][*]
+https://live-radio01.mediahubaustralia.com/5LRW/mp3/
+#EXTINF:0,ABC Radio [SA] ADELAIDE [abc.net.au/adelaide/live][891 ABC Adelaide][aac][*]
+https://live-radio01.mediahubaustralia.com/5LRW/aac/%20
+#EXTINF:0,ABC Radio [QL] WIDE BAY [abc.net.au/widebay/live][offline][*]
+https://abcradiolivehds-lh.akamaihd.net/z/localwidebay_1@587374/manifest.f4m
+#EXTINF:0,ABC Radio [QL] WIDE BAY [abc.net.au/widebay/live][Bundaberg][mp3][*]
+https://live-radio03.mediahubaustralia.com/4BBGW/aac/
+#EXTINF:0,ABC Radio [QL] WIDE BAY [abc.net.au/widebay/live][Bundaberg][aac][*]
+https://live-radio03.mediahubaustralia.com/4BBGW/mp3/
+#EXTINF:0,ABC Radio [QL] WESTERN QUEENSLAND [abc.net.au/westqld/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/index.m3u8
+#EXTINF:0,ABC Radio [QL] WESTERN QUEENSLAND [abc.net.au/westqld/live][ABC Longreach][mp3][*]
+https://live-radio01.mediahubaustralia.com/4LONW/mp3/
+#EXTINF:0,ABC Radio [QL] WESTERN QUEENSLAND [abc.net.au/westqld/live][ABC Longreach][aac][*]
+https://live-radio01.mediahubaustralia.com/4LONW/aac/
+#EXTINF:0,ABC Radio [QL] TROPICAL NORTH [abc.net.au/tropic/live][Mackay][mp3][*]
+https://live-radio03.mediahubaustralia.com/4MACW/mp3/
+#EXTINF:0,ABC Radio [QL] TROPICAL NORTH [abc.net.au/tropic/live][Mackay][aac][*]
+https://live-radio03.mediahubaustralia.com/4MACW/aac/
+#EXTINF:0,ABC Radio [QL] TROPICAL NORTH [abc.net.au/tropic/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038171/localtropic/index.m3u8
+#EXTINF:0.862041,ABC Radio [QL] SUNSHINE COAST [abc.net.au/sunshine/live][Sunshine Coast][mp3][*]
+https://live-radio03.mediahubaustralia.com/4SUNW/mp3/
+#EXTINF:0,ABC Radio [QL] SUNSHINE COAST [abc.net.au/sunshine/live][Sunshine Coast][aac][*]
+https://live-radio03.mediahubaustralia.com/4SUNW/aac/
+#EXTINF:0,ABC Radio [QL] SUNSHINE COAST [abc.net.au/sunshine/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038156/localsunshine/index.m3u8
+#EXTINF:0,ABC Radio [QL] SOUTHERN QUEENSLAND [abc.net.au/southqld/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038328/localtoowoomba/index.m3u8
+#EXTINF:0,ABC Radio [QL] SOUTHERN QUEENSLAND [abc.net.au/southqld/live][ABC Toowoomba][mp3][*]
+https://live-radio01.mediahubaustralia.com/4TOOW/mp3/
+#EXTINF:0,ABC Radio [QL] SOUTHERN QUEENSLAND [abc.net.au/southqld/live][ABC Toowoomba][aac][*]
+https://live-radio01.mediahubaustralia.com/4TOOW/aac/
+#EXTINF:0,ABC Radio [QL] NORTH WEST QUEENSLAND [abc.net.au/northwest/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/index.m3u8
+#EXTINF:0,ABC Radio [QL] NORTH WEST QUEENSLAND [abc.net.au/northwest/live][ABC Mt Isa][mp3][*]
+https://live-radio01.mediahubaustralia.com/4ISAW/mp3/
+#EXTINF:0,ABC Radio [QL] NORTH WEST QUEENSLAND [abc.net.au/northwest/live][ABC Mt Isa][aac][*]
+https://live-radio01.mediahubaustralia.com/4ISAW/aac/
+#EXTINF:0,ABC Radio [QL] NORTH QUEENSLAND [abc.net.au/northqld/live][Townsville][mp3][*]
+https://live-radio03.mediahubaustralia.com/4TOWW/mp3/
+#EXTINF:0,ABC Radio [QL] NORTH QUEENSLAND [abc.net.au/northqld/live][Townsville][aac][*]
+https://live-radio03.mediahubaustralia.com/4TOWW/aac/
+#EXTINF:0,ABC Radio [QL] NORTH QUEENSLAND [abc.net.au/northqld/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038157/localnorthqld/index.m3u8
+#EXTINF:0,ABC Radio [QL] GOLD COAST [abc.net.au/goldcoast/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038269/localgoldcoast/index.m3u8
+#EXTINF:0,ABC Radio [QL] GOLD COAST [abc.net.au/goldcoast/live][91.7 ABC Gold Coast][mp3][*]
+https://live-radio01.mediahubaustralia.com/4GLDW/mp3/
+#EXTINF:0,ABC Radio [QL] GOLD COAST [abc.net.au/goldcoast/live][91.7 ABC Gold Coast][aac][*]
+https://live-radio01.mediahubaustralia.com/4GLDW/aac/
+#EXTINF:0,ABC Radio [QL] FAR NORTH [abc.net.au/farnorth/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/index.m3u8
+#EXTINF:0,ABC Radio [QL] FAR NORTH [abc.net.au/farnorth/live][ABC Cairns][mp3][*]
+https://live-radio01.mediahubaustralia.com/4CRNW/mp3/
+#EXTINF:0,ABC Radio [QL] FAR NORTH [abc.net.au/farnorth/live][ABC Cairns][aac][*]
+https://live-radio01.mediahubaustralia.com/4CRNW/aac/
+#EXTINF:0,ABC Radio [QL] CAPRICORNIA [abc.net.au/capricornia/live][Rockhampton][mp3][*]
+https://live-radio03.mediahubaustralia.com/4ROCW/mp3/
+#EXTINF:0,ABC Radio [QL] CAPRICORNIA [abc.net.au/capricornia/live][Rockhampton][aac][*]
+https://live-radio03.mediahubaustralia.com/4ROCW/aac/
+#EXTINF:0,ABC Radio [QL] CAPRICORNIA [abc.net.au/capricornia/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/index.m3u8
+#EXTINF:0,ABC Radio [QL] BRISBANE [abc.net.au/brisbane/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/index.m3u8
+#EXTINF:0,ABC Radio [QL] BRISBANE [abc.net.au/brisbane/live][612 ABC Brisbane][mp3][*]
+https://live-radio01.mediahubaustralia.com/4LRW/mp3/
+#EXTINF:0,ABC Radio [QL] BRISBANE [abc.net.au/brisbane/live][612 ABC Brisbane][aac][*]
+https://live-radio01.mediahubaustralia.com/4LRW/aac/
+#EXTINF:0,ABC Radio [NSW] WESTERN PLAINS [abc.net.au/westernplains/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038336/localdubbo/index.m3u8%20
+#EXTINF:0,ABC Radio [NSW] WESTERN PLAINS [abc.net.au/westernplains/live][ABC Dubbo][mp3][*]
+https://live-radio01.mediahubaustralia.com/2DUBW/mp3/
+#EXTINF:0,ABC Radio [NSW] WESTERN PLAINS [abc.net.au/westernplains/live][ABC Dubbo][aac][*]
+https://live-radio01.mediahubaustralia.com/2DUBW/aac/
+#EXTINF:0,ABC Radio [NSW] UPPER HUNTER [abc.net.au/upperhunter/live][mp3][offline][*]
+https://live-radio01.mediahubaustralia.com/2MUSW/mp3/
+#EXTINF:0,ABC Radio [NSW] UPPER HUNTER [abc.net.au/upperhunter/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038151/localmuswellbrook
+#EXTINF:0,ABC Radio [NSW] SYDNEY [abc.net.au/sydney/live][702 ABC Sydney][mp3][*]
+https://live-radio01.mediahubaustralia.com/2LRW/mp3/
+#EXTINF:0,ABC Radio [NSW] SYDNEY [abc.net.au/sydney/live][702 ABC Sydney][aac][*]
+https://live-radio01.mediahubaustralia.com/2LRW/aac/
+#EXTINF:0,ABC Radio [NSW] SYDNEY [abc.net.au/sydney/live][45k][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/index.m3u8
+#EXTINF:0,ABC Radio [NSW] SOUTH EAST NSW [abc.net.au/southeastnsw/live][Bega][mp3][*]
+https://live-radio03.mediahubaustralia.com/2BGAW/mp3/
+#EXTINF:0,ABC Radio [NSW] SOUTH EAST NSW [abc.net.au/southeastnsw/live][Bega][aac][*]
+https://live-radio03.mediahubaustralia.com/2BGAW/aac/
+#EXTINF:0,ABC Radio [NSW] SOUTH EAST NSW [abc.net.au/southeastnsw/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038247/localsoutheastnsw/index.m3u8
+#EXTINF:0,ABC Radio [NSW] RIVERINA [abc.net.au/riverina/live][Wagga Wagga][mp3][*]
+https://live-radio03.mediahubaustralia.com/2WAGW/aac/
+#EXTINF:0,ABC Radio [NSW] RIVERINA [abc.net.au/riverina/live][Wagga Wagga][aac][*]
+https://live-radio03.mediahubaustralia.com/2WAGW/mp3/
+#EXTINF:0,ABC Radio [NSW] RIVERINA [abc.net.au/riverina/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038241/localriverina/index.m3u8%20%20
+#EXTINF:0,ABC Radio [NSW] NORTH COAST [abc.net.au/northcoast/live][offline][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038170/localnorthcoast/
+#EXTINF:0,ABC Radio [NSW] NORTH COAST [abc.net.au/northcoast/live][Lismore][mp3][*]
+https://live-radio03.mediahubaustralia.com/2LISW/mp3/
+#EXTINF:0,ABC Radio [NSW] NORTH COAST [abc.net.au/northcoast/live][Lismore][mp3][*]
+https://live-radio03.mediahubaustralia.com/2LISW/aac/
+#EXTINF:0,ABC Radio [NSW] NEWCASTLE [abc.net.au/newcastle/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038306/localnewcastle/index.m3u8
+#EXTINF:0,ABC Radio [NSW] NEWCASTLE [abc.net.au/newcastle/live][1233 ABC Newcastle][mp3][*]
+https://live-radio01.mediahubaustralia.com/2NEWW/mp3/
+#EXTINF:0,ABC Radio [NSW] NEWCASTLE [abc.net.au/newcastle/live][1233 ABC Newcastle][aac][*]
+https://live-radio01.mediahubaustralia.com/2NEWW/aac
+#EXTINF:0,ABC Radio [NSW] NEW ENGLAND NORTH WEST [abc.net.au/newengland/live][Tamworth][mp3][*]
+https://live-radio03.mediahubaustralia.com/2TAMW/mp3/
+#EXTINF:0,ABC Radio [NSW] NEW ENGLAND NORTH WEST [abc.net.au/newengland/live][Tamworth][aac][*]
+https://live-radio03.mediahubaustralia.com/2TAMW/aac/
+#EXTINF:0,ABC Radio [NSW] NEW ENGLAND NORTH WEST [abc.net.au/newengland/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038242/localnewengland/index.m3u8
+#EXTINF:0,ABC Radio [NSW] MID NORTH COAST [abc.net.au/midnorthcoast/live][Port Macquarie][mp3][*]
+https://live-radio01.mediahubaustralia.com/2MAQW/mp3/
+#EXTINF:0,ABC Radio [NSW] MID NORTH COAST [abc.net.au/midnorthcoast/live][Port Macquarie][aac][*]
+https://live-radio01.mediahubaustralia.com/2MAQW/aac/%20
+#EXTINF:0,ABC Radio [NSW] MID NORTH COAST [abc.net.au/midnorthcoast/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038264/localmidnorthcoast/index.m3u8
+#EXTINF:0,ABC Radio [NSW] ILLAWARRA [www.abc.net.au/illawarra/live][Wollongong][mp3][*]
+https://live-radio03.mediahubaustralia.com/2WOLW/mp3/
+#EXTINF:0,ABC Radio [NSW] ILLAWARRA [www.abc.net.au/illawarra/live][Wollongong][aac][*]
+https://live-radio03.mediahubaustralia.com/2WOLW/aac/
+#EXTINF:0,ABC Radio [NSW] ILLAWARRA [www.abc.net.au/illawarra/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038245/localillawarra/index.m3u
+#EXTINF:0,ABC Radio [NSW] COFFS COAST [abc.net.au/coffscoast/live][Coffs Harbour][mp3][*]
+https://live-radio03.mediahubaustralia.com/2CFHW/mp3/
+#EXTINF:0,ABC Radio [NSW] COFFS COAST [abc.net.au/coffscoast/live][Coffs Harbour][aac][*]
+https://live-radio03.mediahubaustralia.com/2CFHW/aac/
+#EXTINF:0,ABC Radio [NSW] CENTRAL WEST [abc.net.au/centralwest/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038243/localcentralwest/index.m3u8
+#EXTINF:0,ABC Radio [NSW] CENTRAL COAST [www.abc.net.au/centralcoast/live][mp3][offline][*]
+https://live-radio03.mediahubaustralia.com/2GOSW/mp3/
+#EXTINF:0,ABC Radio [NSW] CENTRAL COAST [www.abc.net.au/centralcoast/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038258/localcentralcoast/index.m3u8
+#EXTINF:0,ABC Radio [NSW] CENTRAL COAST [www.abc.net.au/centralcoast/live][ABC Central Coast][aac]  [*]
+https://live-radio03.mediahubaustralia.com/2GOSW/aac/
+#EXTINF:0,ABC Radio [NSW] BROKEN HILL [www.abc.net.au/brokenhill/live]Broken Hill[mp3][*]
+https://live-radio01.mediahubaustralia.com/5BRHW/mp3/
+#EXTINF:0,ABC Radio [NSW] BROKEN HILL [www.abc.net.au/brokenhill/live][Broken Hill][aac][*]
+https://live-radio01.mediahubaustralia.com/5BRHW/aac/
+#EXTINF:0,ABC Radio [NSW] BROKEN HILL [www.abc.net.au/brokenhill/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038262/localbrokenhill/index.m3u8
+#EXTINF:0,ABC Radio [NorTer] DARWIN [abc.net.au/darwin/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038307/localdarwin/index.m3u8
+#EXTINF:0,ABC Radio [NorTer] DARWIN [abc.net.au/darwin/live][105.7 ABC Darwin][mp3][*]
+https://live-radio01.mediahubaustralia.com/8LRW/mp3/
+#EXTINF:0,ABC Radio [NorTer] DARWIN [abc.net.au/darwin/live][105.7 ABC Darwin][aac][*]
+https://live-radio01.mediahubaustralia.com/8LRW/aac/
+#EXTINF:0,ABC Radio [NorTer] ALICE SPRINGS [abc.net.au/alicesprings/live][ABC Alice Springs][mp3][*]
+https://live-radio01.mediahubaustralia.com/8ALIW/mp3/
+#EXTINF:0,ABC Radio [NorTer] ALICE SPRINGS [abc.net.au/alicesprings/live][ABC Alice Springs][aac][*]
+https://live-radio01.mediahubaustralia.com/8ALIW/aac/
+#EXTINF:0,ABC Radio [ACT] CANBERRA [abc.net.au/canberra/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038303/localcanberra/index.m3u8
+#EXTINF:0,ABC Radio [ACT] CANBERRA [abc.net.au/canberra/live][666 ABC Canberra][mp3][*]
+https://live-radio01.mediahubaustralia.com/1LRW/mp3/
+#EXTINF:0,ABC Radio [ACT] CANBERRA [abc.net.au/canberra/live][666 ABC Canberra][aac][*]
+https://live-radio01.mediahubaustralia.com/1LRW/aac/
+#EXTINF:0,ABC NewsRadio [radio.abc.net.au][*]
+http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
+#EXTINF:100,ABC National [WA][abc.net.au][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038354/rnwa/index.m3u8
+#EXTINF:0,ABC National [SA][abc.net.au][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038333/rnsa/index.m3u8
+#EXTINF:0,ABC National [QLD][abc.net.au][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038353/rnqld/index.m3u8
+#EXTINF:0,ABC National [NT][abc.net.au][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038332/rnnt/index.m3u8
+#EXTINF:0,ABC National [NSW-ACT-VIC-TAS][abc.net.au][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8
+#EXTINF:0,ABC Kids https://www.abc.net.au/kidslisten [*]
+https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/index.m3u8
+#EXTINF:0,ABC Jazz https://www.abc.net.au/jazz [*]
+https://www.abc.net.au/res/streaming/audio-live/shout-mp3/abcjazz.pls
+#EXTINF:1.02168,ABC Jazz [abcjazz.net.au][*]
+http://live-radio01.mediahubaustralia.com/JAZW/aac/
+#EXTINF:0,ABC Grandstand  1 [Australia][radio.abc.net.au][*]
+https://abcradiolivehls-lh.akamaihd.net/i/abcgrandstand_1@327284/master.m3u8
+#EXTINF:59,ABC Country https://www.abc.net.au/country/live [*]
+https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
+#EXTINF:0,ABC [WA] Radio KIMBERLEY [abc.net.au/kimberley/live][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038325/localbroome/index.m3u8
+#EXTINF:0,ABC [WA] Radio KIMBERLEY [abc.net.au/kimberley/live][ABC Broome][mp3][*]
+https://live-radio01.mediahubaustralia.com/6BRMW/mp3/%20
+#EXTINF:1.25388,ABC [WA] Radio KIMBERLEY [abc.net.au/kimberley/live][ABC Broome][aac][*]
+https://live-radio01.mediahubaustralia.com/6BRMW/aac/
+#EXTINF:2.87347,ABC Classic FM WA [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/6FMW/mp3/
+#EXTINF:1,ABC Classic FM SA  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/5FMW/aac/
+#EXTINF:1,ABC Classic FM SA  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/5FMW/mp3/
+#EXTINF:1,ABC Classic FM SA  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/6FMW/aac/
+#EXTINF:2.13624,Classic FM Relax [ClassicFM-M-Relax]
+http://media-the.musicradio.com/ClassicFM-M-Relax
+#EXTINF:0.789478,ABC Classic FM QLD [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/4FMW/aac/
+#EXTINF:1,ABC Classic FM QLD  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/4FMW/mp3/
+#EXTINF:1,ABC Classic FM NT  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/8FMW/aac/
+#EXTINF:2.87347,ABC Classic FM NT  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/8FMW/mp3/
+#EXTINF:0.653061,ABC Classic FM NSW  [https://www.abc.net.au/classic][*]
+https://www.abc.net.au/res/streaming/audio-live/shout-mp3/classicfm-nswvictas.pls
+#EXTINF:1,ABC Classic FM [NSW Australia][ [https://www.abc.net.au/classic][*]
+http://live-radio01.mediahubaustralia.com/2FMW/aac/
+#EXTINF:2.87347,ABC Classic 2  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/FM2W/mp3/
+#EXTINF:1,ABC Classic 2  [https://www.abc.net.au/classic][*]
+https://live-radio01.mediahubaustralia.com/FM2W/aac/
+#EXTINF:1.48898,ABC Radio Darwin 105.7 [Australia][abc.net.au][*]
+http://live-radio02.mediahubaustralia.com/8LRW/mp3/
+#EXTINF:0.888163,ABC Triple J Unearthed [abc.net.au/triplejunearthed][*]
+https://www.abc.net.au/res/streaming/audio-live/shout-mp3/unearthed.pls
+#EXTINF:0,ABC Triple J Unearthed [abc.net.au/triplejunearthed][*]
+https://www.abc.net.au/res/streaming/audio-live/shout-aac/unearthed.pls
+#EXTINF:0,ABC Triple J Unearthed  [abc.net.au/triplejunearthed][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8
+#EXTINF:1.11456,ABC Triple J [WA][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/6TJW/aac/
+#EXTINF:0,ABC Triple J [WA][abc.net.au/triplej][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8
+#EXTINF:0.731429,ABC Triple J [WA][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/6TJW/mp3/;
+#EXTINF:0,ABC Triple J [WA][abc.net.au/triplej][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/index.m3u8
+#EXTINF:0.653061,ABC Triple J [WA][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/6TJW/mp3/
+#EXTINF:0,ABC Triple J [SA][abc.net.au/triplej][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/index.m3u8
+#EXTINF:0,ABC Triple J [SA][abc.net.au/triplej] [*]
+https://mediaserviceslive.akamaized.net/hls/live/2038346/triplejsa/masterhq.m3u8
+#EXTINF:1.02168,ABC Triple J [QLD][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/4TJW/aac/
+#EXTINF:0.653061,ABC Triple J [QLD][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/4TJW/mp3/
+#EXTINF:1.25388,ABC Triple J [NT][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/8TJW/aac/;
+#EXTINF:0.653061,ABC Triple J [NT][abc.net.au/triplej][*]
+http://live-radio01.mediahubaustralia.com/8TJW/mp3/
+#EXTINF:1.32353,ABC Triple J [NT][abc.net.au/triplej] [*]
+https://mediaserviceslive.akamaized.net/hls/live/2038348/triplejnt/masterhq.m3u8
+#EXTINF:0,ABC Triple J [NSW-ACT-VIC-TAS][*]
+https://live-radio01.mediahubaustralia.com/2TJW/mp3/
+#EXTINF:0,ABC Triple J [NSW-ACT-VIC-TAS][*]
+https://live-radio01.mediahubaustralia.com/2TJW/aac/
+#EXTINF:1.32353,ABC Triple J [NSW-ACT-VIC-TAS][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8
+#EXTINF:0,ABC Triple J [NSW-ACT-VIC-TAS][*]
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8
+#EXTINF:0.653061,ABC Triple J [*]
+http://live-radio01.mediahubaustralia.com/5TJW/mp3/
+#EXTINF:1.02168,ABC Triple J [*]
+http://live-radio01.mediahubaustralia.com/5TJW/aac/
+#EXTINF:1.11456,ABC RN NSW [*]
+https://live-radio01.mediahubaustralia.com/2RNW/aac/papi://audiostream/ptf7461355
