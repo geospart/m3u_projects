@@ -1,0 +1,105 @@
+#EXTM3U
+# Edited on Xed, SMPlay and VLC on Linux Mint
+# By @geospart
+# https://mastodon.social/@geospart
+# Norwegian and Swedish stations I listen to. 
+# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# created 06/24/2024
+#EXTINF:1.248,NRK P1 [rogaland Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m
+#EXTINF:1.248,NRK P1 [sogn_og_fjordane Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_l
+#EXTINF:1.248,NRK P1 [Nordland Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_m
+#EXTINF:1.248,NRK P1 [finnmark Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_l
+#EXTINF:1,NRK P1 [ostfold Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_l
+#EXTINF:1.248,NRK P1 [hordaland Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_m
+#EXTINF:1.248,NRK P1 [hedmark_og_oppland Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_l
+#EXTINF:1.248,NRK P1 [buskerud Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_m
+#EXTINF:1.248,NRK P1 [Vestfold Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_l
+#EXTINF:1.248,NRK P1 [Oslo Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m
+#EXTINF:1.248,NRK P1 [innlandet Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_innlandet_mp3_l
+#EXTINF:1.248,NRK P1 [More og Romsda Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_l
+#EXTINF:1.248,NRK [Oslo Norway][Talk][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p2_mp3_m
+#EXTINF:1.248,NRK P3 [Oslo Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p3_mp3_l
+#EXTINF:1.248,NRK [Oslo Norway][Pop Rock][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_mp3_mp3_l
+#EXTINF:1.248,NRK Alltid Nyheter [Oslo Norway][News/Talk/English][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l
+#EXTINF:1.248,NRK Folkenmusikk [Oslo Norway][Folk][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l
+#EXTINF:3.216,NRK Jazz [Oslo Norway][Jazz][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_jazz_mp3_l
+#EXTINF:1.248,NRK Klassisk [Oslo Norway][Classical][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_klassisk_mp3_l
+#EXTINF:1.92,NRK P1+ [Oslo Norway][Public][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l
+#EXTINF:1.248,NRK P13 [Oslo Norway][Rock Indie][https://radio.nrk.no/]
+https://lyd.nrk.no/nrk_radio_p13_mp3_m
+#EXTINF:1.87733,NRK Radio Super [Oslo Norway][Children][https://radio.nrk.no/]
+https://nrk-radio-super.akamaized.net/46/0/hls/nrk_radio_super/playlist.m3u8
+#EXTINF:1.87733,NRK Sámi Radio [Oslo Norway][https://radio.nrk.no/]
+https://nrk-sapmi.akamaized.net/43/0/hls/nrk_sami_radio/playlist.m3u8
+#EXTINF:1.61959,P5 Hits [Oslo&#44; Norway][Top40]
+https://p5.p4groupaudio.com/P05_MH
+#EXTINF:1,P4 Lyden av Norge [Oslo&#44; Norway][Rock-Pop][p4.no]
+https://p4.p4groupaudio.com/P04_MM
+#EXTINF:1.944,Radio Norge [Oslo Norway][https://radio.nrk.no/]
+https://live-bauerno.sharp-stream.com/radionorge_no_mp3
+#EXTINF:1.944,KISS Dance [Oslo Norway]radioplay.no/kiss][Norway]
+https://live-bauerno.sharp-stream.com/kiss_no_mp3
+#EXTINF:0.731429,P6 Rock [Oslo&#44; Norway][Rock][p6.no]
+https://p6.p4groupaudio.com/P06_MM
+#EXTINF:2.45551,P8 Pop [Oslo&#44; Norway][pop][p8pop.no]
+https://p8.p4groupaudio.com/P08_MM
+#EXTINF:0.731429,P9 Retro [Oslo&#44; Norway][Oldies][p9retro.no]
+https://p9.p4groupaudio.com/P09_MM
+#EXTINF:1.944,Radio Rock [Oslo&#44; Norway][Rock][radioplay.no/radio-rock]
+https://live-bauerno.sharp-stream.com/radiorock_no_mp3
+#EXTINF:1.944,Radio Vinyl [Oslo&#44; Norway][Pop][https://radioplay.no/vinyl]
+https://live-bauerno.sharp-stream.com/vinyl_no_mp3
+#EXTINF:1.944,Topp 40 [Oslo&#44; Norway][Pop][https://radioplay.no/topp-40]
+https://live-bauerno.sharp-stream.com/top40_no_mp3
+#EXTINF:3.79733,NRK Trafikk NTF [Oslo&#44; Norway][Rock-News-Traffic][https://radio.nrk.no/serie/trafikkradio/]
+https://nrk-radio-live.telenorcdn.net/60/0/hls/nrk_p1_oslo_akershus/playlist.m3u8
+#EXTINF:9.55733,Sveriges Radio P1 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-aac-32]
+https://http-live.sr.se/p1-aac-32
+#EXTINF:1,Sveriges Radio P1 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-aac-96]
+https://http-live.sr.se/p1-aac-96
+#EXTINF:1.92,Sveriges Radio P1 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-aac-192]
+https://http-live.sr.se/p1-aac-192
+#EXTINF:1.536,Sveriges Radio P1 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-mp3-192]
+https://http-live.sr.se/p1-mp3-192
+#EXTINF:9.55733,Sveriges Radio P3 [Stockholm Sweden][Pop Alternative][https://sverigesradio.se/][p3-aac-32]
+https://http-live.sr.se/p3-aac-32
+#EXTINF:1.23733,Sveriges Radio P3 [Stockholm Sweden][Pop Alternative][https://sverigesradio.se/][192000]
+https://live-cdn.sr.se/pool1/p3/p3.isml/p3-audio=192000.m3u8
+#EXTINF:1.536,Sveriges Radio P3 [Stockholm Sweden][Pop Alternative][https://sverigesradio.se/][p3-aac-32]
+https://http-live.sr.se/p3-mp3-192
+#EXTINF:6.37867,Sveriges Radio P3 [Stockholm Sweden][Pop Alternative][https://sverigesradio.se/[192000]
+https://live-cdn.sr.se/pool1/p3/p3.isml/p3-audio=192000-268624575.ts
+#EXTINF:2.60267,Sveriges Radio P3 [Stockholm Sweden][Pop Alternative][https://sverigesradio.se/][p3-aac-192]
+https://http-live.sr.se/p3-aac-192
+#EXTINF:1.632,Sveriges Radio P2+SRFinska [Stockholm Sweden][Classical][https://sverigesradio.se/][p2-mp3-192]
+https://http-live.sr.se/p2-mp3-192
+#EXTINF:1.57867,Sveriges Radio P2+SRFinska [Stockholm Sweden][Classical][https://sverigesradio.se/][p2-aac-192]
+https://http-live.sr.se/p2-aac-192
+#EXTINF:5.58933,Sveriges Radio P2 [Stockholm Sweden][Classical][https://sverigesradio.se/][p2musik-aac-32]
+https://http-live.sr.se/p2musik-aac-32
+#EXTINF:3.15733,Sveriges Radio P2 [Stockholm Sweden][Classical][https://sverigesradio.se/][p2musik-aac-96]
+https://http-live.sr.se/p2musik-aac-96
+#EXTINF:1.536,Sveriges Radio P2 [Stockholm Sweden][Classical][https://sverigesradio.se/][p2musik-mp3-192]
+https://http-live.sr.se/p2musik-mp3-192
+#EXTINF:1.87733,Sveriges Radio P2 [Stockholm Sweden][Classical][https://sverigesradio.se/][p2musik-aac-192]
+https://http-live.sr.se/p2musik-aac-192
