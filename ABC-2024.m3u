@@ -378,9 +378,9 @@ https://live-radio01.mediahubaustralia.com/2TJW/aac/
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/masterhq.m3u8
 #EXTINF:0,ABC Triple J [NSW-ACT-VIC-TAS][*]
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/index.m3u8
-#EXTINF:0.653061,ABC Triple J [*]
+#EXTINF:0.653061,ABC Triple J [SA]
 http://live-radio01.mediahubaustralia.com/5TJW/mp3/
-#EXTINF:1.02168,ABC Triple J [*]
+#EXTINF:1.02168,ABC Triple J [SA]
 http://live-radio01.mediahubaustralia.com/5TJW/aac/
-#EXTINF:1.11456,ABC RN NSW [*]
+#EXTINF:1.11456,ABC RN [NSW]
 https://live-radio01.mediahubaustralia.com/2RNW/aac/papi://audiostream/ptf7461355
