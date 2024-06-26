@@ -206,7 +206,17 @@ https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
 #EXTINF:0.914286,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][NPR][College][www.kisu.org/]
 https://kisufm.isu.edu:8443/kisufm
 #EXTINF:8.67265,KQED Public Radio [San Francisco][NPR]
-http://streams.kqed.org/kqedradio?
+http://streams.kqed.org/kqedradio
+#EXTINF:-1, KUCV 91.1 [Lincoln NB][NPR][nebraskapublicmedia.org]
+https://18533.live.streamtheworld.com/KUCVFM.mp3
+#EXTINF:-1, KUCV 91.1 [Lincoln NB][NPR][nebraskapublicmedia.org]
+https://18533.live.streamtheworld.com/KUCVHD2.mp3
+#EXTINF:-1, KUSU 91.5 UPR Live [News][LOGAN UT][NPR][Utah State University][www.upr.org]
+https://uprxstreamer.usu.edu:8020/
+#EXTINF:-1, KUSU 91.5 UPR Too [Classical][LOGAN UT][NPR][Utah State University][www.upr.org]
+https://uprxstreamer.usu.edu:8022/
+#EXTINF:-1, KUSU 91.5 UPT Tres [Spanish][LOGAN UT][NPR][Utah State University][www.upr.org]
+https://uprxstreamer.usu.edu:8028/
 #EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
 https://streams.kut.org/4427_56?aw_0_1st.playerid=kutx-web
 #EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
