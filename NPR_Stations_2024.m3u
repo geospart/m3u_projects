@@ -23,6 +23,15 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCHD2.mp3
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:6.624,WBUR [Boston University][wbur.org][MP3][NPR]
 http://audio.wbur.org/stream/live_mp3.m3u
+WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][mp3]
+http://nepr.iad.streamguys1.com/WFCR.mp3
+WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][aac]
+http://nepr.iad.streamguys1.com/WFCR
+WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][mp3]
+http://nepr.iad.streamguys1.com/WFCR-HD.mp3
+WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][aac]
+http://nepr.iad.streamguys1.com/WFCR-HD
+https://nepr.streamguys1.com/WFCR.mp3
 #EXTINF:2.89959,WCPN [Cleveland OH][wcpn.org][NPR]
 https://ideastream.streamguys1.com/wcpn.mp3
 #EXTINF:2.97796,WETA  [Viva La Voce][Arlington -  VA][weta.org/fm][NPR]
@@ -145,6 +154,8 @@ https://live.wrir.org/
 https://24923.live.streamtheworld.com/WRJAFM.mp3?uuid=stjtavfxn
 #EXTINF:9.98458,WSJR 90.1 [MPR Your Classical Radio][St Paul MN][NPR][https://www.mpr.org][St Johns University]
 https://ycradio.stream.publicradio.org/ycradio.aac
+#EXTINF:-1, WSLU 88.1 [Canton NY St Lawrence County][St Lawrence University][northcountrypublicradio.org]
+https://ncpr-ice.streamguys1.com/ncpr-96k.mp3
 #EXTINF:3.99674,KWRV 91.1 [MPR News][St Paul MN][NPR][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
 #EXTINF:8.08054,WSJR 90.1 [MPR Chamber Music Classical[Twin Cities MN][NPR][https://www.mpr.org][St Johns
