@@ -121,6 +121,10 @@ http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
 #EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
 https://wpln.streamguys1.com/wnxpfm.aac
+#EXTINF:-1, WOSU 89.1 [News][Columbus OH][Ohio State University][NPR][www.wosu.org]
+https://wosu.streamguys1.com/NPR_128
+#EXTINF:-1, WOSU 89.1 [Classical][Columbus OH][Ohio State University][NPR][www.wosu.org]
+https://wosu.streamguys1.com/Classical_128
 #EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
 https://wpln.streamguys1.com/wfclfm.aac
 #EXTINF:2.088,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
