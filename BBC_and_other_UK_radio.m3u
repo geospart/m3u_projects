@@ -225,3 +225,16 @@ http://sc6.radiocaroline.net:8040/;stream.mp3
 http://78.129.202.200:8040/;
 #EXTINF:0.731429,Radio Caroline Flashback [aac 99kbps][Pirate Radio][www.radiocaroline.co.uk]
 http://sc2.radiocaroline.net:10558/listen.pls
+#EXTINF:1, Talk Radio [radio.talkradio.co.uk]
+http://radio.talkradio.co.uk/stream
+#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][mp3 128k]
+http://www.radiofeeds.co.uk/likeone.m3u
+#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][aac 46k]
+http://www.radiofeeds.co.uk/likeoneaac.m3u
+#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][128k]
+https://likeradiostream.com/likeoneuk
+#EXTINF:0, LBC [www.lbc.co.uk][London][aac]
+http://media-sov.musicradio.com/LBCLondon
+#EXTINF:0, LBC [www.lbc.co.uk]
+http://media-sov.musicradio.com/LBC973MP3Low
+
