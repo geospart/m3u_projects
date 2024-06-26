@@ -27,6 +27,9 @@ antenne_bayern_54_stations_main-stream-server_2024_list_sub-dir_description.m3u
 
 antenne_bayern_54_stations_main-stream-server_2024_no_description.m3u8
 
+klassikradio.de.m3u8
+
+hires-cdquality-in-progress.m3u8
 
 swl_dx-2024.m3u [Short-Wave Radio Streams]
 
