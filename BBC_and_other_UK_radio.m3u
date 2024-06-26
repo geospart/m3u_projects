@@ -238,7 +238,7 @@ http://media-sov.musicradio.com/LBCLondon
 #EXTINF:0, LBC [www.lbc.co.uk]
 http://media-sov.musicradio.com/LBC973MP3Low
 #EXTINF:0, HBS - Glasgow's Hospital Broadcasting Service [hbs.org.uk][255k][British]
-https:/H/streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
+https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
 #EXTINF:0, Angel Radio [angelradio.co.uk]
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:0,Celtic Radio 95.5FM [Glasgow][celticmusicradio.net]
