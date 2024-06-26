@@ -21,6 +21,13 @@ SomaFM_60_stations_site_meta_populated_desc_128kbps_mp3_if_avail.m3u
 
 SomaFM_60_stations_site_meta_populated_desc_64kbps_aac_if_avail.m3u
 
+antenne_bayern_full-stream-server_2024_list_no_description.m3u8
+
+antenne_bayern_main-stream-server_2024_list_sub-dir_description.m3u
+
+antenne_bayern_main-stream-server_2024_no_description.m3u8
+
+
 swl_dx-2024.m3u [Short-Wave Radio Streams]
 
 If Interested I keep my Ukraine National Radio m3u file here: https://github.com/geospart/Radio-Ukraine
