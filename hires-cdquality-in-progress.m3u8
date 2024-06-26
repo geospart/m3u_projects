@@ -152,6 +152,42 @@ https://audio-edge-5bkfj.fra.h.radiomast.io/157d47f4-e348-4892-bcf6-5bc417683055
 https://stream.rcs.revma.com/z0mfskucweuvv
 #EXTINF:1,Eirewave Radio [eirewave.co.uk][MP3 128k]
 https://stream.rcs.revma.com/f8z603t6g5uvv
+#EXTINF:1,Electric Circus [radio.eduneu.ar/public/radio1][FLAC]
+https://radio.eduneu.ar/listen/radio1/radio1_aire
+#EXTINF:1,Flacall Radio / Radio Annushka [annushka.flacall.ru][FLAC]
+http://flacradio.ru:1090/stream
+#EXTINF:1,Flacall Radio / Radio Annushka [annushka.flacall.ru][MP3 320k]
+http://flacradio.ru:1060/stream
+#EXTINF:1,Flacall Radio / Hits Radio [newhits.flacall.ru][FLAC]
+http://flacradio.ru:1070/stream
+#EXTINF:1,Flacall Radio / Hits Radio [newhits.flacall.ru][MP3 320k]
+http://flacradio.ru:1060/stream
+#EXTINF:1,Flacall Radio / International Women’s Radio March 8 [8marta.flacall.ru][FLAC]
+http://flacradio.ru:1140/stream
+#EXTINF:1,Flacall Radio / International Women’s Radio March 8 [8marta.flacall.ru][MP3 320k]
+http://flacradio.ru:1050/stream
+#EXTINF:1,Flacall Radio / Radio Summer [leto.flacall.ru][FLAC]
+http://flacradio.ru:1110/stream
+#EXTINF:1,Flacall Radio / Radio Summer [leto.flacall.ru][FLAC]
+http://flacradio.ru:1100/stream
+#EXTINF:1,Free Music Radio [reemusicradio.nl][FLAC]
+http://stream.freemusicradio.nl:8100/stream.oga
+#EXTINF:1,Free Music Radio [reemusicradio.nl][MP3 256k]
+http://stream.freemusicradio.nl:8100/stream
+#EXTINF:1,Free Music Radio [reemusicradio.nl][AAC 160k]
+http://stream.freemusicradio.nl:8100/stream.aac
+#EXTINF:1,Free Music Radio [reemusicradio.nl][OPUS 128k]
+http://stream.freemusicradio.nl:8100/stream.opus
+#EXTINF:1,Flashback 80 Radio [https://c23.radioboss.fm/u/129][FLAC]
+https://c23.radioboss.fm:8129/stream
+#EXTINF:1,ForEver La Radio [Bordeaux][https://www.foreverlaradio.fr/][FLAC]
+http://stream.sweetfm.fr:8000/flac-forever-bdx
+#EXTINF:1,ForEver La Radio [Bordeaux][https://www.foreverlaradio.fr/][MP3 256k]
+http://stream.sweetfm.fr:8000/secours-fm-forever-bdx.mp3
+#EXTINF:1,ForEver La Radio [Bordeaux][https://www.foreverlaradio.fr/][FLAC]
+http://stream.sweetfm.fr:8000/flac-forever-arc
+#EXTINF:1,ForEver La Radio [Bordeaux][https://www.foreverlaradio.fr/][MP3 256k]
+http://stream.sweetfm.fr:8000/secours-fm-forever-arc.mp3
 #Pick Up Where I Left Off Here
 #EXTINF:1,Juventus Radio [roxyradio.hu]]danubiusradio.hu][FLAC]
 https://danubiusradio.hu/danubius_HiFi.m3u
