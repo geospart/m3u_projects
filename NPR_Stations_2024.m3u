@@ -33,8 +33,32 @@ http://nepr.iad.streamguys1.com/WFCR-HD.mp3
 http://nepr.iad.streamguys1.com/WFCR-HD
 #EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][alt]
 https://nepr.streamguys1.com/WFCR.mp3
-#EXTINF:2.89959,WCPN [Cleveland OH][wcpn.org][NPR]
+#EXTINF:-1, WCPN [Cleveland OH][wcpn.org][NPR]
 https://ideastream.streamguys1.com/wcpn.mp3
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR]
+https://18183.live.streamtheworld.com/WERSFMAAC.aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR]
+https://24083.live.streamtheworld.com/WERSFMAAC.aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD3-Show Tunes][Boston Mass][Emerson College][wers.org][standingroom.org][NPR]
+https://18183.live.streamtheworld.com/WERS_HD3AAC.aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [ETIN][Boston Mass][Emerson College][wers.org][etinradio.org][NPR][marconi]
+http://marconi.emerson.edu:8000/etin
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [WECB][Boston Mass][Emerson College][wers.org][NPR][wecb.fm][aac][marconi]
+http://marconi.emerson.edu:8000/wecb-aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][marconi]
+http://marconi.emerson.edu:8000/wers
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][aac][marconi]
+http://marconi.emerson.edu:8000/wers-aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][32][marconi]
+http://marconi.emerson.edu:8000/wers32
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][64][marconi]
+http://marconi.emerson.edu:8000/wers64
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][NPR][marconi]
+http://marconi.emerson.edu:8000/wershd2
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][NPR][aac][marconi]
+http://marconi.emerson.edu:8000/wershd2-aac
+#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD3-SRO][Boston Mass][Emerson College][wers.org][standingroom.org][NPR][marconi]
+http://marconi.emerson.edu:8000/WERS-SRO
 #EXTINF:2.97796,WETA  [Viva La Voce][Arlington -  VA][weta.org/fm][NPR]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
 #EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
