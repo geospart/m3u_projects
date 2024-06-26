@@ -211,41 +211,41 @@ https://uksoutha.streaming.broadcast.radio:15870/allfm
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:0, AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk]
 https://uksoutha.streaming.broadcast.radio/awazfm
-#EXTINF:-1,BFBS Radio UK [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio UK [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs1.aac
-#EXTINF:-1,BFBS Radio 2 [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio 2 [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs2.aac
-#EXTINF:-1,BFBS Radio [british-military-forces-radio][bfbs.com]Gurkha
+#EXTINF:-1,BFBS Radio [british-forces-broadcasting-service][bfbs.com]Gurkha
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs3.aac
 #EXTINF:-1,BFBS Radio Ops [british-military-forces-radio][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs4.aac
 #EXTINF:-1,BFBS Radio Brunei [british-military-forces-radio][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs10.aac
-#EXTINF:-1,BFBS Radio Canada [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Canada [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs12.aac
-#EXTINF:-1,BFBS Radio Cyprus [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Cyprus [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs8.aac
-#EXTINF:-1,BFBS Radio Falkland Islands[british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Falkland Islands [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs6.aac
-#EXTINF:-1,BFBS Radio Germany [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Germany [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs5.aac
-#EXTINF:-1,BFBS Radio Gibraltar [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Gibraltar [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs7.aac
-#EXTINF:-1,BFBS Radio Northern Ireland [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Northern Ireland [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs4.aac
-#EXTINF:-1,BFBS Radio Aldershot [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Aldershot [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs13.aac
-#EXTINF:-1,BFBS Radio Blandford [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Blandford [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs14.aac
-#EXTINF:-1,BFBS Radio Brize Norton [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Brize Norton [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs25.aac
-#EXTINF:-1,BFBS Radio [british-military-forces-radio][bfbs.com]Catterick
+#EXTINF:-1,BFBS Radio Catterick [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs15.aac
-#EXTINF:-1,BFBS Radio Colchester [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Colchester [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs16.aac
-#EXTINF:-1,BFBS Radio Salisbury Plain [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Salisbury Plain [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs17.aac
-#EXTINF:-1,BFBS Radio Scotland [british-military-forces-radio][bfbs.com]
+#EXTINF:-1,BFBS Radio Scotland [british-forces-broadcasting-service][bfbs.com]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs18.aac
 #EXTINF:0, Capital Radio  [U.K.][capitalfm.com/digital/]
 http://vis.media-ice.musicradio.com/CapitalUK
