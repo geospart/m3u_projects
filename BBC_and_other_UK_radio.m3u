@@ -211,10 +211,42 @@ https://uksoutha.streaming.broadcast.radio:15870/allfm
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:0, AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk]
 https://uksoutha.streaming.broadcast.radio/awazfm
-#EXTINF:0, BFBS Scotland Edinburgh [Military][radio.bfbs.com/stations/bfbs-scotland][mp3]
-https://edge-audio-05-gos2.sharp-stream.com:80/ssvcbfbs18.mp3
-#EXTINF:0, BFBS Scotland Edinburgh [Military][radio.bfbs.com/stations/bfbs-scotland][aac]
-https://edge-audio-05-gos2.sharp-stream.com:80/ssvcbfbs18.aac
+#EXTINF:-1,BFBS Radio UK [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs1.aac
+#EXTINF:-1,BFBS Radio 2 [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs2.aac
+#EXTINF:-1,BFBS Radio [british-military-forces-radio][bfbs.com]Gurkha
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs3.aac
+#EXTINF:-1,BFBS Radio Ops [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs4.aac
+#EXTINF:-1,BFBS Radio Brunei [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs10.aac
+#EXTINF:-1,BFBS Radio Canada [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs12.aac
+#EXTINF:-1,BFBS Radio Cyprus [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs8.aac
+#EXTINF:-1,BFBS Radio Falkland Islands[british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs6.aac
+#EXTINF:-1,BFBS Radio Germany [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs5.aac
+#EXTINF:-1,BFBS Radio Gibraltar [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs7.aac
+#EXTINF:-1,BFBS Radio Northern Ireland [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs4.aac
+#EXTINF:-1,BFBS Radio Aldershot [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs13.aac
+#EXTINF:-1,BFBS Radio Blandford [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs14.aac
+#EXTINF:-1,BFBS Radio Brize Norton [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs25.aac
+#EXTINF:-1,BFBS Radio [british-military-forces-radio][bfbs.com]Catterick
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs15.aac
+#EXTINF:-1,BFBS Radio Colchester [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs16.aac
+#EXTINF:-1,BFBS Radio Salisbury Plain [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs17.aac
+#EXTINF:-1,BFBS Radio Scotland [british-military-forces-radio][bfbs.com]
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs18.aac
 #EXTINF:0, Capital Radio  [U.K.][capitalfm.com/digital/]
 http://vis.media-ice.musicradio.com/CapitalUK
 #EXTINF:0, Capital Radio London 95.8 [U.K.][capitalfm.com/digital/]
@@ -279,4 +311,3 @@ http://radio.talkradio.co.uk/stream
 http://radio.canstream.co.uk:8082/live.mp3
 #EXTINF:0, XS Manchester [Rock/Alt][xsmanchester.co.uk]
 https://icecast.thisisdax.com/RealXSManchesterMP3
-
