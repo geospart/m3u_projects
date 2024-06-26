@@ -23,13 +23,13 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCHD2.mp3
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:6.624,WBUR [Boston University][wbur.org][MP3][NPR]
 http://audio.wbur.org/stream/live_mp3.m3u
-WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][mp3]
+#EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][mp3]
 http://nepr.iad.streamguys1.com/WFCR.mp3
-WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][aac]
+#EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][aac]
 http://nepr.iad.streamguys1.com/WFCR
-WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][mp3]
+#EXTINF:-1, WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][mp3]
 http://nepr.iad.streamguys1.com/WFCR-HD.mp3
-WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][aac]
+#EXTINF:-1, WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][aac]
 http://nepr.iad.streamguys1.com/WFCR-HD
 https://nepr.streamguys1.com/WFCR.mp3
 #EXTINF:2.89959,WCPN [Cleveland OH][wcpn.org][NPR]
