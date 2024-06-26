@@ -37,6 +37,8 @@ https://nepr.streamguys1.com/WFCR.mp3
 https://ideastream.streamguys1.com/wcpn.mp3
 #EXTINF:2.97796,WETA  [Viva La Voce][Arlington -  VA][weta.org/fm][NPR]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+#EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
+https://wpln.streamguys1.com/wfclfm.aac
 #EXTINF:5.32898,WGBH 89.7 [CH1-Main][Boston Mass][NPR][www.wgbh.org]
 https://wgbh-live.streamguys1.com/wgbh
 #EXTINF:1.95918,WGBH/CRB 99.5 [CH2-Classical][Boston Mass][NPR][www.wgbh.org]
@@ -105,6 +107,12 @@ https://specialstream.wnyc.org/wnyc-special
 https://fm939.wnyc.org/wnycfm
 #EXTINF:4.284,WNYC-AM 820 [News][New York NY][NPR][www.wqxr.org][www.wnyc.org]
 https://am820.wnyc.org/wnycam-web
+#EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
+https://wpln.streamguys1.com/wnxpfm.aac
+#EXTINF:-1, WOSU 89.1 [News][Columbus OH][Ohio State University][NPR][www.wosu.org]
+https://wosu.streamguys1.com/NPR_128
+#EXTINF:-1, WOSU 89.1 [Classical][Columbus OH][Ohio State University][NPR][www.wosu.org]
+https://wosu.streamguys1.com/Classical_128
 #EXTINF:5.98204,WOUB/WOUL-FM [Ohio University][Athens/Ironton OH][NPR]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 #EXTINF:3.47429,WOUB-WOUL AM [Ohio University][Athens/Ironton OH][NPR]
@@ -119,14 +127,6 @@ https://wpln.streamguys1.com/wplnam.mp3.m3u
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
 #EXTINF:-1, WPSU Penn State [Classical][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
-#EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
-https://wpln.streamguys1.com/wnxpfm.aac
-#EXTINF:-1, WOSU 89.1 [News][Columbus OH][Ohio State University][NPR][www.wosu.org]
-https://wosu.streamguys1.com/NPR_128
-#EXTINF:-1, WOSU 89.1 [Classical][Columbus OH][Ohio State University][NPR][www.wosu.org]
-https://wosu.streamguys1.com/Classical_128
-#EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
-https://wpln.streamguys1.com/wfclfm.aac
 #EXTINF:2.088,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
 https://stream.wqxr.org/wqxr-web
 #EXTINF:5.58933,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
@@ -221,6 +221,22 @@ https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
 https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
 #EXTINF:0.914286,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][NPR][College][www.kisu.org/]
 https://kisufm.isu.edu:8443/kisufm
+#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-48]
+https://live.amperwave.net/direct/ppm-knkxfmaac48-ibc1
+#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-64]
+64K AAC: https://live.amperwave.net/direct/ppm-knkxfmaac-ibc1
+#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-256]
+https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1 
+#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
+https://live.amperwave.net/direct/ppm-knkxfmmp3-ibc1 
+#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-48]
+48K AAC: https://live.amperwave.net/direct/ppm-jazz24aac48-ibc1
+#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-64]
+64K AAC: https://live.amperwave.net/direct/ppm-jazz24aac-ibc1
+#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-256]
+256k AAC: https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
+#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
+128k MP3: https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
 #EXTINF:8.67265,KQED Public Radio [San Francisco][NPR]
 http://streams.kqed.org/kqedradio
 #EXTINF:-1, KUCV 91.1 [Lincoln NB][NPR][nebraskapublicmedia.org]
