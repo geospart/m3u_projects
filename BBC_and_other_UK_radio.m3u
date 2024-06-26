@@ -5,101 +5,101 @@
 # BBC and some other U.K. stations I listen to. 
 # Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # created 06/24/2024
-#EXTINF:4.656,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
-#EXTINF:1.872,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:6.35733,BBC World Service [aac-97k][U.K.][bbc.co.uk][☑2024][norew][sw]
+#EXTINF:1,BBC World Service [aac-97k][U.K.][bbc.co.uk][☑2024][norew][sw]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=48000.norewind.m3u8
-#EXTINF:6.35733,BBC World Service [aac-95k][U.K.][bbc.co.uk][☑2024][norew][sw]
+#EXTINF:1,BBC World Service [aac-95k][U.K.][bbc.co.uk][☑2024][norew][sw]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC World Service [aac-100k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-100k][U.K.][bbc.co.uk][☑2024][sw]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:3.048,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-56k][U.K.][bbc.co.uk][☑2024][sw]
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service_news_internet
-#EXTINF:32,BBC World Service [aac-96k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-96k][U.K.][bbc.co.uk][☑2024][sw]
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/aks/bbc_world_service.m3u8
-#EXTINF:6.35733,BBC World Service [aac-100k]][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-100k]][U.K.][bbc.co.uk][☑2024][sw]
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:32,BBC World Service [aac-50k][U.K.][bbc.co.uk][☑2024][sw]
+#EXTINF:1,BBC World Service [aac-50k][U.K.][bbc.co.uk][☑2024][sw]
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/cfs/bbc_world_service.m3u8
-#EXTINF:6.35733,BBC 1 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-#EXTINF:0.725334,BBC 1 [aac-96k][rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 [aac-96k][rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:2.47467,BBC 1 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Relax [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Relax [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Relax [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Relax [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Relax [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Relax [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Dance [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Dance [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Dance [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Dance [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Dance [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Dance [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Dance [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Dance [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 1 Dance [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 1 Dance [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=96000.norewind.m3u8
-#EXTINF:2.432,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
-#EXTINF:2.38933,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 2 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=96000.norewind.m3u8
-#EXTINF:6.35733,BBC 2 [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 2 [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
-#EXTINF:6.35733,BBC  2 Adult Contemporary [aac-48k][U.K.][bbc.co.uk]
+#EXTINF:1,BBC  2 Adult Contemporary [aac-48k][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
 #EXTINF:12.7573,BBC 3 [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=48000.norewind.m3u8
 #EXTINF:2.47467,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=96000.norewind.m3u8
 #EXTINF:4.992,BBC 4LW [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=96000.norewind.m3u8
-#EXTINF:6.35733,BBC 4LW [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4LW [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=48000.norewind.m3u8
-#EXTINF:6.35733,BBC 4FM [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4FM [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=96000.norewind.m3u8
-#EXTINF:6.35733,BBC 4FM [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4FM [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=48000.norewind.m3u8
-#EXTINF:6.35733,BBC 4 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 4 Extra [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4 Extra [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 4 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 4 Extra [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 4 Extra [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 5 Live [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 5 Live [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 5 Live [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 5 Live [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=48000.norewind.m3u8
-#EXTINF:6.35733,BBC 5 Asian Network [aac-93k][no-rewind][U.K.][bbc.co.uk][dead]
+#EXTINF:1,BBC 5 Asian Network [aac-93k][no-rewind][U.K.][bbc.co.uk][dead]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 5 Asian Network [aac-48k][no-rewind][U.K.][bbc.co.uk][dead]
+#EXTINF:1,BBC 5 Asian Network [aac-48k][no-rewind][U.K.][bbc.co.uk][dead]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d48000.norewind.m3u8
 #EXTINF:1,BBC 5 Live Sports [aac-00k][no-rewind][U.K.][bbc.co.uk][dead][dead-uk-only]
 http://as-hls-uk.live.cf.md.bbci.co.uk/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC 5 Sports [aac-00k][no-rewind][U.K.][bbc.co.uk][dead-uk-only]
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 6 Music [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 6 Music [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 6 Music [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 6 Music [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 6 Music [aac-99k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 6 Music [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC 6 Music [aac-48k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 6 Music [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d48000.norewind.m3u8
-#EXTINF:6.35733,BBC 6 Music [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC 6 Music [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC Three Counties [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
+#EXTINF:1,BBC Three Counties [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8
 #EXTINF:2.47467,BBC Radio York [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d96000.norewind.m3u8
@@ -111,7 +111,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_rad
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Ulster [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC Radio Tees [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Radio Tees [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Sussex [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_sussex/bbc_radio_sussex.isml/bbc_radio_sussex-audio%3d96000.norewind.m3u8
@@ -159,11 +159,11 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio London [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC Radio Lincolnshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Radio Lincolnshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_lincolnshire/bbc_radio_lincolnshire.isml/bbc_radio_lincolnshire-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Leicester [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_leicester/bbc_radio_leicester.isml/bbc_radio_leicester-audio%3d96000.norewind.m3u8
-#EXTINF:32,BBC Radio Leeds [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Radio Leeds [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Lancashire [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_lancashire/bbc_radio_lancashire.isml/bbc_radio_lancashire-audio%3d96000.norewind.m3u8
@@ -193,53 +193,90 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cumbria/bbc_radio
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cornwall/bbc_radio_cornwall.isml/bbc_radio_cornwall-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Cambridge [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC Radio Bristol [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Radio Bristol [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC Radio Berkshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC Hereford Worcester [aac-99k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Hereford Worcester [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/bbc_radio_hereford_worcester-audio%3d96000.norewind.m3u8
-#EXTINF:2.47467,BBC Essex [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC Essex [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
-#EXTINF:6.35733,BBC CWR Coventry [aac-99k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:1,BBC CWR Coventry [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8
-#EXTINF:1,The Bug Cast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast]
+#EXTINF:0, The Bug Cast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast]
 http://stream.otherside.network:8904/listen.mp3
-#EXTINF:1,Capital Radio  [U.K.][capitalfm.com/digital/]
-http://vis.media-ice.musicradio.com/CapitalUK
-#EXTINF:1,Capital Radio London 95.8 [U.K.][capitalfm.com/digital/]
-http://media-ice.musicradio.com/CapitalMP3
-#EXTINF:2.40327,Capital Radio Smooth Chill [U.K.][capitalfm.com/digital/]
-http://media-ice.musicradio.com/ChillMP3.m3u
-#EXTINF:1.88082,Capital Radio Glasgow [U.K.][capitalfm.com/digital/]
-https://icecast.thisisdax.com/CapitalGlasgowMP3
-#EXTINF:1,Greatest Hits Radio Glasgow [clyde2][hellorayo.co.uk/greatest-hits/glasgow/]
-http://edge-bauerall-01-gos2.sharp-stream.com/clyde2.mp3
-#EXTINF:1.93306,Beat 106 Glasgow [beat106scotland.com]
-https://n10.rcs.revma.com:443/3d6v2ut171zuv
-#EXTINF:1.02168,Radio Caroline [aac 99kbps][Pirate Radio][www.radiocaroline.co.uk]
-http://78.129.202.200:8030/;
-#EXTINF:0.731429,Radio Caroline [aac 128kbps][Pirate Radio][www.radiocaroline.co.uk]
-http://sc6.radiocaroline.net:8040/;stream.mp3
-#EXTINF:0.731429,Radio Caroline [aac 128kbps][Pirate Radio][www.radiocaroline.co.uk]
-http://78.129.202.200:8040/;
-#EXTINF:0.731429,Radio Caroline Flashback [aac 99kbps][Pirate Radio][www.radiocaroline.co.uk]
-http://sc2.radiocaroline.net:10558/listen.pls
-#EXTINF:1, Talk Radio [radio.talkradio.co.uk]
-http://radio.talkradio.co.uk/stream
-#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][mp3 128k]
-http://www.radiofeeds.co.uk/likeone.m3u
-#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][aac 46k]
-http://www.radiofeeds.co.uk/likeoneaac.m3u
-#EXTINF:0,Like ONE UK  [media.info/radio/stations/like-one-uk][128k]
-https://likeradiostream.com/likeoneuk
-#EXTINF:0, LBC [www.lbc.co.uk][London][aac]
-http://media-sov.musicradio.com/LBCLondon
-#EXTINF:0, LBC [www.lbc.co.uk]
-http://media-sov.musicradio.com/LBC973MP3Low
-#EXTINF:0, HBS - Glasgow's Hospital Broadcasting Service [hbs.org.uk][255k][British]
-https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
+#EXTINF:0, AllFM 96.9 The Real Voice of Manchester [Community][allfm.org]
+https://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:0, Angel Radio [angelradio.co.uk]
 http://s2.xrad.io:8522/listen.pls
-#EXTINF:0,Celtic Radio 95.5FM [Glasgow][celticmusicradio.net]
+#EXTINF:0, AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk]
+https://uksoutha.streaming.broadcast.radio/awazfm
+#EXTINF:0, BFBS Scotland Edinburgh [Military][radio.bfbs.com/stations/bfbs-scotland][mp3]
+https://edge-audio-05-gos2.sharp-stream.com:80/ssvcbfbs18.mp3
+#EXTINF:0, BFBS Scotland Edinburgh [Military][radio.bfbs.com/stations/bfbs-scotland][aac]
+https://edge-audio-05-gos2.sharp-stream.com:80/ssvcbfbs18.aac
+#EXTINF:0, Capital Radio  [U.K.][capitalfm.com/digital/]
+http://vis.media-ice.musicradio.com/CapitalUK
+#EXTINF:0, Capital Radio London 95.8 [U.K.][capitalfm.com/digital/]
+http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:0, Capital Radio Smooth Chill [U.K.][capitalfm.com/digital/]
+http://media-ice.musicradio.com/ChillMP3.m3u
+#EXTINF:0, Capital Radio Glasgow [U.K.][capitalfm.com/digital/]
+https://icecast.thisisdax.com/CapitalGlasgowMP3
+#EXTINF:0, Capital Radio Manchester [U.K.][capitalfm.com/digital/]
+https://icecast.thisisdax.com/CapitalManchesterMP3
+#EXTINF:0, Celtic Radio 95.5FM [Glasgow][celticmusicradio.net]
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
+#EXTINF:0, Celtic Radio 95.5FM [Glasgow][celticmusicradio.net][alt]
+https://streaming.broadcastradio.com:11130/celtic
+#EXTINF:0, Clyde 1/50 [Glasgow][hellorayo.co.uk/clyde/]
+http://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
+#EXTINF:0, Beat 106 Glasgow [beat106scotland.com]
+https://n10.rcs.revma.com:443/3d6v2ut171zuv
+#EXTINF:0, HBS - Glasgow's Hospital Broadcasting Service [hbs.org.uk][255k][British]
+https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
+#EXTINF:0, Jamboradio [Glasgow][talk][jamboradio.co.uk]
+https://stream3.themediasite.co.uk:8130/stream
+#EXTINF:0, GayDio Manchester [gaydio.co.uk]
+http://listen-gaydio.sharp-stream.com/gaydionw.mp3
+#EXTINF:0, Greatest Hits Radio Glasgow [clyde2][hellorayo.co.uk/greatest-hits/glasgow/]
+http://edge-bauerall-01-gos2.sharp-stream.com/clyde2.mp3
+#EXTINF:0, Greatest Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/greatest-hits/]
+http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
+#EXTINF:0, Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/]
+http://edge-bauerall-01-gos2.sharp-stream.com/key.mp3
+#EXTINF:0, LBC [Talk][www.lbc.co.uk][London][aac]
+http://media-sov.musicradio.com/LBCLondon
+#EXTINF:0, LBC [Talk][www.lbc.co.uk]
+http://media-sov.musicradio.com/LBC973MP3Low
+#EXTINF:0, Like ONE UK  [Pop][media.info/radio/stations/like-one-uk][128k]
+https://likeradiostream.com/likeoneuk
+#EXTINF:0, Lomond Radio [Local-Music][Glasgow][lomondradio.co.uk]
+https://ukwesta.streaming.broadcast.radio/lomondradio
+#EXTINF:0, Love 80's Manchester [love80sradio.co.uk]
+http://stream1.themediasite.co.uk:8038/stream
+#EXTINF:0, National Radio Scotland [nationplayer.com/nation-radio-scotland]
+http://listen-nation.sharp-stream.com/nationscotland.mp3
+#EXTINF:0, PIE Radio Manchester [pieradio.co.uk][256k]
+http://playoutonestreaming.com:8097/stream
+#EXTINF:0, Quality Radio [Paisley Renfrewshire Scotland][https://qualityradio.uk/radio/]
+http://radio.canstream.co.uk:8123/live.mp3
+#EXTINF:0, Radio Caroline [Rock][aac 99kbps][Pirate Radio][www.radiocaroline.co.uk]
+http://78.129.202.200:8030/;
+#EXTINF:0, Radio Caroline [Rock][aac 128kbps][Pirate Radio][www.radiocaroline.co.uk]
+http://sc6.radiocaroline.net:8040/;stream.mp3
+#EXTINF:0, Radio Caroline [Rock][aac 128kbps][Pirate Radio][www.radiocaroline.co.uk]
+http://78.129.202.200:8040/;
+#EXTINF:0, Radio Caroline Flashback [Rock][aac 99kbps][Pirate Radio][www.radiocaroline.co.uk]
+http://sc2.radiocaroline.net:10558/listen.pls
+#EXTINF:0, Slack City Manchester [Alternative][slackcity.org.uk][192k]
+https://tx.sharp-stream.com/http_live.php?i=slackcity.mp3
+#EXTINF:0, Slack City Manchester [Alternative][slackcity.org.uk][192k]
+https://edge-audio-02-thn.sharp-stream.com/slackcity.mp3
+#EXTINF:0, Talk Radio [radio.talkradio.co.uk]
+http://radio.talkradio.co.uk/stream
+#EXTINF:0, Wythenshawe FM [Community][www.wfmradio.org]
+http://radio.canstream.co.uk:8082/live.mp3
+#EXTINF:0, XS Manchester [Rock/Alt][xsmanchester.co.uk]
+https://icecast.thisisdax.com/RealXSManchesterMP3
+
