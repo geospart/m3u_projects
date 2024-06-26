@@ -1,0 +1,195 @@
+#EXTM3U
+#Lossless Stream Collection [FLAC/OGG/OPUS]
+#@geospart 062624 
+#source: https://www.hiresaudio.online/cd-quality-internet-radio/
+#still bein assembled / conme back for more.
+#EXTINF:1,60Nort Radio [60north.radio][FLAC]
+http://r5.zetcast.net/flac
+# Playlist created by SMPlayer 24.5.0 (revision 10277) 
+#EXTINF:1,60Nort Radio [60north.radio][AAC 48k]
+http://cdn1.zetcast.net/stream6
+#EXTINF:1,60Nort Radio [60north.radio][AAC 256k]
+http://cdn1.zetcast.net/stream3
+#EXTINF:1,60Nort Radio [60north.radio][MP3 320k]
+http://cdn1.zetcast.net/stream
+#EXTINF:1,95 BFM [95bfm.com][FLAC]
+https://streams.95bfm.com/stream112
+#EXTINF:42457.7,AIDA Radio [aidaradio.de][FLAC]
+https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+#EXTINF:1,AIDA Radio [aidaradio.de][MP3 128k]
+http://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
+#EXTINF:1,AIDA Radio [aidaradio.de][AAC 64k]
+http://frontend.streamonkey.net/aidaradio-meergefuehl
+#EXTINF:1,Antena Zadar – 97.2 FM [antenazadar.hr][FLAC]
+http://hifi.antenazadar.hr:8000/hifi
+#EXTINF:1,Antena Zadar – 97.2 FM [antenazadar.hr][MP3 320k]
+http://live.antenazadar.hr:9002/
+#EXTINF:1,Bailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][bailriggradio.lancastersu.co.uk][FLAC]
+https://bfm-stream.lancs.ac.uk/flac
+#EXTINF:1,Bailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][MP3 48k]
+https://bfm-stream.lancs.ac.uk/mobile.mp3
+#EXTINF:1,Bailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][MP3 128k]
+https://bfm-stream.lancs.ac.uk/128.mp3
+#EXTINF:1,Bailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][MP3 256k]
+https://bfm-stream.lancs.ac.uk/256.mp3
+#EXTINF:1,BailBailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][MP3 320k]
+https://bfm-stream.lancs.ac.uk/320.mp3
+#EXTINF:1,Bailrigg 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][OGG 320k]
+https://bfm-stream.lancs.ac.uk/HighQuality.ogg
+#EXTINF:1,BesideFM [Rock][FLAC]
+http://5.128.138.8:8000/stream
+#EXTINF:1,BesideFM [Rock][AAC 320k]
+http://5.128.138.8:8000/aac
+#EXTINF:1,BesideFM [Rock][OPUS 256k]
+http://5.128.138.8:8000/opus
+#EXTINF:1,Brillux Radio [Germany][brillux.radio][FLAC]
+http://bx01.junkes.it/flac
+#EXTINF:1,C9 [www.c9.fr][FLAC]
+https://stream.c9.fr/c9radio-flac.ogg.m3u
+#EXTINF:1,C9 [www.c9.fr][AAC 88k]
+AAC-HE 88kbps: http://stream.c9.fr/c9radio-88.m4a.m3u
+#EXTINF:1,C9 [www.c9.fr][AAC 32k]
+AAC-HE v2 32kbps: http://stream.c9.fr/c9radio-32.m4a.m3u
+#EXTINF:1,C9 [www.c9.fr][Flexible AAC]
+Flexible AAC (HLS): https://www.c9.fr/stream/hls/c9.m3u8
+#EXTINF:1,C9 [www.c9.fr][MP3 192k]
+MP3 192kbps: http://stream.c9.fr/c9radio-192.mp3.m3u
+#EXTINF:1,Calamar Rradio [calamarrradio.org]
+http://www.calamarrradio.org:8000/stream
+#EXTINF:1,Calon FM [calamarrradio.org][FLAC]
+https://stream.calon.fm:8000/flac
+#EXTINF:1,Calon FM [calamarrradio.org][AAC 48k]
+https://stream.calon.fm:8000/48k
+#EXTINF:1,Calon FM [calamarrradio.org][AAC 320k]
+https://stream.calon.fm:8000/320k
+#EXTINF:1,Calon FM [calamarrradio.org][MP3 320k]
+https://stream.calon.fm:8000/tx
+#EXTINF:1,Calon FM [Jazz][cityradiochile.com][FLAC]
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:1,Calon FM [Jazz][cityradiochile.com][FLAC]
+http://cityradio.ddns.net:8000/citypop
+#EXTINF:1,KUAT NPR Classical 90.5 FM [radio.azpm.org/classical][FLAC]
+https://hls.azpm.org/t-fmp4/FLAC/KUAT_FLAC.m3u8
+#EXTINF:0.48,ČRo Vltava [amp.cesnet.cz][FLAC]
+http://amp.cesnet.cz:8000/cro3.flac
+#EXTINF:1,ČRo D-dur [amp.cesnet.cz][FLAC]
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+#EXTINF:1.19467,ČRo D-dur [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
+#EXTINF:1,ČRo D-dur [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro-d-dur.ogg
+#EXTINF:0.28,ČRo Vltava [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro3.ogg
+#EXTINF:0.329334,ČRo Vltava [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro3-256.ogg
+#EXTINF:1,ČRo Jazz [amp.cesnet.cz][FLAC]
+http://amp.cesnet.cz:8000/cro-jazz.flac
+#EXTINF:1,ČRo Radio Wave [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro-radio-wave.ogg
+#EXTINF:1,ČRo Radio Wave [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
+#EXTINF:0.3,ČRo Jazz [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro-jazz.ogg
+#EXTINF:0.252,ČRo Jazz [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-jazz-256.ogg
+#EXTINF:1,ČRo Radiožurnál [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro1.ogg
+#EXTINF:0.193333,ČRo Radiožurnál
+http://amp.cesnet.cz:8000/cro1-256.ogg
+#EXTINF:1,ČRo Dvojka [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro2.ogg
+#EXTINF:1,ČRo Dvojka [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro2-256.ogg
+#EXTINF:1,ČRo Plus [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-plus.ogg
+#EXTINF:1,ČRo Plus [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-plus-256.ogg
+#EXTINF:1,ČRo Rádio Junior [amp.cesnet.cz][OGG 128k]
+http://amp.cesnet.cz:8000/cro-radio-junior.ogg
+#EXTINF:1,ČRo Rádio Junior [amp.cesnet.cz][OGG 256k]
+http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
+#EXTINF:1, Dance Wave [dancewave.online][FLAC]
+https://dancewave.online/dance.flac.ogg.m3u
+#EXTINF:1, Dance Wave [dancewave.online][AAC+ 64k]
+https://dancewave.online/dance.aac.m3u
+#EXTINF:1, Dance Wave [dancewave.online][MP3 128k]
+https://dancewave.online/dance.mp3.m3u
+#EXTINF:1, Dance Wave [dancewave.online][OGG 150k]
+https://dancewave.online/dance.ogg.m3u
+#EXTINF:1, Dance Wave [dancewave.online][OPUS 110k]
+https://dancewave.online/dance.opus.m3u
+#EXTINF:1, Dance Wave Retro [dancewave.online][FLAC]
+https://retro.dancewave.online/retrodance.flac.ogg.m3u
+#EXTINF:1, Dance Wave Retro [dancewave.online][AAC 128k]
+https://retro.dancewave.online/retrodance.aac.m3u
+#EXTINF:1, Dance Wave Retro [dancewave.online][MP3 128k]
+https://retro.dancewave.online/retrodance.mp3.m3u
+#EXTINF:1, Dance Wave Retro [dancewave.online][OGG 150k]
+https://retro.dancewave.online/retrodance.ogg.m3u
+#EXTINF:1, Dance Wave Retro [dancewave.online][OPUS 110k]
+https://retro.dancewave.online/retrodance.opus.m3u
+#EXTINF:1,Danubius Radio [roxyradio.hu][FLAC]
+https://s2.audiostream.hu/bdpstrock_FLAC.m3u
+#EXTINF:1,Danubius Radio [roxyradio.hu][MP3 96k]
+https://s2.audiostream.hu/bdpstrock_96k.m3u
+#EXTINF:1,Danubius Radio [roxyradio.hu][MP3 192k]
+https://s2.audiostream.hu/bdpstrock_192k.m3u
+#EXTINF:1,Danubius Radio [roxyradio.hu][MP3 320k]
+https://s2.audiostream.hu/bdpstrock_320k.m3u
+#EXTINF:1,EasyRadio [easyradio.bg][FLAC]
+https://easyradio.bg/m3u/easyradio.bg-flac.m3u
+#EXTINF:1,EasyRadio [easyradio.bg][AAC 320k]
+AAC Stream 320kbps: https://easyradio.bg/m3u/easyradio.bg-aac.m3u
+#EXTINF:1,EasyRadio [easyradio.bg][MP3 192k]
+https://easyradio.bg/m3u/easyradio.bg-192.m3u
+#EXTINF:1,EasyRadio [easyradio.bg][AAC 64k]
+https://easyradio.bg/m3u/easyradio.bg-64.m3u
+#EXTINF:1,Eirewave Radio [eirewave.co.uk][FLAC]
+https://audio-edge-5bkfj.fra.h.radiomast.io/
+#EXTINF:1,Eirewave Radio [eirewave.co.uk][FLAC]
+https://audio-edge-5bkfj.fra.h.radiomast.io/157d47f4-e348-4892-bcf6-5bc417683055
+#EXTINF:1,Eirewave Radio [eirewave.co.uk][AAC 64k]
+https://stream.rcs.revma.com/z0mfskucweuvv
+#EXTINF:1,Eirewave Radio [eirewave.co.uk][MP3 128k]
+https://stream.rcs.revma.com/f8z603t6g5uvv
+#Pick Up Where I Left Off Here
+#EXTINF:1,Juventus Radio [roxyradio.hu]]danubiusradio.hu][FLAC]
+https://danubiusradio.hu/danubius_HiFi.m3u
+#EXTINF:1,Juventus Radio [roxyradio.hu][MP3 96k]
+https://danubiusradio.hu/danubius_96k.m3u
+#EXTINF:1,Juventus Radio [roxyradio.hu][MP3 192k]
+https://danubiusradio.hu/danubius_192k.m3u
+#EXTINF:1,Juventus Radio [roxyradio.hu][MP3 320k]
+https://danubiusradio.hu/danubius_320k.m3u
+#EXTINF:1,Roxy Radio [roxyradio.hu][bdpstrock.hu][FLAC]
+https://s2.audiostream.hu/roxy_FLAC.m3u
+#EXTINF:1,Roxy Radio [roxyradio.hu][MP3 96k]
+https://roxyradio.hu/s2.audiostream.hu/roxy_96k.m3u
+#EXTINF:1,Roxy Radio [roxyradio.hu][MP3 192k]
+https://s2.audiostream.hu/roxy_192k.m3u
+#EXTINF:1,Roxy Radio [roxyradio.hu][MP3 320k]
+https://s2.audiostream.hu/roxy_320k.m3u
+#EXTINF:1,Radio Paradise [radioparadise.com][FLAC]
+http://stream.radioparadise.com/flac
+#EXTINF:1,Radio Paradise Mellow [radioparadise.com][FLAC]
+http://stream.radioparadise.com/mellow-flac
+#EXTINF:1,Radio Paradise Rock [radioparadise.com][FLAC]
+http://stream.radioparadise.com/rock-flac
+#EXTINF:1,Radio Paradise Eclectic [radioparadise.com][FLAC]
+http://stream.radioparadise.com/eclectic-flac
+#EXTINF:0,Periscope Radio [periszkopradio.hu][OGG][Offline]
+http://mumia.periszkopradio.hu:8050/periszkop.ogg
+#EXTINF:1.128,Periscope Radio [periszkopradio.hu][MP3 256k]
+http://sztrim.periszkopradio.hu:8088/;
+#EXTINF:1,Trance Plus [trancepulsefm.ie][FLAC]
+http://stream.trance.ie:8000/tpmixes
+#EXTINF:0.743039,Trance Plus [trancepulsefm.ie][AAC64]
+http://stream.trance.ie:8000/mobile
+#EXTINF:1.88082,Trance Plus [trancepulsefm.ie][AAC128k]
+http://stream.trance.ie:8000/stream
+#EXTINF:1,Zappa Stream Radio [norbert.de][FLAC]
+https://streams.norbert.de/zappa.flac
+#EXTINF:1,Zappa Stream Radio [norbert.de][OGG256k]
+https://www.norbert.de/streams/ogg/listen.pls
+#EXTINF:1,Zappa Stream Radio [norbert.de][MP128k]
+https://streams.norbert.de/zappa.mp3
