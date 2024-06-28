@@ -6,7 +6,7 @@
 # Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # created 06/24/2024
 # https://www.cpb.org/cpb-station-finder 
-#EXTINF:1.12326,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
+#EXTINF:1,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1.mp3
 #EXTINF:1,WABE-FM-HD3 90.1 NEWS  [Atlanta GA][wabe.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD3_NEWS.mp3
@@ -68,6 +68,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
 #EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][nashvillepublicradio.org]
 https://wpln.streamguys1.com/wfclfm.aac
+#EXTINF:1,WFUV 90.7 Fordham University [Bronx NY][wfuv.org]
+https://onair.wfuv.org/onair-aacplus
 #EXTINF:1,WGBH 89.7 [CH1-Main][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/wgbh
 #EXTINF:1,WGBH/CRB 99.5 [CH2-Classical][Boston Mass][www.wgbh.org]
@@ -96,9 +98,9 @@ https://18373.live.streamtheworld.com/WJCTFM.mp3
 https://playerservices.streamtheworld.com/pls/WJCTFM.pls
 #EXTINF:1,WJCT-FM-NEWS [Latest Local News On Demand][Jacksonville][news.wjct.org]
 https://media.publicbroadcasting.net/wjct/newscast/newscast.mp3
-#EXTINF:5.09388,WJCT-HD2 [Classical][Jackosnville][wjct.org]
+#EXTINF:1,WJCT-HD2 [Classical][Jackosnville][wjct.org]
 http://24453.live.streamtheworld.com/WJCT_HD2.mp3
-#EXTINF:6.73959,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt]
+#EXTINF:1,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt]
 https://24453.live.streamtheworld.com/WJCT_HD2.mp3
 #EXTINF:1,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3.mp3
@@ -108,13 +110,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_RRS.mp3
 #EXTINF:1,WJFF 90.5 [Radio Catskills][Liberty / Jefferson NY][wjffradio.org]
 https://stream1.rcast.net/69645
-#EXTINF:5.61923,WLIW-FM was WPPB 88.3 [South Hampton -  Long Island][wliw.org]
+#EXTINF:1,WLIW-FM was WPPB 88.3 [South Hampton Long Island][wliw.org]
 https://22113.live.streamtheworld.com/WLIWFMAAC.aac
+#EXTINF:1,WLIW-FM was WPPB 88.3 [South Hampton Long Island][wliw.org]
+https://26223.live.streamtheworld.com/WLIWFMAAC.aac
 #EXTINF:1,WLRN-FM-HD1 91.3 [News][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnfmaac-imc1.aac
-#EXTINF:1.3932,WLRN-FM-HD2 91.3 [Classical][Miami FL][https://www.wlrn.org]
+#EXTINF:1,WLRN-FM-HD2 91.3 [Classical][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1.aac
-#EXTINF:1.93306,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org]
+#EXTINF:1,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org]
 https://22113.live.streamtheworld.com/WLTRFM.mp3?uuid=stjtavfxn
 #EXTINF:1,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org][alt]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFM.mp3
@@ -124,20 +128,34 @@ https://wmfe-iad.streamguys1.com/wmfe.mp3
 https://media.publicbroadcasting.net/wmfe/newscast/newscast.mp3
 #EXTINF:1,WMFE/WFMV*-FM-HD1 90.7/89.5 [News][Orlando/Ocala Central FL*][www.cfpublic.org]
 https://wmfe-iad.streamguys1.com/wmfv.mp3
-#EXTINF:4.51918,WMFE/WFMV-FM-HD1 90.7/89.5 [Classical][Orlando/Ocala Central FL][www.cfpublic.org]
+#EXTINF:1,WMFE/WFMV-FM-HD1 90.7/89.5 [Classical][Orlando/Ocala Central FL][www.cfpublic.org]
 https://wmfe-iad.streamguys1.com/wmfe2.mp3
-#EXTINF:3.99674,WMNF Community Radio 88.5 [Main][Tampa FL][wmnf.org]
+#EXTINF:1,WMHT [Schenectady NY][wextradio.org]
+https://wmht.streamguys1.com/wmht1
+#EXTINF:1,WMHT [Classical][Schenectady NY][classicalwmht.org][wmht.org]
+https://wmht.streamguys1.com/wmht1
+#EXTINF:1,WMHT [WEXT 106.1][Classical][Amsterdam NY][wextradio.org]
+https://wmht.streamguys1.com/wext1
+#EXTINF:1,WMNF Community Radio 88.5 [Main][Tampa FL][wmnf.org]
 https://stream.wmnf.org:4443/wmnf_high_quality
-#EXTINF:1.48898,WMUK 102.1 [Kalamazoo MI][wmuk.org]
-http://ice2.wmuk.org:8000/mp31
-#EXTINF:3.24,WNYC 93.9 [Holiday Standards Christmas][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WMUK 102.1 [Kalamazoo MI][wmuk.org]
+http://ice2.wmuk.org:8000/mp3
+#EXTINF:1,WNED 94.5/WBFO 88.7 [WBFO News][Buffalo NY][wned.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFM.mp3
+#EXTINF:1,WNED 94.5/WBFO 88.7 [WBFO News][Buffalo NY][wned.org]
+https://24923.live.streamtheworld.com/WBFOFM.mp3
+#EXTINF:1,WNED 94.5/WBFO 88.7 [WNED Classical][Buffalo NY][wned.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM.mp3
+#EXTINF:1,WNED 94.5/WBFO 88.7 [WNED Classical][Buffalo NY][wned.org]
+https://22113.live.streamtheworld.com/WNEDFM.mp3
+#EXTINF:1,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][nashvillepublicradio.org][wnxp.org]
+https://wpln.streamguys1.com/wnxpfm.aac
+#EXTINF:1,WNYC 93.9 [Holiday Standards Christmas][New York NY][www.wqxr.org][www.wnyc.org]
 https://specialstream.wnyc.org/wnyc-special
 #EXTINF:3.024,WNYC-FM 93.9 [News][New York NY][www.wqxr.org][www.wnyc.org]
 https://fm939.wnyc.org/wnycfm
 #EXTINF:4.284,WNYC-AM 820 [News][New York NY][www.wqxr.org][www.wnyc.org]
 https://am820.wnyc.org/wnycam-web
-#EXTINF:1,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][nashvillepublicradio.org][wnxp.org]
-https://wpln.streamguys1.com/wnxpfm.aac
 #EXTINF:1,WOSU 89.1 [News][Columbus OH][Ohio State University][www.wosu.org]
 https://wosu.streamguys1.com/NPR_128
 #EXTINF:1,WOSU 89.1 [Classical][Columbus OH][Ohio State University][www.wosu.org]
