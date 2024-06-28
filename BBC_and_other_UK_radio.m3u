@@ -203,7 +203,7 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worceste
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
 #EXTINF:1,BBC CWR Coventry [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8
-#EXTINF:0, The BugCast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast]
+#EXTINF:0, The BugCast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
 http://stream.otherside.network:8904/listen.mp3
 #EXTINF:0, AllFM 96.9 The Real Voice of Manchester [Community][allfm.org]
 https://uksoutha.streaming.broadcast.radio:15870/allfm
