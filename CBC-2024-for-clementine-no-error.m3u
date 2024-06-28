@@ -92,33 +92,33 @@ https://cbcradiolive.akamaized.net/hls/live/2041053/ES_R1SRE/master.m3u8
 https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/master.m3u8
 #EXTINF:0,CBC Radio 1 [YT/Whitehorse]
 https://cbcradiolive.akamaized.net/hls/live/2041052/ES_R1PWH/master.m3u8
-#EXTINF:0,Ici Musique [Abitibi-Témiscamingue, Ottawa-Gatineau]
+#EXTINF:0,Ici Musique [CBC][Abitibi-Témiscamingue, Ottawa-Gatineau]
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8
-#EXTINF:0,Ici Musique [Alberta]
+#EXTINF:0,Ici Musique [CBC][Alberta]
 https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
-#EXTINF:0,Ici Musique [Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine]
+#EXTINF:0,Ici Musique [CBC][Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine]
 https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
-#EXTINF:0,Ici Musique [Colombie-Britannique-Yukon, Grand Nord]
+#EXTINF:0,Ici Musique [CBC][Colombie-Britannique-Yukon, Grand Nord]
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
-#EXTINF:0,Ici Musique [Estrie]
+#EXTINF:0,Ici Musique [CBC][Estrie]
 https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
-#EXTINF:0,Ici Musique [Provinces maritimes]
+#EXTINF:0,Ici Musique [CBC][Provinces maritimes]
 https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
-#EXTINF:0,Ici Musique [Manitoba]
+#EXTINF:0,Ici Musique [CBC][Manitoba]
 https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8
-#EXTINF:0,Ici Musique [Mauricie-Centre-du-Québec]
+#EXTINF:0,Ici Musique [CBC][Mauricie-Centre-du-Québec]
 https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8
-#EXTINF:0,Ici Musique [Montréal, Toronto, Windsor]
+#EXTINF:0,Ici Musique [CBC][Montréal, Toronto, Windsor]
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
-#EXTINF:0,Ici Musique [Nord de l'Ontario]
+#EXTINF:0,Ici Musique [CBC][Nord de l'Ontario]
 https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8
-#EXTINF:0,Ici Musique [Québec]
+#EXTINF:0,Ici Musique [CBC][Québec]
 https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
-#EXTINF:0,Ici Musique [Saguenay-Lac-Saint-Jean]
+#EXTINF:0,Ici Musique [CBC][Saguenay-Lac-Saint-Jean]
 https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8
-#EXTINF:0,Ici Musique [Saskatchewan]
+#EXTINF:0,Ici Musique [CBC][Saskatchewan]
 https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8
-#EXTINF:0,Ici Musique Classique
+#EXTINF:0,Ici Musique Classique [CBC]
 https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8
 #EXTINF:0,Ici Première [CBC][Abitibi-Témiscamingue]
 https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/master.m3u8
