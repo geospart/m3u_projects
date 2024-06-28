@@ -7,7 +7,7 @@ ABC-2024.m3u [Australian Radio Streams]
 
 BBC_and_other_UK_radio.m3u [British Radio Streams]
 
-CBC-2024.m3u [Canadian Radio Streams]
+CBC-2024.m3u [Canadian Radio Streams]-Deleted
 
 NPR_Stations_2024.m3u [National Public Radio Streams]
 
@@ -34,5 +34,7 @@ hires-cdquality-in-progress.m3u8
 swl_dx-2024.m3u [Short-Wave Radio Streams]
 
 I keep my Ukraine National Radio m3u file here: https://github.com/geospart/Radio-Ukraine
+CBC M3U [way better than I could do]- https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+
 
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/62860bac-e0d0-4b56-b1e3-f976129f4a5e)
