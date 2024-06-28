@@ -5,279 +5,322 @@
 # NPR stations I listen to. 
 # Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # created 06/24/2024
-#EXTINF:5.19837,WABE-FM-HD1 [Atlanta -  GA][NPR][wabe.org][NPR]
+# https://www.cpb.org/cpb-station-finder 
+#EXTINF:1.12326,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1.mp3
-#EXTINF:1.88082,WABE-FM-HD3 NEWS  [Atlanta -  GA][NPR][wabe.org][NPR]
+#EXTINF:1,WABE-FM-HD3 90.1 NEWS  [Atlanta GA][wabe.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD3_NEWS.mp3
-#EXTINF:2.40327,WABE-FM-HD2 CLASSICAL [Atlanta -  GA][NPR][wabe.org][NPR]
+#EXTINF:1,WABE-FM-HD2 90.1 CLASSICAL [Atlanta GA][wabe.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD2_CLASSICAL.mp3
-#EXTINF:7.39265,WAMC-FM-HD1 90.3 [News][Albany N.E.Public radio NY][NPR][www.cfpublic.org]
+#EXTINF:1,WAMC-FM-HD1 90.3 [News][Albany N.E.Public radio NY][www.cfpublic.org]
 https://20593.live.streamtheworld.com/WAMCFM.mp3
-#EXTINF:7.52327,WAMC-FM-HD1 90.3 [News][Albany N.E.Public radio NY][NPR][www.cfpublic.org][alt]
+#EXTINF:1,WAMC-FM-HD1 90.3 [News][Albany N.E.Public radio NY][www.cfpublic.org][alt]
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3
-#EXTINF:3.16082,WAMC-FM-HD2 90.3 [International-BBC][Albany N.E.Public radio NY][NPR][www.cfpublic.org][☑2024]
+#EXTINF:1,WAMC-FM-HD2 90.3 [International-BBC][Albany N.E.Public radio NY][www.cfpublic.org]
 https://22223.live.streamtheworld.com/WAMCHD2.mp3
-#EXTINF:2.76898,WAMC-FM-HD2 90.3 [International-BBC][Albany N.E.Public radio NY][NPR][www.cfpublic.org][alt][☑2024]
+#EXTINF:1,WAMC-FM-HD2 90.3 [International-BBC][Albany N.E.Public radio NY][www.cfpublic.org][alt]
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCHD2.mp3
-#EXTINF:8.17342,WBEZ [Chicago][wbez.org][NPR]
+#EXTINF:1,WAMU-FM 88.5 [American University Radio][Washington DC][wamu.org]
+https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:1.95048,WBEZ 91.5 [Chicago][wbez.org]
 https://stream.wbez.org/wbez64-web.aac
-#EXTINF:6.624,WBUR [Boston University][wbur.org][MP3][NPR]
+#EXTINF:1,WBUR 90.9 [Boston University][wbur.org][MP3]
 http://audio.wbur.org/stream/live_mp3.m3u
-#EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][mp3]
+#EXTINF:1,WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][mp3]
 http://nepr.iad.streamguys1.com/WFCR.mp3
-#EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][aac]
+#EXTINF:1,WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][aac]
 http://nepr.iad.streamguys1.com/WFCR
-#EXTINF:-1, WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][mp3]
+#EXTINF:1,WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][mp3]
 http://nepr.iad.streamguys1.com/WFCR-HD.mp3
-#EXTINF:-1, WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][aac]
+#EXTINF:1,WCFR 88.5 HD1 NEPM [New England-Springfield MA][Classical][nepm.org][aac]
 http://nepr.iad.streamguys1.com/WFCR-HD
-#EXTINF:-1, WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][alt]
+#EXTINF:1,WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][alt]
 https://nepr.streamguys1.com/WFCR.mp3
-#EXTINF:-1, WCPN [Cleveland OH][wcpn.org][NPR]
+#EXTINF:1,WCPN 104.9 [Cleveland OH][wcpn.org]
 https://ideastream.streamguys1.com/wcpn.mp3
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
 https://18183.live.streamtheworld.com/WERSFMAAC.aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
 https://24083.live.streamtheworld.com/WERSFMAAC.aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD3-Show Tunes][Boston Mass][Emerson College][wers.org][standingroom.org][NPR]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD3-Show Tunes][Boston Mass][Emerson College][wers.org][standingroom.org]
 https://18183.live.streamtheworld.com/WERS_HD3AAC.aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [ETIN][Boston Mass][Emerson College][wers.org][etinradio.org][NPR][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [ETIN][Boston Mass][Emerson College][wers.org][etinradio.org][marconi]
 http://marconi.emerson.edu:8000/etin
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [WECB][Boston Mass][Emerson College][wers.org][NPR][wecb.fm][aac][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [WECB][Boston Mass][Emerson College][wers.org][wecb.fm][aac][marconi]
 http://marconi.emerson.edu:8000/wecb-aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][marconi]
 http://marconi.emerson.edu:8000/wers
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][aac][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][aac][marconi]
 http://marconi.emerson.edu:8000/wers-aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][32][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][32][marconi]
 http://marconi.emerson.edu:8000/wers32
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][NPR][64][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org][64][marconi]
 http://marconi.emerson.edu:8000/wers64
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][NPR][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][marconi]
 http://marconi.emerson.edu:8000/wershd2
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][NPR][aac][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD2-Plus][Boston Mass][Emerson College][wers.org][aac][marconi]
 http://marconi.emerson.edu:8000/wershd2-aac
-#EXTINF:-1, WERS 88.9 Boston Uncommon Radio [HD3-SRO][Boston Mass][Emerson College][wers.org][standingroom.org][NPR][marconi]
+#EXTINF:1,WERS 88.9 Boston Uncommon Radio [HD3-SRO][Boston Mass][Emerson College][wers.org][standingroom.org][marconi]
 http://marconi.emerson.edu:8000/WERS-SRO
-#EXTINF:2.97796,WETA  [Viva La Voce][Arlington -  VA][weta.org/fm][NPR]
+#EXTINF:1,WETA 90.9 [Viva La Voce][Arlington VA][weta.org/fm]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
-#EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][NPR][nashvillepublicradio.org]
+#EXTINF:1,WETA 90.9 [Classical][Arlington VA][weta.org/fm]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
+#EXTINF:1,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][nashvillepublicradio.org]
 https://wpln.streamguys1.com/wfclfm.aac
-#EXTINF:5.32898,WGBH 89.7 [CH1-Main][Boston Mass][NPR][www.wgbh.org]
+#EXTINF:1,WGBH 89.7 [CH1-Main][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/wgbh
-#EXTINF:1.95918,WGBH/CRB 99.5 [CH2-Classical][Boston Mass][NPR][www.wgbh.org]
+#EXTINF:1,WGBH/CRB 99.5 [CH2-Classical][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/classical-hi/
-#EXTINF:4.04898,WGBH/CRB 99.5 [CH3-Bach/Classical][Boston Mass][NPR][www.wgbh.org]
+#EXTINF:1,WGBH/CRB 99.5 [CH3-Bach/Classical][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/Bach-8108
-#EXTINF:4.04898,WGBH/CRB 99.5 [CH4-Boston Symphony/Classical][Boston Mass][NPR][www.wgbh.org]
+#EXTINF:1,WGBH/CRB 99.5 [CH4-Boston Symphony/Classical][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/BSOConcert-8106
-#EXTINF:4.04898,WGBH/CRB 99.5 [CH5-Early Music/Classical][Boston Mass][NPR][www.wgbh.org]
+#EXTINF:1,WGBH/CRB 99.5 [CH5-Early Music/Classical][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/BostonEarlyMusic-8112
-#EXTINF:8.04,WGPB Classical [Atlanta][GPB][gpg.org/radio][mp3 128k][NPR]
+#EXTINF:1,WGPB 97.7 Classical [Atlanta][GPB][gpg.org/radio][mp3 128k]
 https://gpb-geo.streamguys1.com/gpb/gpb-classical-mp3
-#EXTINF:8.04,WGPB Classical [Atlanta][GPB][gpg.org/radio][128k][NPR]
+#EXTINF:1,WGPB 97.7 Classical [Atlanta][GPB][gpg.org/radio][128k]
 https://gpb.streamguys1.com/oom/gpb-classical-mp3-website
-#EXTINF:8.16,WGPB [Atlanta][GPB][gpg.org/radio][mp3 128k][NPR]
+#EXTINF:1,WGPB 97.7 [Atlanta][GPB][gpg.org/radio][mp3 128k]
 https://gpb-geo.streamguys1.com/gpb/gpb-radio-mp3
-#EXTINF:8.14933,WGPB [Atlanta][GPB][gpg.org/radio][62k][NPR]
+#EXTINF:8.14933,WGPB 97.7 [Atlanta][GPB][gpg.org/radio][62k]
 https://gpb.streamguys1.com/oom/gpb-atlanta-aac-website
-#EXTINF:8.20245,WHYY-FM [Phiily][whyy.org/radio-podcasts][NPR]
+#EXTINF:1,WHYY-FM 90.9 [Phiiladephia PA][whyy.org/radio-podcasts]
 https://whyy.streamguys1.com/whyy-mp3
-#EXTINF:2.27265,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][NPR][wjct.org]
+#EXTINF:1,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3
-#EXTINF:7.13143,WJCT-FM-HD1 [Main][Jacksonville FL][NPR][wjct.org][alt]
+#EXTINF:1,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org][alt]
 https://18373.live.streamtheworld.com/WJCTFM.mp3
-#EXTINF:4.96326,WJCT-FM-HD1 [Main][Jacksonville FL][NPR][wjct.org][alt1]
+#EXTINF:1,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org][alt1]
 https://playerservices.streamtheworld.com/pls/WJCTFM.pls
-#EXTINF:177.858,WJCT-FM-NEWS [Latest Local News On Demand][Jacksonville][NPR][news.wjct.org]
+#EXTINF:1,WJCT-FM-NEWS [Latest Local News On Demand][Jacksonville][news.wjct.org]
 https://media.publicbroadcasting.net/wjct/newscast/newscast.mp3
-#EXTINF:5.09388,WJCT-HD2 [Classical][Jackosnville][NPR][wjct.org]
+#EXTINF:5.09388,WJCT-HD2 [Classical][Jackosnville][wjct.org]
 http://24453.live.streamtheworld.com/WJCT_HD2.mp3
-#EXTINF:6.73959,WJCT-HD2 [Classical][Jackosnville][NPR][wjct.org][alt]
+#EXTINF:6.73959,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt]
 https://24453.live.streamtheworld.com/WJCT_HD2.mp3
-#EXTINF:7.26204,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][NPR][wjct.org]
+#EXTINF:1,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3.mp3
-#EXTINF:4.04898,WJCT-HD4 [The Independant][Jacksonville][NPR][wjct.org]
+#EXTINF:1,WJCT-HD4 [The Independant][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3
-#EXTINF:7.28816,WJCT-RRS [Reading Services][Jacksonville][NPR][wjct.org]
+#EXTINF:1,WJCT-RRS [Reading Services][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_RRS.mp3
-#EXTINF:2.58612,WJFF 90.5 [Radio Catskills][Liberty NY][NPR][wjffradio.org]
+#EXTINF:1,WJFF 90.5 [Radio Catskills][Liberty / Jefferson NY][wjffradio.org]
 https://stream1.rcast.net/69645
-#EXTINF:5.61923,WLIW-FM was WPPB [South Hampton -  Long Island][wliw.org][NPR]
+#EXTINF:5.61923,WLIW-FM was WPPB 88.3 [South Hampton -  Long Island][wliw.org]
 https://22113.live.streamtheworld.com/WLIWFMAAC.aac
-#EXTINF:1.3932,WLRN-FM-HD1 91.3 [News][Miami FL][NPR][https://www.wlrn.org]
+#EXTINF:1,WLRN-FM-HD1 91.3 [News][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnfmaac-imc1.aac
-#EXTINF:1.3932,WLRN-FM-HD2 91.3 [Classical][Miami FL][NPR][https://www.wlrn.org]
+#EXTINF:1.3932,WLRN-FM-HD2 91.3 [Classical][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1.aac
-#EXTINF:1.93306,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][NPR][www.southcarolinapublicradio.org]
+#EXTINF:1.93306,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org]
 https://22113.live.streamtheworld.com/WLTRFM.mp3?uuid=stjtavfxn
-#EXTINF:4.62367,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][NPR][www.southcarolinapublicradio.org][alt]
+#EXTINF:1,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org][alt]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFM.mp3
-#EXTINF:10.7624,WMFE*/WYMV-FM-HD1 90.7/89.5 [News][Orlando*/Ocala Central FL][NPR][www.cfpublic.org]
+#EXTINF:1,WMFE*/WYMV-FM-HD1 90.7/89.5 [News][Orlando*/Ocala Central FL][www.cfpublic.org]
 https://wmfe-iad.streamguys1.com/wmfe.mp3
-#EXTINF:172.591,WMFE/WFMV-FM-News 90.7/89.5 [Latest Local News On Demand][NPR[[Orlando/Ocala Central FL]
+#EXTINF:1,WMFE/WFMV-FM-News 90.7/89.5 [Latest Local News On Demand][NPR[[Orlando/Ocala Central FL]
 https://media.publicbroadcasting.net/wmfe/newscast/newscast.mp3
-#EXTINF:1,WMFE/WFMV*-FM-HD1 90.7/89.5 [News][Orlando/Ocala Central FL*][NPR][www.cfpublic.org]
+#EXTINF:1,WMFE/WFMV*-FM-HD1 90.7/89.5 [News][Orlando/Ocala Central FL*][www.cfpublic.org]
 https://wmfe-iad.streamguys1.com/wmfv.mp3
-#EXTINF:4.51918,WMFE/WFMV-FM-HD1 90.7/89.5 [Classical][Orlando/Ocala Central FL][NPR][www.cfpublic.org]
+#EXTINF:4.51918,WMFE/WFMV-FM-HD1 90.7/89.5 [Classical][Orlando/Ocala Central FL][www.cfpublic.org]
 https://wmfe-iad.streamguys1.com/wmfe2.mp3
-#EXTINF:3.99674,WMNF Community Radio 88.5 [Main][Tampa FL][NPR][wmnf.org]
+#EXTINF:3.99674,WMNF Community Radio 88.5 [Main][Tampa FL][wmnf.org]
 https://stream.wmnf.org:4443/wmnf_high_quality
-#EXTINF:1.48898,WMUK [Kalamazoo MI][wmuk.org][NPR]
+#EXTINF:1.48898,WMUK 102.1 [Kalamazoo MI][wmuk.org]
 http://ice2.wmuk.org:8000/mp31
-#EXTINF:3.24,WNYC 93.9 [Holiday Standards Christmas][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:3.24,WNYC 93.9 [Holiday Standards Christmas][New York NY][www.wqxr.org][www.wnyc.org]
 https://specialstream.wnyc.org/wnyc-special
-#EXTINF:3.024,WNYC-FM 93.9 [News][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:3.024,WNYC-FM 93.9 [News][New York NY][www.wqxr.org][www.wnyc.org]
 https://fm939.wnyc.org/wnycfm
-#EXTINF:4.284,WNYC-AM 820 [News][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:4.284,WNYC-AM 820 [News][New York NY][www.wqxr.org][www.wnyc.org]
 https://am820.wnyc.org/wnycam-web
-#EXTINF:5.43347,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][NPR][nashvillepublicradio.org][wnxp.org]
+#EXTINF:1,WNXP 91.1 [WPLN/WNXP-Music][Nashville TN][nashvillepublicradio.org][wnxp.org]
 https://wpln.streamguys1.com/wnxpfm.aac
-#EXTINF:-1, WOSU 89.1 [News][Columbus OH][Ohio State University][NPR][www.wosu.org]
+#EXTINF:1,WOSU 89.1 [News][Columbus OH][Ohio State University][www.wosu.org]
 https://wosu.streamguys1.com/NPR_128
-#EXTINF:-1, WOSU 89.1 [Classical][Columbus OH][Ohio State University][NPR][www.wosu.org]
+#EXTINF:1,WOSU 89.1 [Classical][Columbus OH][Ohio State University][www.wosu.org]
 https://wosu.streamguys1.com/Classical_128
-#EXTINF:5.98204,WOUB/WOUL-FM [Ohio University][Athens/Ironton OH][NPR]
+#EXTINF:1,WOUB/WOUL-FM 91.3 [Ohio University][Athens/Ironton OH]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
-#EXTINF:3.47429,WOUB-WOUL AM [Ohio University][Athens/Ironton OH][NPR]
+#EXTINF:1,WOUB-WOUL AM 1340 [Ohio University][Athens/Ironton OH]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBAM.mp3
-#EXTINF:7.896,WPLN 90.3 [CH1-Main/News][Nashville TN][NPR][nashvillepublicradio.org][alt]
+#EXTINF:7.896,WPLN 90.3 [CH1-Main/News][Nashville TN][nashvillepublicradio.org][alt]
 http://wpln.streamguys.org/wplnfm.mp3
-#EXTINF:8.17342,WPLN 90.3 [CH1-Main/News][Nashville TN][NPR][nashvillepublicradio.org]
+#EXTINF:1,WPLN 90.3 [CH1-Main/News][Nashville TN][nashvillepublicradio.org]
 https://wpln.streamguys1.com/wplnfm.aac
-#EXTINF:8.16,WPLN 90.3 [CH2-WPLN/WNXP-International-BBC][Nashville TN][NPR][nashvillepublicradio.org][☑2024]
+#EXTINF:1,WPLN 90.3 [CH2-WPLN/WNXP-International-BBC][Nashville TN][nashvillepublicradio.org][☑2024]
 https://wpln.streamguys1.com/wplnam.mp3.m3u
-#EXTINF:-1, WPSU Penn State [News][University Park][NPR/College][wpsu.org]
+#EXTINF:1,WPSU 91.5 Penn State [News][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
-#EXTINF:-1, WPSU Penn State [Classical][University Park][NPR/College][wpsu.org]
+#EXTINF:1, WPSU 91.5 Penn State [Classical][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
-#EXTINF:2.088,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:1, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][MP3 64k]
+https://wvpublic.streamguys1.com/wvpb
+#EXTINF:1, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 64k]
+https://wvpublic.streamguys1.com/wvpb64k.aac
+#EXTINF:1, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 256k]
+https://wvpublic.streamguys1.com/wvpb256k.aac
+#EXTINF:1,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
 https://stream.wqxr.org/wqxr-web
-#EXTINF:5.58933,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:1,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
 https://www.wqxr.org/stream/wqxr/aac.pls
-#EXTINF:3.24,WQXR 105.9 [Classical][New York NY][NPR][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:1,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
 https://www.wqxr.org/stream/wqxr/mp3.pls
-#EXTINF:3.24,WQXR 105.9 [New Sounds Music][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
 https://q2stream.wqxr.org/q2-web
-#EXTINF:6.10133,WQXR 105.9 [New Sounds Music][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/q2/aac.pls
-#EXTINF:3.24,WQXR 105.9 [New Sounds Music][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:3.24,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/q2/mp3.pls
-#EXTINF:8.74667,WQXR 105.9 [New Standards Jazz][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:8.74667,WQXR 105.9 [New Standards Jazz][New York NY][www.wqxr.org][www.wnyc.org]
 https://tjc.wnyc.org/js-stream.aac
-#EXTINF:1.704,WQXR 105.9 [Operavore Classical][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
 https://opera-stream.wqxr.org/operavore-web
-#EXTINF:7.76533,WQXR 105.9 [Operavore Classical][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/wqxr-special/aac.pls
-#EXTINF:2.088,WQXR 105.9 [Operavore Classical][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/wqxr-special/mp3.pls
-#EXTINF:5.632,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/jonathan-channel/aac.pls
-#EXTINF:2.28,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org]
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
-#EXTINF:5.632,WQXR 105.9 [Holiday Christmas][New York NY][NPR][www.wqxr.org][www.wnyc.org]
+#EXTINF:1,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org]
 https://stream.wqxr.org/qxr-special.aac
-#EXTINF:2.35102,WRIR 97.3 [Richmond Independant Radio][Richmond VA][NPR][www.wrir.org]
+#EXTINF:2.35102,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org]
 https://live.wrir.org/
-#EXTINF:1.48898,WRJA 88.1 [WRJA/WLTR-SC News & Music][Central/Columbia SC][NPR][www.southcarolinapublicradio.org]
+#EXTINF:1,WRJA 88.1 [WRJA/WLTR-SC News & Music][Central/Columbia SC][www.southcarolinapublicradio.org]
 https://24923.live.streamtheworld.com/WRJAFM.mp3?uuid=stjtavfxn
-#EXTINF:9.98458,WSJR 90.1 [MPR Your Classical Radio][St Paul MN][NPR][https://www.mpr.org][St Johns University]
-https://ycradio.stream.publicradio.org/ycradio.aac
-#EXTINF:-1, WSLU 88.1 [Canton NY St Lawrence County][St Lawrence University][northcountrypublicradio.org]
+#EXTINF:1,WSLU 88.1 [Canton NY St Lawrence County][St Lawrence University][northcountrypublicradio.org]
 https://ncpr-ice.streamguys1.com/ncpr-96k.mp3
-#EXTINF:3.99674,KWRV 91.1 [MPR News][St Paul MN][NPR][https://www.mpr.org][St Johns University]
-https://nis.stream.publicradio.org/nis.mp3
-#EXTINF:8.08054,WSJR 90.1 [MPR Chamber Music Classical[Twin Cities MN][NPR][https://www.mpr.org][St Johns
-https://chambermusic.stream.publicradio.org/chambermusic.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Choral Classical[Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://choral.stream.publicradio.org/choral.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Your Classical Children][Twin Cities MN][NPR][https://www.mpr.org][St Johns
-https://classicalkids.stream.publicradio.org/classicalkids.aac
-#EXTINF:5.43347,WSJR 90.1 [MPR Concert Band][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://concertband.stream.publicradio.org/concertband.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Essentials][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://favorites.stream.publicradio.org/favorites.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Guitar][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://favorites.stream.publicradio.org/guitar.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://holiday.stream.publicradio.org/holiday_yc.aac
-#EXTINF:5.34059,WSJR 90.1 [MPR Sleep Classical][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://lullabies.stream.publicradio.org/lullabies.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Peaceful Piano Classical][Twin Cities MN][NPR][https://www.mpr.org][St Johns
-https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
-#EXTINF:9.98458,WSJR 90.1 [MPR Relax Classical][Twin Cities MN][NPR][https://www.mpr.org][St Johns University]
-https://relax.stream.publicradio.org/relax.aac
-#EXTINF:7.488,WUFT 89.1 [HD3-GHQ-FM][Gainesville FL][NPR][wuft.org]
+#EXTINF:1,WUFT 89.1 [HD3-GHQ-FM][Gainesville FL][wuft.org]
 https://ais-sa1.streamon.fm/7269_64k.mp3
-#EXTINF:10.8205,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][NPR][wuft.org][aac-48k]
+#EXTINF:1,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][wuft.org][aac-48k]
 https://ais-sa1.streamon.fm/7647_48k.aac
-#EXTINF:79.778,WUFT-NEWS 89.1 [Latest Local News On Demand][Gainesville FL][NPR][wuft.org]
+#EXTINF:1,WUFT-NEWS 89.1 [Latest Local News On Demand][Gainesville FL][wuft.org]
 https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
-#EXTINF:10.7741,WUFT 89.1 [HD3-GHQ][Gainesville FL][NPR][wuft.org][aac]
+#EXTINF:1,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][aac]
 https://ais-sa1.streamon.fm/7269_48k.aac
-#EXTINF:7.536,WUFT 89.1 [HD3-GHQ][Gainesville FL][NPR][wuft.org][mp3]
+#EXTINF:1,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][mp3]
 https://ais-sa1.streamon.fm/7269_64k.mp3
-#EXTINF:5.43347,WUFT 89.1 [HD2-Classical][Gainesville FL][NPR][wuft.org]
+#EXTINF:1,WUFT 89.1 [HD2-Classical][Gainesville FL][wuft.org]
 https://ais-sa1.streamon.fm/7648_48k.aac
-#EXTINF:3.81388,WUWM 89.7 [Milwalkee WI][NPR][www.wuwm.com]
+#EXTINF:1,WUWM 89.7 [Milwalkee WI][www.wuwm.com]
 http://wuwm.streamguys1.com/live.mp3
-#EXTINF:0.731429,KAPC [Uni. of Montana NR][Butte][mtpr.org][NPR]
-http://stream.tc.umt.edu/mtpr
-#EXTINF:2.53388,KAZU [CSU Monterey Bay CA][kazu.org][NPR]
+#EXTINF:1,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
+#EXTINF:1,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org][alt]
+https://18373.live.streamtheworld.com/WYPR_HD1.mp3
+#EXTINF:1,WYPR HD2 88.1 [Milwalkee WI][www.wypr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2.mp3
+#EXTINF:1,WYPR HD2 88.1 [Milwalkee WI][www.wypr.org][alt]
+https://22113.live.streamtheworld.com/WYPR_HD2.mp3
+#EXTINF:1,WYPR HD3 88.1 [Milwalkee WI][www.wypr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3
+#EXTINF:1,WYPR HD3 88.1 [Milwalkee WI][www.wypr.org][alt]
+https://22113.live.streamtheworld.com/WYPR_HD3.mp3
+#EXTINF:1,KAZU [CSU Monterey Bay CA][kazu.org]
 https://icecastle.csumb.edu/live128
-#EXTINF:7.00082,KBIA-HD1 91.3 [Classical/University of Missouri][Columbia MO][NPR][kbia.org]
+#EXTINF:1,KBIA-HD1 91.3 [Classical/University of Missouri][Columbia MO][kbia.org]
 https://27053.live.streamtheworld.com/KBIAFM.mp3
-#EXTINF:3.68327,KBIA-HD2 91.3 [Classical/University of Missouri][Columbia MO][NPR][kbia.org]
+#EXTINF:1,KBIA-HD2 91.3 [Classical/University of Missouri][Columbia MO][kbia.org]
 https://27053.live.streamtheworld.com/KBIAHD2.mp3
-#EXTINF:1.61959,KBIA-HD3 91.3 [World Cafe/University of Missouri][Columbia MO][NPR][kbia.org]
+#EXTINF:1,KBIA-HD3 91.3 [World Cafe/University of Missouri][Columbia MO][kbia.org]
 https://18123.live.streamtheworld.com/KBIAHD3.mp3
-#EXTINF:-1, KCRW [On Air][Santa Monica/Los Angeles][NPR][kcrw.com]
+#EXTINF:1,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
-#EXTINF:-1, KCRW [On Air][Santa Monica/Los Angeles][NPR][kcrw.com][alt]
+#EXTINF:1,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com][alt]
 http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio
-#EXTINF:-1, KCRW [News][Santa Monica/Los Angeles][NPR][kcrw.com]
+#EXTINF:1,KCRW [News][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_news
-#EXTINF:-1, KCRW [News][Santa Monica/Los Angeles][NPR][kcrw.com][alt]
+#EXTINF:1,KCRW [News][Santa Monica/Los Angeles][kcrw.com][alt]
 http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
-#EXTINF:-1, KCRW [Eclectic24][Santa Monica/Los Angeles][NPR][kcrw.com]
+#EXTINF:1,KCRW [Eclectic24][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
-#EXTINF:-1, KCRW [Bent24][Santa Monica/Los Angeles][NPR][kcrw.com]
+#EXTINF:1,KCRW [Bent24][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
-#EXTINF:0.914286,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][NPR][College][www.kisu.org/]
+#EXTINF:1,KGOU 106.3 [Oklahoma City / Norman OK][kgou.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+#EXTINF:1,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
+https://khpr-ice.streamguys1.com/khpr2.mp3
+#EXTINF:1,KIPO 89.3 [Hawaii][hawaiipublicradio.org]
+https://khpr-ice.streamguys1.com/kipo2.mp3
+#EXTINF:1,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][College][www.kisu.org/]
 https://kisufm.isu.edu:8443/kisufm
-#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-48]
+#EXTINF:1,KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-48]
 https://live.amperwave.net/direct/ppm-knkxfmaac48-ibc1
-#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-64]
+#EXTINF:1,KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-64]
 64K AAC: https://live.amperwave.net/direct/ppm-knkxfmaac-ibc1
-#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-256]
-https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1 
-#EXTINF:-1, KNKX [News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
-https://live.amperwave.net/direct/ppm-knkxfmmp3-ibc1 
-#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-48]
+#EXTINF:1,KNKX [News][Tacoma/Seattle WA][www.knkx.org][aac-256]
+https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1
+#EXTINF:1,KNKX [News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
+https://live.amperwave.net/direct/ppm-knkxfmmp3-ibc1
+#EXTINF:1,KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-48]
 48K AAC: https://live.amperwave.net/direct/ppm-jazz24aac48-ibc1
-#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-64]
+#EXTINF:1,KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-64]
 64K AAC: https://live.amperwave.net/direct/ppm-jazz24aac-ibc1
-#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-256]
+#EXTINF:1,KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][aac-256]
 256k AAC: https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
-#EXTINF:-1, KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
+#EXTINF:1,KNKX [Jazz][News][Tacoma/Seattle WA][www.knkx.org][mp3-128]
 128k MP3: https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
-#EXTINF:8.67265,KQED Public Radio [San Francisco][NPR]
+#EXTINF:1,KPRG 89.3 Isla Public Radio Guam [Mangilao GU][islapublic.org]
+https://peridot.streamguys1.com:5095/live
+#EXTINF:1,KQED Public Radio [San Francisco][kqed.org]
 http://streams.kqed.org/kqedradio
-#EXTINF:-1, KUCV 91.1 [Lincoln NB][NPR][nebraskapublicmedia.org]
+#EXTINF:1,KQED Public Radio [Latest News][San Francisco][kqed.org][On Demand]
+https://www.kqed.org/.stream/anon/radio/RDnews/newscast.mp3
+#EXTINF:1,KUAZ 89.1 FM /1550 AM [Tucson AZ][radio.azpm.org/kuaz/][MP3 48k]
+https://streaming.azpm.org/kuaz48.mp3.m3u
+#EXTINF:1,KUAZ 89.1 FM /1550 AM [Tucson AZ][radio.azpm.org/kuaz/][MP3 128k]
+https://streaming.azpm.org/kuaz128.mp3.m3u
+#EXTINF:1,KUAZ 89.1 FM /1550 AM [Tucson AZ][radio.azpm.org/kuaz/][MP3 192k]
+https://streaming.azpm.org/kuaz192.mp3.m3u
+#EXTINF:1, KUCV 91.1 [Lincoln NB][nebraskapublicmedia.org]
 https://18533.live.streamtheworld.com/KUCVFM.mp3
-#EXTINF:-1, KUCV 91.1 [Lincoln NB][NPR][nebraskapublicmedia.org]
+#EXTINF:1, KUCV 91.1 [Lincoln NB][nebraskapublicmedia.org]
 https://18533.live.streamtheworld.com/KUCVHD2.mp3
-#EXTINF:-1, KUSU 91.5 UPR Live [News][LOGAN UT][NPR][Utah State University][www.upr.org]
+#EXTINF:1,KUFM 89.1 [Uni. of Montana NR][Butte][mtpr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
+#EXTINF:1,KUFM 89.1 [Uni. of Montana NR][Butte][mtpr.org]
+https://18533.live.streamtheworld.com/KUFMFM.mp3
+#EXTINF:1, KUSU 91.5 UPR Live [News][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8020/
-#EXTINF:-1, KUSU 91.5 UPR Too [Classical][LOGAN UT][NPR][Utah State University][www.upr.org]
+#EXTINF:1, KUSU 91.5 UPR Too [Classical][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8022/
-#EXTINF:-1, KUSU 91.5 UPT Tres [Spanish][LOGAN UT][NPR][Utah State University][www.upr.org]
+#EXTINF:1, KUSU 91.5 UPT Tres [Spanish][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8028/
-#EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
+#EXTINF:1, KUTX 98.9 [Music/Sessions][Austin TX][kutx.org]
 https://streams.kut.org/4427_56?aw_0_1st.playerid=kutx-web
-#EXTINF:-1, KUTX 98.9 [Music/Sessions][Austin TX][NPR][kutx.org]
+#EXTINF:1, KUTX 98.9 [Music/Sessions][Austin TX][kutx.org]
 https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
-#EXTINF:-1, KUTX 98.9 [AMX][Austin TX][NPR][kutx.org]
+#EXTINF:1, KUTX 98.9 [AMX][Austin TX][kutx.org]
 https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
-#EXTINF:-1, KUTX 98.9 [TMX][Austin TX][NPR][kutx.org]
+#EXTINF:1, KUTX 98.9 [TMX][Austin TX][kutx.org]
 https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
+#EXTINF:1,KWGS 89.5 [Tulsa OK][publicradiotulsa.org]
+https://utulsa.streamguys1.com/KWGSHD1.mp3
+#EXTINF:1,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
+https://nis.stream.publicradio.org/nis.mp3
+#EXTINF:1,MPR [MPR Your Classical Radio][St Paul MN][https://www.mpr.org][St Johns University]
+https://ycradio.stream.publicradio.org/ycradio.aac
+#EXTINF:1,MPR [MPR Chamber Music Classical[Twin Cities MN][https://www.mpr.org][St Johns
+https://chambermusic.stream.publicradio.org/chambermusic.aac
+#EXTINF:1,MPR [MPR Choral Classical[Twin Cities MN][https://www.mpr.org][St Johns University]
+https://choral.stream.publicradio.org/choral.aac
+#EXTINF:1,MPR [MPR Your Classical Children][Twin Cities MN][https://www.mpr.org][St Johns
+https://classicalkids.stream.publicradio.org/classicalkids.aac
+#EXTINF:1,MPR [MPR Concert Band][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://concertband.stream.publicradio.org/concertband.aac
+#EXTINF:1,MPR [MPR Essentials][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://favorites.stream.publicradio.org/favorites.aac
+#EXTINF:1,MPR [MPR Guitar][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://favorites.stream.publicradio.org/guitar.aac
+#EXTINF:1,MPR [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://holiday.stream.publicradio.org/holiday_yc.aac
+#EXTINF:1,MPR [MPR Sleep Classical][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://lullabies.stream.publicradio.org/lullabies.aac
+#EXTINF:1,MPR [MPR Peaceful Piano Classical][Twin Cities MN][https://www.mpr.org][St Johns
+https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
+#EXTINF:1,MPR [MPR Relax Classical][Twin Cities MN][https://www.mpr.org][St Johns University]
+https://relax.stream.publicradio.org/relax.aac
