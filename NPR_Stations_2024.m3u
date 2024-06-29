@@ -8,7 +8,7 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done IA
+# Verified done FL,IA
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -77,6 +77,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
 https://wpln.streamguys1.com/wfclfm.aac
 #EXTINF:-0,WFMT [Classical][Chicago][wfmt.com]
 https://wfmt.streamguys1.com/main-mp3 
+#EXTINF:-0,WFSU 89.1 [Panama City/Tallahassee FL][wfsu.org][mp3 96k]
+https://mp3stream.wfsu.org:8443/889hi
+#EXTINF:-0,WFSU/W Classical 88.9 [Panama City FL][wfsu.org][mp3 96k]
+https://mp3stream.wfsu.org:8443/891hi
+#EXTINF:-0,WFSU/Q 91.5 [Panama City FL] wfsu.org][mp3 96k]
+https://mp3stream.wfsu.org:8443/915hi
 #EXTINF:-0,WFSK 100.9 [Community Radio][Petersburg/Juneau AK][kfsk.org]
 https://amber.streamguys1.com:4625/
 #EXTINF:-0,WFUV 90.7 Fordham University [Bronx NY][wfuv.org]
@@ -151,7 +157,7 @@ https://22113.live.streamtheworld.com/WLIWFMAAC.aac
 https://26223.live.streamtheworld.com/WLIWFMAAC.aac
 #EXTINF:-0,WLRN-FM-HD1 91.3 [News][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnfmaac-imc1.aac
-#EXTINF:-0,WLRN-FM-HD2 91.3 [Classical][Miami FL][https://www.wlrn.org]
+#EXTINF:-0,WLRN-FM-HD2 91.3 [Classical][South Florida / Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1.aac
 #EXTINF:-0,WLTR 91.3 [WRJA/WLTR-SC  News & Music][Columbia SC][www.southcarolinapublicradio.org]
 https://22113.live.streamtheworld.com/WLTRFM.mp3?uuid=stjtavfxn
@@ -171,8 +177,14 @@ https://wmht.streamguys1.com/wmht1
 https://wmht.streamguys1.com/wmht1
 #EXTINF:-0,WMHT [WEXT 106.1][Classical][Amsterdam NY][wextradio.org]
 https://wmht.streamguys1.com/wext1
-#EXTINF:-0,WMNF Community Radio 88.5 [Main][Tampa FL][wmnf.org]
+#EXTINF:-0,WMNF HD1 88.5 [Community Radio][Tampa FL][wmnf.org]
 https://stream.wmnf.org:4443/wmnf_high_quality
+#EXTINF:-0,WMNF HD2 88.5 [Urban Cafe][Tampa FL][wmnf.org]
+https://stream.wmnf.org:4443/wmnf_hd2
+#EXTINF:-0,WMNF HD3 88.5 [The Source][Tampa FL][wmnf.org]
+https://stream.wmnf.org:4443/wmnf_hd3
+#EXTINF:-0,WMNF HD4 [Classical][Tampa FL][wmnf.org]
+https://stream.wmnf.org:4443/wmnf_hd4
 #EXTINF:-0,WMUK 102.1 [Kalamazoo MI][wmuk.org]
 http://ice2.wmuk.org:8000/mp3
 #EXTINF:-0,WNED 94.5/WBFO 88.7 [WBFO News][Buffalo NY][wned.org]
@@ -289,6 +301,8 @@ https://18183.live.streamtheworld.com/WUAL_HD2.mp3?
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD3.mp3
 #EXTINF:-0,WUAL 91.5 HD3 [Classical Music][Tuscaloosa AL][apr.org][alt]
 https://18183.live.streamtheworld.com/WUAL_HD3.mp3
+#EXTINF:-0,WUCF 89.9 Jazz and More [Orlando FL]
+https://peridot.streamguys1.com:7835/WUCF
 #EXTINF:-0,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][wuft.org][aac-48k]
 https://ais-sa1.streamon.fm/7647_48k.aac
 #EXTINF:-0,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][wuft.org][mp3-64k]
