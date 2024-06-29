@@ -8,6 +8,7 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
+# Verified done IA
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -170,6 +171,12 @@ https://specialstream.wnyc.org/wnyc-special
 https://fm939.wnyc.org/wnycfm
 #EXTINF:-0,WNYC-AM 820 [News][New York NY][www.wqxr.org][www.wnyc.org]
 https://am820.wnyc.org/wnycam-web
+#EXTINF:-0,WOI 640/90.1 IPR News [Ames/Cedar Falls IA][iowapublicradio.org]
+https://news-stream.iowapublicradio.org/News.mp3
+#EXTINF:-0,WOI 640/90.1 IPR Classical [Ames IA][iowapublicradio.org]
+https://classical-stream.iowapublicradio.org/Classical.mp3
+#EXTINF:-0,WOI 640/90.1 IPR Studio One [Ames IA][iowapublicradio.org]
+https://studioone-stream.iowapublicradio.org/StudioOne.mp3
 #EXTINF:-0,WOSU 89.1 [News][Columbus OH][Ohio State University][www.wosu.org]
 https://wosu.streamguys1.com/NPR_128
 #EXTINF:-0,WOSU 89.1 [Classical][Columbus OH][Ohio State University][www.wosu.org]
@@ -283,7 +290,10 @@ https://18123.live.streamtheworld.com/KBIAHD3.mp3
 https://tektite.streamguys1.com:5345/live
 #EXTINF:-0,KCAW 104.7/90.1 Raven Radio [Juneau/Angoo Elfin Cove AK][kcaw.org]
 https://tektite.streamguys1.com:5195/live
-#EXTINF:-0,KRBD 105.3 [Commununity Radio]Ketchikan AK][krbd.org]https://war.streamguys1.com:8085/krbd"
+#EXTINF:-0,KCCK HD1 88.3 [Jazz][Cedar Rapids IA][kcck.org]
+https://stream.kcck.org/jazz883kcck
+#EXTINF:-0,KCCK HD2 88.3 [Jazz]Cedar Rapids IA][kcck.org]
+http://stream.kcck.org/kcckjazz2
 #EXTINF:-0,KCRW 105.3 [On Air][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-0,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com][alt]
@@ -304,8 +314,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
 https://khpr-ice.streamguys1.com/khpr2.mp3
 #EXTINF:-0,KIPO 89.3 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/kipo2.mp3
-#EXTINF:-0,KISU 91.3 [Pocatello Idaho Falls&#44; ID][88.1 Rexburg][College][www.kisu.org/]
+#EXTINF:-0,KISU 91.3 [Pocatello Idaho Falls ID][88.1 Rexburg][College][www.kisu.org/]
 https://kisufm.isu.edu:8443/kisufm
+#EXTINF:-0,KIWR 89.7 The Cutting Edge of Rock [Alternative][Council Bluffs College IA][897theriver.com]
+https://kiwrstream.iwcc.edu/kiwr
 #EXTINF:-0,KIYU 910/98.1 [Galena AK][kiyu.com]
 https://kiyu.streamguys1.com/live
 #EXTINF:-0,KMXT 100.1 [Kodiak Island AK][kmxt.org]
@@ -332,6 +344,20 @@ https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
 https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
 #EXTINF:-0,KOTZ 720/89.9 Voice of the Arctic[Kotzebue AK][kotz.org]
 http://13743.live.streamtheworld.com/KOTZAM.mp3
+#EXTINF:-0,KRBD 105.3 [Commununity Radio]Ketchikan AK][krbd.org]
+https://war.streamguys1.com:8085/krbd
+#EXTINF:-0, KWIT 90.3 HD1 [News][Sioux City IA][kwit-koji.org][kwit.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWITFM.mp3
+#EXTINF:-0, KWIT 90.3 HD1 [News][Sioux City IA][kwit-koji.org][kwit.org][alt]
+https://18153.live.streamtheworld.com/KWITFM.mp3
+#EXTINF:-0, KWIT 90.3 HD2 [Classical 24][Sioux City IA][kwit-koji.org][kwit.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWITHD2.mp3
+#EXTINF:-0, KWIT 90.3 HD2 [Classical 24][Sioux City IA][kwit-koji.org][kwit.org][alt]
+https://16603.live.streamtheworld.com/KWITHD2.mp3
+#EXTINF:-0, KWIT 90.3 HD3 [BBC][Sioux City IA][kwit-koji.org][kwit.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWITHD3.mp3
+#EXTINF:-0, KWIT 90.3 HD3 [BBC][Sioux City IA][kwit-koji.org][kwit.org]
+https://16603.live.streamtheworld.com/KWITHD3.mp3
 #EXTINF:-0,KPRG 89.3 Isla Public Radio Guam [Mangilao GU][islapublic.org]
 https://peridot.streamguys1.com:5095/live
 #EXTINF:-0,KQED Public Radio [San Francisco][kqed.org]
