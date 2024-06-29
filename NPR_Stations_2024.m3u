@@ -8,7 +8,7 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,FL,IA
+# Verified done AL,AK,FL,IA,NB
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -381,6 +381,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
 https://khns.streamguys1.com/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/khpr2.mp3
+#EXTINF:-0,KIOS 91.5 Omaha Public Radio [Omaha NB][kios.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIOSFM.mp3
 #EXTINF:-0,KIPO 89.3 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/kipo2.mp3
 #EXTINF:-0,KISU 91.3 [Pocatello Idaho Falls ID][88.1 Rexburg][College][www.kisu.org/]
@@ -487,12 +489,22 @@ https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
 https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
 #EXTINF:-0,KUTX 98.9 [TMX][Austin TX][kutx.org]
 https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
+#EXTINF:-0,KVNO-HD1-News 90.7 [Omaha NB][kvno.org]
+https://kvnovm-hd1.unomaha.edu:8443/mobile.aac
+#EXTINF:-0,KVNO-HD1-News 90.7 [Omaha NB][kvno.org][alt]
+https://kvnovm-hd1.unomaha.edu:8443/listen.aac
+#EXTINF:-0,KVNO-HD2-Classical [Omaha NB][kvno.org][offline]
+https://kvnovm-hd2.unomaha.edu:8443/listen.aac
+#EXTINF:-0,KVNO-HD3-News-90.7 [Omaha NB][kvno.org][offline]
+https://kvnovm-hd3.unomaha.edu:8443/listen.aac
 #EXTINF:-0,KWGS 89.5 [Tulsa OK][publicradiotulsa.org]
 https://utulsa.streamguys1.com/KWGSHD1.mp3
 #EXTINF:-0,KYUK 640/90.3 Public Media for Alaska's Yukon-Kuskokwim Delta [Bethel AK][kyuk.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
 #EXTINF:-0,KZPA 900 [Ft Yukon AK][kzparadio.org][stream missing]
 http://no.stream
+#EXTINF:-0,KZUM 89.3 [Lincoln NE][kzum.org]
+http://us4.internet-radio.com:8030/stream
 #EXTGRP:-0,Minnesota Public Radio
 #EXTINF:-0,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
