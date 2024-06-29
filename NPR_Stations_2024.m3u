@@ -8,7 +8,7 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done FL,IA
+# Verified done AL,AK,FL,IA
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -45,6 +45,8 @@ http://nepr.iad.streamguys1.com/WFCR-HD
 https://nepr.streamguys1.com/WFCR.mp3
 #EXTINF:-0,WCPN 104.9 [Cleveland OH][wcpn.org]
 https://ideastream.streamguys1.com/wcpn.mp3
+#EXTINF:-0,WDLG 670/89.9 [Dillington AK][kdlg.org]
+https://peace.streamguys1.com:6095/kdlg
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
 https://18183.live.streamtheworld.com/WERSFMAAC.aac
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
@@ -155,6 +157,12 @@ https://stream1.rcast.net/69645
 https://22113.live.streamtheworld.com/WLIWFMAAC.aac
 #EXTINF:-0,WLIW-FM was WPPB 88.3 [South Hampton Long Island][wliw.org]
 https://26223.live.streamtheworld.com/WLIWFMAAC.aac
+#EXTINF:-0,WLRH-HD1 89.3 WLRH Public Radio for the Tennessee Valley [Huntsville AL][wlrh.org]
+https://wlrh.streamguys1.com/live
+#EXTINF:-0,WLRH-HD2-Classical 89.3 WLRH Public Radio for the Tennessee Valley [Huntsville AL][wlrh.org]
+https://wlrh.streamguys1.com/classical
+#EXTINF:-0,WLRH-HD3-News 89.3 WLRH Public Radio for the Tennessee Valley [Huntsville AL][wlrh.org]
+https://wlrh.streamguys1.com/news?uuid=0l8fq25gt
 #EXTINF:-0,WLRN-FM-HD1 91.3 [News][Miami FL][https://www.wlrn.org]
 https://live.amperwave.net/direct/wlrnpublicmedia-wlrnfmaac-imc1.aac
 #EXTINF:-0,WLRN-FM-HD2 91.3 [Classical][South Florida / Miami FL][https://www.wlrn.org]
@@ -351,6 +359,8 @@ https://tektite.streamguys1.com:5195/live
 https://stream.kcck.org/jazz883kcck
 #EXTINF:-0,KCCK HD2 88.3 [Jazz]Cedar Rapids IA][kcck.org]
 http://stream.kcck.org/kcckjazz2
+#EXTINF:-0,KCHU-KXKM-KXGA 770-89.7 -90.5 Community Public Radio[ for Prince William Sound and Copper River Valley Mccarthy-Glennallen AK]
+https://ice8.securenetsystems.net/KCHU
 #EXTINF:-0,KCRW 105.3 [On Air][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-0,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com][alt]
@@ -367,6 +377,8 @@ https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
 http://playerservices.streamtheworld.com/api/livestream-redirect/KCUKFMAAC.aac
 #EXTINF:-0,KGOU 106.3 [Oklahoma City / Norman OK][kgou.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+#EXTINF:-0,KHNS 102.3 [Haines AK]
+https://khns.streamguys1.com/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/khpr2.mp3
 #EXTINF:-0,KIPO 89.3 [Hawaii][hawaiipublicradio.org]
@@ -421,10 +433,20 @@ https://peridot.streamguys1.com:5095/live
 http://streams.kqed.org/kqedradio
 #EXTINF:-0,KQED Public Radio [Latest News][San Francisco][kqed.org][On Demand]
 https://www.kqed.org/.stream/anon/radio/RDnews/newscast.mp3
-#EXTINF:-0,KSDP 830 [St Paul AK][apradio.org][Stream Missing]
-http//:no.stream
+#EXTINF:-0,KRLL 93.9 Voice Of Denali [Circle AK][krff891.com][http://mixlr.com/krff-891-voice-of-denali]
+https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
+#EXTINF:-0,KSDP 830 [False Pass / Sand Point AK][apradio.org]
+https://stream.apradio.org/stream.aac
 #EXTINF:-0,KSKA 91.1 [Anchorage AK][knba.org]
 https://alaskapublic-live.streamguys1.com/aac-web
+#EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
+https://ksko.streamguys1.com/live-aac
+#EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
+https://ksko.streamguys1.com/live
+#EXTINF:-0,KSTK KSTK 101.7 Stikine River Radio [Wrangell AK][kstk.org]
+https://war.streamguys1.com:7165/
+#EXTINF:-0,KTNA 88.9 Community Radio for the Susitna Valley [Talkeetna AK][ktna.org]
+https://ktna.broadcasttool.stream/play
 #EXTINF:-0,KTOO 104.3 [Juneau AK][ktoo.org]
 https://13693.live.streamtheworld.com/KTOOFMAAC.aac
 #EXTINF:-0,KTOO 104.3 [KRNN-102.7 Music][Juneau AK][ktoo.org]
@@ -439,6 +461,8 @@ https://streaming.azpm.org/kuaz48.mp3.m3u
 https://streaming.azpm.org/kuaz128.mp3.m3u
 #EXTINF:-0,KUAZ 89.1 FM /1550 AM [Tucson AZ][radio.azpm.org/kuaz/][MP3 192k]
 https://streaming.azpm.org/kuaz192.mp3.m3u
+#EXTINF:-0,KUCB [Unalaska AK][kucb.org]
+https://kucb.streamguys1.com/live
 #EXTINF:-0,KUCV 91.1 [Lincoln NB][nebraskapublicmedia.org]
 https://18533.live.streamtheworld.com/KUCVFM.mp3
 #EXTINF:-0,KUCV 91.1 [Lincoln NB][nebraskapublicmedia.org]
@@ -465,6 +489,10 @@ https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
 https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
 #EXTINF:-0,KWGS 89.5 [Tulsa OK][publicradiotulsa.org]
 https://utulsa.streamguys1.com/KWGSHD1.mp3
+#EXTINF:-0,KYUK 640/90.3 Public Media for Alaska's Yukon-Kuskokwim Delta [Bethel AK][kyuk.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
+#EXTINF:-0,KZPA 900 [Ft Yukon AK][kzparadio.org][stream missing]
+http://no.stream
 #EXTGRP:-0,Minnesota Public Radio
 #EXTINF:-0,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
