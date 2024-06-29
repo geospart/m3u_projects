@@ -91,6 +91,12 @@ https://wgbh-live.streamguys1.com/Bach-8108
 https://wgbh-live.streamguys1.com/BSOConcert-8106
 #EXTINF:-0,WGBH/CRB 99.5 [CH5-Early Music/Classical][Boston Mass][www.wgbh.org]
 https://wgbh-live.streamguys1.com/BostonEarlyMusic-8112
+#EXTINF:-0,WGCU 90.1 HD1 [Fort Myers FL][Serving Soutwest Florida][wgcu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM_ADP.aac
+#EXTINF:-0,WGCU 90.1 HD2 [Classical][Fort Myers FL][Serving Soutwest Florida][wgcu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM_CLASSICAL.mp3
+#EXTINF:-0,WGCU 90.1 HD3 [Talk][Fort Myers FL][Serving Soutwest Florida][wgcu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGCUHD3.aac
 #EXTINF:-0,WGPB 97.7 Classical [Atlanta][GPB][gpg.org/radio][mp3 128k]
 https://gpb-geo.streamguys1.com/gpb/gpb-classical-mp3
 #EXTINF:-0,WGPB 97.7 Classical [Atlanta][GPB][gpg.org/radio][128k]
@@ -108,21 +114,35 @@ https://wjab.streamguys1.com/WJAB-HD2
 #EXTINF:-0,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3
 #EXTINF:-0,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org][alt]
-https://18373.live.streamtheworld.com/WJCTFM.mp3
+https://26353.live.streamtheworld.com/WJCTFM.mp3
 #EXTINF:-0,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org][alt1]
 https://playerservices.streamtheworld.com/pls/WJCTFM.pls
-#EXTINF:-0,WJCT-FM-NEWS [Latest Local News On Demand][Jacksonville][news.wjct.org]
-https://media.publicbroadcasting.net/wjct/newscast/newscast.mp3
 #EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org]
-http://24453.live.streamtheworld.com/WJCT_HD2.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD2.mp3
 #EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt]
+https://26353.live.streamtheworld.com/WJCT_HD2.mp3
+#EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt1]
+http://24453.live.streamtheworld.com/WJCT_HD2.mp3
+#EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt2]
 https://24453.live.streamtheworld.com/WJCT_HD2.mp3
 #EXTINF:-0,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3.mp3
+#EXTINF:-0,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][wjct.org][alt]
+https://26413.live.streamtheworld.com/WJCTHD3.mp3
+#EXTINF:-0,WJCT-HD3 [Decades/Anthology 60's Music][Jacksonville][wjct.org][alt1]
+https://18073.live.streamtheworld.com/WJCTHD3.mp3
 #EXTINF:-0,WJCT-HD4 [The Independant][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3
+#EXTINF:-0,WJCT-HD4 [The Independant][Jacksonville][wjct.org][alt]
+https://26353.live.streamtheworld.com/WJCT_HD4.mp3
+#EXTINF:-0,WJCT-HD4 [The Independant][Jacksonville][wjct.org][alt1]
+https://18373.live.streamtheworld.com/WJCT_HD4.mp3
 #EXTINF:-0,WJCT-RRS [Reading Services][Jacksonville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_RRS.mp3
+#EXTINF:-0,WJCT-FM-NEWS [Latest Local News On Demand][Jacksonville][news.wjct.org]
+https://media.publicbroadcasting.net/wjct/newscast/newscast.mp3
+#EXTINF:-0,WJCT-FM-NEWS [Latest National News On Demand][Jacksonville][news.wjct.org][might fail check]
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR8917374950.mp3
 #EXTINF:-0,WJFF 90.5 [Radio Catskills][Liberty / Jefferson NY][wjffradio.org]
 https://stream1.rcast.net/69645
 #EXTINF:-0,WLIW-FM was WPPB 88.3 [South Hampton Long Island][wliw.org]
@@ -193,14 +213,34 @@ https://wpln.streamguys1.com/wplnfm.aac
 https://wpln.streamguys1.com/wplnam.mp3.m3u
 #EXTINF:-0,WPSU 91.5 Penn State [News][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
-#EXTINF:-0, WPSU 91.5 Penn State [Classical][University Park][NPR/College][wpsu.org]
+#EXTINF:-0,WPSU 91.5 Penn State [Classical][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
-#EXTINF:-0, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][MP3 64k]
+#EXTINF:-0,WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][MP3 64k]
 https://wvpublic.streamguys1.com/wvpb
-#EXTINF:-0, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 64k]
+#EXTINF:-0,WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 64k]
 https://wvpublic.streamguys1.com/wvpb64k.aac
-#EXTINF:-0, WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 256k]
+#EXTINF:-0,WPVB 98.3 [Arlington/Charleston VA][wvpublic.org][AAC 256k]
 https://wvpublic.streamguys1.com/wvpb256k.aac
+#EXTINF:-0,WQCS 90.1 HD1 Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM.mp3
+#EXTINF:-0,WQCS 90.1 HD1 Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://22113.live.streamtheworld.com/WQCSFM.mp3
+#EXTINF:-0,WQCS 90.1 HD2-Classical - Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSHD2.mp3
+#EXTINF:-0,WQCS 90.1 HD2-Classical - Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org][alt]
+https://20593.live.streamtheworld.com/WQCSHD2.mp3
+#EXTINF:-0,WQCS 90.1 HD3-IRSC River Radio - Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_HD3.mp3
+#EXTINF:-0,WQCS 90.1 HD3-IRSC River Radio - Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org][alt]
+https://19313.live.streamtheworld.com/WQCSFM_HD3.mp3
+#EXTINF:-0,WQCS 90.1 WQCP-Q91.1 R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQCPFM.mp3
+#EXTINF:-0,WQCS 90.1 WQCP-Q91.1 R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://18063.live.streamtheworld.com/WQCPFM.mp3
+#EXTINF:-0,WQCS 90.1 Reading Service R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_RRS.mp3
+#EXTINF:-0,WQCS 90.1 Reading Service R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org][alt]
+https://18153.live.streamtheworld.com/WQCSFM_RRS.mp3
 #EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
 https://stream.wqxr.org/wqxr-web
 #EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
@@ -249,18 +289,20 @@ https://18183.live.streamtheworld.com/WUAL_HD2.mp3?
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD3.mp3
 #EXTINF:-0,WUAL 91.5 HD3 [Classical Music][Tuscaloosa AL][apr.org][alt]
 https://18183.live.streamtheworld.com/WUAL_HD3.mp3
-#EXTINF:-0,WUFT 89.1 [HD3-GHQ-FM][Gainesville FL][wuft.org]
-https://ais-sa1.streamon.fm/7269_64k.mp3
 #EXTINF:-0,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][wuft.org][aac-48k]
 https://ais-sa1.streamon.fm/7647_48k.aac
+#EXTINF:-0,WUFT 89.1/90.1 [HD1-Main][Gainesville FL][wuft.org][mp3-64k]
+https://ais-sa1.streamon.fm/7647_64k.mp3
+#EXTINF:-0,WUFT 89.1 [HD2-Classical][Gainesville FL][wuft.org][aac 48k]
+https://ais-sa1.streamon.fm/7648_48k.aac
+#EXTINF:-0,WUFT 89.1 [HD2-Classical][Gainesville FL][wuft.org][mp3 64k]
+https://ais-sa1.streamon.fm/7648_64k.ap3
+#EXTINF:-0,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][aac 48k]
+https://ais-sa1.streamon.fm/7269_48k.aac
+#EXTINF:-0,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][mp3 64k]
+https://ais-sa1.streamon.fm/7269_64k.mp3
 #EXTINF:-0,WUFT-NEWS 89.1 [Latest Local News On Demand][Gainesville FL][wuft.org]
 https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
-#EXTINF:-0,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][aac]
-https://ais-sa1.streamon.fm/7269_48k.aac
-#EXTINF:-0,WUFT 89.1 [HD3-GHQ][Gainesville FL][wuft.org][mp3]
-https://ais-sa1.streamon.fm/7269_64k.mp3
-#EXTINF:-0,WUFT 89.1 [HD2-Classical][Gainesville FL][wuft.org]
-https://ais-sa1.streamon.fm/7648_48k.aac
 #EXTINF:-0,WUWM 89.7 [Milwalkee WI][www.wuwm.com]
 http://wuwm.streamguys1.com/live.mp3
 #EXTINF:-0,WVAS 90.7 University of Alabama at Huntsville [Hunstville AL][alasu.ed][wvasfm.org]
@@ -286,6 +328,7 @@ https://27053.live.streamtheworld.com/KBIAHD2.mp3
 #EXTINF:-0,KBIA-HD3 91.3 [World Cafe/University of Missouri][Columbia MO][kbia.org]
 https://18123.live.streamtheworld.com/KBIAHD3.mp3
 #EXTINF:-0,KBBI 890 [Homer AK][kbbi.org]
+https://kbbi.streamguys1.com/live.mp3
 #EXTINF:-0,KBRW 680/91.9 [Barrow AK][kbrw.org]
 https://tektite.streamguys1.com:5345/live
 #EXTINF:-0,KCAW 104.7/90.1 Raven Radio [Juneau/Angoo Elfin Cove AK][kcaw.org]
