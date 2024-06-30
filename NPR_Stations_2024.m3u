@@ -293,7 +293,7 @@ https://www.wqxr.org/stream/jonathan-channel/aac.pls
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
 #EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org]
 https://stream.wqxr.org/qxr-special.aac
-#EXTINF:-0,WRFA 107.9LP [Jamestow NY]
+#EXTINF:-0,WRFA 107.9LP [Jamestow NY][wrfalp.com]
 http://wrfa.streamguys1.com/live
 #EXTINF:-0,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org]
 https://live.wrir.org/
@@ -301,11 +301,11 @@ https://live.wrir.org/
 https://24923.live.streamtheworld.com/WRJAFM.mp3
 #EXTINF:-0,WRUR 88.5 The Route [Rochester][wrur.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRURFM.mp3
-#EXTINF:-0,WRVO-1 89.9 NPR News[Clayton / Central NY]
+#EXTINF:-0,WRVO-1 89.9 NPR News[Clayton / Central NY][wrvo.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3
-#EXTINF:-0,WRVO-1 89.9 PRX Remix[Clayton / Central NY]
+#EXTINF:-0,WRVO-1 89.9 PRX Remix[Clayton / Central NY][wrvo.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD2.mp3
-#EXTINF:-0,WRVO-1 89.9 BBC World Service[Clayton / Central NY]
+#EXTINF:-0,WRVO-1 89.9 BBC World Service[Clayton / Central NY][wrvo.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD3.mp3
 #EXTINF:-0,WTNA 88.9  [Talkeetna/Sisitna Valley AK][ktna.org]
 https://ktna.broadcasttool.stream/play
@@ -387,9 +387,9 @@ https://vprclassical.streamguys1.com/vprclassical64.mp3
 https://vprmix.streamguys1.com/vprmix64.mp3
 #EXTINF:-0,WVPS 90.9 BBC World Service [Schuyler Falls VT]
 https://vprbbc.streamguys1.com/vprbbc24.mp3
-#EXTINF:-0,WXXI 1370 News [wxxi.org][wxxinews.org]
+#EXTINF:-0,WXXI 1370 News [Rochester NY][wxxi.org][wxxinews.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3
-#EXTINF:-0,WXXI 91.5 Classical [wxxi.org][wxxiclassical.org]
+#EXTINF:-0,WXXI 91.5 Classical [Rochester NY][wxxi.org][wxxiclassical.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
 #EXTINF:-0,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
@@ -439,7 +439,7 @@ https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
 http://playerservices.streamtheworld.com/api/livestream-redirect/KCUKFMAAC.aac
 #EXTINF:-0,KGOU 106.3 [Oklahoma City / Norman OK][kgou.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
-#EXTINF:-0,KHNS 102.3 [Haines AK]
+#EXTINF:-0,KHNS 102.3 [Haines AK][khns.org]
 https://khns.streamguys1.com/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/khpr2.mp3
