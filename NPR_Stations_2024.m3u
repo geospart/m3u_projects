@@ -8,11 +8,11 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,AR,AS,AZ,CA,FL,GU,IA,ME,MP,MT,NE
-# Verified done NJ,NY,PR,VI,VT
+# Verified done AL,AK,AR,AS,AZ,CA,FL,GU,IA,ME,MN,MP,MT
+# Verified done NE,NJ,NY,PR,VI,VT
 # Need CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
-# Need MN,MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN
-# Need TT,TX,UT,VA,WA,WI,WV,WY
+# Need MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD
+# Need TN,TT,TX,UT,VA,WA,WI,WV,WY
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
 # TT-Trust Territories, VI - Virgin Islands
 # AS-American Samoa
@@ -56,6 +56,8 @@ https://nepr.streamguys1.com/WFCR.mp3
 https://ideastream.streamguys1.com/wcpn.mp3
 #EXTINF:-0,WDLG 670/89.9 [Dillington AK][kdlg.org]
 https://peace.streamguys1.com:6095/kdlg
+#EXTINF:-0,WDSE 103.3 The North [Duluth MN][thenorth1033.org]
+https://thenorth1033.streamguys1.com/live
 #EXTINF:-0,WEOS 105.7 Finger Lakes Public Radio[Geneva NY][weos.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEOSFM.mp3
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
@@ -392,6 +394,8 @@ https://wskg.streamguys1.com/wskg-nocturne
 https://ycradio.stream.publicradio.org/ycradio.aac
 #EXTINF:-0,WSQX 91.5 [WSKG Holiday A2Z][Binghamton NY][wskg.org]
 https://wskg.streamguys1.com/wskg-holiday-news
+#EXTINF:-0,WTIP North Shore Community Radio [Grand Marais MN][wtip.org]
+https://wtip.broadcasttool.stream/stream
 #EXTINF:-0,WTSU 88.7 Troy University [Troy AL][troy.edu]
 http://live.str3am.com:2380/troy1
 #EXTINF:-0,WUAL 91.5 HD1 [APR][Tuscaloosa AL][apr.org]
@@ -452,6 +456,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3
 https://22113.live.streamtheworld.com/WYPR_HD3.mp3
 #EXTINF:-0,KASU 91.9 State University Radio [State Univerity AR][kazu.org]
 https://kasu.streamguys1.com/live.mp3?uuid=1gsosapna
+#EXTINF:-0,KAXE/KBXE 91.7/90.5 Northern Community Radio [Grand Rapids/Bagley MN][kaxe.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAXEFMAAC.aac
+#EXTINF:-0,KAKE/KBXE 91.7/90.5 Northern Community Radio [Grand Rapids/Bagley MN][kaxe.org]
+https://24983.live.streamtheworld.com/KAXEFMAAC.aac
 #EXTINF:-0,KAZU [CSU Monterey Bay CA][kazu.org]
 https://icecastle.csumb.edu/live128
 #EXTINF:-0,KBAQ 89.5 KBACH [Classical][Tempe AZ][kbaq.org]
@@ -464,6 +472,10 @@ https://27053.live.streamtheworld.com/KBIAHD2.mp3
 https://18123.live.streamtheworld.com/KBIAHD3.mp3
 #EXTINF:-0,KBBI 890 [Homer AK][kbbi.org]
 https://kbbi.streamguys1.com/live.mp3
+#EXTINF:-0,KBEM 88.5 [[Jazz]Minneapolis MN][jazz88.fm]
+https://kbem-live.streamguys1.com/jazztracks_mp3
+#EXTINF:-0,KBEM 88.5 [Traffic][Minneapolis MN][jazz88.fm]
+https://kbem-od.streamguys1.com/traffic/RTMC.mp3
 #EXTINF:-0,KBRW 680/91.9 [Barrow AK][kbrw.org]
 https://tektite.streamguys1.com:5345/live
 #EXTINF:-0,KCAW 104.7/90.1 Raven Radio [Juneau/Angoo Elfin Cove AK][kcaw.org]
@@ -506,26 +518,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3
 #EXTINF:-0,KDAQ-HD4 90.9 Red River Radio [Alt red River][Shreveport LA][redriverradio.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4.mp3
-#EXTINF:-0,KUSC/KDFC 91.5/90.3 Classical California [Los Angeles CA][kusc.org]
-https://14103.live.streamtheworld.com/KUSCAAC96.aac
-#EXTINF:-0,KUSC/KDFC California Sounds Glissando [Los Angeles CA][kusc.org]
-https://27153.live.streamtheworld.com/CC9_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC Arcade [Los Angeles CA][kusc.org]
-https://27223.live.streamtheworld.com/CC8_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC California Ultimate Playlist [Los Angeles CA][kusc.org]
-https://25043.live.streamtheworld.com/CC1_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC The Great Escape [Los Angeles CA][kusc.org]
-https://27153.live.streamtheworld.com/CC4_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC Nuestra Musica in English [Los Angeles CA][kusc.org]
-https://25043.live.streamtheworld.com/CC7_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC Classical California Movie Music [Los Angeles CA][kusc.org]
-https://25043.live.streamtheworld.com/CC3_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC Nuestra Musica in Spanish [Los Angeles CA][kusc.org]
-https://25043.live.streamtheworld.com/CC6_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC Classical Americana [Los Angeles CA][kusc.org]
-https://27223.live.streamtheworld.com/CC5_S01AAC_96.aac
-#EXTINF:-0,KUSC/KDFC A Classical California Christmas [Los Angeles CA][kusc.org]
-https://27153.live.streamtheworld.com/CC2_S01AAC_96.aac
 #EXTINF:-0,KXJZ CapRadio [Sacramento CA][capradio.org]
 https://22963.live.streamtheworld.com/KXJZAAC.aac
 #EXTINF:-0,KXJZ Capradio Music [Sacramento CA][capradio.org]
@@ -582,6 +574,10 @@ https://kjzz.streamguys1.com/kjzzhd2_mp3_128
 https://23243.live.streamtheworld.com/KKJZFMAAC.aac
 #EXTINF:-0,KKJZ 88.1 [BeeBop][Long Beach CA][kkjz.org]
 https://das-edge13-live365-dal02.cdnstream.com/a45189_2
+#EXTINF:-0,KMOJ 89.9-HD1 The Peoples Station [Main][Minneapolis MN][kmojfm.com]
+https://kmojfm.streamguys1.com/live
+#EXTINF:-0,KMOJ 89.9-HD2 The Peoples Station [The Ice][Minneapolis MN][kmojfm.com]
+https://kmojfm.streamguys1.com/theice
 #EXTINF:-0,KMUD 91.1 Redwood Community Radio [Redway CA][kmud.org]
 https://kmud.streamguys1.com/live
 #EXTINF:-0,KMXT 100.1 [Kodiak Island AK][kmxt.org]
@@ -662,6 +658,8 @@ https://jpr-ice.streamguys1.com/jpr-rhythm
 https://jpr-ice.streamguys1.com/jpr-news
 #EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [Classics and News][Yreka CA][ijpr.org]
 https://jpr-ice.streamguys1.com/jpr-classics
+#EXTINF:-0,KSRQ Pioneer 90.1 Northland Broadcasting	[The River Falls MN][radionorthland.org]
+https://amber.streamguys1.com:6095/livehd1.mp3
 #EXTINF:-0,KSTK KSTK 101.7 Stikine River Radio [Wrangell AK][kstk.org]
 https://war.streamguys1.com:7165/
 #EXTINF:-0,KTNA 88.9 Community Radio for the Susitna Valley [Talkeetna AK][ktna.org]
@@ -702,6 +700,26 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
 https://18533.live.streamtheworld.com/KUFMFM.mp3
 #EXTINF:-0,KUHB 91.9 [St Paul AK][kuhbradio.org]
 https://ice8.securenetsystems.net/KUHB
+#EXTINF:-0,KUSC/KDFC 91.5/90.3 Classical California [Los Angeles CA][kusc.org]
+https://14103.live.streamtheworld.com/KUSCAAC96.aac
+#EXTINF:-0,KUSC/KDFC California Sounds Glissando [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC9_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Arcade [Los Angeles CA][kusc.org]
+https://27223.live.streamtheworld.com/CC8_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC California Ultimate Playlist [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC1_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC The Great Escape [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC4_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Nuestra Musica in English [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC7_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Classical California Movie Music [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC3_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Nuestra Musica in Spanish [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC6_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Classical Americana [Los Angeles CA][kusc.org]
+https://27223.live.streamtheworld.com/CC5_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC A Classical California Christmas [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC2_S01AAC_96.aac
 #EXTINF:-0,KUSU 91.5 UPR Live [News][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8020/
 #EXTINF:-0,KUSU 91.5 UPR Too [Classical][LOGAN UT][Utah State University][www.upr.org]
