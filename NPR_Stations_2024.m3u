@@ -8,7 +8,12 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,AR,FL,IA,ME,NB.NJ,NY,VT
+# Verified done AL,AK,AR,FL,IA,ME,NE.NJ,NY,VT
+# Need AZ,AS,CA,CO,CT,DE,DC,GA,GU,HI,ID,IL,KS,KY,LA,MA,MD,MI
+# Need MN,MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,PR,RI,SC,SD,TN
+# Need TT,TX,UT,VA,VI,WA,WI,WV,WY
+# GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
+# TT-Trust Territories, VI - Virgin Islands
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
