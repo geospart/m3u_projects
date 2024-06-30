@@ -304,35 +304,35 @@ https://18063.live.streamtheworld.com/WQCPFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_RRS.mp3
 #EXTINF:-0,WQCS 90.1 Reading Service R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org][alt]
 https://18153.live.streamtheworld.com/WQCSFM_RRS.mp3
-#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files][mp3-128k]
 https://stream.wqxr.org/wqxr-web
-#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files][aac-49k]
 https://www.wqxr.org/stream/wqxr/aac.pls
-#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files]
+#EXTINF:-0,WQXR 105.9 [Classical][New York NY][www.wnyc.org][www.wqxr.org/stream-files][mp3-128k]
 https://www.wqxr.org/stream/wqxr/mp3.pls
-#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org][mp3-128k]
 https://q2stream.wqxr.org/q2-web
-#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org][aac-48k]
 https://www.wqxr.org/stream/q2/aac.pls
-#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [New Sounds Music][New York NY][www.wqxr.org][www.wnyc.org][mp3-128k]
 https://www.wqxr.org/stream/q2/mp3.pls
-#EXTINF:-0,WQXR 105.9 [New Standards Jazz][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [New Standards Jazz][New York NY][www.wqxr.org][www.wnyc.org][aac-47k]
 https://tjc.wnyc.org/js-stream.aac
-#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org][mp3-128k]
 https://opera-stream.wqxr.org/operavore-web
-#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org][aac-47k]
 https://www.wqxr.org/stream/wqxr-special/aac.pls
-#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [Operavore Classical][New York NY][www.wqxr.org][www.wnyc.org][mp3-128k]
 https://www.wqxr.org/stream/wqxr-special/mp3.pls
-#EXTINF:-0,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org][aac-47k]
 https://www.wqxr.org/stream/jonathan-channel/aac.pls
-#EXTINF:-0,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [The Johnathan Channel-Jazz-Music][New York NY][www.wqxr.org][www.wnyc.org][mp3-128k]
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
-#EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org]
+#EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org][aac-48k]
 https://stream.wqxr.org/qxr-special.aac
-#EXTINF:-0,WRFA 107.9LP [Jamestow NY][wrfalp.com]
+#EXTINF:-0,WRFA 107.9LP [Jamestow NY][wrfalp.com][mp3-64k]
 http://wrfa.streamguys1.com/live
-#EXTINF:-0,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org]
+#EXTINF:-0,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org][mp3-192k]
 https://live.wrir.org/
 #EXTINF:-0,WRJA 88.1 [WRJA/WLTR-SC News & Music][Central/Columbia SC][www.southcarolinapublicradio.org]
 https://24923.live.streamtheworld.com/WRJAFM.mp3
@@ -438,17 +438,17 @@ https://vprbbc.streamguys1.com/vprbbc24.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3
 #EXTINF:-0,WXXI 91.5 Classical [Rochester NY][wxxi.org][wxxiclassical.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
-#EXTINF:-0,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org]
+#EXTINF:-0,WYPR HD1 88.1 [Baltimore MD][www.wypr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
-#EXTINF:-0,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org][alt]
+#EXTINF:-0,WYPR HD1 88.1 [Baltimore MD][www.wypr.org][alt]
 https://18373.live.streamtheworld.com/WYPR_HD1.mp3
-#EXTINF:-0,WYPR HD2 88.1 [Milwalkee WI][www.wypr.org]
+#EXTINF:-0,WYPR HD2 88.1 [Baltimore MD][www.wypr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2.mp3
-#EXTINF:-0,WYPR HD2 88.1 [Milwalkee WI][www.wypr.org][alt]
+#EXTINF:-0,WYPR HD2 88.1 [Baltimore MD][www.wypr.org][alt]
 https://22113.live.streamtheworld.com/WYPR_HD2.mp3
-#EXTINF:-0,WYPR HD3 88.1 [Milwalkee WI][www.wypr.org]
+#EXTINF:-0,WYPR HD3 88.1 [Baltimore MD][www.wypr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3
-#EXTINF:-0,WYPR HD3 88.1 [Milwalkee WI][www.wypr.org][alt]
+#EXTINF:-0,WYPR HD3 88.1 [Baltimore MD][www.wypr.org][alt]
 https://22113.live.streamtheworld.com/WYPR_HD3.mp3
 #EXTINF:-0,KASU 91.9 State University Radio [State Univerity AR][kazu.org]
 https://kasu.streamguys1.com/live.mp3?uuid=1gsosapna
@@ -493,8 +493,29 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3
 #EXTINF:-0,KDAQ-HD2 90.9 Red River Radio [All Classical][Shreveport LA][redriverradio.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 #EXTINF:-0,KDAQ-HD3 90.9 Red River Radio [News/Talk][Shreveport LA][redriverradio.org]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3
 #EXTINF:-0,KDAQ-HD4 90.9 Red River Radio [Alt red River][Shreveport LA][redriverradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4.mp3
+#EXTINF:-0,KUSC/KDFC 91.5/90.3 Classical California [Los Angeles CA][kusc.org]
+https://14103.live.streamtheworld.com/KUSCAAC96.aac
+#EXTINF:-0,KUSC/KDFC California Sounds Glissando [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC9_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Arcade [Los Angeles CA][kusc.org]
+https://27223.live.streamtheworld.com/CC8_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC California Ultimate Playlist [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC1_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC The Great Escape [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC4_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Nuestra Musica in English [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC7_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Classical California Movie Music [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC3_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Nuestra Musica in Spanish [Los Angeles CA][kusc.org]
+https://25043.live.streamtheworld.com/CC6_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC Classical Americana [Los Angeles CA][kusc.org]
+https://27223.live.streamtheworld.com/CC5_S01AAC_96.aac
+#EXTINF:-0,KUSC/KDFC A Classical California Christmas [Los Angeles CA][kusc.org]
+https://27153.live.streamtheworld.com/CC2_S01AAC_96.aac
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Main][Billings MT][ypradio.org]
 https://ypr.streamguys1.com/live
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Classical][Billings MT][ypradio.org]
@@ -517,6 +538,14 @@ http://win.2.c3.audiovideoweb.com/2c3winlive6728
 https://khns.streamguys1.com/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/khpr2.mp3
+#EXTINF:-0,KHSU/KHSQ 90.5/107.7 Diverse Public Radio [Arcata/Trinidad CA][mp3]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHSUFM.mp3
+#EXTINF:-0,KHSU/KHSQ 90.5/107.7 Diverse Public Radio [Arcata/Trinidad CA][aac]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHSUFMAAC.aac
+#EXTINF:-0,KHSU/KHSQ 90.5/107.7 Diverse Public Bilingüe [Arcata/Trinidad CA][mp3]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHSMFM.mp3
+#EXTINF:-0,KHSU/KHSQ 90.5/107.7 Diverse Public Bilingüe [Arcata/Trinidad CA][aac]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHSMFMAAC.aac
 #EXTINF:-0,KIOS 91.5 Omaha Public Radio [Omaha NB][kios.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KIOSFM.mp3
 #EXTINF:-0,KIPO 89.3 [Hawaii][hawaiipublicradio.org]
@@ -579,6 +608,8 @@ https://war.streamguys1.com:8085/krbd
 http://streams.kqed.org/kqedradio
 #EXTINF:-0,KQED Public Radio [Latest News][San Francisco][kqed.org][On Demand]
 https://www.kqed.org/.stream/anon/radio/RDnews/newscast.mp3
+#EXTINF:-0 KRCB 104.9 [Santa Rosa Sanoma County CA] Nothern Californoa Public Media [Sanoma County CA][norcalpublicmedia.org/radio/radio]
+https://amber.streamguys1.com:5545/live
 #EXTINF:-0,KREE 88.1 Radio Bilingüe [Pirtleville AZ][radiobilingue.org][need stream]
 http://no.stream
 #EXTINF:-0,KRLL 93.9 Voice Of Denali [Circle AK][krff891.com][http://mixlr.com/krff-891-voice-of-denali]
@@ -591,6 +622,12 @@ https://alaskapublic-live.streamguys1.com/aac-web
 https://ksko.streamguys1.com/live-aac
 #EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
 https://ksko.streamguys1.com/live
+#EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [Rhythm and News][Yreka CA][ijpr.org]
+https://jpr-ice.streamguys1.com/jpr-rhythm
+#EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [News and Information][Yreka CA][ijpr.org]
+https://jpr-ice.streamguys1.com/jpr-news
+#EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [Classics and News][Yreka CA][ijpr.org]
+https://jpr-ice.streamguys1.com/jpr-classics
 #EXTINF:-0,KSTK KSTK 101.7 Stikine River Radio [Wrangell AK][kstk.org]
 https://war.streamguys1.com:7165/
 #EXTINF:-0,KTNA 88.9 Community Radio for the Susitna Valley [Talkeetna AK][ktna.org]
@@ -673,6 +710,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
 http://no.stream
 #EXTINF:-0,KZUM 89.3 [Lincoln NE][kzum.org]
 http://us4.internet-radio.com:8030/stream
+#EXTINF:-0,KZYX 88.1 Mendocino County Public Broadcasting [Fort Bragg/ Philo CA][kzyx.org]
+https://kzyx.mcn.org/kzyxlive
 #EXTGRP:-0,Minnesota Public Radio
 #EXTINF:-0,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
