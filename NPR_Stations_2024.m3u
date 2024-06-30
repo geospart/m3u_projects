@@ -3,12 +3,12 @@
 # By @geospart
 # https://mastodon.social/@geospart
 # NPR stations I listen to. 
-# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# Note: Excluded local network re-broadcast stations.
 # created 06/24/2024
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,FL,IA,NB
+# Verified done AL,AK,FL,IA,NB.NY
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -47,6 +47,8 @@ https://nepr.streamguys1.com/WFCR.mp3
 https://ideastream.streamguys1.com/wcpn.mp3
 #EXTINF:-0,WDLG 670/89.9 [Dillington AK][kdlg.org]
 https://peace.streamguys1.com:6095/kdlg
+#EXTINF:-0,WEOS 105.7 Finger Lakes Public Radio[Geneva NY][weos.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEOSFM.mp3
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
 https://18183.live.streamtheworld.com/WERSFMAAC.aac
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
@@ -113,8 +115,12 @@ https://gpb.streamguys1.com/oom/gpb-classical-mp3-website
 https://gpb-geo.streamguys1.com/gpb/gpb-radio-mp3
 #EXTINF:-0,WGPB 97.7 [Atlanta][GPB][gpg.org/radio][62k]
 https://gpb.streamguys1.com/oom/gpb-atlanta-aac-website
+#EXTINF:-0,WHDD 1020/91.9-97.5 Robin Hood Radio [WBSL 91.7 WLHV 88.1][Annandale-on-Hudson][robinhoodradio.com]
+https://ic2.mainstreamnetwork.com/whdd-fm
 #EXTINF:-0,WHYY-FM 90.9 [Philadephia PA][whyy.org/radio-podcasts]
 https://whyy.streamguys1.com/whyy-mp3
+#EXTINF:-0,WITH 90.1 The Route [Ithaca NY][withradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WITHFM.mp3
 #EXTINF:-0,WJAB-FM 90.9 [Normal Al][wjab.org]
 https://wjab.streamguys1.com/
 #EXTINF:-0,WJAB-FM HD2 [Normal Al][wjab.org]
@@ -287,17 +293,61 @@ https://www.wqxr.org/stream/jonathan-channel/aac.pls
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
 #EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org]
 https://stream.wqxr.org/qxr-special.aac
+#EXTINF:-0,WRFA 107.9LP [Jamestow NY]
+http://wrfa.streamguys1.com/live
 #EXTINF:-0,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org]
 https://live.wrir.org/
 #EXTINF:-0,WRJA 88.1 [WRJA/WLTR-SC News & Music][Central/Columbia SC][www.southcarolinapublicradio.org]
-https://24923.live.streamtheworld.com/WRJAFM.mp3?uuid=stjtavfxn
+https://24923.live.streamtheworld.com/WRJAFM.mp3
+#EXTINF:-0,WRUR 88.5 The Route [Rochester][wrur.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRURFM.mp3
+#EXTINF:-0,WRVO-1 89.9 NPR News[Clayton / Central NY]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3
+#EXTINF:-0,WRVO-1 89.9 PRX Remix[Clayton / Central NY]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD2.mp3
+#EXTINF:-0,WRVO-1 89.9 BBC World Service[Clayton / Central NY]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD3.mp3
 #EXTINF:-0,WTNA 88.9  [Talkeetna/Sisitna Valley AK][ktna.org]
 https://ktna.broadcasttool.stream/play
+#EXTINF:-0,WSHU 89.9 News Talk [Noyack NY][wshu.org]
+https://wshu-iad.streamguys1.com/wshu-air
+#EXTINF:-0,WSHU 89.9 News Music [Noyack NY][wshu.org]
+https://wshu-iad.streamguys1.com/wshu-news
+#EXTINF:-0,WSHU 89.9 Classical [Noyack NY][wshu.org]
+https://wshu-iad.streamguys1.com/wshu-classical
+#EXTINF:-0,WSKG 89.3 [Vestal NY][wskg.org]
+https://wskg.streamguys1.com/wskg
 #EXTINF:-0,WSLU 88.1 [Canton NY St Lawrence County][St Lawrence University][northcountrypublicradio.org]
 https://ncpr-ice.streamguys1.com/ncpr-96k.mp3
+#EXTINF:-0,WSQX 91.5 [Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg
+#EXTINF:-0,WSQX 91.5 [WSQX-Classical][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wsqx
+#EXTINF:-0,WSQX 91.5 [WSKG-89.3-Jazz][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-classic-jazz
+#EXTINF:-0,WSQX 91.5 [WSKG Backyard Tracks][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/backyard-tracks
+#EXTINF:-0,WSQX 91.5 [Much More Mozart][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/much-more-mozart
+#EXTINF:-0,WSQX 91.5 [WSKG Beethoven A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-beethoven-alexa
+#EXTINF:-0,WSQX 91.5 [WSKG Bachanalia A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-bachanalia
+#EXTINF:-0,WSQX 91.5 [WSKG New World A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/new-world-test
+#EXTINF:-0,WSQX 91.5 [WSKG In Concert A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/IN-CONCERT-A2Z
+#EXTINF:-0,WSQX 91.5 [WSKG Pops A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-pops
+#EXTINF:-0,WSQX 91.5 [WSKG Nocturne A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-nocturne
+#EXTINF:-0,WSQX 91.5 [Your Classical Music][Binghamton NY][wskg.org]
+https://ycradio.stream.publicradio.org/ycradio.aac
+#EXTINF:-0,WSQX 91.5 [WSKG Holiday A2Z][Binghamton NY][wskg.org]
+https://wskg.streamguys1.com/wskg-holiday-news
 #EXTINF:-0,WTSU 88.7 Troy University [Troy AL][troy.edu]
 http://live.str3am.com:2380/troy1
-#EXTINF:-0,WUAL 91.5	HD1 [APR][Tuscaloosa AL][apr.org]
+#EXTINF:-0,WUAL 91.5 HD1 [APR][Tuscaloosa AL][apr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1.mp3
 #EXTINF:-0,WUAL 91.5 HD1 [APR][Tuscaloosa AL][apr.org][alt]
 https://19303.live.streamtheworld.com/WUAL_HD1.mp3
@@ -329,6 +379,18 @@ https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
 http://wuwm.streamguys1.com/live.mp3
 #EXTINF:-0,WVAS 90.7 University of Alabama at Huntsville [Hunstville AL][alasu.ed][wvasfm.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WVASFM.MP3
+#EXTINF:-0,WVPS 90.9 Vermont Public Radio [Schuyler Falls VT]
+https://vpr.streamguys1.com/vpr64.mp3
+#EXTINF:-0,WVPS 90.9 Vermont Public Classical [Schuyler Falls VT]
+https://vprclassical.streamguys1.com/vprclassical64.mp3
+#EXTINF:-0,WVPS 90.9 Remix [Schuyler Falls VT]
+https://vprmix.streamguys1.com/vprmix64.mp3
+#EXTINF:-0,WVPS 90.9 BBC World Service [Schuyler Falls VT]
+https://vprbbc.streamguys1.com/vprbbc24.mp3
+#EXTINF:-0,WXXI 1370 News [wxxi.org][wxxinews.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3
+#EXTINF:-0,WXXI 91.5 Classical [wxxi.org][wxxiclassical.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
 #EXTINF:-0,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
 #EXTINF:-0,WYPR HD1 88.1 [Milwalkee WI][www.wypr.org][alt]
