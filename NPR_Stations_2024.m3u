@@ -9,10 +9,10 @@
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
 # Verified done AL,AK,AR,AS,AZ,CA,FL,GU,IA,ME,MN,MP,MT
-# Verified done NE,NJ,NY,PR,VI,VT
+# Verified done NE,NH,NJ,NY,PR,VI,VT,WY
 # Need CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
-# Need MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD
-# Need TN,TT,TX,UT,VA,WA,WI,WV,WY
+# Need MO,MP,MS,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD
+# Need TN,TT,TX,UT,VA,WA,WI,WV
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
 # TT-Trust Territories, VI - Virgin Islands
 # AS-American Samoa
@@ -90,6 +90,10 @@ https://stream.pacificaservice.org:9000/weru_128
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
 #EXTINF:-0,WETA 90.9 [Classical][Arlington VA][weta.org/fm]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
+#EXTINF:-0,WEVO 89.1 New Hampshire Public Radio [Main][Concord NH][nhpr.org]
+https://nhpr.streamguys1.com/nhpr.mp3?uuid=1zi89zfbi
+#EXTINF:-0,WEVO 89.1 New Hampshire Public Radio [Classical][Concord NH][nhpr.org]
+https://nhpr.streamguys1.com/classical.mp3?uuid=1zi89zfbi
 #EXTINF:-0,WFCL 91.1 [WPLN/WfCL/WNXP-Classical][Nashville TN][nashvillepublicradio.org]
 https://wpln.streamguys1.com/wfclfm.aac
 #EXTINF:-0,WFMT [Classical][Chicago][wfmt.com]
@@ -426,6 +430,8 @@ https://ais-sa1.streamon.fm/7269_48k.aac
 https://ais-sa1.streamon.fm/7269_64k.mp3
 #EXTINF:-0,WUFT-NEWS 89.1 [Latest Local News On Demand][Gainesville FL][wuft.org]
 https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
+#EXTINF:-0,WUMB 88.7 [Milforn NH][wumb.org]
+http://wumb.streamguys1.com/wumb919fast
 #EXTINF:-0,WUWM 89.7 [Milwalkee WI][www.wuwm.com]
 http://wuwm.streamguys1.com/live.mp3
 #EXTINF:-0,WVAS 90.7 University of Alabama at Huntsville [Hunstville AL][alasu.ed][wvasfm.org]
@@ -546,6 +552,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
 http://win.2.c3.audiovideoweb.com/2c3winlive6728
 #EXTINF:-0,KHNS 102.3 [Haines AK][khns.org]
 https://khns.streamguys1.com/live
+#EXTINF:-0,KHOL 89.1 Community Radio [Jackson Hole WY][891khol.org]
+http://peridot.streamguys.com:6010/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/khpr2.mp3
 #EXTINF:-0,KHSU/KHSQ 90.5/107.7 Diverse Public Radio [Arcata/Trinidad CA][mp3]
@@ -734,6 +742,14 @@ https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
 https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
 #EXTINF:-0,KUTX 98.9 [TMX][Austin TX][kutx.org]
 https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
+#EXTINF:-0,KUWR 90.1 Wyoming Public Radio /University of Wyoming[Laramie WT][wyomingpublicmedia.org]
+https://wyoming-public-ice.streamguys1.com/WPR128MP3
+#EXTINF:-0,KUWR 90.1 Wyoming Classical /University of Wyoming[Laramie WT][wyomingpublicmedia.org]
+https://wyoming-public-ice.streamguys1.com/CLS128MP3
+#EXTINF:-0,KUWR 90.1 Wyoming Sounds /University of Wyoming[Laramie WT][wyomingpublicmedia.org]
+https://wyoming-public-ice.streamguys1.com/WYS128MP3
+#EXTINF:-0,KUWR 90.1 Jazz Wyoming /University of Wyoming[Laramie WT][wyomingpublicmedia.org]
+https://wyoming-public-ice.streamguys1.com/JZZ128MP3
 #EXTINF:-0,KVMR 89.5 [Nevada City CA][kvmr.org]
 https://sslstream.kvmr.org:9433/aac96
 #EXTINF:-0,KVNO-HD1-News 90.7 [Omaha NE][kvno.org]
