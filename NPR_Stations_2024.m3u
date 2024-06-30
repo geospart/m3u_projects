@@ -8,13 +8,14 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,AR,AZ,FL,GU,IA,ME,MP,NE.NJ,NY,PR,VI
-# Verified done VT
-# Need AS,CA,CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
+# Verified done AL,AK,AR,AS,AZ,FL,GU,IA,ME,MP,MT,NE.NJ
+# Verified done NY,PR,VI,VT
+# Need CA,CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
 # Need MN,MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN
 # Need TT,TX,UT,VA,WA,WI,WV,WY
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
 # TT-Trust Territories, VI - Virgin Islands
+# AS-American Samoa
 #PLAYLIST:-0,NPR Stations
 #EXTGRP:-Main List
 #EXTINF:-0,WABE-FM-HD1 90.1 [Atlanta GA][wabe.org][aac 64k]
@@ -494,10 +495,24 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 #EXTINF:-0,KDAQ-HD3 90.9 Red River Radio [News/Talk][Shreveport LA][redriverradio.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 #EXTINF:-0,KDAQ-HD4 90.9 Red River Radio [Alt red River][Shreveport LA][redriverradio.org]
+#EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Main][Billings MT][ypradio.org]
+https://ypr.streamguys1.com/live
+#EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Classical][Billings MT][ypradio.org]
+https://ypr.streamguys1.com/live-2
+#EXTINF:-0,KEMC-HD3 91.7 Yellowstone Public Radio [Jazz][Billings MT][ypradio.org]
+https://ypr.streamguys1.com/live-3
+#EXTINF:-0,KEMC-HD4 91.7 Yellowstone Public Radio [News and Talk][Billings MT][ypradio.org]
+https://ypr.streamguys1.com/live-
 #EXTINF:-0,KGHR 91.3 Navajo Public Radio [Tuba City AZ][greyhillsacademy.org/kghr][need stream]
 http://no.stream
+#EXTINF:-0,KGLT Alternative Public Radio for Southwest Montana [Bozeman MT[[kglt.net][256k]
+https://live.kgltradio.com/256
+#EXTINF:-0,KGLT Alternative Public Radio for Southwest Montana pBozeman MT][kglt.net][128k]
+https://live.kgltradio.com/128
 #EXTINF:-0,KGOU 106.3 [Oklahoma City / Norman OK][kgou.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+#EXTINF:-0,KGVA 88.1 Aaniiih Nakoda College [Harlem MT][ancollege.edu][kgvaradio.org][offline]
+http://win.2.c3.audiovideoweb.com/2c3winlive6728
 #EXTINF:-0,KHNS 102.3 [Haines AK][khns.org]
 https://khns.streamguys1.com/live
 #EXTINF:-0,KHPR 88.1 [Hawaii][hawaiipublicradio.org]
@@ -610,9 +625,9 @@ https://kucb.streamguys1.com/live
 https://18533.live.streamtheworld.com/KUCVFM.mp3
 #EXTINF:-0,KUCV 91.1 [Lincoln NE][nebraskapublicmedia.org]
 https://18533.live.streamtheworld.com/KUCVHD2.mp3
-#EXTINF:-0,KUFM 89.1 [Uni. of Montana NR][Butte][mtpr.org]
+#EXTINF:-0,KUFM 89.1 Montana Public Radio [Uni. of Montana NR][Butte MT][mtpr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
-#EXTINF:-0,KUFM 89.1 [Uni. of Montana NR][Butte][mtpr.org]
+#EXTINF:-0,KUFM 89.1 Montana Public Radio [Uni. of Montana NR][Butte MT][mtpr.org]
 https://18533.live.streamtheworld.com/KUFMFM.mp3
 #EXTINF:-0,KUHB 91.9 [St Paul AK][kuhbradio.org]
 https://ice8.securenetsystems.net/KUHB
