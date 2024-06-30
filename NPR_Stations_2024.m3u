@@ -8,9 +8,9 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,AR,AS,AZ,FL,GU,IA,ME,MP,MT,NE.NJ
-# Verified done NY,PR,VI,VT
-# Need CA,CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
+# Verified done AL,AK,AR,AS,AZ,CA,FL,GU,IA,ME,MP,MT,NE
+# Verified done NJ,NY,PR,VI,VT
+# Need CO,CT,DE,DC,GA,HI,ID,IL,KS,KY,LA,MA,MD,MI
 # Need MN,MO,MP,MS,MT,NC,ND,NM,NV,OH,OK,OR,PA,RI,SC,SD,TN
 # Need TT,TX,UT,VA,WA,WI,WV,WY
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
@@ -468,12 +468,18 @@ https://kbbi.streamguys1.com/live.mp3
 https://tektite.streamguys1.com:5345/live
 #EXTINF:-0,KCAW 104.7/90.1 Raven Radio [Juneau/Angoo Elfin Cove AK][kcaw.org]
 https://tektite.streamguys1.com:5195/live
+#EXTINF:-0,KCBX 90.1 Central Coast Public Radio [San Luis Obispo CA][kcbx.org]
+https://kcbx-ice.streamguys1.com/kcbx-hi.mp3
+#EXTINF:-0,KCBX 90.1 Central Coast Public Radio [San Luis Obispo CA][kcbx.org]
+https://kcbx-ice.streamguys1.com/hd2.mp3
 #EXTINF:-0,KCCK HD1 88.3 [Jazz][Cedar Rapids IA][kcck.org]
 https://stream.kcck.org/jazz883kcck
 #EXTINF:-0,KCCK HD2 88.3 [Jazz]Cedar Rapids IA][kcck.org]
 http://stream.kcck.org/kcckjazz2
 #EXTINF:-0,KCHU-KXKM-KXGA 770-89.7 -90.5 Community Public Radio[ for Prince William Sound and Copper River Valley Mccarthy-Glennallen AK]
 https://ice8.securenetsystems.net/KCHU
+#EXTINF:-0,KCLU 88.3 [Thousand Oaks CA][kclu.org]
+https://kclustream.callutheran.edu/kclump3
 #EXTINF:-0,KCRW 105.3 [On Air][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-0,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com][alt]
@@ -486,6 +492,10 @@ http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
 https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
 #EXTINF:-0,KCRW [Bent24][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com//kcrw_192k_mp3_bent24
+#EXTINF:-0,KCSM-HD1 91.1 The Bay Area's Jazz [San Mateo CA][kcsm.org]
+https://ice7.securenetsystems.net/KCSM2
+#EXTINF:-0,KCSM-HD1 91.1 The Bay Area's Jazz [San Mateo CA][kcsm.org]
+https://ice26.securenetsystems.net/KCSMHD2
 #EXTINF:-0,KCUK 88.1 NV1 Native Voice One [Chevak AK][chevakschool.org][kcukradio.org]
 http://playerservices.streamtheworld.com/api/livestream-redirect/KCUKFMAAC.aac
 #EXTINF:-0,KDAQ-HD1 90.9 Red River Radio [Main][Shreveport LA][redriverradio.org]
@@ -516,6 +526,14 @@ https://25043.live.streamtheworld.com/CC6_S01AAC_96.aac
 https://27223.live.streamtheworld.com/CC5_S01AAC_96.aac
 #EXTINF:-0,KUSC/KDFC A Classical California Christmas [Los Angeles CA][kusc.org]
 https://27153.live.streamtheworld.com/CC2_S01AAC_96.aac
+#EXTINF:-0,KXJZ CapRadio [Sacramento CA][capradio.org]
+https://22963.live.streamtheworld.com/KXJZAAC.aac
+#EXTINF:-0,KXJZ Capradio Music [Sacramento CA][capradio.org]
+https://22963.live.streamtheworld.com/KXPRAAC.aac
+#EXTINF:-0,KXJZ Capradio Jazz [Sacramento CA][capradio.org]
+https://13743.live.streamtheworld.com/JAZZSTREAMAAC.aac
+#EXTINF:-0,KXJZ Capradio Classical [Sacramento CA][capradio.org]
+https://17843.live.streamtheworld.com/CLASSICALSTREAMAAC.aac
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Main][Billings MT][ypradio.org]
 https://ypr.streamguys1.com/live
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Classical][Billings MT][ypradio.org]
@@ -560,6 +578,12 @@ https://kiyu.streamguys1.com/live
 https://kjzz.streamguys1.com/kjzz_mp3_128
 #EXTINF:-0,KJZZ 91.5 [Jazz][Tempe AZ][kjzz.org]
 https://kjzz.streamguys1.com/kjzzhd2_mp3_128
+#EXTINF:-0,KKJZ 88.1 [Jazz[[Long Beach CA][kkjz.org]
+https://23243.live.streamtheworld.com/KKJZFMAAC.aac
+#EXTINF:-0,KKJZ 88.1 [BeeBop][Long Beach CA][kkjz.org]
+https://das-edge13-live365-dal02.cdnstream.com/a45189_2
+#EXTINF:-0,KMUD 91.1 Redwood Community Radio [Redway CA][kmud.org]
+https://kmud.streamguys1.com/live
 #EXTINF:-0,KMXT 100.1 [Kodiak Island AK][kmxt.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMXTFMAAC.aac
 #EXTINF:-0,KMXT 100.1 [Kodiak Island AK][kmxt.org][alt]
@@ -600,10 +624,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM.mp3
 http://tonationnsn.streamguys1.com:80/live
 #EXTINF:-0,KOTZ 720/89.9 Voice of the Arctic[Kotzebue AK][kotz.org]
 http://13743.live.streamtheworld.com/KOTZAM.mp3
+#EXTINF:-0,KPBS-HD1 [San Diego CA][kpbs.org]
+https://kpbs.streamguys1.com/kpbs.mp3
+#EXTINF:-0,KPBS-HD2 Classical [San Diego CA][kpbs.org]
+https://kpbs-classical.streamguys1.com/kpbs-classical.mp3
 #EXTINF:-0,KPRG 89.3 Isla Public Radio Guam [Mangilao GU][islapublic.org]
 https://peridot.streamguys1.com:5095/live
 #EXTINF:-0,KRBD 105.3 [Commununity Radio]Ketchikan AK][krbd.org]
 https://war.streamguys1.com:8085/krbd
+#EXTINF:-0,KPCC [Pasadena CA][laist.com]
+https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc.mp3
 #EXTINF:-0,KQED Public Radio [San Francisco][kqed.org]
 http://streams.kqed.org/kqedradio
 #EXTINF:-0,KQED Public Radio [Latest News][San Francisco][kqed.org][On Demand]
@@ -616,6 +646,10 @@ http://no.stream
 https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
 #EXTINF:-0,KSDP 830 [False Pass / Sand Point AK][apradio.org]
 https://stream.apradio.org/stream.aac
+#EXTINF:-0,KSDS 88.3 Jazz [San Diego CA][jazz88.org]
+https://ksds-ice.streamguys1.com/ksds.mp3
+#EXTINF:-0,KSDS 88.3 Jazz [San Diego CA][jazz88.org]
+http://listen.jazz88.org/ksds.mp3
 #EXTINF:-0,KSKA 91.1 [Anchorage AK][knba.org]
 https://alaskapublic-live.streamguys1.com/aac-web
 #EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
@@ -682,6 +716,8 @@ https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
 https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
 #EXTINF:-0,KUTX 98.9 [TMX][Austin TX][kutx.org]
 https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
+#EXTINF:-0,KVMR 89.5 [Nevada City CA][kvmr.org]
+https://sslstream.kvmr.org:9433/aac96
 #EXTINF:-0,KVNO-HD1-News 90.7 [Omaha NE][kvno.org]
 https://kvnovm-hd1.unomaha.edu:8443/mobile.aac
 #EXTINF:-0,KVNO-HD1-News 90.7 [Omaha NE][kvno.org][alt]
@@ -704,10 +740,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWITHD3.mp3
 https://16603.live.streamtheworld.com/KWITHD3.mp3
 #EXTINF:-0,KWGS 89.5 [Tulsa OK][publicradiotulsa.org]
 https://utulsa.streamguys1.com/KWGSHD1.mp3
+#EXTINF:-0,KWMR 90.5 Community Radio [Point Reyes Station CA][kwmr.org]
+https://listen.kwmr.org/live
+#EXTINF:-0,KXRN-LP 93.5 [Laguna Beach CA][kxfmradio.org]
+https://ice9.securenetsystems.net/KXRN
 #EXTINF:-0,KYUK 640/90.3 Public Media for Alaska's Yukon-Kuskokwim Delta [Bethel AK][kyuk.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
 #EXTINF:-0,KZPA 900 [Ft Yukon AK][kzparadio.org][need stream]
 http://no.stream
+#EXTINF:-0,KZRF 90.1 [Chico CA][kzfr.org]
+https://listen.kzfr.org/stream
 #EXTINF:-0,KZUM 89.3 [Lincoln NE][kzum.org]
 http://us4.internet-radio.com:8030/stream
 #EXTINF:-0,KZYX 88.1 Mendocino County Public Broadcasting [Fort Bragg/ Philo CA][kzyx.org]
