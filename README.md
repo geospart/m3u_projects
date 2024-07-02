@@ -39,3 +39,6 @@ CBC M3U [way better than I could do]- https://rcavliveaudio.akamaized.net/hls/li
 
 
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/62860bac-e0d0-4b56-b1e3-f976129f4a5e)
+
+![image](https://github.com/geospart/m3u_projects/assets/105660995/d7d6595a-e8b1-41e8-8fd7-250b61a9d351)
+
