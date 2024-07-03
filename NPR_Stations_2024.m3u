@@ -467,7 +467,7 @@ https://www.wqxr.org/stream/jonathan-channel/aac.pls
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
 #EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org][aac-48k]
 https://stream.wqxr.org/qxr-special.aac
-EXTINF:-0,WRCJ 90.9 [Detroit MI][wrcjfm.org]
+#EXTINF:-0,WRCJ 90.9 [Detroit MI][wrcjfm.org]
 http://pnj-01.stream101.com:9035/live
 #EXTINF:-0,WRFA 107.9LP [Jamestow NY][wrfalp.com][mp3-64k]
 http://wrfa.streamguys1.com/live
@@ -1031,7 +1031,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWITHD2.mp3
 https://16603.live.streamtheworld.com/KWITHD2.mp3
 #EXTINF:-0,KWIT 90.3 HD3 [BBC][Sioux City IA][kwit-koji.org][kwit.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWITHD3.mp3
-#EXTINF:-0 KWIT 90.3 HD3 [BBC][Sioux City IA][kwit-koji.org][kwit.org]
+#EXTINF:-0,KWIT 90.3 HD3 [BBC][Sioux City IA][kwit-koji.org][kwit.org]
 https://16603.live.streamtheworld.com/KWITHD3.mp3
 #EXTINF:-0,KWGS 89.5 [Tulsa OK][publicradiotulsa.org]
 https://utulsa.streamguys1.com/KWGSHD1.mp3
