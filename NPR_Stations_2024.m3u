@@ -1,5 +1,4 @@
-#EXTM3U
-# Edited on Xed, SMPlay and VLC on Linux Mint
+#EXTM3U# Edited on Xed, SMPlay and VLC on Linux Mint
 # By @geospart
 # https://mastodon.social/@geospart
 # NPR stations I listen to. 
@@ -8,12 +7,12 @@
 # https://docs.fileformat.com/audio/m3u/
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
-# Verified done AL,AK,AR,AS,AZ,CA,CT,DC,DE,FL,GA
-# Verified done GU,HI,IA,ME,MN,MP,MT,NC,ND,NE,NH
-# Verified done NJ,NY,PA,PR,SC,SD,VA,VI,VT,WV,WY
+# Verified done AL,AK,AR,AS,AZ,CA,CT,DC,DE,FL,GA,GU
+# Verified done HI,IA,ME,MD,MI.MN,MP,MT,NC,ND,NE,NH
+# Verified done NJ,NY,PA,PR,SC,SD,UT,VA,VI,VT,WV,WY
 # Need CO,ID,IL,KS,KY,LA,MA
-# Need MD,MI,MO,MS,NM,NV,OH,OK,OR
-# Need RI,TN,TT,TX,UT,WA,WI
+# Need MO,MS,NM,NV,OH,OK,OR
+# Need RI,TN,TT,TX,WA,WI
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
 # TT-Trust Territories, VI - Virgin Islands
 # AS-American Samoa
@@ -36,12 +35,18 @@ https://22223.live.streamtheworld.com/WAMCHD2.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAMCHD2.mp3
 #EXTINF:-0,WAMU-FM 88.5 [American University Radio][Washington DC][wamu.org]
 https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-0,WEAA 88.9 [Baltimore MB][weaa.org]
+https://amber.streamguys1.com:4025/live
 #EXTINF:-0,WBEZ 91.5 [Chicago][wbez.org]
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:-0,WBHM 90.3 UAB University of Alabama at Birminham[wbhm.org]
 https://audio.wbhm.org/live.mp3
 #EXTINF:-0,WBJB 90.5 Brookdale Public Radio [Bookedale Community College Lincroft NJ][wbjb.org]
 https://ice.wbjb.net/905-MP3-High
+#EXTINF:-0,WBJC [Classical][Baltimore MD][wbjc.com]
+https://ice64.securenetsystems.net/WBJC
+#EXTINF:-0,WBLU 88.9 Blue Lake Public Radio [Grand Rapids MI][bluelake.org/radio]
+https://wblv.streamguys1.com/live
 #EXTINF:-0,WBUR 90.9 [Boston University][wbur.org][MP3]
 http://audio.wbur.org/stream/live_mp3.m3u
 #EXTINF:-0,WCLK-HD1 91.9 [Jazz-News][Clark Atlanta University][Atlanta GA]
@@ -60,6 +65,14 @@ http://nepr.iad.streamguys1.com/WFCR-HD.mp3
 http://nepr.iad.streamguys1.com/WFCR-HD
 #EXTINF:-0,WCFR 88.5 NEPM [New England-Springfield MA][nepm.org][alt]
 https://nepr.streamguys1.com/WFCR.mp3
+#EXTINF:-0,WCMU 89.5 CMU Public Radio [Central Michigan University][Mount Pleasant MI][radio.wcmu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM.mp3
+#EXTINF:-0,WCMU 89.5 CMU Public Radio [Central Michigan University][Mount Pleasant MI][radio.wcmu.org][alt]
+https://15233.live.streamtheworld.com/WCMUFM.mp3
+#EXTINF:-0,WCMU 89.5 CMU Public Radio [Classical][Central Michigan University][Mount Pleasant MI][radio.wcmu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCMUHD2.mp3
+#EXTINF:-0,WCMU 89.5 CMU Public Radio [Classical][Central Michigan University][Mount Pleasant MI][radio.wcmu.org]
+https://26223.live.streamtheworld.com/WCMUHD2.mp3
 #EXTINF:-0,WCPN 104.9 [Cleveland OH][wcpn.org]
 https://ideastream.streamguys1.com/wcpn.mp3
 #EXTINF:-0,WCQS 88.1 [BPR News] Blue Ridge Public Radio[Asheville NC][bpr.org]
@@ -84,6 +97,12 @@ https://war.streamguys1.com:7883/wdiy_7880
 https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3
 #EXTINF:-0,WDDE 91.1 Delaware Public Media [Dover DE][delawarepublic.org][alt]
 https://26223.live.streamtheworld.com/WDDEFM.mp3
+#EXTINF:-0,WDET 101.9 [Detroit MI][wdet.org]
+http://wdet.streamguys1.com/live-aac
+#EXTINF:-0,WDET 101.9 [Detroit MI][wdet.org]
+https://wdet.streamguys1.com/live-aac2[
+#EXTINF:-0,WDET 101.9 [Detroit MI][wdet.org]
+http://wdet.streamguys1.com/live-mp3
 #EXTINF:-0,WDLG 670/89.9 [Dillington AK][kdlg.org]
 https://peace.streamguys1.com:6095/kdlg
 #EXTINF:-0,WDSE 103.3 The North [Duluth MN][thenorth1033.org]
@@ -116,6 +135,12 @@ http://marconi.emerson.edu:8000/wershd2-aac
 http://marconi.emerson.edu:8000/WERS-SRO
 #EXTINF:-0,WERU 89.9 Community Radio Solar Powered [East Orland ME][weru.org]
 https://stream.pacificaservice.org:9000/weru_128
+#EXTINF:-0,WESM/WCSL/WSDL 91.3/89.5/90.7 Delmarva Public Media [WESM News][Princess Anne/Salisbury/Ocean City MD][delmarvapublicmedia.org/wesm-91-3-fm]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WESMFM.mp3
+#EXTINF:-0,WESM/WCSL/WSDL 91.3/89.5/90.7 Delmarva Public Media [WSDL Jazz][Princess Anne/Salisbury/Ocean City MD][delmarvapublicmedia.org/wesm-91-3-fm]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSDLFM.mp3
+#EXTINF:-0,WESM/WCSL/WSDL 91.3/89.5/90.7 Delmarva Public Media [WSCL Classical][Princess Anne/Salisbury/Ocean City MD][delmarvapublicmedia.org
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSCLFM.mp3
 #EXTINF:-0,WETA 90.9 [Viva La Voce][Arlington VA][weta.org/fm]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
 #EXTINF:-0,WETA 90.9 [Classical][Arlington VA][weta.org/fm]
@@ -136,19 +161,19 @@ https://wpln.streamguys1.com/wfclfm.aac
 https://wfdd.streamguys1.com/wfdd1
 #EXTINF:-0,WFMT [Classical][Chicago][wfmt.com]
 https://wfmt.streamguys1.com/main-mp3 
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/freeform-128k-primary.mp3
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3 128k][alt]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3 128k][alt]
 http://stream0.wfmu.org/freeform-128k.mp3
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac 128k]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac 128k]
 http://stream0.wfmu.org/freeform-high.aac
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3-128k]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3-128k]
 http://stream0.wfmu.org/freeform-128k
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac-126k]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac-126k]
 http://stream2.wfmu.org/freeform-high.aac
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac-130k]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][aac-130k]
 http://stream2.wfmu.org/freeform-high.aac
- #EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3-128]
+#EXTINF:-0,WFMU 91.1  Freeform Radio the Way it Oughta Be[Jersey City NJ][wfmu.org][mp3-128]
 http://stream2.wfmu.org/freeform-128k
 #EXTINF:-0,WFMU-HD2 91.1 Soul Radio [Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/ichiban.mp3
@@ -190,6 +215,10 @@ https://gpb.streamguys1.com/oom/gpb-classical-mp3-website
 https://gpb-geo.streamguys1.com/gpb/gpb-radio-mp3
 #EXTINF:-0,WGPB 97.7 [Atlanta][GPB][gpg.org/radio][aac 62k]
 https://gpb.streamguys1.com/oom/gpb-atlanta-aac-website
+#EXTINF:-0,WGVU 88.5 Public Radio [Grand Rapids MI][wgvunews.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGVUFM.mp3
+#EXTINF:-0,WGVU 88.5 Public Radio [Grand Rapids MI][wgvunews.org]
+https://18153.live.streamtheworld.com/WGVUFM.mp3
 #EXTINF:-0,WHDD 1020/91.9-97.5 Robin Hood Radio [WBSL 91.7 WLHV 88.1][Annandale-on-Hudson][robinhoodradio.com][aac 33k]
 https://ic2.mainstreamnetwork.com/whdd-fm
 #EXTINF:-0,WHSU 91.1 Public Radio Classical Music [News and Music][Fairfield CT][wshu.org]
@@ -210,6 +239,14 @@ https://stationaltradio.whro.org/128.mp3
 https://stationvoice.whro.org/128.mp3
 #EXTINF:-0,WHYY-FM 90.9 [Philadephia PA][whyy.org/radio-podcasts][mp3 64k]
 https://whyy.streamguys1.com/whyy-mp3
+#EXTINF:-0,WIAA 88.7 IPR Music Radio [Classical][Interlochen MI][interlochenpublicradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM.mp3
+#EXTINF:-0,WIAA 88.7 IPR Music Radio [Classical][Interlochen MI][interlochenpublicradio.org]
+https://18153.live.streamtheworld.com/WIAAFM.mp3
+#EXTINF:-0,WIAA 88.7 IPR Music Radio [News][Interlochen MI][interlochenpublicradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM.mp3
+#EXTINF:-0,WIAA 88.7 IPR Music Radio [News][Interlochen MI][interlochenpublicradio.org]
+https://18153.live.streamtheworld.com/WICAFM.mp3
 #EXTINF:-0,WIPR 940/91.3 [wipr.pr][need stream]
 http://no.stream
 #EXTINF:-0,WITH 90.1 The Route [Ithaca NY][withradio.org][mp3 64k]
@@ -256,6 +293,16 @@ https://stream1.rcast.net/69645
 https://gpb-geo.streamguys1.com/gpb/gpb-radio-mp3-website
 #EXTINF:-0,WJSP 88.1 GPB Radio [Atlanta GA][gpb.org][alt]
 https://gpb.streamguys1.com/oom/gpb-radio-mp3-website
+#EXTINF:-0,WKAR 870/90.5 [Michigan State University][East Lansing MI][wkar.org]
+https://wkar.streamguys1.com/wkarfm-web.aac?uuid=6d27xdrtf
+#EXTINF:-0,WKAR 870/90.5 [News-Talk][Michigan State University][East Lansing MI][wkar.org]
+https://wkar.streamguys1.com/wkarnewstalk-web.aac?uuid=6d27xdrtf
+#EXTINF:-0,WKAR 870/90.5 [Classical][Michigan State University][East Lansing MI][wkar.org]
+https://wkar.streamguys1.com/wkarclassical-web.aac?uuid=6d27xdrtf
+#EXTINF:-0,WKAR 870/90.5 [Jazz][Michigan State University][East Lansing MI][wkar.org]
+https://wkar.streamguys1.com/wkarjazz-web.aac?uuid=6d27xdrtf
+#EXTINF:-0,WKAR 870/90.5 [Reading Service][Michigan State University][East Lansing MI][wkar.org]
+https://wkar.streamguys1.com/wkarrrs-web.aac?uuid=6d27xdrtf
 #EXTINF:-0,WLCH 91.3 Radio Centro [Lancaster PA][wlchradio.org]
 https://streaming.live365.com/a37354
 #EXTINF:-0,WLIW-FM was WPPB 88.3 [South Hampton Long Island NY][wliw.org]
@@ -324,6 +371,8 @@ https://24923.live.streamtheworld.com/WBFOFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM.mp3
 #EXTINF:-0,WNED 94.5/WBFO 88.7 [WNED Classical][Buffalo NY][wned.org]
 https://22113.live.streamtheworld.com/WNEDFM.mp3
+#EXTINF:-0,WNNU 90.1 Public Radio 90 [Marquette MI]
+https://wnmu.streamguys1.com/wnmu-fm?uuid=6ds2v3bee
 #EXTINF:-0,WNRN 91.9 Independent Music Radio [Charkottesville VA][wnrn.org]
 https://26223.live.streamtheworld.com/WNRNFM_128.mp3
 #EXTINF:-0,WNSB Hot 91.1 [Norfolk State University VA][nsu.edu/wnsb][wnsbonline.org]
@@ -350,6 +399,8 @@ https://wosu.streamguys1.com/Classical_128
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 #EXTINF:-0,WOUB-WOUL AM 1340 [Ohio University][Athens/Ironton OH]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBAM.mp3
+#EXTINF:-0,WOUM 91.7 Michigan Public [Ann Arbor MI][michiganpublic.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3
 #EXTINF:-0,WPLN 90.3 [CH1-Main/News][Nashville TN][nashvillepublicradio.org][alt]
 http://wpln.streamguys.org/wplnfm.mp3
 #EXTINF:-0,WPLN 90.3 [CH1-Main/News][Nashville TN][nashvillepublicradio.org]
@@ -416,6 +467,8 @@ https://www.wqxr.org/stream/jonathan-channel/aac.pls
 https://www.wqxr.org/stream/jonathan-channel/mp3.pls
 #EXTINF:-0,WQXR 105.9 [Holiday Christmas][New York NY][www.wqxr.org][www.wnyc.org][aac-48k]
 https://stream.wqxr.org/qxr-special.aac
+EXTINF:-0,WRCJ 90.9 [Detroit MI][wrcjfm.org]
+http://pnj-01.stream101.com:9035/live
 #EXTINF:-0,WRFA 107.9LP [Jamestow NY][wrfalp.com][mp3-64k]
 http://wrfa.streamguys1.com/live
 #EXTINF:-0,WRIR 97.3 [Richmond Independant Radio][Richmond VA][www.wrir.org][mp3-192k]
@@ -440,6 +493,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD3.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
 #EXTINF:-0,WRTX 91.7 WRTI Your Classical and Jazz Station [Dover DE][wrti.org]
 https://18213.live.streamtheworld.com/WRTI_CLASSICAL.mp3
+#EXTINF:-0,WSCL 89.5 Delmarva Public Radio [Classical][Salisbury MD]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSCLFM.mp3
+#EXTINF:-0,WSCL 89.5 Delmarva Public Radio [Classical][Salisbury MD]
+https://22113.live.streamtheworld.com/WSCLFM.mp3
 #EXTINF:-0,WSHU 89.9 News Talk [Noyack NY][wshu.org]
 https://wshu-iad.streamguys1.com/wshu-air
 #EXTINF:-0,WSHU 89.9 News Music [Noyack NY][wshu.org]
@@ -530,6 +587,8 @@ https://ais-sa1.streamon.fm/7269_64k.mp3
 https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
 #EXTINF:-0,WUMB 88.7 [Milforn NH][wumb.org]
 http://wumb.streamguys1.com/wumb919fast
+#EXTINF:-0,WUVS 103.7 The Beat [Muskegon MI][1037thebeat.umojaradioapp.com]
+https://cast4.my-control-panel.com/proxy/wuvspaul/stream
 #EXTINF:-0,WUWM 89.7 [Milwalkee WI][www.wuwm.com]
 http://wuwm.streamguys1.com/live.mp3
 #EXTINF:-0,WVLS 89.7 Allegheny Mountain Radio [Dunmore WV][alleghenymountainradio.org]
@@ -639,13 +698,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2.mp3
 #EXTINF:-0,KCND 90.5 FM1 News Prairie Public Radio [Bismark ND][prairiepublic.org][alt]
 https://24443.live.streamtheworld.com/KCNDHD2.mp3
 #EXTINF:-0,KCND 90.5 FM2 World Cafe Prairie Public Radio [Bismark ND][prairiepublic.org]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFM.mp3?burst-time=17
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFM.mp3
 #EXTINF:-0,KCND 90.5 FM2 World Cafe Prairie Public Radio [Bismark ND][prairiepublic.org][alt]
-https://19813.live.streamtheworld.com/KCNDFM.mp3?burst-time=17
+https://19813.live.streamtheworld.com/KCNDFM.mp3
 #EXTINF:-0,KCND 90.5 FM3 News/AAA Music Prairie Public Radio [Bismark ND][prairiepublic.org]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3.mp3?burst-time=17
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3.mp3
 #EXTINF:-0,KCND 90.5 FM3 News/AAA Music Prairie Public Radio [Bismark ND][prairiepublic.org][alt]
-https://24413.live.streamtheworld.com/KCNDHD3.mp3?burst-time=17
+https://24413.live.streamtheworld.com/KCNDHD3.mp3
 #EXTINF:-0,KCRW 105.3 [On Air][Santa Monica/Los Angeles][kcrw.com]
 https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:-0,KCRW [On Air][Santa Monica/Los Angeles][kcrw.com][alt]
@@ -784,6 +843,10 @@ https://ais-sa1.streamon.fm/7057_24k.aac/playlist.m3u8
 https://kpbs.streamguys1.com/kpbs.mp3
 #EXTINF:-0,KPBS-HD2 Classical [San Diego CA][kpbs.org]
 https://kpbs-classical.streamguys1.com/kpbs-classical.mp3
+#EXTINF:-0,KPCW 91.7 [Park City UT][kpcw.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPCWFM.mp3
+#EXTINF:-0,KPCW 91.7 [Park City UT][kpcw.org]
+https://14103.live.streamtheworld.com/KPCWFM.mp3
 #EXTINF:-0,KPRG 89.3 Isla Public Radio Guam [Mangilao GU][islapublic.org]
 https://peridot.streamguys1.com:5095/live
 #EXTINF:-0,KRBD 105.3 [Commununity Radio]Ketchikan AK][krbd.org]
@@ -862,6 +925,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFM.mp3
 https://18533.live.streamtheworld.com/KUFMFM.mp3
 #EXTINF:-0,KUHB 91.9 [St Paul AK][kuhbradio.org]
 https://ice8.securenetsystems.net/KUHB
+#EXTINF:-0,KUER 90.1 [NPR Utah][Salt Lake City UT]
+https://kuer.streamguys1.com/high_icy
+#EXTINF:-0,KUER 90.1 [BBC World Service][Salt Lake City UT]
+https://kuer.streamguys1.com/kuer2high_icy
+#EXTINF:-0,KUER 90.1 [Classical KUER][Salt Lake City UT]
+https://kuer.streamguys1.com/kuer3high_icy
+#EXTINF:-0,KUER 90.1 [KUUB[Salt Lake City UT]
+https://kuer.streamguys1.com/kuer4high_icy
 #EXTINF:-0,WUNC-HD1 North Carolina Public Radio [Main][Chapel Hill NC][wunc.org]
 https://wunc-ice.streamguys1.com/wunc-128.mp3
 #EXTINF:-0,WUNC-HD2 North Carolina Public Radio [BBC World Service][Chapel Hill NC][wunc.org]
@@ -991,25 +1062,25 @@ https://kzyx.mcn.org/kzyxlive
 #EXTGRP:-0,Minnesota Public Radio
 #EXTINF:-0,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
-#EXTINF:-0,MPR [MPR Your Classical Radio][St Paul MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Your Classical Radio][St Paul MN][mpr.org][St Johns University]
 https://ycradio.stream.publicradio.org/ycradio.aac
-#EXTINF:-0,MPR [MPR Chamber Music Classical[Twin Cities MN][https://www.mpr.org][St Johns
+#EXTINF:-0,MPR [MPR Chamber Music Classical[Twin Cities MN][www.mpr.org][St Johns
 https://chambermusic.stream.publicradio.org/chambermusic.aac
-#EXTINF:-0,MPR [MPR Choral Classical[Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Choral Classical[Twin Cities MN][mpr.org][St Johns University]
 https://choral.stream.publicradio.org/choral.aac
-#EXTINF:-0,MPR [MPR Your Classical Children][Twin Cities MN][https://www.mpr.org][St Johns
+#EXTINF:-0,MPR [MPR Your Classical Children][Twin Cities MN][mpr.org][St Johns
 https://classicalkids.stream.publicradio.org/classicalkids.aac
-#EXTINF:-0,MPR [MPR Concert Band][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Concert Band][Twin Cities MN][mpr.org][St Johns University]
 https://concertband.stream.publicradio.org/concertband.aac
-#EXTINF:-0,MPR [MPR Essentials][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Essentials][Twin Cities MN][mpr.org][St Johns University]
 https://favorites.stream.publicradio.org/favorites.aac
-#EXTINF:-0,MPR [MPR Guitar][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Guitar][Twin Cities MN][mpr.org][St Johns University]
 https://favorites.stream.publicradio.org/guitar.aac
-#EXTINF:-0,MPR [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][mpr.org][St Johns University]
 https://holiday.stream.publicradio.org/holiday_yc.aac
-#EXTINF:-0,MPR [MPR Sleep Classical][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Sleep Classical][Twin Cities MN][mpr.org][St Johns University]
 https://lullabies.stream.publicradio.org/lullabies.aac
-#EXTINF:-0,MPR [MPR Peaceful Piano Classical][Twin Cities MN][https://www.mpr.org][St Johns
+#EXTINF:-0,MPR [MPR Peaceful Piano Classical][Twin Cities MN][mpr.org][St Johns
 https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
-#EXTINF:-0,MPR [MPR Relax Classical][Twin Cities MN][https://www.mpr.org][St Johns University]
+#EXTINF:-0,MPR [MPR Relax Classical][Twin Cities MN][mpr.org][St Johns University]
 https://relax.stream.publicradio.org/relax.aac
