@@ -227,7 +227,8 @@ https://playerservices.streamtheworld.com/pls/WJCTFM.pls[mp3 64k]
 #EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD2.mp3
 #EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt][mp3 64k]
-https://26353.live.streamtheworld.com/WJCT_HD2.mp3#EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt1]
+https://26353.live.streamtheworld.com/WJCT_HD2.mp3#EXTINF:-0,
+#EXTINF:WJCT-HD2 [Classical][Jackosnville][wjct.org][alt1]
 http://24453.live.streamtheworld.com/WJCT_HD2.mp3
 #EXTINF:-0,WJCT-HD2 [Classical][Jackosnville][wjct.org][alt2]
 https://24453.live.streamtheworld.com/WJCT_HD2.mp3
@@ -553,6 +554,8 @@ https://vpr.streamguys1.com/vpr64.mp3
 https://vprclassical.streamguys1.com/vprclassical64.mp3
 #EXTINF:-0,WVPS 90.9 Remix [Schuyler Falls VT]
 https://vprmix.streamguys1.com/vprmix64.mp3
+#EXTINF:-0,WVPS 90.9 BBC World Service [Schuyler Falls VT]
+https://vprbbc.streamguys1.com/vprbbc24.mp3
 #EXTINF:-0,WXPN-HD1 91.9 [XPN2][Hackettstown NJ][xpn.org]
 https://wxpn.xpn.org/xpnmp3hi
 #EXTINF:-0,WXPN-HD2 91.9 [XPN2][Hackettstown NJ][xpn.org]
