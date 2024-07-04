@@ -8,9 +8,9 @@
 # https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
 # Verified done AL,AK,AR,AS,AZ,CA,CT,DC,DE,FL,GA,GU
-# Verified done HI,IA,ME,MD,MI.MN,MP,MT,NC,ND,NE,NH
+# Verified done HI,IA,ID,ME,MD,MI.MN,MP,MT,NC,ND,NE,NH
 # Verified done NJ,NY,PA,PR,SC,SD,UT,VA,VI,VT,WV,WY
-# Need CO,ID,IL,KS,KY,LA,MA
+# Need CO,IL,KS,KY,LA,MA
 # Need MO,MS,NM,NV,OH,OK,OR
 # Need RI,TN,TT,TX,WA,WI
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
@@ -587,6 +587,10 @@ https://ais-sa1.streamon.fm/7269_64k.mp3
 https://media.publicbroadcasting.net/wuft/newscast/newscast.mp3
 #EXTINF:-0,WUMB 88.7 [Milforn NH][wumb.org]
 http://wumb.streamguys1.com/wumb919fast
+#EXTINF:-0,WUNC-HD1 North Carolina Public Radio [Main][Chapel Hill NC][wunc.org]
+https://wunc-ice.streamguys1.com/wunc-128.mp3
+#EXTINF:-0,WUNC-HD2 North Carolina Public Radio [BBC World Service][Chapel Hill NC][wunc.org]
+https://wunc-ice.streamguys1.com/wunc-hd2-128.mp3
 #EXTINF:-0,WUVS 103.7 The Beat [Muskegon MI][1037thebeat.umojaradioapp.com]
 https://cast4.my-control-panel.com/proxy/wuvspaul/stream
 #EXTINF:-0,WUWM 89.7 [Milwalkee WI][www.wuwm.com]
@@ -651,7 +655,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/NV1.mp3
 https://kasu.streamguys1.com/live.mp3
 #EXTINF:-0,KAWC 88.9 Colorado River Radio [Main][Yuma AZ][kawc.org]
 https://18823.live.streamtheworld.com/KAWCFM.mp3
-#EXTINF:-0,KAWC 88.9 Colorado River Radio [Main][Yuma AZ][kawc.org]
+#EXTINF:-0,KAWC 8.9 Colorado River Radio [Main][Yuma AZ][kawc.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCFM.mp3
 #EXTINF:-0,KAWC 88.9 Colorado River Radio [Border Radio][Yuma AZ][kawc.org]
 https://14923.live.streamtheworld.com/KAWCAM.mp3
@@ -679,6 +683,14 @@ https://kbem-live.streamguys1.com/jazztracks_mp3
 https://kbem-od.streamguys1.com/traffic/RTMC.mp3
 #EXTINF:-0,KBRW 680/91.9 [Barrow AK][kbrw.org]
 https://tektite.streamguys1.com:5345/live
+#EXTINF:-0,KBSU 90.3 BSPR News On-Air [Boise ID][boisestatepublicradio.org]
+https://boisestate.streamguys1.com/News1-aac-96k-icy.aac
+#EXTINF:-0,KBSU 90.3 BSPR Music (Classical, KBSU) [Boise ID][boisestatepublicradio.org]
+https://boisestate.streamguys1.com/Music1-aac-128k-icy.aac
+#EXTINF:-0,KBSU 90.3 BSPR Music (Jazz, KBSU) [Boise ID][boisestatepublicradio.org]
+https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac
+#EXTINF:-0,KBSU 90.3 Local Newscast [Boise ID][boisestatepublicradio.org]
+https://media.publicbroadcasting.net/idaho/newscast/newscast.wav
 #EXTINF:-0,KCAW 104.7/90.1 Raven Radio [Juneau/Angoo Elfin Cove AK][kcaw.org]
 https://tektite.streamguys1.com:5195/live
 #EXTINF:-0,KCBX 90.1 Central Coast Public Radio [San Luis Obispo CA][kcbx.org]
@@ -775,10 +787,12 @@ http://amber.streamguys.com:5310/live.m3u
 https://playerservices.streamtheworld.com/api/livestream-redirect/KIOSFM.mp3
 #EXTINF:-0,KIPO 89.3 HPR [Hawaii][hawaiipublicradio.org]
 https://khpr-ice.streamguys1.com/kipo2.mp3
-#EXTINF:-0,KISU 91.3 [Pocatello Idaho Falls ID][88.1 Rexburg][College][www.kisu.org/]
+#EXTINF:-0,KISU 91.3 [Pocatello Idaho Falls ID][88.1 Rexburg][College][www.kisu.org]
 https://kisufm.isu.edu:8443/kisufm
 #EXTINF:-0,KIWR 89.7 The Cutting Edge of Rock [Alternative][Council Bluffs College IA][897theriver.com]
 https://kiwrstream.iwcc.edu/kiwr
+#EXTINF:-0,KIYE 88.7 Voice of the Niimiipuu [Lapwai ID][kiye.org]
+https://ais-sa1.streamon.fm/7012_24k.aac/playlist.m3u8
 #EXTINF:-0,KIYU 910/98.1 [Galena AK][kiyu.com]
 https://kiyu.streamguys1.com/live
 #EXTINF:-0,KKCR-1 90.9 Kaua`i Community Radio [Main][Hanalei HI][kkcr.org/onair/][HQ]
@@ -797,6 +811,28 @@ https://23243.live.streamtheworld.com/KKJZFMAAC.aac
 https://das-edge13-live365-dal02.cdnstream.com/a45189_2
 #EXTINF:-0,KLND 89.5 KLND 89.5 The Lodge of Good Voices [McLaughlin SD][Tribal/Cheyenne River Nations][klndradio895.com]
 https://ice10.securenetsystems.net/KLND
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Your Classical Radio][St Paul MN][mpr.org][St Johns University]
+https://ycradio.stream.publicradio.org/ycradio.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Chamber Music Classical[Twin Cities MN][www.mpr.org][St Johns
+https://chambermusic.stream.publicradio.org/chambermusic.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Choral Classical[Twin Cities MN][mpr.org][St Johns University]
+https://choral.stream.publicradio.org/choral.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Your Classical Children][Twin Cities MN][mpr.org][St Johns
+https://classicalkids.stream.publicradio.org/classicalkids.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Concert Band][Twin Cities MN][mpr.org][St Johns University]
+https://concertband.stream.publicradio.org/concertband.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Essentials][Twin Cities MN][mpr.org][St Johns University]
+https://favorites.stream.publicradio.org/favorites.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Guitar][Twin Cities MN][mpr.org][St Johns University]
+https://favorites.stream.publicradio.org/guitar.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][mpr.org][St Johns University]
+https://holiday.stream.publicradio.org/holiday_yc.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Sleep Classical][Twin Cities MN][mpr.org][St Johns University]
+https://lullabies.stream.publicradio.org/lullabies.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Peaceful Piano Classical][Twin Cities MN][mpr.org][St Johns
+https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
+#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Relax Classical][Twin Cities MN][mpr.org][St Johns University]
+https://relax.stream.publicradio.org/relax.aac
 #EXTINF:-0,KMHA 91.3 Radio [New Town ND][kmharadio.org]
 https://ice10.securenetsystems.net/KMHAFM
 #EXTINF:-0,KMOJ 89.9-HD1 The Peoples Station [Main][Minneapolis MN][kmojfm.com]
@@ -843,6 +879,18 @@ https://ais-sa1.streamon.fm/7057_24k.aac/playlist.m3u8
 https://kpbs.streamguys1.com/kpbs.mp3
 #EXTINF:-0,KPBS-HD2 Classical [San Diego CA][kpbs.org]
 https://kpbs-classical.streamguys1.com/kpbs-classical.mp3
+#EXTINF:-0,KPBX 91.1 [Spokane WA][spokanepublicradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM.mp3
+#EXTINF:-0,KPBX 91.1 [Spokane WA][spokanepublicradio.org]
+https://27223.live.streamtheworld.com/KPBX_FM.mp3
+#EXTINF:-0,KPBX 91.1 [PRX Remix][Spokane WA][spokanepublicradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPBZ_FM.mp3
+#EXTINF:-0,KPBX 91.1 [PRX Remix][Spokane WA][spokanepublicradio.org]
+https://27223.live.streamtheworld.com/KPBZ_FM.mp3
+#EXTINF:-0,KPBX 91.1 [KSFC 91.9][Spokane WA][spokanepublicradio.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSFC_FM.mp3
+#EXTINF:-0,KPBX 91.1 [KSFC 91.9][Spokane WA][spokanepublicradio.org]
+https://27153.live.streamtheworld.com/KSFC_FM.mp3
 #EXTINF:-0,KPCC [Pasadena CA][laist.com]
 https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc.mp3
 #EXTINF:-0,KPCW 91.7 [Park City UT][kpcw.org]
@@ -875,28 +923,6 @@ https://alaskapublic-live.streamguys1.com/aac-web
 https://ksko.streamguys1.com/live-aac
 #EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
 https://ksko.streamguys1.com/live
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Your Classical Radio][St Paul MN][mpr.org][St Johns University]
-https://ycradio.stream.publicradio.org/ycradio.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Chamber Music Classical[Twin Cities MN][www.mpr.org][St Johns
-https://chambermusic.stream.publicradio.org/chambermusic.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Choral Classical[Twin Cities MN][mpr.org][St Johns University]
-https://choral.stream.publicradio.org/choral.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Your Classical Children][Twin Cities MN][mpr.org][St Johns
-https://classicalkids.stream.publicradio.org/classicalkids.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Concert Band][Twin Cities MN][mpr.org][St Johns University]
-https://concertband.stream.publicradio.org/concertband.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Essentials][Twin Cities MN][mpr.org][St Johns University]
-https://favorites.stream.publicradio.org/favorites.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Guitar][Twin Cities MN][mpr.org][St Johns University]
-https://favorites.stream.publicradio.org/guitar.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Holiday (winter holiday music&#44; except for Halloween in October) Christmas][Twin Cities MN][mpr.org][St Johns University]
-https://holiday.stream.publicradio.org/holiday_yc.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Sleep Classical][Twin Cities MN][mpr.org][St Johns University]
-https://lullabies.stream.publicradio.org/lullabies.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Peaceful Piano Classical][Twin Cities MN][mpr.org][St Johns
-https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
-#EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Relax Classical][Twin Cities MN][mpr.org][St Johns University]
-https://relax.stream.publicradio.org/relax.aac
 #EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [Rhythm and News][Yreka CA][ijpr.org]
 https://jpr-ice.streamguys1.com/jpr-rhythm
 #EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [News and Information][Yreka CA][ijpr.org]
@@ -955,10 +981,6 @@ https://kuer.streamguys1.com/kuer3high_icy
 https://kuer.streamguys1.com/kuer4high_icy
 #EXTINF:-0,KUHB 91.9 [St Paul AK][kuhbradio.org]
 https://ice8.securenetsystems.net/KUHB
-#EXTINF:-0,WUNC-HD1 North Carolina Public Radio [Main][Chapel Hill NC][wunc.org]
-https://wunc-ice.streamguys1.com/wunc-128.mp3
-#EXTINF:-0,WUNC-HD2 North Carolina Public Radio [BBC World Service][Chapel Hill NC][wunc.org]
-https://wunc-ice.streamguys1.com/wunc-hd2-128.mp3
 #EXTINF:-0,KUSC/KDFC 91.5/90.3 Classical California [Los Angeles CA][kusc.org]
 https://14103.live.streamtheworld.com/KUSCAAC96.aac
 #EXTINF:-0,KUSC/KDFC California Sounds Glissando [Los Angeles CA][kusc.org]
@@ -1061,6 +1083,12 @@ https://utulsa.streamguys1.com/KWGSHD1.mp3
 https://listen.kwmr.org/live
 #EXTINF:-0,KWRV 91.1 [MPR News][St Paul MN][https://www.mpr.org][St Johns University]
 https://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-0,KWSU 1250 NWPB[Washington State University-Northwest Public Radio NPR and Classical][Pullman WA]
+https://nwpb.streamguys1.com/nwprnews-aac-128-icy
+#EXTINF:-0,KWSU 1250 NWPB Classical [Washington State University-Northwest Public Radio NPR and Classical][Pullman WA]
+https://nwpb.streamguys1.com/nwprclassical-aac-128-icy
+#EXTINF:-0,KWSU/KJEM 1250/89.9 [KJEM-Jazz][Washington State University-Northwest Public Radio NPR and Classical][Pullman WA]
+https://nwpb.streamguys1.com/nwprkjem-aac-128-icy
 #EXTINF:-0,KXJZ CapRadio [Sacramento State College CA][capradio.org]
 https://22963.live.streamtheworld.com/KXJZAAC.aac
 #EXTINF:-0,KXJZ Capradio Classical [Sacramento State College CA][capradio.org]
