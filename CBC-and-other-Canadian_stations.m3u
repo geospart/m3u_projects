@@ -1,223 +1,224 @@
 #EXTM3U
 # Edited on Xed, SMPlay and VLC on Linux Mint
 # By @geospart
+# https://docs.fileformat.com/audio/m3u/
+# http://fmstream.org/index.php?s=npr
+# https://github.com/geospart/m3u_projects
 # https://mastodon.social/@geospart
 # CBC stations I listen to. 
-# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # Edited from https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # to work better in apps like Clementine and SMPlayer
 # created 06/28/2024
 # https://www.cbc.ca/liveradio/snippets/menuAllStreams.html
-# http://fmstream.org/index.php?c=CAN
-#EXTINF:0.552,CBH-FM [CBC Radio 2] Music [Atlantic][mp3-128k]
+#EXTINF:-0,CBH-FM [CBC Radio 2] Music [Atlantic][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBH_CBC_SC
-#EXTINF:-1,CBH-FM [CBC Radio 2] Music [Atlantic][mp3-128k]
+#EXTINF:-0,CBH-FM [CBC Radio 2] Music [Atlantic][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBH_CBC_SC
-#EXTINF:-1,CBW-FM 98.3 [CBC Radio 2] Music [Central][mp3-128k]
+#EXTINF:-0,CBW-FM 98.3 [CBC Radio 2] Music [Central][mp3-128k]
 http://playerservices.streamtheworld.com/pls/CBWFM_CBC.pls
-#EXTINF:-1,CBW-FM 98.3 [CBC Radio 2] Music [Central][mp3-128k]
+#EXTINF:-0,CBW-FM 98.3 [CBC Radio 2] Music [Central][mp3-128k]
 http://26423.live.streamtheworld.com:3690/CBWFM_CBC_SC
-#EXTINF:-1,CBU-FM 105.7 [CBC Radio 2] Music [Pacific][mp3-128k]
+#EXTINF:-0,CBU-FM 105.7 [CBC Radio 2] Music [Pacific][mp3-128k]
 http://26233.live.streamtheworld.com:80/CBUFM_CBC_SC
-#EXTINF:-1,CBU-FM 105.7 [CBC Radio 2] Music [Pacific][mp3-128k]
+#EXTINF:-0,CBU-FM 105.7 [CBC Radio 2] Music [Pacific][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBUFM_CBC_SC
-#EXTINF:-1,CBR1-FM 99.1 [CBC Radio 1] [AB/Calgary][mp3-128k]
+#EXTINF:-0,CBR1-FM 99.1 [CBC Radio 1] [AB/Calgary][mp3-128k]
 http://26423.live.streamtheworld.com:80/CBR1FM_CBC_SC
-#EXTINF:-1,CBR1-FM 99.1 [CBC Radio 1] [AB/Calgary][mp3-128k]
+#EXTINF:-0,CBR1-FM 99.1 [CBC Radio 1] [AB/Calgary][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBR1FM_CBC_SC
-#EXTINF:-1,CBX-AM 740 [CBC Radio 1] [AB/Edmonton][mp3-128k]
+#EXTINF:-0,CBX-AM 740 [CBC Radio 1] [AB/Edmonton][mp3-128k]
 http://18063.live.streamtheworld.com:80/CBXAM_CBC_SC
-#EXTINF:-1,CBX-AM 740 [CBC Radio 1] [AB/Edmonton][mp3-128k]
+#EXTINF:-0,CBX-AM 740 [CBC Radio 1] [AB/Edmonton][mp3-128k]
 http://26423.live.streamtheworld.com:3690/CBXAM_CBC_SC
-#EXTINF:-1,CBYK-FM 94.1 [CBC Radio 1] [BC/Kamloops][mp3-128k]
+#EXTINF:-0,CBYK-FM 94.1 [CBC Radio 1] [BC/Kamloops][mp3-128k]
 http://19003.live.streamtheworld.com:80/CBYKFM_CBC_SC
-#EXTINF:-1,CBYK-FM 94.1 [CBC Radio 1] [BC/Kamloops][mp3-128k]
+#EXTINF:-0,CBYK-FM 94.1 [CBC Radio 1] [BC/Kamloops][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CBYKFM_CBC_SC
-#EXTINF:-1,CBTK-FM 88.9 [CBC Radio 1] [BC/Kelowna][mp3-128k]
+#EXTINF:-0,CBTK-FM 88.9 [CBC Radio 1] [BC/Kelowna][mp3-128k]
 http://19003.live.streamtheworld.com:80/CBTKFM_CBC_SC
-#EXTINF:-1,CBTK-FM 88.9 [CBC Radio 1] [BC/Kelowna][mp3-128k]
+#EXTINF:-0,CBTK-FM 88.9 [CBC Radio 1] [BC/Kelowna][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CBTKFM_CBC_SC
-#EXTINF:-1,CBYG 91.5 [CBC Radio 1] [BC/Prince George][mp3-128k]
+#EXTINF:-0,CBYG 91.5 [CBC Radio 1] [BC/Prince George][mp3-128k]
 http://18063.live.streamtheworld.com:80/CBYGFM_CBC_SC
-#EXTINF:-1,CBYG 91.5 [CBC Radio 1] [BC/Prince George][mp3-128k]
+#EXTINF:-0,CBYG 91.5 [CBC Radio 1] [BC/Prince George][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBYGFM_CBC_SC
-#EXTINF:-1,CBU2-FM 88.1 [CBC Radio 1] [BC/Vancouver][mp3-128k]
+#EXTINF:-0,CBU2-FM 88.1 [CBC Radio 1] [BC/Vancouver][mp3-128k]
 http://18063.live.streamtheworld.com:80/CBU2FM_CBC_SC
-#EXTINF:-1,CBU2-FM 88.1 [CBC Radio 1] [BC/Vancouver][mp3-128k]
+#EXTINF:-0,CBU2-FM 88.1 [CBC Radio 1] [BC/Vancouver][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBU2FM_CBC_SC
-#EXTINF:-1,CBCV-FM 90.5 [CBC Radio 1] [BC/Victoria][mp3-128k]
+#EXTINF:-0,CBCV-FM 90.5 [CBC Radio 1] [BC/Victoria][mp3-128k]
 http://19003.live.streamtheworld.com:80/CBCVFM_CBC_SC
-#EXTINF:-1,CBCV-FM 90.5 [CBC Radio 1] [BC/Victoria][mp3-128k]
+#EXTINF:-0,CBCV-FM 90.5 [CBC Radio 1] [BC/Victoria][mp3-128k]
 http://26423.live.streamtheworld.com:3690/CBCVFM_CBC_SC
-#EXTINF:-1,CBW-AM 990 [CBC Radio 1] [MB/Winnipeg][mp3-128k]
+#EXTINF:-0,CBW-AM 990 [CBC Radio 1] [MB/Winnipeg][mp3-128k]
 http://18063.live.streamtheworld.com:80/CBWAM_CBC_SC
-#EXTINF:-1,CBW-AM 990 [CBC Radio 1] [MB/Winnipeg][mp3-128k]
+#EXTINF:-0,CBW-AM 990 [CBC Radio 1] [MB/Winnipeg][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBWAM_CBC_SC
-#EXTINF:-1,CBZF-FM 99.5 [CBC Radio 1] [NB/Fredericton][mp3-128k]
+#EXTINF:-0,CBZF-FM 99.5 [CBC Radio 1] [NB/Fredericton][mp3-128k]
 http://24443.live.streamtheworld.com:80/CBZFFM_CBC_SC
-#EXTINF:-1,CBZF-FM 99.5 [CBC Radio 1] [NB/Fredericton][mp3-128k]
+#EXTINF:-0,CBZF-FM 99.5 [CBC Radio 1] [NB/Fredericton][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBZFFM_CBC_SC
-#EXTINF:-1,CBAM-FM 106.1 [CBC Radio 1] [NB/Moncton][mp3-128k]
+#EXTINF:-0,CBAM-FM 106.1 [CBC Radio 1] [NB/Moncton][mp3-128k]
 http://24443.live.streamtheworld.com:80/CBAMFM_CBC_SC
-#EXTINF:-1,CBAM-FM 106.1 [CBC Radio 1] [NB/Moncton][mp3-128k]
+#EXTINF:-0,CBAM-FM 106.1 [CBC Radio 1] [NB/Moncton][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBAMFM_CBC_SC
-#EXTINF:-1,CBD-FM 91.3 [CBC Radio 1] [NB/Saint John][mp3-128k]
+#EXTINF:-0,CBD-FM 91.3 [CBC Radio 1] [NB/Saint John][mp3-128k]
 http://26233.live.streamtheworld.com:80/CBDFM_CBC_SC
-#EXTINF:-1,CBD-FM 91.3 [CBC Radio 1] [NB/Saint John][mp3-128k]
+#EXTINF:-0,CBD-FM 91.3 [CBC Radio 1] [NB/Saint John][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBDFM_CBC_SC
-#EXTINF:-1,CBY-AM 990 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
+#EXTINF:-0,CBY-AM 990 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBYAM_CBC_SC
-#EXTINF:-1,CBY-AM 990 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
+#EXTINF:-0,CBY-AM 990 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBYAM_CBC_SC
-#EXTINF:-1,CBG-AM 1400 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
+#EXTINF:-0,CBG-AM 1400 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBGAM_CBC_SC
-#EXTINF:-1,CBG-AM 1400 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
+#EXTINF:-0,CBG-AM 1400 [CBC Radio 1] [NL/Corner Brook][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBGAM_CBC_SC
-#EXTINF:-1,CFGB 89.5 [CBC Radio 1] [NL/Happy Valley-Goose Bay][mp3-128k]
+#EXTINF:-0,CFGB 89.5 [CBC Radio 1] [NL/Happy Valley-Goose Bay][mp3-128k]
 http://24443.live.streamtheworld.com:80/CFGB_CBC_SC
-#EXTINF:-1,CFGB 89.5 [CBC Radio 1] [NL/Happy Valley-Goose Bay][mp3-128k]
+#EXTINF:-0,CFGB 89.5 [CBC Radio 1] [NL/Happy Valley-Goose Bay][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CFGB_CBC_SC
-#EXTINF:-1,CBN1 [CBC Radio 1] [NL/St. John's][mp3-128k]
+#EXTINF:-0,CBN1 [CBC Radio 1] [NL/St. John's][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBN1_CBC_SC
-#EXTINF:-1,CBN1 [CBC Radio 1] [NL/St. John's][mp3-128k]
+#EXTINF:-0,CBN1 [CBC Radio 1] [NL/St. John's][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBN1_CBC_SC
-#EXTINF:-1,CBHA [CBC Radio 1] [NS/Halifax][mp3-128k]
+#EXTINF:-0,CBHA [CBC Radio 1] [NS/Halifax][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBHA_CBC_SC
-#EXTINF:-1,CBHA [CBC Radio 1] [NS/Halifax][mp3-128k]
+#EXTINF:-0,CBHA [CBC Radio 1] [NS/Halifax][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBHA_CBC_SC
-#EXTINF:-1,CBIS [CBC Radio 1] [NS/Sydney][mp3-128k]
+#EXTINF:-0,CBIS [CBC Radio 1] [NS/Sydney][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBIS_CBC_SC
-#EXTINF:-1,CBIS [CBC Radio 1] [NS/Sydney][mp3-128k]
+#EXTINF:-0,CBIS [CBC Radio 1] [NS/Sydney][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBIS_CBC_SC
-#EXTINF:-1,CHAK [CBC Radio 1] [NT/Inuvik][mp3-128k]
+#EXTINF:-0,CHAK [CBC Radio 1] [NT/Inuvik][mp3-128k]
 http://19003.live.streamtheworld.com:80/CHAK_CBC_SC
-#EXTINF:-1,CHAK [CBC Radio 1] [NT/Inuvik][mp3-128k]
+#EXTINF:-0,CHAK [CBC Radio 1] [NT/Inuvik][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CHAK_CBC_SC
-#EXTINF:-1,CFYK [CBC Radio 1] [NT/Yellowknife][mp3-128k]
+#EXTINF:-0,CFYK [CBC Radio 1] [NT/Yellowknife][mp3-128k]
 http://19003.live.streamtheworld.com:80/CFYKFM_CBC_SC
-#EXTINF:-1,CFYK [CBC Radio 1] [NT/Yellowknife][mp3-128k]
+#EXTINF:-0,CFYK [CBC Radio 1] [NT/Yellowknife][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CFYKFM_CBC_SC
-#EXTINF:-1,CFFB [CBC Radio 1] [NU/Iqaluit][mp3-128k]
+#EXTINF:-0,CFFB [CBC Radio 1] [NU/Iqaluit][mp3-128k]
 http://19003.live.streamtheworld.com:80/CFFBAM_CBC_SC
-#EXTINF:-1,CFFB [CBC Radio 1] [NU/Iqaluit][mp3-128k]
+#EXTINF:-0,CFFB [CBC Radio 1] [NU/Iqaluit][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CFFBAM_CBC_SC
-#EXTINF:-1,CBCO [CBC Radio 1] [ON/Barrie][mp3-128k]
+#EXTINF:-0,CBCO [CBC Radio 1] [ON/Barrie][mp3-128k]
 http://26233.live.streamtheworld.com:80/CBCOFM_CBC_SC
-#EXTINF:-1,CBCO [CBC Radio 1] [ON/Barrie][mp3-128k]
+#EXTINF:-0,CBCO [CBC Radio 1] [ON/Barrie][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBCOFM_CBC_SC
-#EXTINF:-1,CBCK [CBC Radio 1] [ON/Kingston][mp3-128k]
+#EXTINF:-0,CBCK [CBC Radio 1] [ON/Kingston][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBCKFM_CBC_SC
-#EXTINF:-1,CBCK [CBC Radio 1] [ON/Kingston][mp3-128k]
+#EXTINF:-0,CBCK [CBC Radio 1] [ON/Kingston][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBCKFM_CBC_SC
-#EXTINF:-1,CBCK [CBC Radio 1] [ON/Kitchener-Waterloo][mp3-128k]
+#EXTINF:-0,CBCK [CBC Radio 1] [ON/Kitchener-Waterloo][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBLAFM2_CBC_SC
-#EXTINF:-1,CBCK [CBC Radio 1] [ON/Kitchener-Waterloo][mp3-128k]
+#EXTINF:-0,CBCK [CBC Radio 1] [ON/Kitchener-Waterloo][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBLAFM2_CBC_SC
-#EXTINF:-1,CBCL [CBC Radio 1] [ON/London][mp3-128k]
+#EXTINF:-0,CBCL [CBC Radio 1] [ON/London][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBCLFM_CBC_SC
-#EXTINF:-1,CBCL [CBC Radio 1] [ON/London][mp3-128k]
+#EXTINF:-0,CBCL [CBC Radio 1] [ON/London][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBCLFM_CBC_SC
-#EXTINF:-1,CBO [CBC Radio 1] [ON/Ottawa][mp3-128k]
+#EXTINF:-0,CBO [CBC Radio 1] [ON/Ottawa][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBOFM_CBC_SC
-#EXTINF:-1,CBO [CBC Radio 1] [ON/Ottawa][mp3-128k]
+#EXTINF:-0,CBO [CBC Radio 1] [ON/Ottawa][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBOFM_CBC_SC
-#EXTINF:-1,CBCP [CBC Radio 1] [ON/Peterborough][mp3-128k]
+#EXTINF:-0,CBCP [CBC Radio 1] [ON/Peterborough][mp3-128k]
 http://19003.live.streamtheworld.com:80/CBCPFM_CBC_SC
-#EXTINF:-1,CBCP [CBC Radio 1] [ON/Peterborough][mp3-128k]
+#EXTINF:-0,CBCP [CBC Radio 1] [ON/Peterborough][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CBCPFM_CBC_SC
-#EXTINF:-1,CBCS [CBC Radio 1] [ON/Sudbury][mp3-128k]
+#EXTINF:-0,CBCS [CBC Radio 1] [ON/Sudbury][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBCSFM_CBC_SC
-#EXTINF:-1,CBCS [CBC Radio 1] [ON/Sudbury][mp3-128k]
+#EXTINF:-0,CBCS [CBC Radio 1] [ON/Sudbury][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBCSFM_CBC_SC
-#EXTINF:-1,CBQT [CBC Radio 1] [ON/Thunder Bay][mp3-128k]
+#EXTINF:-0,CBQT [CBC Radio 1] [ON/Thunder Bay][mp3-128k]
 http://24443.live.streamtheworld.com:80/CBQTFM_CBC_SC
-#EXTINF:-1,CBQT [CBC Radio 1] [ON/Thunder Bay][mp3-128k]
+#EXTINF:-0,CBQT [CBC Radio 1] [ON/Thunder Bay][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBQTFM_CBC_SC
-#EXTINF:-1,CBLA [CBC Radio 1] [ON/Toronto][mp3-128k]
+#EXTINF:-0,CBLA [CBC Radio 1] [ON/Toronto][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBLAFM_CBC_SC
-#EXTINF:-1,CBLA [CBC Radio 1] [ON/Toronto][mp3-128k]
+#EXTINF:-0,CBLA [CBC Radio 1] [ON/Toronto][mp3-128k]
 http://26233.live.streamtheworld.com:3690/CBLAFM_CBC_SC
-#EXTINF:-1,CBEW [CBC Radio 1] [ON/Windsor][mp3-128k]
+#EXTINF:-0,CBEW [CBC Radio 1] [ON/Windsor][mp3-128k]
 http://24443.live.streamtheworld.com:80/CBEWFM_CBC_SC
-#EXTINF:-1,CBEW [CBC Radio 1] [ON/Windsor][mp3-128k]
+#EXTINF:-0,CBEW [CBC Radio 1] [ON/Windsor][mp3-128k]
 http://26283.live.streamtheworld.com:3690/CBEWFM_CBC_SC
-#EXTINF:-1,CBCT [CBC Radio 1] [PE/Charlottetown][mp3-128k]
+#EXTINF:-0,CBCT [CBC Radio 1] [PE/Charlottetown][mp3-128k]
 http://26233.live.streamtheworld.com:80/CBCTFM_CBC_SC
-#EXTINF:-1,CBCT [CBC Radio 1] [PE/Charlottetown][mp3-128k]
+#EXTINF:-0,CBCT [CBC Radio 1] [PE/Charlottetown][mp3-128k]
 http://24443.live.streamtheworld.com:3690/CBCTFM_CBC_SC
-#EXTINF:-1,CBMP [CBC Radio 1] [QC/Chisasibi][mp3-128k]
+#EXTINF:-0,CBMP [CBC Radio 1] [QC/Chisasibi][mp3-128k]
 http://19003.live.streamtheworld.com:80/CBMPFM_CBC_SC
-#EXTINF:-1,CBMP [CBC Radio 1] [QC/Chisasibi][mp3-128k]
+#EXTINF:-0,CBMP [CBC Radio 1] [QC/Chisasibi][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CBMPFM_CBC_SC
-#EXTINF:-1,CBME [CBC Radio 1] [QC/Montréal][mp3-128k]
+#EXTINF:-0,CBME [CBC Radio 1] [QC/Montréal][mp3-128k]
 http://26423.live.streamtheworld.com:80/CBMEFM_CBC_SC
-#EXTINF:-1,CBME [CBC Radio 1] [QC/Montréal][mp3-128k]
+#EXTINF:-0,CBME [CBC Radio 1] [QC/Montréal][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBMEFM_CBC_SC
-#EXTINF:-1,CBVE [CBC Radio 1] [QC/Québec City][mp3-128k]
+#EXTINF:-0,CBVE [CBC Radio 1] [QC/Québec City][mp3-128k]
 http://26423.live.streamtheworld.com:80/CBVEFM_CBC_SC
-#EXTINF:-1,CBVE [CBC Radio 1] [QC/Québec City][mp3-128k]
+#EXTINF:-0,CBVE [CBC Radio 1] [QC/Québec City][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBVEFM_CBC_SC
-#EXTINF:-1,CBKR [CBC Radio 1] [SK/Regina][mp3-128k]
+#EXTINF:-0,CBKR [CBC Radio 1] [SK/Regina][mp3-128k]
 http://18063.live.streamtheworld.com:80/CBKRFM_CBC_SC
-#EXTINF:-1,CKR [CBC Radio 1] [SK/Regina][mp3-128k]
+#EXTINF:-0,CKR [CBC Radio 1] [SK/Regina][mp3-128k]
 http://26423.live.streamtheworld.com:3690/CBKRFM_CBC_SC
-#EXTINF:-1,CBK1 [CBC Radio 1] [SK/Saskatoon][mp3-128k]
+#EXTINF:-0,CBK1 [CBC Radio 1] [SK/Saskatoon][mp3-128k]
 http://26423.live.streamtheworld.com:80/CBK1FM_CBC_SC
-#EXTINF:-1,CBK1 [CBC Radio 1] [SK/Saskatoon][mp3-128k]
+#EXTINF:-0,CBK1 [CBC Radio 1] [SK/Saskatoon][mp3-128k]
 http://19003.live.streamtheworld.com:3690/CBK1FM_CBC_SC
-#EXTINF:0.552,CBWH [CBC Radio 1] [YT/Whitehorse][mp3-128k]
+#EXTINF:-0,CBWH [CBC Radio 1] [YT/Whitehorse][mp3-128k]
 http://26423.live.streamtheworld.com:80/CFWH_CBC_SC
-#EXTINF:-1,CBWH [CBC Radio 1] [YT/Whitehorse][mp3-128k]
+#EXTINF:-0,CBWH [CBC Radio 1] [YT/Whitehorse][mp3-128k]
 http://18063.live.streamtheworld.com:3690/CFWH_CBC_SC
-#EXTINF:-1,CJXX Boom 95.3 [Classic Rock][Grand Prairie AB][Use CA VPN]
+#EXTINF:-0,CJXX Boom 95.3 [Classic Rock][Grand Prairie AB][Use CA VPN]
 https://newcap.leanstream.co/CJXKFM
-#EXTINF:-1,CHWY Big 106 106.7 [Country][Cold Lake AB][mp3-56k]
+#EXTINF:-0,CHWY Big 106 106.7 [Country][Cold Lake AB][mp3-56k]
 https://goldenwest.leanstream.co/CHWYFM-MP3
-#EXTINF:-1,CKIK 99.1 Hits FM[80's-90s][St Jouns NL][Use CA VPN]
+#EXTINF:-0,CKIK 99.1 Hits FM[80's-90s][St Jouns NL][Use CA VPN]
 https://newcap.leanstream.co/CKIXFM
-#EXTINF:-1,CJMK 98.3 98 CoolFM [Saskatoon SK][mp3-48k]
+#EXTINF:-0,CJMK 98.3 98 CoolFM [Saskatoon SK][mp3-48k]
 http://playerservices.streamtheworld.com/api/livestream-redirect/CJMKFM.mp3
-#EXTINF:-1,CKUL 96.5 The Breeze [Halifax NS][Use CA VPN]
+#EXTINF:-0,CKUL 96.5 The Breeze [Halifax NS][Use CA VPN]
 https://newcap.leanstream.co/CKULFM-MP3
-#EXTINF:-1,CJOJ 95.5 Hits FM [Belleville ON][aac-56k]
+#EXTINF:-0,CJOJ 95.5 Hits FM [Belleville ON][aac-56k]
 http://starboard.streamb.live/SB00160
-#EXTINF:-1,CFCY 95.1 The Islands Country [Charlottetown PE][mp3-64k]
+#EXTINF:-0,CFCY 95.1 The Islands Country [Charlottetown PE][mp3-64k]
 https://live.leanstream.co/CFCYFM-MP3
-#EXTINF:-1,CJHD 93.3 THE ROCK [North Battleford SK][aac-51k]
+#EXTINF:-0,CJHD 93.3 THE ROCK [North Battleford SK][aac-51k]
 http://icy.jpbgdigital.com/CJHD.aac
-#EXTINF:-1,CFWE [Country][Alberta AB][mp3-128k]
+#EXTINF:-0,CFWE [Country][Alberta AB][mp3-128k]
 https://windspeaker-media.streamb.live/SB00291
-#EXTINF:-1,CKUA [Community Radio][Edmonton AB][mp3-72k]
+#EXTINF:-0,CKUA [Community Radio][Edmonton AB][mp3-72k]
 http://ais-sa1.streamon.fm/7000_64k.mp3
-#EXTINF:-1,CKUA [Community Radio][Edmonton AB][aac-96k]
+#EXTINF:-0,CKUA [Community Radio][Edmonton AB][aac-96k]
 http://ais-sa1.streamon.fm/7000_48k.aac
-#EXTINF:-1,CKUA [Community Radio][Edmonton AB][aac-96k][alt]
+#EXTINF:-0,CKUA [Community Radio][Edmonton AB][aac-96k][alt]
 http://ckua.streamon.fm/ckua-48k.aac
-#EXTINF:-1,CKUA [Community Radio][Edmonton AB][aac-96k][alt]
+#EXTINF:-0,CKUA [Community Radio][Edmonton AB][aac-96k][alt]
 http://ais-sa1.streamon.fm/7000_64k.mp3
-#EXTINF:1.11456,C---VOCM News [aac-57k][On-Demand]
+#EXTINF:-0,C---VOCM News [aac-57k][On-Demand]
 http://newcap.leanstream.co/VOCMAM
-#EXTINF:1.43674,C---VOCM News [mp3-128k][On-Demand]
+#EXTINF:-0,C---VOCM News [mp3-128k][On-Demand]
 https://newcap.leanstream.co/VOCMAM-MP3
-#EXTINF:1,CFCB-VOCM-News-Music[mp3-96k]
+#EXTINF:-0,CFCB-VOCM-News-Music[mp3-96k]
 http://blackburn.leanstream.co/CFCBAM-MP3
-#EXTINF:1,CFCB-VOCM-News-Music-[mp3-96k]
+#EXTINF:-0,CFCB-VOCM-News-Music-[mp3-96k]
 https://newcap.leanstream.co/CFCBAM-MP3
-#EXTINF:1.06812,CFCB-VOCM News-Music [aac-56k]
+#EXTINF:-0,CFCB-VOCM News-Music [aac-56k]
 https://newcap.leanstream.co/CFCBAM
-#EXTINF:1,CFCB-VOCM-News-Music [mp3-96k]
+#EXTINF:-0,CFCB-VOCM-News-Music [mp3-96k]
 http://blackburn.leanstream.co/CFCBAM-MP3-2
-#EXTINF:1,CFCB-VOCM News-Music [mp3-96k]
+#EXTINF:-0,CFCB-VOCM News-Music [mp3-96k]
 http://geocom.leanstream.co/CFCBAM-MP3-2
-#EXTINF:1,CFCB-VOCM News-Music [mp3-96k]
+#EXTINF:-0,CFCB-VOCM News-Music [mp3-96k]
 https://live.leanstream.co/CFCBAM-MP3-2
-#EXTINF:1,CFCB-VOCM News-Music [mp3-96k]
+#EXTINF:-0,CFCB-VOCM News-Music [mp3-96k]
 https://geocom.leanstream.co/CFCBAM-MP3
-#EXTINF:1.67184,CFCM-VOCM-News-Music [aac-57k]
+#EXTINF:-0,CFCM-VOCM-News-Music [aac-57k]
 https://newcap.leanstream.co/CKCMAM
-#EXTINF:1,CFCM-VOCM-News-Music [mp3-96k]
+#EXTINF:-0,CFCM-VOCM-News-Music [mp3-96k]
 http://newcap.leanstream.co/CKCMAM-MP3
-#EXTINF:1,CFCM-VOCM-News-Music [mp3-96k]
+#EXTINF:-0,CFCM-VOCM-News-Music [mp3-96k]
 https://newcap.leanstream.co/CKCMAM-MP3
-#EXTINF:1,CKGA--VOCM-News-Music [mp3-96k]
+#EXTINF:-0,CKGA--VOCM-News-Music [mp3-96k]
 https://newcap.leanstream.co/CKGAAM-MP3
