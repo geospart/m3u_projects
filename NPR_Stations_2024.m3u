@@ -10,11 +10,11 @@
 # Verified done AL,AK,AR,AS,AZ,CA
 # Verified done CT,CO,DC,DE,FL,GA
 # Verified done GU,HI,IA,ID,IL,KS
-# Verified done MA,ME,MD,MI.MN,MP
+# Verified done LA.MA,ME,MD,MI.MN,MP
 # Verified done MT,NC,ND,NE,NH,NJ
 # Verified done NY,OK,PA,PR,SC,SD
 # Verified done UT,VA,VI,VT,WV,WY
-# Need KS,KY,LA,MA
+# Need KS,KY
 # Need MO,MS,NM,NV,OH,OK,OR
 # Need RI,TN,TT,TX,WA,WI
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
@@ -45,6 +45,10 @@ https://amber.streamguys1.com:4025/live
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:-0,WBHM 90.3 UAB University of Alabama at Birminham[wbhm.org]
 https://audio.wbhm.org/live.mp3
+#EXTINF:-0,WBHR 1260/90.3 [FM][Baton Rouge LA][wbrh.org]
+https://wbrh.streamguys1.com:80/wbrh-mp3
+#EXTINF:-0,WBHR 1260/90.3 [AM-KBRH][Baton Rouge LA][wbrh.org]
+https://wbrh.streamguys1.com:80/kbrh-mp3
 #EXTINF:-0,WBJB 90.5 Brookdale Public Radio [Bookedale Community College Lincroft NJ][wbjb.org]
 https://ice.wbjb.net/905-MP3-High
 #EXTINF:-0,WBJC [Classical][Baltimore MD][wbjc.com]
@@ -473,7 +477,7 @@ https://20593.live.streamtheworld.com/WQCSHD2.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_HD3.mp3
 #EXTINF:-0,WQCS 90.1 HD3-IRSC River Radio Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
 https://19313.live.streamtheworld.com/WQCSFM_HD3.mp3
-#EXTINF:-0,WQCS 90.1 WQCP-Q91.1 R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
+#EXTINF:-0,WQCS 0.1 WQCP-Q91.1 R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQCPFM.mp3
 #EXTINF:-0,WQCS 90.1 WQCP-Q91.1 R&B Indian River State College [Fort Pierce/Clewiston FL][irsc.edu][wqcs.org]
 https://18063.live.streamtheworld.com/WQCPFM.mp3
@@ -517,6 +521,14 @@ http://wrfa.streamguys1.com/live
 https://live.wrir.org/
 #EXTINF:-0,WRJA 88.1 [WRJA/WLTR-SC News & Music][Central/Columbia SC][www.southcarolinapublicradio.org]
 https://24923.live.streamtheworld.com/WRJAFM.mp3
+#EXTINF:-0,WRKF 89.3 [News][Baton Rouge LA][wrkf.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM_ADP.aac
+#EXTINF:-0,WRKF 89.3 [News][Baton Rouge LA][wrkf.org]
+https://26253.live.streamtheworld.com/WRKFFM_ADP.aac
+#EXTINF:-0,WRKF 89.3 [Classical][Baton Rouge LA][wrkf.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFHD2_ADP.aac
+#EXTINF:-0,WRKF 89.3 [Classical][Baton Rouge LA][wrkf.org]
+https://26273.live.streamtheworld.com/WRKFHD2_ADP.aac
 #EXTINF:-0,WRTI/WRTQ-HD1 91.3 Your Classical and Jazz Station [Classical][Philadelphia PA/Ocean City NJ]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
 #EXTINF:-0,WRTI/WRTQ-HD2 91.3 Your Classical and Jazz Station [Jazz][Ocean City NJ]
@@ -673,6 +685,12 @@ https://vprclassical.streamguys1.com/vprclassical64.mp3
 https://vprmix.streamguys1.com/vprmix64.mp3
 #EXTINF:-0,WVPS 90.9 BBC World Service [Schuyler Falls VT]
 https://vprbbc.streamguys1.com/vprbbc24.mp3
+#EXTINF:-0,WWNO 89.9 [New Orleans LA][wwno.org]
+https://tektite.streamguys1.com:5145/wwnolive
+#EXTINF:-0,WWNO 89.9 [104.9][Classical][New Orleans LA][wwno.org]
+https://tektite.streamguys1.com:5145/wwnoclassical
+#EXTINF:-0,WWNO 89.9 [Jazz][New Orleans LA][wwno.org]
+https://tektite.streamguys1.com:5145/wwnojazz
 #EXTINF:-0,WXPN-HD1 91.9 [XPN2][Hackettstown NJ][xpn.org]
 https://wxpn.xpn.org/xpnmp3hi
 #EXTINF:-0,WXPN-HD2 91.9 [XPN2][Hackettstown NJ][xpn.org]
@@ -837,6 +855,10 @@ http://peridot.streamguys.com:7050/live-mp3
 https://kdnk.streamguys1.com/live
 #EXTINF:-0,KDUR 91.9 Fort Lewis College [Durango CO][kdur.org]
 http://kdurradio.fortlewis.edu/stream
+#EXTINF:-0,KEDM 90.3 Public Radio [Monroe LA][kedm.org]
+https://stream.kedm.org/listen.mp3
+#EXTINF:-0,KEDM 90.3 Public Radio [Ideas][Monroe LA][kedm.org]
+https://stream.kedm.org/listen2.mp3
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Main][Billings MT][ypradio.org]
 https://ypr.streamguys1.com/live
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Classical][Billings MT][ypradio.org]
@@ -1033,6 +1055,16 @@ https://amber.streamguys1.com:5545/live
 http://no.stream
 #EXTINF:-0,KRLL 93.9 Voice Of Denali [Circle AK][krff891.com][http://mixlr.com/krff-891-voice-of-denali]
 https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
+#EXTINF:-0,KRVS-HD1 88.7 Radio Acadie [Culture][Lafayette LA][krvs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac
+#EXTINF:-0,KRVS-HD1 88.7 [Culture][Lafayette LA][krvs.org]
+https://18863.live.streamtheworld.com/KRVSFMAAC.aac
+#EXTINF:-0,KRVS-HD2 88.7 [Campus][Lafayette LA][krvs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPUS_FMAAC.aac
+https://14223.live.streamtheworld.com/KAMPUS_FMAAC.aac
+#EXTINF:-0,KRVS-HD3 88.7 [Context Mews Talk][Lafayette LA][krvs.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRVS_HD3AAC.aac
+https://14223.live.streamtheworld.com/KRVS_HD3AAC.aac
 #EXTINF:-0,KRZA 88.7 Community Radio Alamosa [Alamosa CO][krza.org]
 https://crystalout.surfernetwork.com:8001/KRZA-FM_MP3
 #EXTINF:-0,KSDP 830 [False Pass / Sand Point AK][apradio.org]
@@ -1049,6 +1081,12 @@ https://alaskapublic-live.streamguys1.com/aac-web
 https://ksko.streamguys1.com/live-aac
 #EXTINF:-0,KSKO 89.5 [McGrath AK][kskopublicradio.com]
 https://ksko.streamguys1.com/live
+#EXTINF:-0,KSLU [South Eaterm Loiusiana University][Hammond LA][lionupradio.org]
+http://ice26.securenetsystems.net/KSLU
+#EXTINF:-0,KSLU-HD1 [South Eaterm Loiusiana University][Hammond LA][lionupradio.org]
+https://ice26.securenetsystems.net/KSLU
+#EXTINF:-0,KSLU-HD2 [Blues][South Eaterm Loiusiana University][Hammond LA][lionupradio.org]
+https://ice26.securenetsystems.net/KSLUHD2
 #EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [Rhythm and News][Yreka CA][ijpr.org]
 https://jpr-ice.streamguys1.com/jpr-rhythm
 #EXTINF:-0,KSOR 1490/91.3 Jefferson Public Radio [News and Information][Yreka CA][ijpr.org]
@@ -1259,4 +1297,3 @@ https://listen.kzfr.org/stream
 http://us4.internet-radio.com:8030/stream
 #EXTINF:-0,KZYX 88.1 Mendocino County Public Broadcasting [Fort Bragg/ Philo CA][kzyx.org]
 https://kzyx.mcn.org/kzyxlive
-
