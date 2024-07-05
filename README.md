@@ -41,7 +41,7 @@ CBC M3U [way better than I could do]- https://rcavliveaudio.akamaized.net/hls/li
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/36a21f2c-fe9d-492b-807e-8b0598451658)
 [VLC / Soma 64k]
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/a94a5395-c78b-452c-af2b-95cd3bfabec8)
-[SMPlayer NPR]
+[SMPlayer / NPR]
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/06b375df-b5cc-49b0-bb3b-098af18d65eb)
 
 
