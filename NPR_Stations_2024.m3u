@@ -1099,9 +1099,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac
 https://18863.live.streamtheworld.com/KRVSFMAAC.aac
 #EXTINF:-0,KRVS-HD2 88.7 [Campus][Lafayette LA][krvs.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPUS_FMAAC.aac
+#EXTINF:-0,KRVS-HD2 88.7 [Campus][Lafayette LA][krvs.org]
 https://14223.live.streamtheworld.com/KAMPUS_FMAAC.aac
 #EXTINF:-0,KRVS-HD3 88.7 [Context Mews Talk][Lafayette LA][krvs.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVS_HD3AAC.aac
+#EXTINF:-0,KRVS-HD3 88.7 [Context Mews Talk][Lafayette LA][krvs.org]
 https://14223.live.streamtheworld.com/KRVS_HD3AAC.aac
 #EXTINF:-0,KRZA 88.7 Community Radio Alamosa [Alamosa CO][krza.org]
 https://crystalout.surfernetwork.com:8001/KRZA-FM_MP3
