@@ -58,13 +58,13 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
 #EXTINF:-0,BBC  2 Adult Contemporary [U.K.][bbc.co.uk][aac-48k]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
-#EXTINF:12.7573,BBC 3 [no-rewind][U.K.][bbc.co.uk][aac-48k]
+#EXTINF:-0,BBC 3 [no-rewind][U.K.][bbc.co.uk][aac-48k]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=48000.norewind.m3u8
-#EXTINF:2.47467,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:-0,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=96000.norewind.m3u8
-#EXTINF:4.992,BBC 4LW [aac-99k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:-0,BBC 4LW [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=96000.norewind.m3u8
 #EXTINF:-0,BBC 4LW [aac-48k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=48000.norewind.m3u8
@@ -104,13 +104,13 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC Three Counties [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8
-#EXTINF:2.47467,BBC Radio York [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
+#EXTINF:-0,BBC Radio York [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC Radio WM [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC Radio Wiltshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
-#EXTINF:2.432,BBC Radio Wales [aac-98k][no-rewind][U.K.][bbc.co.uk]
+#EXTINF:-0,BBC Radio Wales [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC Radio Ulster [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
@@ -142,11 +142,11 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_fm/bbc_r
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC Radio Orkney [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
-#EXTINF:0.653061,Radio Orbital [Lisbon Portugal][orbital.pt][EDM-Trance]
+#EXTINF:-0,Radio Orbital [Lisbon Portugal][orbital.pt][EDM-Trance]
 https://onlineradiobox.com/json/pt/orbital/play
 #EXTINF:-0,BBC Radio Nottingham [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nottingham/bbc_radio_nottingham.isml/bbc_radio_nottingham-audio%3d96000.norewind.m3u8
-#EXTINF:0.679184,Radio Northsea International [Pirate Radio]
+#EXTINF:-0,Radio Northsea International [Pirate Radio]
 http://radionorthsea.zapto.org:8008/listen.pls
 #EXTINF:-0,BBC Radio Northampton [aac-98k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio%3d96000.norewind.m3u8
@@ -206,15 +206,15 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worceste
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
 #EXTINF:-0,BBC CWR Coventry [aac-99k][no-rewind][U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8
-#EXTINF:0, The BugCast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
+#EXTINF:-0,The BugCast [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
 http://stream.otherside.network:8904/listen.mp3
-#EXTINF:0, Absolute Radio 80s London[mp3 112k]
+#EXTINF:-0,Absolute Radio 80s London[mp3 112k]
 http://stream-ar.planetradio.co.uk/absolute80shigh.aac
-#EXTINF:0, AllFM 96.9 The Real Voice of Manchester [Community][allfm.org][aac 131k]
+#EXTINF:-0,AllFM 96.9 The Real Voice of Manchester [Community][allfm.org][aac 131k]
 https://uksoutha.streaming.broadcast.radio:15870/allfm
-#EXTINF:0, Angel Radio [angelradio.co.uk][mp3 96k]
+#EXTINF:-0,Angel Radio [angelradio.co.uk][mp3 96k]
 http://s2.xrad.io:8522/listen.pls
-#EXTINF:0, AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk][mp3 128k]
+#EXTINF:-0,AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk][mp3 128k]
 https://uksoutha.streaming.broadcast.radio/awazfm
 #EXTINF:-0,BFBS Radio UK [british-forces-broadcasting-service][bfbs.com][aac 56k]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs1.aac
@@ -252,117 +252,117 @@ http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs16.aac
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs17.aac
 #EXTINF:-0,BFBS Radio Scotland [british-forces-broadcasting-service][bfbs.com][aac 56k]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs18.aac
-#EXTINF:0, Capital Dance [U.K.][capitaldance.com][48k]
+#EXTINF:-0,Capital Dance [U.K.][capitaldance.com][48k]
 http://ice-sov.musicradio.com/CapitalDance
-#EXTINF:0, Capital Dance [U.K.][capitaldance.com][mp3 128k]
+#EXTINF:-0,Capital Dance [U.K.][capitaldance.com][mp3 128k]
 http://ice-sov.musicradio.com/CapitalDanceMP3
-#EXTINF:0, Capital Dance [U.K.][capitaldance.com][aac 192k]
+#EXTINF:-0,Capital Dance [U.K.][capitaldance.com][aac 192k]
 https://ice-sov.musicradio.com/CapitalDanceHD
-#EXTINF:0, Capital Radio [U.K.][capitalfm.com/digital/][aac 48k]
+#EXTINF:-0,Capital Radio [U.K.][capitalfm.com/digital/][aac 48k]
 http://vis.media-ice.musicradio.com/CapitalUK
-#EXTINF:0, Capital Radio London 95.8 [U.K.][capitalfm.com/digital/][mp3 128k]
+#EXTINF:-0,Capital Radio London 95.8 [U.K.][capitalfm.com/digital/][mp3 128k]
 http://media-ice.musicradio.com/CapitalMP3
-#EXTINF:0, Capital Radio Smooth Chill [U.K.][capitalfm.com/digital/][mp3 128k]
+#EXTINF:-0,Capital Radio Smooth Chill [U.K.][capitalfm.com/digital/][mp3 128k]
 http://media-ice.musicradio.com/ChillMP3.m3u
-#EXTINF:0, Capital Radio Glasgow [U.K.][capitalfm.com/digital/][mp3 128k]
+#EXTINF:-0,Capital Radio Glasgow [U.K.][capitalfm.com/digital/][mp3 128k]
 https://icecast.thisisdax.com/CapitalGlasgowMP3
-#EXTINF:0, Capital Radio Manchester [U.K.][capitalfm.com/digital/][mp3 128k]
+#EXTINF:-0,Capital Radio Manchester [U.K.][capitalfm.com/digital/][mp3 128k]
 https://icecast.thisisdax.com/CapitalManchesterMP3
-#EXTINF:0, Capital XTra [London][capitalxtra.com][48k]
+#EXTINF:-0,Capital XTra [London][capitalxtra.com][48k]
 http://ice-sov.musicradio.com/CapitalXTRALondon
-#EXTINF:0, Capital XTra [London][capitalxtra.com][128k]
+#EXTINF:-0,Capital XTra [London][capitalxtra.com][128k]
 http://ice-sov.musicradio.com/CapitalXTRALondonMP3
-#EXTINF:0, Capital XTra [London][capitalxtra.com][192k]
+#EXTINF:-0,Capital XTra [London][capitalxtra.com][192k]
 http://ice-sov.musicradio.com/CapitalXTRALondonHD
-#EXTINF:0, Capital XTra [National][capitalxtra.com][48k]
+#EXTINF:-0,Capital XTra [National][capitalxtra.com][48k]
 https://ice-sov.musicradio.com/CapitalXTRANational 
-#EXTINF:0, Capital XTra [National][capitalxtra.com][128k]
+#EXTINF:-0,Capital XTra [National][capitalxtra.com][128k]
 https://ice-sov.musicradio.com/CapitalXTRANationalMP3
-#EXTINF:0, Capital XTra [National][capitalxtra.com][192k]
+#EXTINF:-0,Capital XTra [National][capitalxtra.com][192k]
 https://ice-sov.musicradio.com/CapitalXTRANationalHD
-#EXTINF:0, Celtic Radio 95.5FM [Glasgow][celticmusicradio.net][mp3 128k]
+#EXTINF:-0,Celtic Radio 95.5FM [Glasgow][celticmusicradio.net][mp3 128k]
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
-#EXTINF:0, Celtic Radio 95.5FM [Glasgow][celticmusicradio.net][alt][mp3 128k]
+#EXTINF:-0,Celtic Radio 95.5FM [Glasgow][celticmusicradio.net][alt][mp3 128k]
 https://streaming.broadcastradio.com:11130/celtic
-#EXTINF:0, Clyde 1/50 [Glasgow][hellorayo.co.uk/clyde/][mp3 112k]
+#EXTINF:-0,Clyde 1/50 [Glasgow][hellorayo.co.uk/clyde/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
-#EXTINF:0, Beat 106 Glasgow [beat106scotland.com][mp3 128k]
+#EXTINF:-0,Beat 106 Glasgow [beat106scotland.com][mp3 128k]
 https://n10.rcs.revma.com:443/3d6v2ut171zuv
-#EXTINF:0, HBS - Glasgow's Hospital Broadcasting Service [hbs.org.uk][mp3 256k]
+#EXTINF:-0,HBS-Glasgow's Hospital Broadcasting Service [hbs.org.uk][mp3 256k]
 https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
-#EXTINF:0, Jamboradio [Glasgow][talk][jamboradio.co.uk][mp3 192k]
+#EXTINF:-0,Jamboradio [Glasgow][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
-#EXTINF:0, GayDio Manchester [gaydio.co.uk][mp3 128k]
+#EXTINF:-0,GayDio Manchester [gaydio.co.uk][mp3 128k]
 http://listen-gaydio.sharp-stream.com/gaydionw.mp3
-#EXTINF:0, GB News London [gbnews.uk/radio][48k]
+#EXTINF:-0,GB News London [gbnews.uk/radio][48k]
 http://listen-gbnews.sharp-stream.com/gbnews.aac
-#EXTINF:0, Greatest Hits Radio Glasgow [clyde2][hellorayo.co.uk/greatest-hits/glasgow/][mp3 128k]
+#EXTINF:-0,Greatest Hits Radio Glasgow [clyde2][hellorayo.co.uk/greatest-hits/glasgow/][mp3 128k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde2.mp3
-#EXTINF:0, Greatest Hits Radio London [hellorayo.co.uk/greatest-hits/glasgow/][mp3 112k]
+#EXTINF:-0,Greatest Hits Radio London [hellorayo.co.uk/greatest-hits/glasgow/][mp3 112k]
 http://ec5.yesstreaming.net:2065/stream
-#EXTINF:0, Greatest Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/greatest-hits/][mp3 112k]
+#EXTINF:-0,Greatest Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/greatest-hits/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
-#EXTINF:0, Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/][mp3 112k]
+#EXTINF:-0,Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/key.mp3
-#EXTINF:0, LBC [Talk][www.lbc.co.uk][London][aac 48k]
+#EXTINF:-0,LBC [Talk][www.lbc.co.uk][London][aac 48k]
 http://media-sov.musicradio.com/LBCLondon
-#EXTINF:0, LBC [Talk][www.lbc.co.uk][mp3 48k]
+#EXTINF:-0,LBC [Talk][www.lbc.co.uk][mp3 48k]
 http://media-sov.musicradio.com/LBC973MP3Low
-#EXTINF:0, Like ONE UK  [Pop][media.info/radio/stations/like-one-uk][mp3 128k]
+#EXTINF:-0,Like ONE UK  [Pop][media.info/radio/stations/like-one-uk][mp3 128k]
 https://likeradiostream.com/likeoneuk
-#EXTINF:0, Lomond Radio [Local-Music][Glasgow][lomondradio.co.uk][mp3 128k]
+#EXTINF:-0,Lomond Radio [Local-Music][Glasgow][lomondradio.co.uk][mp3 128k]
 https://ukwesta.streaming.broadcast.radio/lomondradio
-#EXTINF:0, Love 80's Manchester [love80sradio.co.uk][mp3 128k]
+#EXTINF:-0,Love 80's Manchester [love80sradio.co.uk][mp3 128k]
 http://stream1.themediasite.co.uk:8038/stream
-#EXTINF:0, National Radio Scotland [nationplayer.com/nation-radio-scotland][mp3 128k]
+#EXTINF:-0,National Radio Scotland [nationplayer.com/nation-radio-scotland][mp3 128k]
 http://listen-nation.sharp-stream.com/nationscotland.mp3
-#EXTINF:0, PIE Radio Manchester [pieradio.co.uk][mp3 256k]
+#EXTINF:-0,PIE Radio Manchester [pieradio.co.uk][mp3 256k]
 http://playoutonestreaming.com:8097/stream
-#EXTINF:0, Planet Rock London [planetradio.co.uk/planet-rock][aac 48k]
+#EXTINF:-0,Planet Rock London [planetradio.co.uk/planet-rock][aac 48k]
 http://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
-#EXTINF:0, Planet Rock London [planetradio.co.uk/planet-rock][mp3 112k]
+#EXTINF:-0,Planet Rock London [planetradio.co.uk/planet-rock][mp3 112k]
 http://stream-mz.planetradio.co.uk/planetrock.mp3
-#EXTINF:0, Quality Radio [Paisley Renfrewshire Scotland][https://qualityradio.uk/radio/][mp3 128k]
+#EXTINF:-0,Quality Radio [Paisley Renfrewshire Scotland][https://qualityradio.uk/radio/][mp3 128k]
 http://radio.canstream.co.uk:8123/live.mp3
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][aac 56k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][aac 56k]
 http://78.129.202.200:8030/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 64k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 64k]
 http://sc2.radiocaroline.net:8000/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://sc2.radiocaroline.net:8040/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://sc6.radiocaroline.net:8040/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][aac 48k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][aac 48k]
 http://sc8.radiocaroline.net:8010/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 24k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 24k]
 http://sc8.radiocaroline.net:8020/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://sc8.radiocaroline.net:8040/;
-#EXTINF:0, Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
+#EXTINF:-0,Radio Caroline [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://78.129.202.200:8040/;
-#EXTINF:0, Radio Caroline Flashback [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
+#EXTINF:-0,Radio Caroline Flashback [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://sc2.radiocaroline.net:10558/listen.pls
-#EXTINF:0, Radio X [Alt][radiox.co.uk][mp3 128k]
+#EXTINF:-0,Radio X [Alt][radiox.co.uk][mp3 128k]
 http://ice-sov.musicradio.com/RadioXUKMP3
-#EXTINF:0, Radio X [Alt][radiox.co.uk][aac 192k]
+#EXTINF:-0,Radio X [Alt][radiox.co.uk][aac 192k]
 https://ice-sov.musicradio.com/RadioXUKHD
-#EXTINF:0, Radio X [Alt][London][radiox.co.uk][aac 192k]
+#EXTINF:-0,Radio X [Alt][London][radiox.co.uk][aac 192k]
 https://ice-sov.musicradio.com/RadioXLondonHD
-#EXTINF:0, Radio X [Alt][Manchester][radiox.co.uk][aac 192k]
+#EXTINF:-0,Radio X [Alt][Manchester][radiox.co.uk][aac 192k]
 http://ice-sov.musicradio.com/RadioXManchesterHD
-#EXTINF:0, Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
+#EXTINF:-0,Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
 https://tx.sharp-stream.com/http_live.php?i=slackcity.mp3
-#EXTINF:0, Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
+#EXTINF:-0,Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
 https://edge-audio-02-thn.sharp-stream.com/slackcity.mp3
-#EXTINF:0, Talk Radio [radio.talkradio.co.uk][mp3 64k]
+#EXTINF:-0,Talk Radio [radio.talkradio.co.uk][mp3 64k]
 http://radio.talkradio.co.uk/stream
-#EXTINF:0, The Times Radio London[aac 48k]
+#EXTINF:-0,The Times Radio London[aac 48k]
 http://timesradio.wireless.radio/stream-mobile
-#EXTINF:0, The Times Radio London [mp3 128k]
+#EXTINF:-0,The Times Radio London [mp3 128k]
 http://timesradio.wireless.radio/stream
-#EXTINF:0, Virgin Radio [mp3 128k]
+#EXTINF:-0,Virgin Radio [mp3 128k]
 http://radio.virginradio.co.uk/stream
-#EXTINF:0, Wythenshawe FM [Community][www.wfmradio.org][mp3 96k]
+#EXTINF:-0,Wythenshawe FM [Community][www.wfmradio.org][mp3 96k]
 http://radio.canstream.co.uk:8082/live.mp3
-#EXTINF:0, XS Manchester [Rock/Alt][xsmanchester.co.uk][mp3 128k]
+#EXTINF:-0,XS Manchester [Rock/Alt][xsmanchester.co.uk][mp3 128k]
 https://icecast.thisisdax.com/RealXSManchesterMP3
