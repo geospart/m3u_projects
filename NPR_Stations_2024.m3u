@@ -6,7 +6,6 @@
 # Note: Excluded local network re-broadcast stations.
 # created 06/24/2024
 # https://docs.fileformat.com/audio/m3u/
-# https://www.cpb.org/cpb-station-finder
 # http://fmstream.org/index.php?s=npr
 # https://github.com/geospart/m3u_projects
 # Verified done AL,AK,AR,AS,AZ
@@ -16,11 +15,11 @@
 # Verified done MA,ME,MD,MI.MN
 # Verified done MO,MP,MT,MS,NM
 # Verified done NC,ND,NE,NH,NJ
-# Verified done NM,NV,NY,OH,OK
-# Verified done   ,PA,PR,RI,SC
-# Verified done SD,TN, ,UT,VA
+# Verified done NM,MS,NV,NY,OH
+# Verified done OK,PA,PR,RI,SC
+# Verified done SD,TN,TX,UT,VA
 # Verified done VI,VT,WA,WI,WV,WY
-# Need MS,OR,TX
+# Need OR
 # GU-Guam, MP-Northern Mariana Islands, PR-Puerto Rico
 # TT-Trust Territories, VI - Virgin Islands
 # AS-American Samoa
@@ -861,6 +860,10 @@ https://live.streamguys1.com:3181/hd2.mp3
 http://no.stream
 #EXTINF:-0,KABU 90.7 [Tribal][St Michael ND][nv1.org]
 http://playerservices.streamtheworld.com/api/livestream-redirect/NV1.mp3
+#EXTINF:-0,KACO 89.7 Abilene Public Radio [Abiline TX][kacu.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KACUFM.mp3
+#EXTINF:-0,KACO 89.7 Abilene Public Radio [Abiline TX][kacu.org]
+https://25013.live.streamtheworld.com/KACUFM.mp3
 #EXTINF:-0,KAFM 88.1 Community Radio and Beyond [Grand Junction CO][kafmcommunityradio.org]
 https://audio-edge-qse4n.yyz.g.radiomast.io/10822f41-b0b3-4430-809f-9c22cf5c990f
 #EXTINF:-0,KAJX Aspen Public Radio [Aspen CO][aspenpublicradio.org]
@@ -871,6 +874,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAJXFM.mp3
 https://14923.live.streamtheworld.com/KAJXFMAAC.aac
 #EXTINF:-0,KAJX Aspen Public Radio [Aspen CO][aspenpublicradio.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAJXFM.mp3
+#EXTINF:-0,KAMU 90.9 Texas A&M University [College Station TX][kamutvfm.org][kamu.tamu.edu/radio]
+https://kamu.streamguys1.com/hd1-192
+#EXTINF:-0,KAMU 90.9 Texas A&M University [Classical][College Station TX][kamutvfm.org][kamu.tamu.edu/radio]
+https://kamu.streamguys1.com/hd2-192
 #EXTINF:-0,KANU 91.5 Kansas Public Radio [KPR1-Classical][Lawrence KS][kansaspublicradio.org]
 https://streaming.kansaspublicradio.org:8001/kpr1
 #EXTINF:-0,KANU 91.5 Kansas Public Radio [KPR2-News][Lawrence KS][kansaspublicradio.org]
@@ -1021,6 +1028,8 @@ http://kdurradio.fortlewis.edu/stream
 https://stream.kedm.org/listen.mp3
 #EXTINF:-0,KEDM 90.3 Public Radio [Ideas][Monroe LA][kedm.org]
 https://stream.kedm.org/listen2.mp3
+#EXTINF:-0,KEDT 90.3  [Corpus Christi TX][kedt.org]
+https://kedt.streamguys1.com/live-aac
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Main][Billings MT][ypradio.org]
 https://ypr.streamguys1.com/live
 #EXTINF:-0,KEMC-HD1 91.7 Yellowstone Public Radio [Classical][Billings MT][ypradio.org]
@@ -1031,6 +1040,16 @@ https://ypr.streamguys1.com/live-3
 https://ypr.streamguys1.com/live-4
 #EXTINF:-0,KENW 88.5 [Portales NM][kenw.org]
 https://ice10.securenetsystems.net/KENWFM
+#EXTINF:-0,KERA 90.1 [Dallas TX][kera.org]
+https://kera.streamguys1.com/keralive
+#EXTINF:-0,KERA 90.1 [Dallas TX][kera.org]
+https://kera.streamguys1.com/keraliveaacplus
+#EXTINF:-0,KETR-HD1 Your Station [Main][Commerce TX][ketr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KETRFMAAC.aac
+#EXTINF:-0,KETR-HD2 Your Station [The Lion][Commerce TX][ketr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KETR_HD2.mp3
+#EXTINF:-0,KETR-HD3 Your Station [Radio Bilingue][Commerce TX][ketr.org]
+https://radio.radiobilingue.org/?uuid=a7cp2m50d
 #EXTINF:-0,KEXP 90.3 [Seattle WA][kexp.org]
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 #EXTINF:-0,KEYA 88.5 K.E.Y.A.—The Voice of the Turtle Mountains [Belcourt ND][keyaradio.com]
@@ -1141,6 +1160,8 @@ https://lullabies.stream.publicradio.org/lullabies.aac
 https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
 #EXTINF:-0,KLSE 90.7 MPR.7 MPR [MPR Relax Classical][Twin Cities MN][mpr.org][St Johns University]
 https://relax.stream.publicradio.org/relax.aac
+#EXTINF:-0,KMFA 89.5 Classically Austin [Austin TX][kmfa.org]
+https://kmfa.streamguys1.com/KMFA-mp3
 #EXTINF:-0,KMHA 91.3 Radio [New Town ND][kmharadio.org]
 https://ice10.securenetsystems.net/KMHAFM
 #EXTINF:-0,KMOJ 89.9-HD1 The Peoples Station [Main][Minneapolis MN][kmojfm.com]
@@ -1175,6 +1196,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3
 https://18823.live.streamtheworld.com/KPUBFM_128.mp3
 #EXTINF:-0,KNBA 90.3 [Anchorage AK][knba.org]
 https://14923.live.streamtheworld.com/KNBAFM.mp3
+#EXTINF:-0,KNCT 91.3 Simply Beautiful/Central Texas College [Killeen TX][knct.org]
+https://streamdb6web.securenetsystems.net/cirrusencore/KNCT
 #EXTINF:-0,KNHC 89.5 C89.5 Seattles Home For Dance [Seattle WA][c895.org]
 https://knhc-ice.streamguys1.com/live
 #EXTINF:-0,KNNB White Mountain Apache Radio [WhiteRiver AZ][wmat.us][knnb.online]
@@ -1251,6 +1274,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KPCWFM.mp3
 https://14103.live.streamtheworld.com/KPCWFM.mp3
 #EXTINF:-0,KPRG 89.3 Isla Public Radio Guam [Mangilao GU][islapublic.org]
 https://peridot.streamguys1.com:5095/live
+#EXTINF:-0,KPVU 91.3 The Original Sound in Public Radio [Prairie View TX][kpvu.org]
+https://kpvu.streamguys1.com/live-mp3
 #EXTINF:-0,KRBD 105.3 [Commununity Radio]Ketchikan AK][krbd.org]
 https://war.streamguys1.com:8085/krbd
 #EXTINF:-0,KRFC 88.9 [Fort Collins CO][krfcfm.org]
@@ -1271,6 +1296,8 @@ http://no.stream
 https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
 #EXTINF:-0,KRPS 89.9 Public Radio for the Four States [Pittsburg KS][krps.org][offline]
 https://s2.voscast.com:12109/stream
+#EXTINF:-0,KRTS 91.5 Marfa Public Radio [Marathon TX][marfapublicradio.org]
+https://marfapr-ice.streamguys1.com/krts-npr.mp3
 #EXTINF:-0,KRVS-HD1 88.7 Radio Acadie [Culture][Lafayette LA][krvs.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac
 #EXTINF:-0,KRVS-HD1 88.7 [Culture][Lafayette LA][krvs.org]
@@ -1343,6 +1370,10 @@ https://prod-3-85-195-99.amperwave.net/publictv19-ktbgfmaac-imc1
 https://ktdb.streamon.fm/stream/KTDB-32k.aac
 #EXTINF:-0,KTDB 89.7 T_ ochini Diné Bi Radio—The Voice of the Ramah Navajo [Pine Hill/Ramah NM][ktdbfm.com]
 https://ais-sa1.streamon.fm/7059_32k.aac
+#EXTINF:-0,KTEP 88.5 [El Paso TX][ktep.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTEPFM_ADP.aac
+#EXTINF:-0,KTEP 88.5 [El Paso TX][ktep.org]
+https://18443.live.streamtheworld.com/KTEPFM_ADP.aac
 #EXTINF:-0,KTNA 88.9 Community Radio for the Susitna Valley [Talkeetna AK][ktna.org]
 https://ktna.broadcasttool.stream/play
 #EXTINF:-0,KTOO 104.3 [Juneau AK][ktoo.org]
@@ -1351,6 +1382,26 @@ https://13693.live.streamtheworld.com/KTOOFMAAC.aac
 https://13693.live.streamtheworld.com/KRNNFMAAC.aac
 #EXTINF:-0,KTOO 104.3 [KXLL-100.7 Music][Juneau AK][ktoo.org]
 https://18253.live.streamtheworld.com/KXLLFMAAC.aac
+#EXTINF:-0,KTSU 90.9 The Choice [Houston TX][ktsuradio.com]
+https://ice6.securenetsystems.net/KTSUFM
+#EXTINF:-0,KTT-HD1 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3
+#EXTINF:-0,KTT-HD1 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://18823.live.streamtheworld.com/KTTZHD1.mp3
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://14923.live.streamtheworld.com/KTTZHD2.mp3
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2.mp3
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD3.mp3
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+https://18823.live.streamtheworld.com/KTTZHD3.mp3
+#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org]
+https://14923.live.streamtheworld.com/KNCHFM.mp3
+/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNCHFM.mp3
+#EXTINF:-0,KTXK 91.5 Texarkana College [Texarkana TX][ktxk.org]
+https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3
 #EXTINF:-0,KUAC 89.9 [Fairbanks AK][kuac.org]
 https://ais-sa1.streamon.fm:443/7180_24k.aac
 #EXTINF:-0,KUAF-HD1 91.3 [Main][Fayetteville AR][kuaf.com]
@@ -1391,6 +1442,12 @@ https://kuer.streamguys1.com/kuer3high_icy
 https://kuer.streamguys1.com/kuer4high_icy
 #EXTINF:-0,KUHB 91.9 [St Paul AK][kuhbradio.org]
 https://ice8.securenetsystems.net/KUHB
+#EXTINF:-0,KUHF 88.7 Houston Public Radio News [News][Houston TX][houstonpublicmedia.org]
+https://stream.houstonpublicmedia.org/news-mp3
+#EXTINF:-0,KUHF 88.7 Houston Public Radio News [Classical][Houston TX][houstonpublicmedia.org]
+https://stream.houstonpublicmedia.org/classical-mp3
+#EXTINF:-0,KUHF 88.7 Houston Public Radio News [Mixtape][Houston TX][houstonpublicmedia.org]
+https://stream.houstonpublicmedia.org/mixtape-mp3
 #EXTINF:-0,KUNC 91.5 KUNC Community Radio for Northern Colorado [Greeley CO][kunc.org]
 https://ais-sa1.streamon.fm/7890_96k.aac
 #EXTINF:-0,KUNC 91.5 KUNC Community Radio for Northern Colorado [The Colorado Sound][Greeley CO][kunc.org]
@@ -1443,14 +1500,24 @@ https://uprxstreamer.usu.edu:8020/
 https://uprxstreamer.usu.edu:8022/
 #EXTINF:-0,KUSU 91.5 UPT Tres [Spanish][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8028/
-#EXTINF:-0,KUTX 98.9 [Music/Sessions][Austin TX][kutx.org]
-https://streams.kut.org/4427_56?aw_0_1st.playerid=kutx-web
-#EXTINF:-0,KUTX 98.9 [Music/Sessions][Austin TX][kutx.org]
-https://streams.kut.org/4428_56?aw_0_1st.playerid=kutx-web
-#EXTINF:-0,KUTX 98.9 [AMX][Austin TX][kutx.org]
-https://streams.kut.org/4429_56?aw_0_1st.playerid=amx-web
-#EXTINF:-0,KUTX 98.9 [TMX][Austin TX][kutx.org]
-https://streams.kut.org/4430_56?aw_0_1st.playerid=tmx-web
+#EXTINF:-0,KUTE-HD1 90.5 KUT Experience Austin Texas [KUTE][Main][Austin TX][kut.org]
+https://streams.kut.org/4426_128.mp3
+#EXTINF:-0,KUTE-HD2 90.5 KUT Experience Austin Texas [BBC][Austin TX][kut.org]
+https://streams.kut.org/4427_128.mp3
+#EXTINF:-0,KUTE/KUTX-HD1 90.5/98.9 KUTX Music 98.9 [KUTX][Austin/Leander TX][kut.org][tmx.fm]
+https://streams.kut.org/4428_192.mp3
+#EXTINF:-0,KUTE/KUTX-HD2 90.5/98.9 KUTX Music 98.9 [KUTX Austin Music Experience][Austin/Leander TX][kut.org][tmx.fm]
+https://streams.kut.org/4429_192.mp3
+#EXTINF:-0,KUTE/KUTX-HD3 90.5/98.9 KUTX Music 98.9 [KUTX Texas Music Experience][Austin/Leander TX][kut.org][tmx.fm]
+https://streams.kut.org/4430_192.mp3
+#EXTINF:-0,KUTX 98.9 [Music/Sessions][Austin TX][kutx.org][tmx.fm]
+https://streams.kut.org/4427_56
+#EXTINF:-0,KUTX 98.9 [Music/Sessions][Austin TX][kutx.org][tmx.fm]
+https://streams.kut.org/4428_56
+#EXTINF:-0,KUTX 98.9 [AMX][Austin TX][kutx.org][tmx.fm]
+https://streams.kut.org/4429_56
+#EXTINF:-0,KUTX 98.9 [TMX][Austin TX][kutx.org][tmx.fm]
+https://streams.kut.org/4430_56
 #EXTINF:-0,KUVO 89.3-HD1 [Jazz][Denver CO][kuvo.org]
 https://kuvo.streamguys1.com/kuvo-aac-128
 #EXTINF:-0,KUVO 89.3-HD2 [The Drop][Denver CO][kuvo.org]
@@ -1465,6 +1532,36 @@ https://wyoming-public-ice.streamguys1.com/CLS128MP3
 https://wyoming-public-ice.streamguys1.com/WYS128MP3
 #EXTINF:-0,KUWR 90.1 Jazz Wyoming /University of Wyoming[Laramie WY][wyomingpublicmedia.org]
 https://wyoming-public-ice.streamguys1.com/JZZ128MP3
+#EXTINF:-0,KVHL/KSTX 91.7/89.1 Texas Public Radio [Llano TX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFM.mp3
+#EXTINF:-0,KVHL/KSTX 91.7/89.1 Texas Public Radio [Llano TX]
+https://26423.live.streamtheworld.com/KSTXFM.mp3
+#EXTINF:-0,KVHL/KPAC 91.7/88.3 Texas Public Radio [Llano/San Antonio TX][tpr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPACFM.mp3
+#EXTINF:-0,KVHL/KPAC 91.7/88.3 Texas Public Radio [Llano/San Antonio TX][tpr.org]
+https://19003.live.streamtheworld.com/KPACFM.mp3
+#EXTINF:-0,KVHL/KTXI 91.7/90.1 Texas Public Radio [Llano/Ingram-Hill Country TX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTXIFM.mp3
+#EXTINF:-0,KVHL/KTXI 91.7/90.1 Texas Public Radio [Llano/Ingram-Hill Country TX]
+https://26423.live.streamtheworld.com/KTXIFM.mp3
+#EXTINF:-0,KVHL/KTPR 91.7/89.9 Texas Public Radio [Llano /Stanton-Big CountryTX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM.mp3
+#EXTINF:-0,KVHL/KTPR 91.7/89.9 Texas Public Radio [Llano /Stanton-Big CountryTX]
+https://18063.live.streamtheworld.com/KTPRFM.mp3
+#EXTINF:-0,KVHL 91.7 Voice of the Highland Lakes-Texas Public Radio [Llano/Highland Lake TX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVHLFM.mp3
+#EXTINF:-0,KVHL 91.7 Voice of the Highland Lakes-Texas Public Radio [Llano/Highland Lake TX]
+https://18063.live.streamtheworld.com/KVHLFM.mp3
+#EXTINF:-0,KVHL/KTPD 91.7/89.3 Texas Public Radio [Llano/Del Rio TX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTPDFM.mp3
+#EXTINF:-0,KVHL/KTPD 91.7/89.3 Texas Public Radio [Llano/Del Rio TX]
+https://18063.live.streamtheworld.com/KTPDFM.mp3
+#EXTINF:-0,KVHL/KCTI 91.7/1450 Texas Public Radio [Llano/Gonzales TX]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCTIAM.mp3
+#EXTINF:-0,KVHL/KCTI 91.7/1450 Texas Public Radio [Llano/Gonzales TX]
+https://26423.live.streamtheworld.com/KCTIAM.mp3
+#EXTINF:-0,KVLU 91.3 Lamar University [Beaumont TX][lamar.edu/kvlu]
+https://kvlustream.lamar.edu:8443/stream
 #EXTINF:-0,KVMR 89.5 [Nevada City CA][kvmr.org]
 https://sslstream.kvmr.org:9433/aac96
 #EXTINF:-0,KVNF 90.9  Mountain Grown Public Radio [Paonia CO][kvnf.org]
