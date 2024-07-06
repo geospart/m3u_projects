@@ -1384,21 +1384,21 @@ https://13693.live.streamtheworld.com/KRNNFMAAC.aac
 https://18253.live.streamtheworld.com/KXLLFMAAC.aac
 #EXTINF:-0,KTSU 90.9 The Choice [Houston TX][ktsuradio.com]
 https://ice6.securenetsystems.net/KTSUFM
-#EXTINF:-0,KTT-HD1 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3
-#EXTINF:-0,KTT-HD1 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://18823.live.streamtheworld.com/KTTZHD1.mp3
-#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://14923.live.streamtheworld.com/KTTZHD2.mp3
-#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2.mp3
-#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD3.mp3
-#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media	[Lubbock TX][kttz.org]
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org]
 https://18823.live.streamtheworld.com/KTTZHD3.mp3
 #EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org]
 https://14923.live.streamtheworld.com/KNCHFM.mp3
-/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org]
+#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNCHFM.mp3
 #EXTINF:-0,KTXK 91.5 Texarkana College [Texarkana TX][ktxk.org]
 https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3
