@@ -52,10 +52,10 @@ https://amber.streamguys1.com:4025/live
 https://stream.wbez.org/wbez64-web.aac
 #EXTINF:-0,WBHM 90.3 UAB University of Alabama at Birminham[wbhm.org]
 https://audio.wbhm.org/live.mp3
-#EXTINF:-0,WBHR 1260/90.3 [FM][Baton Rouge LA][wbrh.org][offline]
-https://wbrh.streamguys1.com:80/wbrh-mp3
-#EXTINF:-0,WBHR 1260/90.3 [AM-KBRH][Baton Rouge LA][wbrh.org][offline]
-https://wbrh.streamguys1.com:80/kbrh-mp3
+#EXTINF:-0,WBHR 1260/90.3 [FM][Baton Rouge LA][wbrh.org]
+https://wbrh.streamguys1.com/wbrh-mp3
+#EXTINF:-0,WBHR 1260/90.3 [AM-KBRH][Baton Rouge LA][wbrh.org]
+https://wbrh.streamguys1.com/kbrh-mp3
 #EXTINF:-0,WBJB 90.5 Brookdale Public Radio [Bookedale Community College Lincroft NJ][wbjb.org]
 https://ice.wbjb.net/905-MP3-High
 #EXTINF:-0,WBJC 91.5[Classical][Baltimore MD][wbjc.com]
@@ -63,7 +63,7 @@ https://ice64.securenetsystems.net/WBJC
 #EXTINF:-0,WBLU 88.9 Blue Lake Public Radio [Grand Rapids MI][bluelake.org/radio]
 https://wblv.streamguys1.com/live
 #EXTINF:-0,WBUR 90.9 [Boston University][wbur.org][MP3]
-http://audio.wbur.org/stream/live_mp3.m3u
+http://wbur-sc.streamguys.com/wbur
 #EXTINF:-0,WCBE 90.5 [Columbus OH][wcbe.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCBEFM.mp3
 #EXTINF:-0,WCBE 90.5 [Columbus OH][wcbe.org]
@@ -346,9 +346,9 @@ https://18123.live.streamtheworld.com/WIUMFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WIUMHD2.mp3
 #EXTINF:-0,WIUM-HD2 91.3 Tristates Public Radio [Macomb IL][tspr.org]
 https://20593.live.streamtheworld.com/WIUMHD2.mp3
-#EXTINF:-0,WJAB-FM 90.9 [Normal Al][wjab.org][mp3 85k]
+#EXTINF:-0,WJAB-FM 90.9 Alabama A&M University [Normal Al][wjab.org][mp3 85k]
 https://wjab.streamguys1.com/
-#EXTINF:-0,WJAB-FM HD2 [Normal Al][wjab.org][offline]
+#EXTINF:-0,WJAB-FM HD2 Alabama A&M University [Normal Al][wjab.org][offline]
 https://wjab.streamguys1.com/WJAB-HD2
 #EXTINF:-0,WJCT-FM-HD1 89.9 [Main][Jacksonville FL][wjct.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3
@@ -958,7 +958,7 @@ http://stream.kcck.org/kcckjazz2
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCCUFM.mp3
 #EXTINF:-0,KCCU 90.1 [Lawton OK][kccu.org]
 https://22223.live.streamtheworld.com/KCCUFM.mp3
-#EXTINF:-0,KCEP 88.1 Power 88 Your Soul School Station [Las Vegas NV][power88lv.com][offline]
+#EXTINF:-0,KCEP 88.1 Power 88 Your Soul School Station [Las Vegas NV][power88lv.com]
 https://ice7.securenetsystems.net/KCEP
 #EXTINF:-0,KCHU-KXKM-KXGA 770-89.7 -90.5 Community Public Radio[ for Prince William Sound and Copper River Valley Mccarthy-Glennallen AK]
 https://ice8.securenetsystems.net/KCHU
@@ -1090,7 +1090,7 @@ https://live.amperwave.net/playlist/agmedia28-khfmfmaac-ibc3.m3u
 https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3
 #EXTINF:-0,KHFM 95.5 [Classical][Santa Fe NM][khfm.org]
 https://prod-34-229-214-133.amperwave.net/agmedia28-khfmfmaac-ibc3
-#EXTINF:-0,KHNS 102.3 [Haines AK][khns.org]
+#EXTINF:-0,KHNS 102.3 Public Radio for the Upper Lynn Canal [Haines AK][khns.org]
 https://khns.streamguys1.com/live
 #EXTINF:-0,KHOL 89.1 Community Radio [Jackson Hole WY][891khol.org]
 http://peridot.streamguys.com:6010/live
@@ -1126,7 +1126,7 @@ https://kiyu.streamguys1.com/live
 https://ice8.securenetsystems.net/KJLU
 #EXTINF:-0,KKCR-1 90.9 Kaua`i Community Radio [Main][Hanalei HI][kkcr.org/onair/][HQ]
 https://s8.phx.icastcenter.com:9000/stream
-#EXTINF:-0,KKCR-1 90.9 Kaua`i Community Radio [Main][kkcr.org/onair/][LQ][offline]
+#EXTINF:-0,KKCR-1 90.9 Kaua`i Community Radio [Main][kkcr.org/onair/][LQ]
 http://199.180.75.58:9015/stream
 #EXTINF:-0,KKCR-2 90.9 Kaua`i Community Radio [24/7 Hawaiian][kkcr.org/onair/]
 https://streaming.shoutcast.com/kkcr?ver=673457
@@ -1306,7 +1306,7 @@ https://krculive.semo.edu:8443/mobile
 http://no.stream
 #EXTINF:-0,KRLL 93.9 Voice Of Denali [Circle AK][krff891.com][http://mixlr.com/krff-891-voice-of-denali]
 https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
-#EXTINF:-0,KRPS 89.9 Public Radio for the Four States [Pittsburg KS][krps.org][offline]
+#EXTINF:-0,KRPS 89.9 Public Radio for the Four States [Pittsburg KS][krps.org]
 https://s2.voscast.com:12109/stream
 #EXTINF:-0,KRTS 91.5 Marfa Public Radio [Marathon TX][marfapublicradio.org]
 https://marfapr-ice.streamguys1.com/krts-npr.mp3
@@ -1414,7 +1414,7 @@ https://14923.live.streamtheworld.com/KNCHFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNCHFM.mp3
 #EXTINF:-0,KTXK 91.5 Texarkana College [Texarkana TX][ktxk.org]
 https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3
-#EXTINF:-0,KUAC 89.9 [Fairbanks AK][kuac.org]
+#EXTINF:-0,KUAC 89.9 Connecting Alaska to the World And the World to Alaska [Fairbanks AK][kuac.org]
 https://ais-sa1.streamon.fm:443/7180_24k.aac
 #EXTINF:-0,KUAF-HD1 91.3 [Main][Fayetteville AR][kuaf.com]
 https://war.streamguys1.com:7031/kuaf1
@@ -1432,7 +1432,7 @@ https://streaming.azpm.org/kuaz48.mp3.m3u
 https://streaming.azpm.org/kuaz128.mp3.m3u
 #EXTINF:-0,KUAZ 89.1 FM /1550 AM [Tucson AZ][radio.azpm.org/kuaz/][MP3 192k]
 https://streaming.azpm.org/kuaz192.mp3.m3u
-#EXTINF:-0,KUCB [Unalaska AK][kucb.org]
+#EXTINF:-0,KUCB Your voice in the Aleutians [Unalaska AK][kucb.org]
 https://kucb.streamguys1.com/live
 #EXTINF:-0,KUCO/KCSC 89.1/95.9 [Edmond/Woodward OK][classicalkuco.org]
 https://kuco.streamguys1.com/live_aac
