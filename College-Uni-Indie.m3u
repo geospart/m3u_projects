@@ -115,6 +115,8 @@ https://securestreams5.autopo.st:1923/rsuradio128k
 http://wruw-stream.wruw.org:8000/stream128.mp3
 #EXTINF:-0,KSCU 103.3 [Santa Clara CA][kscu.org]
 https://kscu.streamguys1.com/live
+#EXTINF:-0,KSJS 90.5 San Jose State University [San Jose CA][ksjs.org]
+http://streaming.ksjs.sjsu.edu:8000/live
 #EXTINF:-0,KSLU [South Eaterm Loiusiana University][Hammond LA][lionupradio.org]
 http://ice26.securenetsystems.net/KSLU
 #EXTINF:-0,KSLU-HD1 90.9 [South Eaterm Loiusiana University][Hammond LA][lionupradio.org]
@@ -185,6 +187,10 @@ https://uprxstreamer.usu.edu:8020/
 https://uprxstreamer.usu.edu:8022/
 #EXTINF:-0,KUSU 91.5 UPT Tres [Spanish][LOGAN UT][Utah State University][www.upr.org]
 https://uprxstreamer.usu.edu:8028/
+#EXTINF:-0,KUT 90.5 The University of Texas at Austin [Austin TX][kut.org][offline]
+https://kut.streamguys1.com/kut.aac
+#EXTINF:-0,KUTX 98.9 University of Texas at Austin [Leander TX][kutx.org]
+https://streams.kut.org/4428_56
 #EXTINF:-0,KUWR 90.1 Wyoming Public Radio /University of Wyoming[Laramie WY][wyomingpublicmedia.org]
 https://wyoming-public-ice.streamguys1.com/WPR128MP3
 #EXTINF:-0,KUWR 90.1 Wyoming Classical /University of Wyoming[Laramie WY][wyomingpublicmedia.org]
@@ -195,6 +201,8 @@ https://wyoming-public-ice.streamguys1.com/WYS128MP3
 https://wyoming-public-ice.streamguys1.com/JZZ128MP3
 #EXTINF:-0,KVLU 91.3 Lamar University [Beaumont TX][lamar.edu/kvlu]
 https://kvlustream.lamar.edu:8443/stream
+#EXTINF:-0,KVRX 91.7 University of Texas at Austin [Austin TX][kvrx.org]
+https://kvrx.org/now_playing/stream
 #EXTINF:-0,KWAX 91.1 University Of Oregon [Eugene OR][kwax.uoregon.edu]
 http://streaming.kwax.com:8000/stream1
 #EXTINF:-0,KWSU 1250 NWPB[Washington State University-Northwest Public Radio NPR and Classical][Pullman WA]
@@ -272,6 +280,8 @@ http://136.183.9.38:3307/;
 https://beanball.wcbn.org:8443/wcbn-hi.mp3
 #EXTINF:-0,WCBN 88.3 University of Michigan [Ann Arbor MI]
 https://floyd.wcbn.org:8443/wcbn-hd.mp3
+#EXTINF:-0,WCDB 90.9 State University of New York [Albany NY][wcdbfm.com]
+http://streams.wcdbfm.com:8000/stream
 #EXTINF:-0,WCHC 88.1 College of the Holy Cross [Worcester MA][holycross.edu/wchc-88-1-fm]
 https://s2.radio.co/sc161fe4c9/listen
 #EXTINF:-0,WCLK-HD1 91.9 [Jazz-News][Clark Atlanta University][Atlanta GA]
@@ -298,6 +308,10 @@ https://n1cb-e2.revma.ihrhls.com/zc5249
 https://shoutcastwidgets.com/ssl/523/
 #EXTINF:-0,WCUR 91.7 West Chester University [West Chester PA][wcur.org][offline]
 http://144.26.87.77:8000/
+#--------------------------------------------4-------------------------------------
+#EXTINF:-0,WDCE 90.1 University of Richmond [Richmond VA][wdce.net]
+https://us4freenew.listen2myradio.com/live.mp3
+#--------------------------------------------4-------------------------------------
 #EXTINF:-0,WDST 100.1 Radio Woodstock [Woodstock NY]
 https://stream.revma.ihrhls.com/zc7332
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
@@ -378,6 +392,10 @@ https://prod-54-159-58-244.amperwave.net/univofindy-wicrhd3aac-ibc4
 http://s3.streammonster.com:8056/stream
 #EXTINF:-0,WIIT 88.9 FM llinois Institute of Technology [Chicago IL][radio.iit.edu]
 https://icecast.iit.edu/WIITstream
+#EXTINF:-0,WIKD 102.5 Embry-Riddle Aeronautical University [Daytona Beach FL][wikd1025.com]
+https://stream.revma.ihrhls.com/zc6300
+#EXTINF:-0,WIKD 102.5 Embry-Riddle Aeronautical University [Daytona Beach FL][wikd1025.com]
+https://n32b-e2.revma.ihrhls.com/zc6300
 #EXTINF:-0,WILL 580/90.9 University of Illinois Urbana [AM][Urbana IL][will.illinois.edu]
 http://icecast.will.illinois.edu:8000/WILL-mp3-48
 #EXTINF:-0,WILL 580/90.9 University of Illinois Urbana [FM][Urbana IL][will.illinois.edu]
@@ -450,10 +468,8 @@ https://stream.revma.ihrhls.com/zc6298
 https://wmbr.org:8002/hi
 #EXTINF:-0,WMCN 91.7 Macalester College [St. Paul, MN][wmcn.fm]
 https://stream.wmcn.fm:8443/wmcn
-#--------------------------------------------4-------------------------------------
 #EXTINF:-0,WMEB 91.9 University of Maine [Orono ME][umaine.edu/wmeb]
 http://wmeb-stream.maine.edu:8000/wmeb
-#--------------------------------------------4-------------------------------------
 #EXTINF:-0,WMSE 97.1 Milwaukee School of Engineering [Milwaukee WI][wmse.org]
 https://wmse.streamguys1.com/wmselivemp3
 #EXTINF:-0,WMCX 88.9 Monmouth University [West Long Branch NJ][wmcx.com]
@@ -554,6 +570,8 @@ https://s5.reliastream.com/proxy/peter1?mp=/stream
 https://us2.maindigitalstream.com/ssl/WRMC
 #EXTINF:-0,WRPI 91.5 Rensselaer Polytechnic Institute [Troy NY][wrpi.org]
 http://icecast1.wrpi.org:8000/mp3-128.mp3
+#EXTINF:-0,WRRC 107.7 Rider University [Lawrenceville NJ][1077thebronc.com]
+https://ice5.securenetsystems.net/WRRC
 #EXTINF:-0,WRSU 88.7 Rutgers University [New Brunswick NJ][wrsu.rutgers.edu]
 https://wrsu-libstrm.radioca.st/stream
 #EXTINF:-0,WRTC 89.3 FM Trinity College [Hartford CT][wrtcfm.com][offline]
