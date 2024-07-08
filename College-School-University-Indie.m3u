@@ -516,6 +516,22 @@ http://stream0.wfmu.org/freeform-128k
 http://stream2.wfmu.org/freeform-high.aac
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org]
 http://stream2.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org]
+http://stream0.wfmu.org/drummer
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org]
+http://stream2.wfmu.org/drummer
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org]
+http://stream0.wfmu.org/sheena
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org]
+http://stream2.wfmu.org/sheena
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+http://stream0.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+http://stream2.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+https://stream2.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+http://stream0.wfmu.org/rocknsoul-live.mp3
 #EXTINF:-0,WFNM 89.1 Franklin And Marshall College [Lancaster PA][sites.google.com/fandm.edu/wfnm/home][offline]
 http://nap.casthost.net:9332/stream
 #EXTINF:-0,WFNP 88.7 State University of New York at New Paltz [Rosendale NY][wfnp.org]
@@ -587,7 +603,7 @@ http://wixq.millersville.edu:8000/live.nsv
 #EXTINF:-0,WJAB-FM 90.9 Alabama A&M University [Normal Al][wjab.org][mp3 85k]
 https://wjab.streamguys1.com/
 #EXTINF:-0,WJAB-FM HD2 Alabama A&M University [Normal Al][wjab.org][offline]
-https://wjab.streamguys1.com/WJAB-HD2
+https://wjab.stramguys1.com/WJAB-HD2
 #EXTINF:-0,WJHI 98.5 Jeffersonville High School [Jeffersonville IN][wjhi.com]
 https://ice24.securenetsystems.net/WJHI985
 #EXTINF:-0,WJMF 88.7 Bryant University [Smithfield RI][wjmf.bryant.edu]
