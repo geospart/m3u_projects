@@ -139,6 +139,8 @@ https://live.kgltradio.com/256
 https://live.kgltradio.com/320
 #EXTINF:-0,KGNU 88.5 Community Radio [Denver CO][kgnu.org]
 https://kgnu.streamguys1.com/kgnu
+#EXTINF:-0,KGNU 1390/88.5 Community Radio [Denver CO][kgnu.org]
+https://kgnu.streamguys1.com/kgnu
 #EXTINF:-0,KGNU 88.5 Community Radio [Music][Denver CO][kgnu.org]
 https://kgnu.streamguys1.com/kgnu-music
 #EXTINF:-0,KGVA 88.1 Aaniiih Nakoda College [Harlem MT][ancollege.edu][kgvaradio.org][offline]
@@ -498,7 +500,7 @@ http://marconi.emerson.edu:8000/wershd2
 http://marconi.emerson.edu:8000/wershd2-aac
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD3-SRO][Boston Mass][Emerson College][wers.org][standingroom.org][marconi]
 http://marconi.emerson.edu:8000/WERS-SRO
-#EXTINF:-0,WERU 89.9 Community Radio in Eastern and Central Maine "A Voice of Many Voices" (207) 469-0500
+#EXTINF:-0,WERU 89.9 Community Radio in Eastern and Central Maine "A Voice of Many Voices"
 https://pacificaservice.org:9000/weru_128
 #EXTINF:-0,WESS 90.3 East Stroudsburg University [East Stroudsburg PA][quantum.esu.edu/clubs/wess]
 http://wessstream.esu.edu:8000/play
@@ -508,63 +510,71 @@ http://radio.wesleyan.edu:8000/stream
 https://listen1.mixlr.com/c22c99b775765a2cfd16ac8438a09f8d
 #EXTINF:-0,WFDU 89.1 Fairleigh Dickinson University [Teaneck NJ][wfdu.fm]
 https://peridot.streamguys1.com:5350/iheart-aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][****]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
 http://stream0.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org]
-http://stream0.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
 http://stream2.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+http://stream0.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+http://stream2.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
 http://stream2.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+https://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+https://stream2.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/drummer
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream2.wfmu.org/drummer
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/sheena
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream2.wfmu.org/sheena
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/rocknsoul
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream2.wfmu.org/rocknsoul
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 https://stream2.wfmu.org/rocknsoul
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/rocknsoul-live.mp3
 #EXTINF:-0,WFNM 89.1 Franklin And Marshall College [Lancaster PA][sites.google.com/fandm.edu/wfnm/home][offline]
 http://nap.casthost.net:9332/stream
-#EXTINF:-0,WFNP 88.7 State University of New York at New Paltz [Rosendale NY][wfnp.org]
+#EXTINF:-0,WFNP 88.7 State University of New York at New Paltz [Rosendale NY][wfnp.org][offline]
 https://ice66.securenetsystems.net/WFNP
-#EXTINF:-0,WFRW 94.5 George Washington University [Shawano WI]
+#EXTINF:-0,WFRW 94.5 George Washington University [Shawano WI][aac 64k]
 http://stream.revma.ihrhls.com/zc7294
-#EXTINF:-0,WFTU 1570 Five Towns College [Riverhead NY][wfturadio.com]
+#EXTINF:-0,WFTU 1570 Five Towns College [Riverhead NY][wfturadio.com][aac 32k]
 https://ice64.securenetsystems.net/WFTU
-#EXTINF:-0,WFUV 90.7 Fordham University [Bronx NY][wfuv.org]
+#EXTINF:-0,WFUV 90.7 Fordham University [Bronx NY][wfuv.org][aac 64k]
 https://onair.wfuv.org/onair-aacplus
-#EXTINF:-0,WGCS 91.1 Goshen College [Goshen IN][globeradio.org]
+#EXTINF:-0,WGCS 91.1 Goshen College [Goshen IN][globeradio.org][mp3 192k]
 https://icecast.goshen.edu:8001/wgcs-128vbr
-#EXTINF:-0,WGLS 89.7 Rowan University [Glassboro NJ][wgls.rowan.edu]
+#EXTINF:-0,WGLS 89.7 Rowan University [Glassboro NJ][wgls.rowan.edu][mp3 96k]
 https://wglsradio.rowan.edu/wgls
-#EXTINF:-0,KGNU 1390/88.5 Community Radio [Denver CO][kgnu.org]
-https://kgnu.streamguys1.com/kgnu
-#EXTINF:-0,WGRP 88.1 Florida International University [Homestead FL][panthernow.com/theroar]
+#EXTINF:-0,WGRP 88.1 Florida International University [Homestead FL][panthernow.com/theroar][mp3 128k]
 https://s2.voscast.com:11835/stream
 #EXTINF:-0,WGRP KGSP 90.5 Park University [Parkville MO][kgsp.park.edu][offline]
 http://66.148.171.37:8000/KGSPRadio
-#EXTINF:-0,WGSU 89.3 State University Of New York [Geneseo NY]
+#EXTINF:-0,WGSU 89.3 State University Of New York [Geneseo NY][mp3 119k]
 http://wgsu-live.geneseo.edu:8000/icy_0
-#EXTINF:-0,WHCP 90.3 Nassau Community College [Garden City NY][ncc.edu/studentlife/whpcradiostation]
+#EXTINF:-0,WHCP 90.3 Nassau Community College [Garden City NY][ncc.edu/studentlife/whpcradiostation][aac 128k]
 https://whpc.streamguys1.com/whpc
-#EXTINF:-0,WHCR-FM 90.3 City College of New York [Harlem-New York NY][whcr.org]
+#EXTINF:-0,WHCR-FM 90.3 City College of New York [Harlem-New York NY][whcr.org][mp3 128k]
 https://stream.radiojar.com/aafrqsmpyxquv
-#EXTINF:-0,WHCR-FM 90.3 City College of New York [Harlem-New York NY][whcr.org]
+#EXTINF:-0,WHCR-FM 90.3 City College of New York [Harlem-New York NY][whcr.org][mp3 128k]
 https://n02.radiojar.com/aafrqsmpyxquv
-#EXTINF:-0,WHFR 89.3 Henry Ford College [Detroit MI][whfr.fm]
+#EXTINF:-0,WHFR 89.3 Henry Ford College [Detroit MI][whfr.fm][mp3 64k]
 https://media.streambrothers.com:8012/stream
-#EXTINF:-0,WHOV 88.1 Hampton University [Hampton VA][home.hamptonu.edu/whov]
+#EXTINF:-0,WHOV 88.1 Hampton University [Hampton VA][home.hamptonu.edu/whov][aac 50k]
 https://stream.revma.ihrhls.com/zc5599
-#EXTINF:-0,WHRW  90.5 Binghamton University [Binghamton NY][whrw.fm]
+#EXTINF:-0,WHRW  90.5 Binghamton University [Binghamton NY][whrw.fm][mp3 320k]
 http://stream.whrwfm.org/hi
 #EXTINF:-0,WHUS 91.7 University of Connecticut [Storrs CT][whus.org]
 http://stream.whus.org:8000/whusfm
