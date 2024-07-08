@@ -9,9 +9,15 @@ BBC_and_other_UK_radio.m3u [British Radio Streams]
 
 CBC-2024.m3u [Canadian Radio Streams]-Deleted
 
-NPR_Stations_2024.m3u [National Public Radio Streams]
+CBC-2024-for-clementine-no-error.m3u
+
+CBC-and-other-Canadian_stations.m3u
+
+College-School-University-Indie.m3u
 
 Norway-Sweden_2024.m3u [Norwegian and Swedish Radio Streams]
+
+NPR_Stations_2024.m3u [National Public Radio Streams]
 
 SomaFM_60_stations_no_desc_128kbps_aac_if_avail.m3u
 
