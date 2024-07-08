@@ -38,8 +38,7 @@ I keep my Ukraine National Radio m3u file here: https://github.com/geospart/Radi
 CBC M3U [way better than I could do]- https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 
 [Clemntine / College / Indie Stations]
-![image](https://github.com/geospart/m3u_projects/assets/105660995/0f959580-aef3-4837-a9ee-af1be9bdb859)
-
+![image](https://github.com/geospart/m3u_projects/assets/105660995/43e3cdaf-e389-486e-a187-ba6b021f2c75)
 
 [VLC / Soma 64k]
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/a94a5395-c78b-452c-af2b-95cd3bfabec8)
