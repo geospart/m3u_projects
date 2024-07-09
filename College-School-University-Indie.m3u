@@ -5,13 +5,42 @@
 # created 07/07/2024
 # https://docs.fileformat.com/audio/m3u/
 # http://fmstream.org/index.php
-# https://goodradio.org
+# https://goodradio.org [done]
+# https://en.wikipedia.org/wiki/List_of_campus_radio_stations
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
 #************************************************************************
 #PLAYLIST:-0,College-University-Indie Stations
 #EXTGRP:-Main List
+#EXTINF:-0,1A12 87.8 University of Canberra [ucfm.com.au][offline]
+http://stream.ucfm.com.au:8000/listen.mp3
+#EXTINF:-0,1A12 87.8 University of Canberra [ucfm.com.au]
+https://www.radioking.com/play/ucfm/631505
+#EXTINF:-0,2MCE 92.3 Charles Sturt University [Bathurst NSW AU][2mce.org][offline]
+https://arts-ed-streams.csu.edu.au:8080/2MCE
+#EXTINF:-0,2NUR 103.7 University of Newcastle [Newcastle NSW AU][2nurfm.com.au]
+https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3
+#EXTINF:-0,2NUR 103.7 University of Newcastle [Newcastle NSW AU][2nurfm.com.au]
+https://23163.live.streamtheworld.com/2NURFM.mp3
+#EXTINF:-0,2SER 107.3 University of Technology Sydney / Macquarie University [Sydney NSW AU][2ser.com]
+https://icecast1.myradio.click/streamrelay
+#EXTINF:-0,2SUX/2USU 90.9<-[Now Dead/Online Only]->Surg/University of Technology Sydney [Sydney NSW AU][surgfm.com]
+https://surg12-gecko.radioca.st/stream
+#EXTINF:-0,2UNE 106.9 University of New England's [Armidale NSW AU][tunefm.net]
+https://icast1.streamcom.net/TuneFM
+#EXTINF:-0,3SYN 90.7 [Melbourne VI AU][syn.org.au/syn-90-7][offline]
+http://128.199.77.168:8000/stream907
+#EXTINF:-0,5UV 101.5 Radio Adelaide-University of Adelaide [Adelaide SA AU][radioadelaide.org.au]
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADEAAC.aac
+#EXTINF:-0,6NR 100.1 Curtin University [Perth WA AU][curtinfm.com.au]
+https://usa7.fastcast4u.com/proxy/curtinfm
+#EXTINF:-0,8TFM 104.1 Charles Darwin University [Darwin NT AU][www.territoryfm.com]
+http://streaming.territoryfm.com:8000/TerritoryFM
+#EXTINF:-0,8TFM 104.1 Charles Darwin University [Darwin NT AU][www.territoryfm.com]
+https://streaming.territoryfm.com:8443/TerritoryFM
+#EXTINF:-0,8TFM 104.1 Charles Darwin University [Serene][Darwin NT AU][www.territoryfm.com]
+https://usa7.fastcast4u.com/proxy/umevpocf
 #EXTINF:-0,BIRN1 Boston Conservatory at Berklee [Boston MA][thebirn.com][offline]
 https://birncontrol.getstreamhosting.com:9014/stream
 #EXTINF:-0,BIRN Global Boston Conservatory at Berklee [Boston MA][thebirn.com][offline]
@@ -38,8 +67,14 @@ https://stream.statsradio.com:8102/stream
 https://www.cjsf.ca:8443/listen-hq
 #EXTINF:-0,CJSF 90.1 Simon Fraser University [Burnaby BC][cjsf.ca][mp3 79k]
 https://www.cjsf.ca:8443/listen
+#EXTINF:-0,CJSR 88.5  University of Alberta [Edmonton AB][cjsr.com]
+http://cjsr.streamon.fm/
+#EXTINF:-0,CJSW 90.9 University of Calgary [Calgary AB][cjsw.com]
+https://cjsw.leanstream.co/CJSWFM
 #EXTINF:-0,CKUT 90.3 Montreal McGill University [mp3 192k]
 https://ckut.out.airtime.pro/ckut_a
+#EXTINF:-0,CKXU 88.3 University of Lethbridge [Lethbridge AB][ckxu.com]
+https://stream.ckxu.com/
 #EXTINF:-0,COOG Radio Univerity of Houston [Houston TX][aac 56k]
 https://coogradio2.es.uh.edu/coogradio
 #EXTINF:-0,Dutchess Radio Dutchess Community College [Poughkeepsie NY][offline]
@@ -57,7 +92,7 @@ https://kamu.streamguys1.com/hd2-192
 #EXTINF:-0,KANM Texas A&M [kanm.tamu.edu][mp3 192k]
 https://icecast.kanm.org/listen
 #EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k]
-https://ark3.spinitron.com/ark2/KAOS-20240708T070000Z/index.m3u8
+https://ark3.spincom/ark2/KAOS-20240708T070000Z/index.m3u8
 #EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][mp3 128k]
 http://205.134.192.90:8930/;
 #EXTINF:-0,KASU 91.9 State University Radio [State Univerity AR][kazu.org][mp3 128k]
