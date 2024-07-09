@@ -1,5 +1,5 @@
 #EXTM3U# 
-# Edited on Xed, SMPlay and VLC on Linux Mint
+# Edited on Xed, Clementine on Linux Mint
 # By @geospart
 # https://mastodon.social/@geospart
 # created 07/07/2024
@@ -8,6 +8,7 @@
 # https://goodradio.org [done]
 # https://en.wikipedia.org/wiki/List_of_campus_radio_stations
 # https://en.wikipedia.org/wiki/Campus_radio
+# https://en.wikipedia.org/wiki/List_of_campus_radio_stations_in_Canada
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
@@ -56,6 +57,8 @@ http://155.42.161.60:8000/listen
 http://198.162.21.84:8002/
 #EXTINF:-0,CFFF 92.7 Trent University "Trent Radio" [Peterborough][mp3 181k]
 http://trentradio.ca:8800/hi-fi
+#EXTINF:-0,CFMH 107.3 University of New Brunswick-Saint John [Saint Jonh NB][localfm.ca][offline]
+http://no.stream
 #EXTINF:-0,CFML 107.9 British Columbia Institute of Technology [Burnaby BC][evolution1079.com]
 https://evolution1079.streamb.live/SB00207
 #EXTINF:-0,CFMU 93.3 McMaster University [Hamilton ON][cfmu.ca][mp3 128k]
@@ -64,20 +67,38 @@ http://138.197.136.105:8000/mount.128mp3
 https://stream.cfmu.ca/mount.128mp3
 #EXTINF:-0,CFRC Queens University [Kingston ON][cfrc.ca][mp3 128k]
 https://audio.cfrc.ca/stream
+#EXTINF:-0,CFRU 93.3 University of Guelph [Guelph ON][cfru.ca]
+https://stream2.statsradio.com:8154/stream
 #EXTINF:-0,CFUR 88.7 University of Northern British Columbia [Prince George BC][cfur.ca]
 http://listen.cfur.ca
 #EXTINF:-0,CFUV 101.9 University of Victoria [Victoria BC][cfuv.uvic.ca][aac 195k]
 https://ais-sa1.streamon.fm/7132_64k.aac
-#EXTINF:-0,CHSR 97.9 University of New Brunswick [Fredericton MB][chsrfm.ca]
-https://usa6.fastcast4u.com/proxy/chsrbroa
+#EXTINF:-0,CFXU 93.3 St. Francis Xavier University [Antigonish NS][radiocfxu.ca][offline]
+http://no.stream
+#EXTINF:-0,CHMA 106.9 Mount Allison University [Sackville NB][chmafm.com]
+https://securestreams6.autopo.st:2111
+#EXTINF:-0,CHMR 93.5 Memorial University of Newfoundland [St. John's NF][chmr.ca]
+http://mp3srv.munsu.mun.ca:8000
+#EXTINF:-0,CHMR 93.5 Memorial University of Newfoundland [St. John's NF][chmr.ca]
+http://mp3srv.munsu.mun.ca:8001/
 #EXTINF:-0,CHLY 101.7 [Nanaimo BC][chly.ca]
 https://tunein.com/radio/CHLY-1017-s18493
 #EXTINF:-0,CHOU 89.1 University of Ottawa "Radio Ottawa"[[mp3 128k]
 https://stream.statsradio.com:8102/stream
+#EXTINF:-0,CHSR 97.9 University of New Brunswick [Fredericton MB][chsrfm.ca]
+https://usa6.fastcast4u.com/proxy/chsrbroa
+#EXTINF:-0,CIOI 101.5 Mohawk College [Hamilton ON][www.indi1015.ca]
+https://hawkstream.mohawkcollege.ca/1/
 #EXTINF:-0,CITR 101.9 University of British Columbia [Vancouver BC][citr.ca]
 http://player.citr.ca/
 #EXTINF:-0,CIVL 101.7 University of the Fraser Valley [Abbotsford, BC][civl.ca]
 http://civl.ca/listen/
+#EXTINF:-0,CIXX 106.9 Fanshawe College [London ON][1069thex.com]
+https://ice23.securenetsystems.net/CIXXFM
+#EXTINF:-0,CJBU 107.3 Cape Breton University [Cape Breton Regional Municipality NS]caperradio.ca][offline]
+http://142.12.32.15:8000/stream.m3u
+#EXTINF:-0,CJFK 91.3 Loyalist College [Belleville ON][91x.fm]
+https://lweb04.lcaat.ca:8443/91x.mp3
 #EXTINF:-0,CJJJ 106.5 Assiniboine Community College [Brandon MB]
 http://cj-106.assiniboine.net/
 #EXTINF:-0,CJJJ 106.5 Assiniboine Community College [Brandon MB]
@@ -92,6 +113,10 @@ http://cjsr.streamon.fm/
 https://cjsw.leanstream.co/CJSWFM
 #EXTINF:-0,CJUM 101.5 University of Manitoba [Winnipeg MB][umfm.com]
 https://live.umfm.com:8010/;stream/1
+#EXTINF:-0,CKDU 88.1 Dalhousie University [Halifax NS][ckdu.ca]
+https://archive1.ckdu.ca:9750/ckdu_1_on_air_low.mp3
+#EXTINF:-0,CKDU 88.1 Dalhousie University [Halifax NS][ckdu.ca]
+https://archive1.ckdu.ca:9750/ckdu_1_on_air_high.mp3
 #EXTINF:-0,CKUT 90.3 Montreal McGill University [mp3 192k]
 https://ckut.out.airtime.pro/ckut_a
 #EXTINF:-0,CKUW 95.9 University of Winnipeg [Winnipeg MB][ckuw.ca]
@@ -568,24 +593,32 @@ http://radio.wesleyan.edu:8000/stream
 https://listen1.mixlr.com/c22c99b775765a2cfd16ac8438a09f8d
 #EXTINF:-0,WFDU 89.1 Fairleigh Dickinson University [Teaneck NJ][wfdu.fm]
 https://peridot.streamguys1.com:5350/iheart-aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
 http://stream0.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
 http://stream2.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
 http://stream0.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][aac 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
 http://stream2.wfmu.org/freeform-high.aac
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
 http://stream2.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
 https://stream0.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
 https://stream2.wfmu.org/freeform-128k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 128k]
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k.mp3
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream2.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+https://stream0.wfmu.org/freeform-32k
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/drummer
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
@@ -602,14 +635,6 @@ http://stream2.wfmu.org/rocknsoul
 https://stream2.wfmu.org/rocknsoul
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/rocknsoul-live.mp3
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
-http://stream0.wfmu.org/freeform-32k.mp3
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
-http://stream0.wfmu.org/freeform-32k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
-http://stream2.wfmu.org/freeform-32k
-#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
-https://stream0.wfmu.org/freeform-32k
 #EXTINF:-0,WFNM 89.1 Franklin And Marshall College [Lancaster PA][sites.google.com/fandm.edu/wfnm/home][offline]
 http://nap.casthost.net:9332/stream
 #EXTINF:-0,WFNP 88.7 State University of New York at New Paltz [Rosendale NY][wfnp.org][offline]
