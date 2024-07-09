@@ -7,6 +7,7 @@
 # http://fmstream.org/index.php
 # https://goodradio.org [done]
 # https://en.wikipedia.org/wiki/List_of_campus_radio_stations
+# https://en.wikipedia.org/wiki/Campus_radio
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
@@ -51,18 +52,36 @@ https://birncontrol.getstreamhosting.com:9038/stream
 https://birncontrol.getstreamhosting.com:9010/stream
 #EXTINF:-0,Castleton Radio Castleton University [Castleton VT][offline]
 http://155.42.161.60:8000/listen
+#EXTINF:-0,CFBX 92.5 Thompson Rivers University [Kamloops BC][thex.ca]
+http://198.162.21.84:8002/
 #EXTINF:-0,CFFF 92.7 Trent University "Trent Radio" [Peterborough][mp3 181k]
 http://trentradio.ca:8800/hi-fi
+#EXTINF:-0,CFML 107.9 British Columbia Institute of Technology [Burnaby BC][evolution1079.com]
+https://evolution1079.streamb.live/SB00207
 #EXTINF:-0,CFMU 93.3 McMaster University [Hamilton ON][cfmu.ca][mp3 128k]
 http://138.197.136.105:8000/mount.128mp3
 #EXTINF:-0,CFMU 93.3 McMaster University [Hamilton ON][cfmu.ca][mp3 128k]
 https://stream.cfmu.ca/mount.128mp3
 #EXTINF:-0,CFRC Queens University [Kingston ON][cfrc.ca][mp3 128k]
 https://audio.cfrc.ca/stream
+#EXTINF:-0,CFUR 88.7 University of Northern British Columbia [Prince George BC][cfur.ca]
+http://listen.cfur.ca
 #EXTINF:-0,CFUV 101.9 University of Victoria [Victoria BC][cfuv.uvic.ca][aac 195k]
 https://ais-sa1.streamon.fm/7132_64k.aac
+#EXTINF:-0,CHSR 97.9 University of New Brunswick [Fredericton MB][chsrfm.ca]
+https://usa6.fastcast4u.com/proxy/chsrbroa
+#EXTINF:-0,CHLY 101.7 [Nanaimo BC][chly.ca]
+https://tunein.com/radio/CHLY-1017-s18493
 #EXTINF:-0,CHOU 89.1 University of Ottawa "Radio Ottawa"[[mp3 128k]
 https://stream.statsradio.com:8102/stream
+#EXTINF:-0,CITR 101.9 University of British Columbia [Vancouver BC][citr.ca]
+http://player.citr.ca/
+#EXTINF:-0,CIVL 101.7 University of the Fraser Valley [Abbotsford, BC][civl.ca]
+http://civl.ca/listen/
+#EXTINF:-0,CJJJ 106.5 Assiniboine Community College [Brandon MB]
+http://cj-106.assiniboine.net/
+#EXTINF:-0,CJJJ 106.5 Assiniboine Community College [Brandon MB]
+http://ics.assiniboine.net:8000/cj106-mp3
 #EXTINF:-0,CJSF 90.1 Simon Fraser University [Burnaby BC][cjsf.ca][mp3 124k]
 https://www.cjsf.ca:8443/listen-hq
 #EXTINF:-0,CJSF 90.1 Simon Fraser University [Burnaby BC][cjsf.ca][mp3 79k]
@@ -71,8 +90,12 @@ https://www.cjsf.ca:8443/listen
 http://cjsr.streamon.fm/
 #EXTINF:-0,CJSW 90.9 University of Calgary [Calgary AB][cjsw.com]
 https://cjsw.leanstream.co/CJSWFM
+#EXTINF:-0,CJUM 101.5 University of Manitoba [Winnipeg MB][umfm.com]
+https://live.umfm.com:8010/;stream/1
 #EXTINF:-0,CKUT 90.3 Montreal McGill University [mp3 192k]
 https://ckut.out.airtime.pro/ckut_a
+#EXTINF:-0,CKUW 95.9 University of Winnipeg [Winnipeg MB][ckuw.ca]
+http://www.ckuw.ca/listen
 #EXTINF:-0,CKXU 88.3 University of Lethbridge [Lethbridge AB][ckxu.com]
 https://stream.ckxu.com/
 #EXTINF:-0,COOG Radio Univerity of Houston [Houston TX][aac 56k]
@@ -579,6 +602,14 @@ http://stream2.wfmu.org/rocknsoul
 https://stream2.wfmu.org/rocknsoul
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
 http://stream0.wfmu.org/rocknsoul-live.mp3
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k.mp3
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
+http://stream2.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Jersey City NJ][wfmu.org][mp3 32k]
+https://stream0.wfmu.org/freeform-32k
 #EXTINF:-0,WFNM 89.1 Franklin And Marshall College [Lancaster PA][sites.google.com/fandm.edu/wfnm/home][offline]
 http://nap.casthost.net:9332/stream
 #EXTINF:-0,WFNP 88.7 State University of New York at New Paltz [Rosendale NY][wfnp.org][offline]
@@ -927,7 +958,7 @@ https://26233.live.streamtheworld.com/WVKRFM.mp3
 http://cast5.servcast.net:9186/stream
 #EXTINF:-0,WVUD 91.3 University of Delaware [Newark DE][wvud.org]
 http://128.175.76.123:8000/stream/1/
-#EXTINF:-0,WVUM 90.5 University of Miami [Coral Fables/Miami FL][wvum.org]
+#EXTINF:-0,WVUM 90.5 University of Miami [Coral Gables/Miami FL][wvum.org]
 https://s7.voscast.com:8693/stream
 #EXTINF:-0,WWFM-HD3 89.1 Mercer County Community College [Trenton NJ][mccc.edu/studentradio.shtm]
 https://ice8.securenetsystems.net/VIKING89
