@@ -53,9 +53,13 @@ https://birncontrol.getstreamhosting.com:9038/stream
 https://birncontrol.getstreamhosting.com:9010/stream
 #EXTINF:-0,Castleton Radio Castleton University [Castleton VT][offline]
 http://155.42.161.60:8000/listen
+#EXTINF:-0,CFAK 88.3 Université de Sherbrooke [Sherbrooke QE][cfak.ca]
+https://audio-edge-es6pf.mia.g.radiomast.io/a372c74f-6c78-48b9-9933-81a8fc50b54a
+#EXTINF:-0,CFBU 103.7 Brock University [St Catharines ON][cfbu.ca]
+http://s2.stationplaylist.com:8110
 #EXTINF:-0,CFBX 92.5 Thompson Rivers University [Kamloops BC][thex.ca]
 http://198.162.21.84:8002/
-#EXTINF:-0,CFFF 92.7 Trent University "Trent Radio" [Peterborough][mp3 181k]
+#EXTINF:-0,CFFF 92.7 Trent University "Trent Radio" [Peterborough][trentradio.ca][mp3 181k]
 http://trentradio.ca:8800/hi-fi
 #EXTINF:-0,CFMH 107.3 University of New Brunswick-Saint John [Saint Jonh NB][localfm.ca][offline]
 http://no.stream
@@ -75,26 +79,42 @@ http://listen.cfur.ca
 https://ais-sa1.streamon.fm/7132_64k.aac
 #EXTINF:-0,CFXU 93.3 St. Francis Xavier University [Antigonish NS][radiocfxu.ca][offline]
 http://no.stream
+#EXTINF:-0,CHLY 101.7 National Campus and Community Radio Association [Nanaimo BC][chly.ca]
+https://tunein.com/radio/CHLY-1017-s18493
 #EXTINF:-0,CHMA 106.9 Mount Allison University [Sackville NB][chmafm.com]
 https://securestreams6.autopo.st:2111
 #EXTINF:-0,CHMR 93.5 Memorial University of Newfoundland [St. John's NF][chmr.ca]
 http://mp3srv.munsu.mun.ca:8000
 #EXTINF:-0,CHMR 93.5 Memorial University of Newfoundland [St. John's NF][chmr.ca]
 http://mp3srv.munsu.mun.ca:8001/
-#EXTINF:-0,CHLY 101.7 [Nanaimo BC][chly.ca]
-https://tunein.com/radio/CHLY-1017-s18493
-#EXTINF:-0,CHOU 89.1 University of Ottawa "Radio Ottawa"[[mp3 128k]
+#EXTINF:-0,CHOU 89.1 University of Ottawa "Radio Ottawa"[chuo.fm][mp3 128k]
 https://stream.statsradio.com:8102/stream
+#EXTINF:-0,CHRW 94.9 University of Western Ontario [London ON][radiowestern.ca]
+https://949fm.ca/stream
+#EXTINF:-0,CHRY 105.5 York University [Toronto ON][vibe105to.com]
+https://ice7.securenetsystems.net/CHRY
 #EXTINF:-0,CHSR 97.9 University of New Brunswick [Fredericton MB][chsrfm.ca]
 https://usa6.fastcast4u.com/proxy/chsrbroa
+#EXTINF:-0,CHYZ 94.3 Université Laval [Quebec City QE][chyz.ca][offline]
+https://ecoutez.chyz.ca:8000/stream/1/
+#EXTINF:-0,CILU 102.7 Lakehead University [Thunder Bay ON][luradio.ca]
+http://luradio-server.lakeheadu.ca:8000/stereo128
 #EXTINF:-0,CIOI 101.5 Mohawk College [Hamilton ON][www.indi1015.ca]
 https://hawkstream.mohawkcollege.ca/1/
+#EXTINF:-0,CISM 89.3 Université de Montréal [Montreal QE][cism893.ca]
+https://stream03.ustream.ca/cism128.mp3
 #EXTINF:-0,CITR 101.9 University of British Columbia [Vancouver BC][citr.ca]
 http://player.citr.ca/
+#EXTINF:-0,CIUT 89.5 University of Toronto [Toronto ON][ciut.fm]
+http://128.100.197.46:80/
+#EXTINF:-0,CIUT 89.5 University of Toronto [Toronto ON][ciut.fm]
+https://ice23.securenetsystems.net/CIUT
 #EXTINF:-0,CIVL 101.7 University of the Fraser Valley [Abbotsford, BC][civl.ca]
 http://civl.ca/listen/
 #EXTINF:-0,CIXX 106.9 Fanshawe College [London ON][1069thex.com]
 https://ice23.securenetsystems.net/CIXXFM
+#EXTINF:-0,CJAM 99.1 University of Windsor [Windsor ON][cjam.ca]
+https://live.cjam.ca/CJAM-live-128k.aac
 #EXTINF:-0,CJBU 107.3 Cape Breton University [Cape Breton Regional Municipality NS]caperradio.ca][offline]
 http://142.12.32.15:8000/stream.m3u
 #EXTINF:-0,CJFK 91.3 Loyalist College [Belleville ON][91x.fm]
@@ -103,6 +123,10 @@ https://lweb04.lcaat.ca:8443/91x.mp3
 http://cj-106.assiniboine.net/
 #EXTINF:-0,CJJJ 106.5 Assiniboine Community College [Brandon MB]
 http://ics.assiniboine.net:8000/cj106-mp3
+#EXTINF:-0,CJLO 1690 Concordia University Montreal QE][cjlo.com][offline]
+http://no.stream
+#EXTINF:-0,CJMQ 88.9 Bishop's University [Sherbrooke QE][cjmq.fm[
+https://centova.radioservers.biz/proxy/cjmqdavi/stream
 #EXTINF:-0,CJSF 90.1 Simon Fraser University [Burnaby BC][cjsf.ca][mp3 124k]
 https://www.cjsf.ca:8443/listen-hq
 #EXTINF:-0,CJSF 90.1 Simon Fraser University [Burnaby BC][cjsf.ca][mp3 79k]
@@ -111,13 +135,27 @@ https://www.cjsf.ca:8443/listen
 http://cjsr.streamon.fm/
 #EXTINF:-0,CJSW 90.9 University of Calgary [Calgary AB][cjsw.com]
 https://cjsw.leanstream.co/CJSWFM
+#EXTINF:-0,CJTM 1280 Toronto Metropolitan University [Met Radio][Toronto ON][metradio.ca]
+https://ryerson.out.airtime.pro/ryerson_a
 #EXTINF:-0,CJUM 101.5 University of Manitoba [Winnipeg MB][umfm.com]
 https://live.umfm.com:8010/;stream/1
+#EXTINF:-0,CKC455/CFRE 91.9 University of Toronto Mississauga [Mississauga ON][cfreradio.ca]
+http://s2.yesstreaming.net:7069/stream
+#EXTINF:-0,CKDJ 107.9 Algonquin College [Ottawa ON][ckdj.net]
+https://live.leanstream.co/CKDJFM
+#EXTINF:-0,CKCU 93.1 Carleton University [Ottawa ON][ckcufm.com]
+http://livestream.ckcufm.com/ckcu.mp3
+#EXTINF:-0,CKCU 93.1 Carleton University [Ottawa ON][ckcufm.com]
+https://stream2.statsradio.com:8124/stream
 #EXTINF:-0,CKDU 88.1 Dalhousie University [Halifax NS][ckdu.ca]
 https://archive1.ckdu.ca:9750/ckdu_1_on_air_low.mp3
 #EXTINF:-0,CKDU 88.1 Dalhousie University [Halifax NS][ckdu.ca]
 https://archive1.ckdu.ca:9750/ckdu_1_on_air_high.mp3
-#EXTINF:-0,CKUT 90.3 Montreal McGill University [mp3 192k]
+#EXTINF:-0,CKHC 96.9 Humber College [Toronto ON][radio.humber.ca]
+https://humber.leanstream.co/CKHCFM-MP3
+#EXTINF:-0,CKLU 96.7 Laurentian University [Sudbury ON][cklu.ca]
+http://ckluradio.laurentian.ca:88/broadwave.mp3
+#EXTINF:-0,CKUT 90.3 Montreal McGill University [ckut.ca][mp3 192k]
 https://ckut.out.airtime.pro/ckut_a
 #EXTINF:-0,CKUW 95.9 University of Winnipeg [Winnipeg MB][ckuw.ca]
 http://www.ckuw.ca/listen
