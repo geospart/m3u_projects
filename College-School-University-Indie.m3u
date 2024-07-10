@@ -8,6 +8,7 @@
 # https://goodradio.org [done]
 # https://en.wikipedia.org/wiki/List_of_campus_radio_stations
 # https://en.wikipedia.org/wiki/Campus_radio
+# https://streamingradioguide.com/
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
@@ -174,8 +175,10 @@ https://audio-edge-es6pf.mia.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 https://player.frequencebanane.ch/fb_192
 #EXTINF:-0,KABF 88.3 Community Radio in Central Arkansas [Little Rock AR][kabf.org][Little Rock AR][mp3 128k]
 https://cast.acornradio.org/kabf
+#************************************************************************
 #EXTINF:-0,KACC 89.7 Alvin Community College [Alvin TX][alvincollege.edu/communications][offline]
 http://peridot.streamguys.com:7610/live
+#************************************************************************
 #EXTINF:-0,KALX 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k]
 https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
 #EXTINF:-0,KAMU 90.9 Texas A&M University [College Station TX][kamutvfm.org][kamu.tamu.edu/radio][mp3 128k]
@@ -255,6 +258,8 @@ https://prod-3-91-232-98.amperwave.net/kcwu-kcwufmaac-hlsc1.m3u8
 https://prod-44-203-47-43.amperwave.net/kcwu-burg2aac-hlsc4.m3u8
 #EXTINF:-0,KEOL 91.7 Eastern Oregon University [La Grande OR][eou.edu/keol][offline]
 https://icecast.eou.edu/keol.mp3
+#EXTINF:-0,KEOM 88.5 Mesquite Independent School District [Mesquite TX][keom.fm]
+https://player.amperwave.net/4398
 #EXTINF:-0,KEXP 90.3 Seattle Community Radio [Seattle WA][kexp.org][mp3 128k]
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 #EXTINF:-0,KFJC 89.7 Foothill College [Los Altos Hills][mp3 128k]
@@ -279,6 +284,8 @@ https://kgnu.streamguys1.com/kgnu-music
 http://win.2.c3.audiovideoweb.com/2c3winlive6728
 #EXTINF:-0,KHOL Jackson Hole Community Radio [891khol.org][mp3 132k]
 http://peridot.streamguys.com:6010/live
+#EXTINF:-0,KHPU 105.7 Howard Payne University [KHBC Christian Radio Network][Brownwood TX][khcb.org]
+https://khcb.streamguys1.com/live-64k-mp3
 #EXTINF:-0,KHVU 95.3 Harding University[Judsonia AR][mp3 128k]
 http://streamer.tcworks.net:8000/kvhu
 #EXTINF:-0,KIDE 91.3 Hoopa Tribal Radio [kidefm.org][mp3 128k]
@@ -309,6 +316,8 @@ http://boombox.kmnr.org:7000/webstream-low.ogg
 http://198.102.147.31:8000/KMSC-Music
 #EXTINF:-0,KNCT 91.3 Simply Beautiful/Central Texas College [Killeen TX][knct.org][offline]
 https://streamdb6web.securenetsystems.net/cirrusencore/KNCT
+#EXTINF:-0,KNTU 88.1 University of North Texas [Denton TX][kntu.com][881indie.com]
+https://ice41.securenetsystems.net/KNTU
 #EXTINF:-0,KOUM 770/100.7/104.5 University of Minnesota St Paul [radiok.org][mp3 256k]
 https://radiok.broadcasttool.stream/play_256
 #EXTINF:-0,KOUM 770/100.7/104.5 University of Minnesota St Paul [radiok.org][mp3 128k]
@@ -341,6 +350,8 @@ http://wruw-stream.wruw.org:8000/stream128.mp3
 https://kruxstream.nmsu.edu/KRUX
 #EXTINF:-0,KSCU 103.3 [Santa Clara CA][kscu.org][aac 129k]
 https://kscu.streamguys1.com/live
+#EXTINF:-0,KSHU 90.5 Sam Houston State University [Huntsville TX][shsu.edu/academics/mass-communication/masscomradio.html]
+https://kshu.streamguys1.com/live-aac
 #EXTINF:-0,KSJE 90.9 San Joan College [Farmington NM][ksje.com][aac 128k]
 https://ksje.streamguys1.com/live
 #EXTINF:-0,KSJS 90.5 San Jose State University [San Jose CA][ksjs.org][mp3 256k]
@@ -353,6 +364,8 @@ https://ice26.securenetsystems.net/KSLU
 https://ice26.securenetsystems.net/KSLUHD2
 #EXTINF:-0,KSLU 90.9 Southeastern Louisiana University [Hammond LA][aac 32k]
 https://ice26.securenetsystems.net/KSLU
+#EXTINF:-0,KSUU 91.1 Southern Utah University [Cedar City UT][suu.edu/ksuu][Stream Split]
+http://no.stream
 #EXTINF:-0,KSZN 101.5 RADIO Sunnyside [Flagstaff AZ][mp3 98k]
 http://208.113.128.99:8000/stream
 #EXTINF:-0,KSZN 101.5 RADIO Sunnyside [Flagstaff AZ][mp3 102k]
@@ -361,8 +374,36 @@ http://208.113.128.99:8000/stream.m3u
 http://radiosunnyside.org/RadioSunnyside.m3u
 #EXTINF:-0,KSZN 101.5 RADIO Sunnyside [Flagstaff AZ][mp3 97k]
 http://radiosunnyside.org/stream.m3u
+#EXTINF:-0,KTRL 90.5 Tarleton State University [Stephenville TX][Tarleton.edu/ktrl]
+https://kxtr.streamguys1.com/live2-aac
+#EXTINF:-0,KTRW 91.7 Rice University [Houston TX][ktru.org][aac 128k]
+https://stream.rcs.revma.com/uevdenv2ss8uv
+#EXTINF:-0,KTSW 89.9 Texas State University [San Marcos TX][ktsw.txst.edu][aac 97k]
+https://ktswlive.txstate.edu:8102/listen
+#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][mp3 96k]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3
+#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][mp3 96k]
+https://18823.live.streamtheworld.com/KTTZHD1.mp3
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
+https://14923.live.streamtheworld.com/KTTZHD2.mp3
+#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2.mp3
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD3.mp3
+#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
+https://18823.live.streamtheworld.com/KTTZHD3.mp3
+#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org][mp3 96k]
+https://14923.live.streamtheworld.com/KNCHFM.mp3
+#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org][mp3 96k]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNCHFM.mp3
 #EXTINF:-0,KTUH 90.1 University of Hawaii [Honolulu HI][aac 97k]
 https://stream.ktuh.org:8001/stream
+#EXTINF:-0,KTXK 91.5 Texarkana College [Texarkana TX][ktxk.org][mp3 32k]
+https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3
+#EXTINF:-0,KTXT 88.1 Texas Tech University [Lubbock TX][ktxtfm.org]
+https://ice7.securenetsystems.net/KTXTFM
+#EXTINF:-0,KUHF 88.7 University of Houston [Houston TX][houstonpublicmedia.org]
+https://www.houstonpublicmedia.org/listen-live/
 #EXTINF:-0,KUSF 90.3 University of San Francisco [San Francisco CA][dothebay.com/kusfinexile][mp3 128k]
 https://kusf.stream.creek.fm/stream
 #EXTINF:-0,KVCU 1190 [Boulder CO][radio1190.net][mp3 128k]
@@ -387,28 +428,6 @@ http://krui.student-services.uiowa.edu:8000/listen
 http://104.250.149.122:8006/stream
 #EXTINF:-0,KSVY 91.3 Sonoma Community [Radio Sonoma CA][ksvy.org][mp3 128k]
 https://ksvy.stream.creek.org/stream
-#EXTINF:-0,KTRW 91.7 Rice University [Houston TX][ktru.org][aac 128k]
-https://stream.rcs.revma.com/uevdenv2ss8uv
-#EXTINF:-0,KTSW 89.9 Texas State University [San Marcos TX][ktsw.txst.edu][aac 97k]
-https://ktswlive.txstate.edu:8102/listen
-#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][mp3 96k]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3
-#EXTINF:-0,KTTZ-HD1 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][mp3 96k]
-https://18823.live.streamtheworld.com/KTTZHD1.mp3
-#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
-https://14923.live.streamtheworld.com/KTTZHD2.mp3
-#EXTINF:-0,KTTZ-HD2 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2.mp3
-#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD3.mp3
-#EXTINF:-0,KTTZ-HD3 89.1 Texas Tech University Public Media [Lubbock TX][kttz.org][offline]
-https://18823.live.streamtheworld.com/KTTZHD3.mp3
-#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org][mp3 96k]
-https://14923.live.streamtheworld.com/KNCHFM.mp3
-#EXTINF:-0,KTTZ/KNCH 89.1/90.1 Texas Tech University Public Media [Lubbock/San Angelo TX][kttz.org][mp3 96k]
-https://playerservices.streamtheworld.com/api/livestream-redirect/KNCHFM.mp3
-#EXTINF:-0,KTXK 91.5 Texarkana College [Texarkana TX][ktxk.org][mp3 32k]
-https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3
 #EXTINF:-0,KUCO 90.1 University of Central Oklahoma [Oklahoma City OK][kucofm.com][offline]
 https://kuco.streamguys1.com/live_acc
 #EXTINF:-0,KUCR 88.3 University of California Riverside [Riverside CA][kucr.org][offline]
@@ -441,6 +460,10 @@ https://uprxstreamer.usu.edu:8022/
 https://uprxstreamer.usu.edu:8028/
 #EXTINF:-0,KUT 90.5 The University of Texas at Austin [Austin TX][kut.org][offline]
 https://kut.streamguys1.com/kut.aac
+#EXTINF:-0,K-UTE [web only] University of Utah [Salt Lake City UT][kuteradio.org][m4a]
+https://stream.radiojar.com/t5uc7dqek5zuv.m4a
+#EXTINF:-0,K-UTE [web only] University of Utah [Salt Lake City UT][kuteradio.org][m4a]
+https://n0c.radiojar.com/t5uc7dqek5zuv.m4a
 #EXTINF:-0,KUTX 98.9 University of Texas at Austin [Leander TX][kutx.org][aac 56k]
 https://streams.kut.org/4428_56
 #EXTINF:-0,KUWR 90.1 Wyoming Public Radio /University of Wyoming[Laramie WY][wyomingpublicmedia.org][mp3 128k]
@@ -455,10 +478,14 @@ https://wyoming-public-ice.streamguys1.com/JZZ128MP3
 https://kvlustream.lamar.edu:8443/stream
 #EXTINF:-0,KVRX 91.7 University of Texas at Austin [Austin TX][kvrx.org][offline]
 https://kvrx.org/now_playing/stream
+#EXTINF:-0,KVRX 91.7 University of Texas at Austin [Austin TX][kvrx.org][offline]
+https://kvrx.org/now_playing/stream
 #EXTINF:-0,KVSC St Cloud University 88.1 [St Cloud MN][kvsc.org][mp3 128k]
 https://corn.kvsc.org/broadband
 #EXTINF:-0,KWAX 91.1 University Of Oregon [Eugene OR][kwax.uoregon.edu][mp3 96k]
 http://streaming.kwax.com:8000/stream1
+#EXTINF:-0,KWCR 88.1 Weber State University [Ogden UT][Dead now KLove]
+http://no-stream
 #EXTINF:-0,KWCW 90.5 Whitman College [Walla Walla WA][kwcwradio.com]
 https://shoutcast.whitman.edu:8000/;
 #EXTINF:-0,KWCW 90.5 Whitman College [Walla Walla WA][kwcwradio.com]
@@ -502,6 +529,8 @@ https://99.198.118.250:8383/stream
 http://stream.kxsf.fm:8000/;
 #EXTINF:-0,KXSU 102.1 Seattle University [Seattle WA][kxsu.org][mp3 128k]
 https://c556.fastserv.com/kxsu
+#EXTINF:-0,KXTR 100.7 Tarleton State University [Stephenville TX][tarleton.edu/theplanet]
+https://kxtr.streamguys1.com/live-aac
 #EXTINF:-0,KZSC 88.1 [Santa Crus CA][kzsc.org][MP3 128k]
 https://kzscfms1-geckohost.radioca.st/kzschigh
 #EXTINF:-0,KZSC 88.1 [Santa Crus CA][kzsc.org][MP3 56k]
@@ -854,6 +883,8 @@ https://stream.revma.ihrhls.com/zc6298
 https://listen.wloy.org/live
 #EXTINF:-0,WLOY 1260 Loyola University [Baltimore MD][wloy.org]
 http://listen.wloy.org/live
+#EXTINF:-0,WLUR 91.5 Washington and Lee University [Lexington VA][wlur.wlu.edu]
+https://wlur.radioca.st/stream
 #EXTINF:-0,WLVR-HD1 91.3 Lehigh University [Bethlehem PA][go.wlvr.org]
 https://10gb1.tulix.tv/WLVR
 #EXTINF:-0,WLVR-HD2 91.3 Lehigh University [Bethlehem PA][go.wlvr.org] 
@@ -1020,6 +1051,8 @@ http://no-stream
 http://134.241.99.20:8080/broadwave.mp3
 #EXTINF:-0,WTHS 89.9 Hope College [Holland MI][wths.hope.edu]
 https://s3.radio.co/scf79220ed/listen
+#EXTINF:-0,WTJU 91.1 University of Virginia [Charlottesville VA][wtju.net]
+https://streams.wtju.net/wtju-live.mp3
 #EXTINF:-0,WTSC 91.1 FM Clarkson University Student Radio [Potsdam NY][radio.clarkson.edu]
 http://radio.clarkson.edu:8000/WTSCLow
 #EXTINF:-0,WTSR 91.3 The College of New Jersey [Trenton NJ][wtsr.org]
@@ -1046,6 +1079,8 @@ https://stream.wusc.fm/listen.mp3
 http://wusrstreaming.scranton.edu:8080/live.mp3
 #EXTINF:-0,WUTK 90.3 University of Tennessee [Knoxville TN][wutkradio.com]
 http://streamer.cci.utk.edu:8000/wutk
+#EXTINF:-0,WUVT 90.7 Virginia Polytechnic Institute and State University [Blacksburg VA][wuvt.vt.edu]
+https://stream.wuvt.vt.edu/wuvt.ogg
 #EXTINF:-0,WUWM 89.7 University of Wisconsin [Milwaukee WI][wuwm.com]
 http://pubint.ic.llnwd.net/stream/pubint_wuwm
 #EXTINF:-0,WVAS 90.7 University of Alabama at Huntsville [Hunstville AL][alasu.ed][wvasfm.org]
@@ -1060,14 +1095,16 @@ https://stream.revma.ihrhls.com/zc6306
 https://wvcwradio.vcu.edu:8000/wvcw
 #EXTINF:-0,WVFS 89.7 Florida State University [Tallahassee FL][wvfs.fsu.edu]
 http://voice.wvfs.fsu.edu:8000/stream
+#EXTINF:-0,WVLR 91.5 Vermont State University Lyndon [Lyndonville VT][offline]
+http://no-stream
 #EXTINF:-0,WVMW-FM 91.7 Marywood University [Scranton PA][sites.google.com/maryu.marywood.edu/vmfm917radiostation/home]
 https://wvmw.streamguys1.com/live
 #EXTINF:-0,WVMM 90.7 Messiah University [Grantham PA][pulse.messiah.edu/pulseradio/]
 https://us9.maindigitalstream.com/ssl/WVMM
 #EXTINF:-0,WVPH 90.3 Piscataway Board of Education [Piscataway NJ]
 https://radios-online-chile.com/usa/WVPH/icecast.audio
-#EXTINF:-0,WWSP 89.9 University of Wisconsin [Stevens Point WI][90fm.org]
-http://www.uwsp.edu/stuorg/wwsp/
+#EXTINF:-0,WVTC 90.7 Vermont State University [Randolph VT][wvtc.net]
+http://155.42.90.13:8002/wvtc_32
 #EXTINF:-0,WWSP 89.9 University of Wisconsin [Stevens Point WI][90fm.org]
 https://a6.asurahosting.com:8210/radio.mp3
 #EXTINF:-0,WVKR 91.3 Vassar College [Poughkeepsie NY][wvkr.org]
@@ -1076,6 +1113,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WVKRFM.mp3
 https://26233.live.streamtheworld.com/WVKRFM.mp3
 #EXTINF:-0,WVST-FM 91.3 Virginia State University [Petersburg VA][vsu.edu]
 http://cast5.servcast.net:9186/stream
+#EXTINF:-0,WVTX 88.7 Saint Michael's College [Colchester VT][vermontpublic.org/vermont-public-classical]
+https://vprclassical.streamguys1.com/vprclassical64.mp3
 #EXTINF:-0,WVUD 91.3 University of Delaware [Newark DE][wvud.org]
 http://128.175.76.123:8000/stream/1/
 #EXTINF:-0,WVUM 90.5 University of Miami [Coral Gables/Miami FL][wvum.org]
@@ -1088,6 +1127,8 @@ https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
 https://wwoz-sc.streamguys1.com/wwozhd2-hi
 #EXTINF:-0,WWPX 88.5 Broward County Public Schools [Sunrise FL][nova.edu/radiox]
 https://streaming.live365.com/a46783
+#EXTINF:-0,WWSP 89.9 University of Wisconsin [Stevens Point WI][90fm.org]
+http://www.uwsp.edu/stuorg/wwsp/
 #EXTINF:-0,WWSU 106.9 Wright State University [Fairborn OH][wright.edu/wwsu]
 https://server.wwsu1069.org/stream/
 #EXTINF:-0,WWUD 91.3 University of Delaware [Newark DE][wvud.org]
@@ -1104,10 +1145,14 @@ https://listen.mixlr.com/58a9e446b8b77e86cf80528b48749491
 https://listen.mixlr.com/232445e0504b9e4f006f650462576714
 #EXTINF:-0,WXDU 88.7 Duke University [Durham NC]
 https://weeping.wxdu.duke.edu:8443/wxdu128.mp3
+#EXTINF:-0,WXJM 88.7 James Madison University [Harrisonburg VA][wxjm.org]
+http://media.wmra.org:8000/wxjm
 #EXTINF:-0,WXLV Lehigh Carbon Community College [Allentown PA][wxlvradio.com]
 https://securestream.casthost.net:8047/live
 #EXTINF:-0,WXOU 88.3 Oakland University [Auburn Hills MI][wxou.org]
 http://wxou.oakland.edu:8000/;
+#EXTINF:-0,WXTJ 100.1 University of Virginia [Charlottesville VA][wxtj.fm]
+https://streams.wtju.net/wxtj-live.mp3
 #EXTINF:-0,WXUT 88.3 University of Toledo [Toledo OH][wxut.com]
 https://c23.radioboss.fm:8099/stream
 #EXTINF:-0,WXYC 89.3 Student Educational Broadcasting [Chapel Hill NC][wxyc.org][****]
