@@ -9,6 +9,7 @@
 # https://en.wikipedia.org/wiki/List_of_campus_radio_stations
 # https://en.wikipedia.org/wiki/Campus_radio
 # https://streamingradioguide.com/
+# https://www.radiolineup.com/
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
@@ -175,10 +176,8 @@ https://audio-edge-es6pf.mia.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 https://player.frequencebanane.ch/fb_192
 #EXTINF:-0,KABF 88.3 Community Radio in Central Arkansas [Little Rock AR][kabf.org][Little Rock AR][mp3 128k]
 https://cast.acornradio.org/kabf
-#************************************************************************
 #EXTINF:-0,KACC 89.7 Alvin Community College [Alvin TX][alvincollege.edu/communications][offline]
 http://peridot.streamguys.com:7610/live
-#************************************************************************
 #EXTINF:-0,KALX 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k]
 https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
 #EXTINF:-0,KAMU 90.9 Texas A&M University [College Station TX][kamutvfm.org][kamu.tamu.edu/radio][mp3 128k]
@@ -187,6 +186,10 @@ https://kamu.streamguys1.com/hd1-192
 https://kamu.streamguys1.com/hd2-192
 #EXTINF:-0,KANM Texas A&M [kanm.tamu.edu][mp3 192k]
 https://icecast.kanm.org/listen
+#************************************************************************
+#EXTINF:-0,KAOR 91.1 University of South Dakota [Vermillion SD][kaorradio.com]
+https://janus.cdnstream.com:5314/stream
+#************************************************************************
 #EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k]
 https://ark3.spincom/ark2/KAOS-20240708T070000Z/index.m3u8
 #EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][mp3 128k]
@@ -246,6 +249,18 @@ https://14623.live.streamtheworld.com/KWJCFMAAC.aac
 https://ais-sa1.streamon.fm/7240_32k.aac
 #EXTINF:-0,KDNK 88.1 Community Radio [Glenwood Springs CO][kdnk.org][mp3 121k]
 https://kdnk.streamguys1.com/live
+#EXTINF:-0,KDSU 91.9 Dakota State University [NPR News/Classical][Madison/Fargo SD]][prairiepublic.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2.mp3
+#EXTINF:-0,KDSU 91.9 Dakota State University [NPR News/Classical][Madison/Fargo SD][prairiepublic.org]
+https://26283.live.streamtheworld.com/KCNDHD2.mp3
+#EXTINF:-0,KDSU 91.9 Dakota State University [Roots Rock and Jazz][Madison/Fargo SD][prairiepublic.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFM.mp3
+#EXTINF:-0,KDSU 91.9 Dakota State University [Roots Rock and Jazz][Madison/Fargo SD][prairiepublic.org]
+https://20603.live.streamtheworld.com/KCNDFM.mp3
+#EXTINF:-0,KDSU 91.9 Dakota State University [NPR News / AAA Music][Madison/Fargo SD][prairiepublic.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3.mp3?burst-time=17
+#EXTINF:-0,KDSU 91.9 Dakota State University [NPR News / AAA Music][Madison/Fargo SD][prairiepublic.org]
+https://18853.live.streamtheworld.com/KCNDHD3.mp3?burst-time=17
 #EXTINF:-0,KDUR 91.9 Fort Lewis College [Durango CO][kdur.org][mp3 128k]
 http://kdurradio.fortlewis.edu/stream
 #EXTINF:-0,KDUR 91.9 Fort Lewis College [Durango CO][kdur.org][mp3 128k]
@@ -298,6 +313,10 @@ https://kiwrstream.iwcc.edu/kiwr
 https://listen.mixlr.com/9df3da35e44245d21ab98ce7d5a37caa
 #EXTINF:-0,KJHK 90.7 University of Kansas [Lawrence KS][kjhk.org][mp3 128k]
 https://listen.mixlr.com/9df3da35e44245d21ab98ce7d5a37caa
+#EXTINF:-0,KJKT 90.7 Black Hills State University [Spearfish ND][bhsumedia.com/the-buzz-fm/]
+https://kbhu.bhsu.edu/
+#EXTINF:-0,KJKT 90.7 Black Hills State University [Spearfish ND][bhsumedia.com/the-buzz-fm/]
+https://kbhu.bhsu.edu/index.html?sid=1
 #EXTINF:-0,KJLU 88.9 Lincoln University [Jefferson City MO][kjluradio.com][mp3 32k][offline]
 https://ice8.securenetsystems.net/KJLU
 #EXTINF:-0,KKSM 1320  Palomar College [Oceanside CA][mp3 128k]
@@ -350,6 +369,8 @@ http://wruw-stream.wruw.org:8000/stream128.mp3
 https://kruxstream.nmsu.edu/KRUX
 #EXTINF:-0,KSCU 103.3 [Santa Clara CA][kscu.org][aac 129k]
 https://kscu.streamguys1.com/live
+#EXTINF:-0,KSDJ 90.7 Dakota State University [Brookings SD][ksdjradio.com]
+https://ksdj.stream.creek.fm/stream
 #EXTINF:-0,KSHU 90.5 Sam Houston State University [Huntsville TX][shsu.edu/academics/mass-communication/masscomradio.html]
 https://kshu.streamguys1.com/live-aac
 #EXTINF:-0,KSJE 90.9 San Joan College [Farmington NM][ksje.com][aac 128k]
@@ -374,6 +395,14 @@ http://208.113.128.99:8000/stream.m3u
 http://radiosunnyside.org/RadioSunnyside.m3u
 #EXTINF:-0,KSZN 101.5 RADIO Sunnyside [Flagstaff AZ][mp3 97k]
 http://radiosunnyside.org/stream.m3u
+#EXTINF:-0,KTEQ 91.3 South Dakota School of Mines and Technology [Rapid City SD][kteq.org]
+http://kteq-streamer.sdsmt.edu:8000/play
+#EXTINF:-0,KTEQ 91.3 South Dakota School of Mines and Technology [Rapid City SD][kteq.org][low]
+http://kteq-streamer.sdsmt.edu:8000/kteq_low
+#EXTINF:-0,KTEQ 91.3 South Dakota School of Mines and Technology [Rapid City SD][kteq.org][med]
+http://kteq-streamer.sdsmt.edu:8000/kteq_med
+#EXTINF:-0,KTEQ 91.3 South Dakota School of Mines and Technology [Rapid City SD][kteq.org][high]
+http://kteq-streamer.sdsmt.edu:8000/kteq_high
 #EXTINF:-0,KTRL 90.5 Tarleton State University [Stephenville TX][Tarleton.edu/ktrl]
 https://kxtr.streamguys1.com/live2-aac
 #EXTINF:-0,KTRW 91.7 Rice University [Houston TX][ktru.org][aac 128k]
@@ -571,6 +600,8 @@ http://live.umfm.com:8005/stream/
 http://live.umfm.com:8005/stream/2;
 #EXTINF:-0,WAMU-FM 88.5 [American University Radio][Washington DC][wamu.org][mp3 96k]
 https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-0,WAPX 91.9 Austin Peay State University [Clarksville TN][https://www.apsu.edu/zz-communication/media/radio.php][offline]
+http://no.stream
 #EXTINF:-0,WARC 90.3 Allegheny College [Meadville PA][warcmeadville.com][mp3 128k]
 https://s5.radio.co/s58cf99de6/listen
 #EXTINF:-0,WASU 90.5 Appalachian State University [Boone NC][wasuradio.com][aac 64k]
@@ -749,6 +780,8 @@ http://nap.casthost.net:9332/stream
 https://ice66.securenetsystems.net/WFNP
 #EXTINF:-0,WFRW 94.5 George Washington University [Shawano WI][aac 64k]
 http://stream.revma.ihrhls.com/zc7294
+#EXTINF:-0,WFSK 88.1 Fisk University [Nashville TN][wfskfm.org]
+https://backbonenetworks.streamguys1.com/fiskradio.mp3
 #EXTINF:-0,WFTU 1570 Five Towns College [Riverhead NY][wfturadio.com][aac 32k]
 https://ice64.securenetsystems.net/WFTU
 #EXTINF:-0,WFUV 90.7 Fordham University [Bronx NY][wfuv.org][aac 64k]
@@ -905,6 +938,8 @@ https://stream.pacificaservice.org:9000/wmpg
 https://wmse.streamguys1.com/wmselivemp3
 #EXTINF:-0,WMSS 91.1 Middletown Area School District [Middletown PA][wmssfm.com]
 http://stream.wmssfm.com:8000/main
+#EXTINF:-0,WMTS Middle Tennessee State University [Murfreesboro TN][wmts.org]
+https://s1.myradiostream.com/:12824/listen.mp3
 #EXTINF:-0,WMUA 91.1 UMass Amherst [Amherst MA][umass.edu/wmua]
 https://usa5.fastcast4u.com/proxy/qernhlca
 #EXTINF:-0,WMUAx 91.1 UMass Amherst [Amherst MA][umass.edu/wmua]
@@ -1003,6 +1038,8 @@ https://streams.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 https://audio-edge-es6pf.mia.g.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 #EXTINF:-0,WRBC 91.5 Bates College [Lewiston ME][wrbcradio.com]
 https://wrbc-stream.creek.org/stream
+#EXTINF:-0,WRCU 90.1 Colgate University [Hamilton NY][wrcufm.org]
+https://26413.live.streamtheworld.com/WRCUFMAAC.aac
 #EXTINF:-0,WRGW 94.5 George Washington University [Shawano WI][gwradio.com]
 http://stream.revma.ihrhls.com/zc7294
 #EXTINF:-0,WRIU 90.3 University of Rhode Island [Kingston RI][wriu.org]
@@ -1025,6 +1062,8 @@ http://streaming.radiouniversidad.pr:8062/
 http://wruc.union.edu:8000/mp3stream
 #EXTINF:-0,WRUV 90.1 University of Vermont [Burlington VT][wruv.org]
 http://icecast.uvm.edu:8005/wruv_fm_128
+#EXTINF:-0,WRVU Vanderbilt University [Nashville TN][wrvu.org]
+https://streaming.wrvu.org/live
 #EXTINF:-0,WSBF 88.1 Clemson University [Clemson SC]
 https://wsbf.net/stream/128.mp3
 #EXTINF:-0,WSIA 88.9 College of Staten Island [Staten Island NY][wsia.fm]
@@ -1078,6 +1117,8 @@ https://stream.wusc.fm/listen.mp3
 #EXTINF:-0,WUSR 99.5 University of Scranton [Scranton PA]
 http://wusrstreaming.scranton.edu:8080/live.mp3
 #EXTINF:-0,WUTK 90.3 University of Tennessee [Knoxville TN][wutkradio.com]
+http://streamer.cci.utk.edu:8000/wutk
+#EXTINF:-0,WUTK University of Tennessee [Knoxville TN][wutkradio.com]
 http://streamer.cci.utk.edu:8000/wutk
 #EXTINF:-0,WUVT 90.7 Virginia Polytechnic Institute and State University [Blacksburg VA][wuvt.vt.edu]
 https://stream.wuvt.vt.edu/wuvt.ogg
@@ -1159,6 +1200,8 @@ https://c23.radioboss.fm:8099/stream
 https://audio-mp3.ibiblio.org/wxyc.mp3
 #EXTINF:-0,WYTX 98.5  York Technical College [Rock Hill SC][wytxrockhill.godaddysites.com]
 https://ice64.securenetsystems.net/WYTX
+#EXTINF:-0,WYXR 91.7 University of Memphis [Memphis TN][wyxr.org]
+https://crosstown.streamguys1.com/live-website-aac
 #EXTINF:-0,WZVC 90.3  Boston College [Newton MA][wzbc.org]
 https://stream.rcast.net/65227
 #EXTINF:-0,WZIP 88.1 University of Akron [Akron OH][uakron.edu/schlcomm/clubs-organizations/wzip]
