@@ -10,6 +10,7 @@
 # https://en.wikipedia.org/wiki/Campus_radio
 # https://streamingradioguide.com/
 # https://www.radiolineup.com/
+# https://radiostation.info
 # https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
@@ -696,6 +697,8 @@ https://wcwm.broadcasttool.stream/wcwm-onair
 https://us4freenew.listen2myradio.com/live.mp3
 #EXTINF:-0,WDOM 91.3 Providence College [Providemce RI][wdom.providence.edu]
 https://stream.radio.co/s5fd907876/listen
+#EXTINF:-0,WDSR 101.7 DeSales University Campus Radio [Center Valley PA][desales.edu/news-events/news/wdsr-campus-radio]
+https://streamer.radio.co/s9103e0482/listen
 #EXTINF:-0,WDST 100.1 Radio Woodstock [Woodstock NY]
 https://stream.revma.ihrhls.com/zc7332
 #EXTINF:-0,WERS 88.9 Boston Uncommon Radio [HD1][Boston Mass][Emerson College][wers.org]
@@ -972,6 +975,10 @@ https://crystalout.surfernetwork.com:8001/WNRC-LP_MP3
 http://playerservices.streamtheworld.com/api/livestream-redirect/WNSBFM.mp3
 #EXTINF:-0,WNYO 88.9 State University of New York at Oswego [Oswego NY][wnyo889.org]
 https://us2.internet-radio.com/proxy/wnyo3?mp=/stream
+#************************************************************************
+#EXTINF:-0,WNTE 89.5 Mansfield University [Mansfield PA][wnte895.wixsite.com/wnte][offline]
+http://no.stream
+#************************************************************************
 #EXTINF:-0,WNYU 89.1 New York University [New York NY][wnyu.org]
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
 #EXTINF:-0,WNYU 89.1 New York University [New York NY][wnyu.org]
@@ -992,6 +999,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOUBAM.mp3
 #EXTINF:-0,WPLS 95.9 Furman University [Greenville NC][blogs.furman.edu/furmanradio][offline]
 http://sc6.spacialnet.com:32504/listen.pls
+#EXTINF:-0,WPPJ 670 Point Park University [Pittsburgh PA][****][wppjradio.com]
+http://167.88.241.163:8000/listen1
 #EXTINF:-0,WPRB 103.3 Princeton University-Princeton Broadcasting Service [wprb.com]
 https://wprb.streamguys1.com/live
 #EXTINF:-0,WPRK 91.5 Rollins College [Winter Park FL][wprk.org][offline]
@@ -1006,6 +1015,8 @@ https://wpsu-ice.streamguys1.com/wpsu1
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
 #EXTINF:-0,WPSU 91.5 Penn State [Classical][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
+#EXTINF:-0,WPTS 92.1 University of Pittsburgh [Pittsburgh PA][wptsradio.pitt.edu]
+http://audio.wpts.pitt.edu:8000/wpts_live_128s.mp3
 #EXTINF:-0,WQAL 89.5 Winona State University [Winona MN][kqal.org]
 http://kqallive.winona.edu:8000/kqal.aac
 #EXTINF:-0,WQAQ 98.1 Quinnipiac University [Hamden CT][wqaq.com][offline]
@@ -1034,12 +1045,12 @@ https://18153.live.streamtheworld.com/WQCSFM_RRS.mp3
 https://radios-online-chile.com/usa/WQFS/icecast.audio
 #EXTINF:-0,WQFS 90.9 Guilford College [Greensboro, NC][wqfs.org][offline]
 http://guilford.mp3.arcostream.com:29212/;
+#EXTINF:-0,WQHS 88.5 [web] University of Pennsylvania [Philadelphia PA][wqhs.upenn.edu][offline]
+https://wqhsupennradio.caster.fm
 #EXTINF:-0,WQRI 88.3 Roger Williams University [wqri883fm.com]
 http://peridot.streamguys.com:7330/live
-#************************************************************************
 #EXTINF:-0,WQSU 88.9 FM Susquehanna University [Susquehanna PA][wordpress.susqu.edu/wqsu/]
 https://s3.radio.co/s88e6453a8/listen
-#************************************************************************
 #EXTINF:-0,WRAS 88.5 Georgia State University [Atlanta GA]
 https://22113.live.streamtheworld.com/WRASFM_SC
 #EXTINF:-0,WRBB 104.9 Northeastern University [Boston Ma]
@@ -1048,6 +1059,8 @@ https://streams.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 https://audio-edge-es6pf.mia.g.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 #EXTINF:-0,WRBC 91.5 Bates College [Lewiston ME][wrbcradio.com]
 https://wrbc-stream.creek.org/stream
+#EXTINF:-0,WRCT Carnegie Mellon University [Pittsburgh PA][wrct.org]
+http://stream.wrct.org:8000/wrct-hi.mp3
 #EXTINF:-0,WRCU 90.1 Colgate University [Hamilton NY][wrcufm.org]
 https://26413.live.streamtheworld.com/WRCUFMAAC.aac
 #EXTINF:-0,WRGW 94.5 George Washington University [Shawano WI][gwradio.com]
@@ -1064,6 +1077,14 @@ http://icecast1.wrpi.org:8000/mp3-128.mp3
 https://ice5.securenetsystems.net/WRRC
 #EXTINF:-0,WRSU 88.7 Rutgers University [New Brunswick NJ][wrsu.rutgers.edu]
 https://wrsu-libstrm.radioca.st/stream
+#EXTINF:-0,WRTI 90.1 Temple University [Jazz][Philadelphia PA][wrti.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:-0,WRTI 90.1 Temple University [Jazz][Philadelphia PA][wrti.org]
+https://26223.live.streamtheworld.com/WRTI_JAZZ.mp3
+#EXTINF:-0,WRTI 90.1 Temple University [Classical][Philadelphia PA][wrti.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
+#EXTINF:-0,WRTI 90.1 Temple University [Classical][Philadelphia PA][wrti.org]
+https://19293.live.streamtheworld.com/WRTI_CLASSICAL.mp3
 #EXTINF:-0,WRTC 89.3 FM Trinity College [Hartford CT][wrtcfm.com][offline]
 http://live.adsciconsolidated.com/wrtchigh.mp3
 #EXTINF:-0,WRTU 89.7 Cadena Radio Universidad de Puerto Rico [San Juan/Mayaguez][ww2.wrtu.pr]
@@ -1194,6 +1215,8 @@ http://128.175.76.123:8000/stream/1/
 http://stream.radiojar.com/56p3rt9eytzuv
 #EXTINF:-0,WWUD 91.3 The Basement-University of Delaware [Newark DE][wvud.org]
 http://128.175.76.123:8000/stream/3/
+#EXTINF:-0,WXAC 91.3 Albright College [Reading PA][wxac.net][offline]
+http://live.adsciconsolidated.com/wxachigh.mp3
 #EXTINF:-0,WXAV 88.3 Saint Xavier University [Chicago IL][sxustudentmedia.com][offline]
 https://ic2.sslstream.com/wxav-fm
 #EXTINF:-0,WXCI 91.7 Western Connecticut State University [Danbury CT]
