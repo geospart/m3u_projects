@@ -52,6 +52,9 @@ CBC M3U [way better than I could do]- https://rcavliveaudio.akamaized.net/hls/li
 [SMPlayer / NPR]
 ![image](https://github.com/geospart/m3u_projects/assets/105660995/06b375df-b5cc-49b0-bb3b-098af18d65eb)
 
+![image](https://github.com/user-attachments/assets/9426b14a-ae5a-450e-acb2-ce50d938ae0d)
+
+
 [M3U - Android / Main Screen and CBC] M3U is Open Source and available on F-Droid 
 ![Screenshot_20240705-114057](https://github.com/geospart/m3u_projects/assets/105660995/027d0d27-2507-45b4-bed8-a42f42be0651)
 ![Screenshot (Jul 5, 2024 11:43:30)](https://github.com/geospart/m3u_projects/assets/105660995/7a0378b3-7dc5-4c6c-81fc-945d42ebfe60)
