@@ -703,7 +703,7 @@ http://161.53.122.184:8000/AAC128.aac
 https://stream.resonance.fm/resonance
 #EXTINF:-0,RDU 98.5  University of Canterbury [Christchurch New Zealand][rdu.org.nz]
 https://rdu985fm-gecko.radioca.st/stream
-#EXTINF:-0,Scottish Highlands Radio <-[web]->[Leesburg Florida Scotland]
+#EXTINF:-0,Scottish Highlands Radio <-[web]->[Leesburg Florida][zeno.fm/radio/Scottish-Highlands-Florida]
 https://stream.zeno.fm/a6ch8s4et0hvv
 #EXTINF:-0,SomaFM: Seven Inch Soul (#1): Vintage soul tracks from the original 45 RPM vinyl.
 http://ice4.somafm.com/7soul-64-aac
@@ -1185,30 +1185,6 @@ https://ice4.somafm.com/vaporwaves-64-aac
 https://ice2.somafm.com/vaporwaves-64-aac
 #EXTINF:-0,SomaFM: Vaporwaves (#4): All Vaporwave. All the time.
 https://ice5.somafm.com/vaporwaves-64-aac
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-0,UCC 98.3 University College Cork [Ireland][ucc.ie/en/983fm]
 https://stream.btsstream.com:8062/ucc.mp3
 #EXTINF:-0,UMFM 101.5 University of Manitoba [Winnipeg MB][umfm.com][mp3 192k]
