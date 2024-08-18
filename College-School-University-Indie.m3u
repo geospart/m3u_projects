@@ -23,6 +23,8 @@
 http://stream.ucfm.com.au:8000/listen.mp3
 #EXTINF:-0,1A12 87.8 University of Canberra [ucfm.com.au]
 https://www.radioking.com/play/ucfm/631505
+#EXTINF:-0,2MBS Fine Music [Sydney][2mbsfinemusicsydney.com]
+https://fmfm.org.au:8001/finemusicdigital
 #EXTINF:-0,2MCE 92.3 Charles Sturt University [Bathurst NSW AU][2mce.org][offline]
 https://arts-ed-streams.csu.edu.au:8080/2MCE
 #EXTINF:-0,2NUR 103.7 University of Newcastle [Newcastle NSW AU][2nurfm.com.au]
@@ -211,6 +213,8 @@ http://no.stream
 https://audio-edge-es6pf.mia.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 #EXTINF:-0,Fréquence Banane University of Lausanne [Switzerland][frequencebanane.ch]
 https://player.frequencebanane.ch/fb_192
+#EXTINF:-0,GAIA FM 106.9 [Tauranga, New Zealand][gaiafm.stationplaylist.com]
+https://s2.stationplaylist.com:9000/gaiafm.aac
 #EXTINF:-0,Global Community Radio [GCR1][Geneva NY][globalcommunityradio.blogspot.com]
 http://142.4.219.8:8019/;stream.mp3
 #EXTINF:-0,Global Community Radio [GCR2][Geneva NY][globalcommunityradio.blogspot.com]
@@ -3324,6 +3328,8 @@ https://26413.live.streamtheworld.com/WRCUFMAAC.aac
 https://das-edge12-live365-dal02.cdnstream.com/a12400
 #EXTINF:-0,WRDL 88.9 Ashland University [Ashland OH][wrdlfm.com]
 https://streaming.live365.com/a12400
+#EXTINF:-0,WRFL 88.1 [Lexington KY][wrfl.fm]
+https://wrfl.fm:8002/stream/1
 #EXTINF:-0,WRGW 94.5 George Washington University [Shawano WI][gwradio.com]
 http://stream.revma.ihrhls.com/zc7294
 #EXTINF:-0,WRIU 90.3 University of Rhode Island [Kingston RI][wriu.org]
