@@ -354,6 +354,8 @@ http://ice-sov.musicradio.com/RadioXManchesterHD
 https://tx.sharp-stream.com/http_live.php?i=slackcity.mp3
 #EXTINF:-0,Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
 https://edge-audio-02-thn.sharp-stream.com/slackcity.mp3
+#EXTINF:-0,Subcity Radio Glasgow University [Glasgow U.K.][subcity.org]
+https://stream.subcity.org/listen
 #EXTINF:-0,Talk Radio [radio.talkradio.co.uk][mp3 64k]
 http://radio.talkradio.co.uk/stream
 #EXTINF:-0,The Times Radio London[aac 48k]
