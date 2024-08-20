@@ -1276,12 +1276,10 @@ http://audio.wbur.org/stream/live_mp3.m3u
 http://wbur-sc.streamguys.com/wbur
 #EXTINF:-0,WBWC 89.3 Baldwin-Wallace College [Cleveland OH][wbwc.com]
 http://wbwcradio.bw.edu:8000/;
-#EXTINF:-0,WCBN 88.3 University of Michigan [Ann Arbor MI][offline]
-https://beanball.wcbn.org:8443/wcbn-hi.mp3
+#EXTINF:-0,WCBN 88.3 University of Michigan [Ann Arbor MI][Freeform]
+https://floyd.wcbn.org:8443/wcbn-hd.mp3
 #EXTINF:-0,WCAL 91.9 California University of Pennsylvania [California PA][wcal.calu.edu]
 https://cp2.shoutcheap.com:18014/stream
-#EXTINF:-0,WCBN 88.3 University of Michigan [Ann Arbor MI]
-https://floyd.wcbn.org:8443/wcbn-hd.mp3
 #EXTINF:-0,WCDB 90.9 State University of New York [Albany NY][wcdbfm.com]
 http://streams.wcdbfm.com:8000/stream
 #EXTINF:-0,WCFM 91.1 Williams College [Williamstown MA][sites.williams.edu/wcfm/]
