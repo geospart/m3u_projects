@@ -1,0 +1,160 @@
+#EXTM3U# 
+# Edited on Xed, Clementine on Linux Mint
+# By @geospart
+# https://mastodon.social/@geospart
+# created 08/20/2024
+# https://docs.fileformat.com/audio/m3u/
+# https://en.wikipedia.org/wiki/Category:Freeform_radio_stations
+# https://streamingradioguide.com/
+# https://www.radiolineup.com/
+# https://radiostation.info
+# https://radiostationusa.fm/category/college [done]
+# To search by State do the two letter followed by this ] / example NY]
+#************************************************************************
+#************************************************************************
+#PLAYLIST:-0,Freeform Radio Stations
+#EXTGRP:-Main List
+#EXTINF:-0,Crescent City Radio [New Orleans LA][crescentcityradio.com][offline]
+http://offline.now
+#EXTINF:-0,KALX 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k]
+https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
+#EXTINF:-0,KANM Texas A&M [kanm.tamu.edu][mp3 192k]
+https://icecast.kanm.org/listen
+#EXTINF:-0,KBLU 92.3 "Aggie Radio" Utah State University [logan UT][radio.usu.edu][req-435-797-2346]
+https://aggieradio.creek.stream/stream
+#EXTINF:-0,KCHUNG 1630 Chinatown [Los Angeles LA][kchungradio.org]
+https://kchungradio.out.airtime.pro/kchungradio_a
+#EXTINF:-0,KDVS 90.3 University of California [Davis CA][kdvs.org][aac 130k]
+https://archives.kdvs.org/stream
+#EXTINF:-0,KFJC 89.7 Foothill College [Los Altos Hills][mp3 128k][Freeform]
+https://netcast.kfjc.org/kfjc-128k-mp3
+#EXTINF:-0,KHUH-LP 104.9 Hallow Earth Radio [Seattle WA][hollowearthradio.org]
+http://centova.rockhost.com:8001/stream
+#EXTINF:-0,KHUM 104.7 [Cutten CA][khum.com]
+http://lostcoast.streamguys.us/khum-hi
+#EXTINF:-0,KHUM 104.7 [Cutten CA][khum.com]
+http://lostcoast.streamguys.us/
+#EXTINF:-0,KLBE-LP 100.7 [New Song Church/Christian][Bismark ND][clubradiolive.com]
+https://ais-sa1.streamon.fm/7058_24k.aac
+#EXTINF:-0,KNMR University of Missouri-Rolla [Rolla MO][kmnr.org]
+https://boombox.kmnr.org/webstream.mp3
+#EXTINF:-0,KNYE 95.1 [Pahrump NV][knye.com][no-stream]
+http://no.stream
+#EXTINF:-0,KPIG 107.5 K-PIG Freeform California [Santa Cruz CA][kpig.com][Paywall Stream]
+https://kpig.streamguys1.com/mp3
+#EXTINF:-0,KRBX 89.9/93.5 Radio Boise [Boise ID][radioboise.org][mp3 128k]
+http://radioboise-ice.streamguys1.com/live
+#EXTINF:-0,KSDT University of California San Diego [La Jolia CA][Online-Only][ksdt.ucsd.edu]
+https://s4.radio.co/s2c33c7adb/listen
+#EXTINF:-0,KSSU 1580 Sacramento State [Sacramento CA][kssu.com][req-916-278-3666]
+https://us2.maindigitalstream.com/ssl/KSSU
+#EXTINF:-0,KWUR 90.3 Washington University [St Louis MO][kwur.com]
+https://listen.mixlr.com/5cecdfbc3041452fc4279e86107516ef
+#EXTINF:-0,KXUA 88.3 University of Arkansas [Fayetteville AR][kxua.com]
+https://listen.kxua.com/stream
+#EXTINF:-0,KZSC 88.1 [Santa Crus CA][kzsc.org][MP3 128k]
+https://kzscfms1-geckohost.radioca.st/kzschigh
+#EXTINF:-0,KZSC 88.1 [Santa Crus CA][kzsc.org][MP3 56k]
+https://kzscfms1-geckohost.radioca.st/kzsclow
+#EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k]
+https://kzsu-streams.stanford.edu/kzsu-1-128.mp3
+#EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k][sometinmes offline]
+https://kzsu-streams.stanford.edu/kzsu-2-128.mp3
+#EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k]
+https://kzsu-streams.stanford.edu/kzsu-3-128.mp3
+#EXTINF:-0,Subcity Radio Glasgow University [Glasgow U.K.][subcity.org]
+https://stream.subcity.org/listen
+#EXTINF:-0,WBAR Bernard College [NYC NY][wbar.org]
+http://160.39.103.190:8000/stream
+#EXTINF:-0,WEVL 89.9 [Memphis TN][wevl.org][Freeform]
+https://wevl.streamguys1.com/live
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
+http://stream0.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
+http://stream2.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
+http://stream0.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
+http://stream2.wfmu.org/freeform-high.aac
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
+http://stream2.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
+https://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
+https://stream2.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/freeform-128k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k.mp3
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream0.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+http://stream2.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][mp3 32k]
+https://stream0.wfmu.org/freeform-32k
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/drummer
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Give the Drummer Radio][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream2.wfmu.org/drummer
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/sheena
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Sheena's Jungle Room][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream2.wfmu.org/sheena
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream2.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
+https://stream2.wfmu.org/rocknsoul
+#EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Rock'n'Soul Radio][Jersey City NJ][wfmu.org][mp3 128k]
+http://stream0.wfmu.org/rocknsoul-live.mp3
+#EXTINF:-0,WFPK 91.9 [Music][Louisville KY][lpm.org/music]
+https://lpm.streamguys1.com/wfpk-popup.aac?uuid=2jw2pk90b
+#EXTINF:-0,WFPK 91.9 [News][Louisville KY][lpm.org/music]
+https://lpm.streamguys1.com/wfpl-popup.aac?uuid=2jw2pk90b
+#EXTINF:-0,WFPK 91.9 [Classical][Louisville KY][lpm.org/music]
+https://lpm.streamguys1.com/wuol-popup.aac?uuid=2jw2pk90b
+#EXTINF:-0,WHRW 90.5 Binghamton University [Binghamton NY][whrw.fm][mp3 320k]
+http://stream.whrwfm.org/hi
+#EXTINF:-0,WLRA 88.1 Lewis University [Lockport IL][wlraradio.com]
+http://199.245.229.210:8000/128
+#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][256k]
+https://www.wmfo.org/popout_player.php?bitrate=256
+#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][56k]
+https://www.wmfo.org/popout_player.php?bitrate=56
+#EXTINF:-0,WNJR 91.7 W & J College [Washington PA][wnjr.org]
+https://s2.radio.co/s27c8d8fad/listen
+#EXTINF:-0,WOBC 91.5 Oberlin College [Oberlin OH][wobcfm.org]
+https://wobc.stream/main
+#EXTINF:-0,WPRK 91.5 Rollins College [Winter Park FL][wprk.org]
+https://wprk.broadcasttool.stream:80/stream
+#EXTINF:-0,WRCT Carnegie Mellon University [Pittsburgh PA][wrct.org]
+http://stream.wrct.org:8000/wrct-hi.mp3
+#EXTINF:-0,WRFL 88.1 Radio Free [Lexington Lexington KY][wrfl.fm]
+https://wrfl.fm:8002/stream/1
+#EXTINF:-0,WSHE 820 The Gamut [Frederick Maryland][live.gamut.fm/listen/]
+https://24443.live.streamtheworld.com/WWFDAM.mp3
+#EXTINF:-0,WSUM 91.7 University of Wisconsin-Madison [Madison WI]
+https://ice23.securenetsystems.net/WSUMFM
+#EXTINF:-0,WUAG 103.1 University of North Carolina at Greensboro [Greensboro NC][wuag.uncg.edu]
+https://streaming.live365.com/a43900
+#EXTINF:-0,WUAG 103.1 University of North Carolina at Greensboro [Greensboro NC][wuag.uncg.edu]
+https://das-edge12-live365-dal02.cdnstream.com/a43900
+#EXTINF:-0,WUMS 92.1 Rebel Radio / University of Missisippi [University MS][myrebelradio.com]
+http://130.74.34.5:8000/listen.mp3
+#EXTINF:-0,WUSB 90.1 SUNY Stony Brook [Stony Brook NY][wusb.fm]
+http://stream.wusb.stonybrook.edu:8090/;
+#EXTINF:-0,WUSB 90.1 SUNY Stony Brook [Stony Brook NY][wusb.fm]
+https://stream.wusb.stonybrook.edu:8092/;
+#EXTINF:-0,WXHQ-LP 105.9 [Newport and Providence RI][1059xhq.org][offline]
+http://offline.now
+#EXTINF:-0,WXTJ 100.1 University of Virginia [Charlottesville VA][wxtj.fm]
+https://streams.wtju.net/wxtj-live.mp3
+#EXTINF:-0,WZBC 90.3 Boston College [Newton MA][wzbc.org]
+https://stream.wzbc.org/wzbc
+#EXTINF:-0,WZML 92.9 Inge Davidson Foundation [Bryn Mawr MA][instagram.com/wzml929/]
+http://198.20.181.85:8000/;
+#EXTINF:-0,WZRD 88.3 WZRDChicago [Chicago IL][wzrdchicago.org][Freeform]
+https://wzrd.streamguys1.com/live
