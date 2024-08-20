@@ -5,10 +5,11 @@
 # created 08/20/2024
 # https://docs.fileformat.com/audio/m3u/
 # https://en.wikipedia.org/wiki/Category:Freeform_radio_stations
+# https://www.freeformradio.directorynn [**]
+# https://www.radicalradio.media
 # https://streamingradioguide.com/
 # https://www.radiolineup.com/
 # https://radiostation.info
-# https://radiostationusa.fm/category/college [done]
 # To search by State do the two letter followed by this ] / example NY]
 #************************************************************************
 #************************************************************************
@@ -62,10 +63,21 @@ https://kzsu-streams.stanford.edu/kzsu-1-128.mp3
 https://kzsu-streams.stanford.edu/kzsu-2-128.mp3
 #EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k]
 https://kzsu-streams.stanford.edu/kzsu-3-128.mp3
+#EXTINF:-0,RFB Radio Free Brooklyn [RFB Live Stream][radiofreebrooklyn.org]
+http://192.111.140.6:9300/stream
+#EXTINF:-0,RFB2 Radio Free Brooklyn [Local Chords][radiofreebrooklyn.org]
+http://192.111.140.6:9300/stream
+http://159.203.70.187:9736/stream
+#EXTINF:-0,Stranded FM [Utrecht Netherlands][stranded.fm][offline][**]
+http://offline.now
+#EXTINF:-0,SOHO Radio [London U.K.][sohoradiolondon.com][online-only][**]
+https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 #EXTINF:-0,Subcity Radio Glasgow University [Glasgow U.K.][subcity.org]
 https://stream.subcity.org/listen
 #EXTINF:-0,WBAR Bernard College [NYC NY][wbar.org]
 http://160.39.103.190:8000/stream
+#EXTINF:-0,WCBN 88.3 University of Michigan [ANN ARBOR MI]
+https://floyd.wcbn.org:8443/wcbn-hd.mp3
 #EXTINF:-0,WEVL 89.9 [Memphis TN][wevl.org][Freeform]
 https://wevl.streamguys1.com/live
 #EXTINF:-0,WFMU 91.1 Community Radio NY NJ [Freeform Radio[Jersey City NJ][wfmu.org][aac 128k]
