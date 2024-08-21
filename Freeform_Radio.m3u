@@ -13,21 +13,36 @@
 # https://www.radiolineup.com/
 # https://radiostation.info
 # To search by State do the two letter followed by this ] / example NY]
+# [/] Copied to BBC 
 #************************************************************************
 #************************************************************************
 #PLAYLIST:-0,Freeform Radio Stations
 #EXTGRP:-Main List
+#EXTINF:-0,alto radio [Leeds England][altoradio.live][online-only][**][/]
+https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/leeds.json?slug=leeds
 #EXTINF:-0,Ajajajaneeneenee [Amsterdam Netherlands][jajajaneeneenee.com][No Stream just podcast style shows]
 http://no.stream
-#EXTINF:-0,Balamii [London England][balamii.com][online-only][**]
+#EXTINF:-0,Balamii [London England][balamii.com][online-only][**][/]
 https://balamii.out.airtime.pro/balamii_a
-#EXTINF:-0,Black Rhino Radio [Bucharest Romania][blackrhinoradio.com][online-only][**]
+#EXTINF:-0,BFF FM [San Francisco CA][bff.fm][online-only][**]
+https://ais-sa2.cdnstream1.com/2053_128.mp3
+#EXTINF:-0,Black Rhino Radio [Bucharest	Romania][blackrhinoradio.com][online-only][**]
 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
-#EXTINF:-0,Foundation FM [London England][foundation.fm]
+#EXTINF:-0,Bloop [London England][blooplondon.com][online-only][**][/]
+https://radio.canstream.co.uk:8058/live.mp3
+#EXTINF:-0,Clyde Built Radio [Glasgow Scotland][clydebuiltradio.com][offline][online-only][**][/]
+https://s3.radio.co/s27cf5b4e2/listen
+#EXTINF:-0,EOS Radio [Frankfurt Germany][eosradio.de][online-only][**]
+https://s5.radio.co/s21c5fbf27/listen?i1621002467060
+#EXTINF:-0,Fade radio [Athens Greece][fade.radio][online-only][**]
+https://n02.radiojar.com/072mdmpbfq8uv
+#EXTINF:-0,Foundation FM [London England][foundation.fm][/]
 https://streamer.radio.co/s0628bdd53/listen
 #EXTINF:-0,Fritto FM [Milan Italy][fritto.fm][online-only][**]
 https://frittofm2020.out.airtime.pro/frittofm2020_a
-#EXTINF:-0,Hoxton Radio [London England][hoxtonradio.com][online-only][**]
+#EXTINF:-0,Half Moon Radio [New York][halfmoonbk.com][online-only][**]
+https://half-moon.radiocult.fm/stream
+#EXTINF:-0,Hoxton Radio [London England][hoxtonradio.com][online-only][**][/]
 http://99.198.118.250:8014/stream
 #EXTINF:-0,IDA Raadio [Tallinn Estonia][idaidaida.net][online-only][**]
 https://streams.radio.co/s053b51423/listen
@@ -79,33 +94,59 @@ https://kzsu-streams.stanford.edu/kzsu-1-128.mp3
 https://kzsu-streams.stanford.edu/kzsu-2-128.mp3
 #EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k]
 https://kzsu-streams.stanford.edu/kzsu-3-128.mp3
+#EXTINF:-0,Loose Antenna [Lausanne Switzerland][looseantenna.fm][online-only][**]
+https://stream.looseantenna.fm/radio/8000/default.mp3
 #EXTINF:-0,Lower Grand Radio [San Francisco CA][lowergrandradio.com][online-only][**]
 https://lowergrandradio.out.airtime.pro:8000/lowergrandradio_a
+#EXTINF:-0,movement radio [Athens Greece][movement.radio][online-only][**]
+https://movementathens.out.airtime.pro/movementathens_a
 #EXTINF:-0,Mushroom Radio [The Hague Netherlands][radiomushroom.org][online-only][**]
 https://radio.goodtimesbadtimes.club/radio/8020/radio.mp3
-#EXTINF:-0,NTS 1 [London England][nts.live][online-only][**]
+#EXTINF:-0,NARR RADIO [Leeds England][narr.co.uk][online-only][**][/]
+https://s4.radio.co/s695e0d95b/listen
+#EXTINF:-0,Netil Radio [London England][netilradio.com][online-only][**][/]
+https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/london.json?slug=london
+#EXTINF:-0,NTS 1 [London England][nts.live][online-only][**][/]
 https://stream-relay-geo.ntslive.net/stream/64.aac
-#EXTINF:-0,NTS 2 [LA] [London England][nts.live][online-only][**]
+#EXTINF:-0,NTS 2[LA] [London England][nts.live][online-only][**][/]
 https://stream-relay-geo.ntslive.net/stream2/64.aac
+#EXTINF:-0,Ola Radio [Bordeaux France][olaradio.fr][online-only][**]
+https://ola-radio.radiocult.fm/stream
 #EXTINF:-0,Open Lab 106.4 FM [Ibiza Spain][openlab.fm][**]
 https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-0,Palanga Street Radio [Vilnius Lithuania][palanga.live][online-only][**]
+https://stream.palanga.live:8443/palanga128.mp3
 #EXTINF:-0,Particle FM [San Diego CA][particle.fm][online-only][**]
 https://azuracast.particle.fm/radio/8000/radio.mp3
-#EXTINF:-0, Radio 80000 [Munich Germany][radio80k.de][online-only][**]
+#EXTINF:-0,Radio 80000 [Munich Germany][radio80k.de][online-only][**]
 https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-0,Radio Alhara [Bethlehem Palestine][yamakan.place/palestine/][online-only][**]
+https://n0b.radiojar.com/78cxy6wkxtzuv
 #EXTINF:-0,Radio Banda Larga [Turin Italy][rbl.media][online-only][**]
 https://rblmedia.out.airtime.pro/rblmedia_a
+#EXTINF:-0,Radio Buena Vida [Glasgow Scotland][buenavida.co.uk][online-only][**][/]
+https://s4.radio.co/s69b281ac0/listen
 #EXTINF:-0,Radio Centraal [Antwerp Belgium][radiocentraal.be][offline]
 https://streams.movemedia.eu:8530/
-#***********************************************************
 #EXTINF:-0,Radio Relativa [Madrid Spain][online-only][**]
 https://streamer.radio.co/sd6131729c/listen
-#***********************************************************
+#EXTINF:-0,Radiophrenia [Glasgow Scotland][soundcloud.com/radiophrenia][not live - eps on soundcloud][online-only][**][/]
+http://no.stream
+#EXTINF:-0,Reform Radio [Manchester England][reformradio.co.uk/projects][online-only][**][/]
+https://icecasting.reformradio.space/high.mp3
+#EXTINF:-0,Refuge Worldwide [Berlin Germany][refugeworldwide.com][online-only][**]
+https://streaming.radio.co/s3699c5e49/listen
+#EXTINF:-0,Res.Radio [Vienna Austria][res.radio][online-only][**]
+https://edge.mixlr.com/channel/zwtuo
+#EXTINF:-0,Resonance Extra [London England][extra.resonance.fm][online-only][**][/]
+https://stream.resonance.fm/resonance-extra
+#EXTINF:-0,Resonance FM [London England][resonancefm.com][online-only][**][/]
+https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/london.json?slug=london
 #EXTINF:-0,RFB Radio Free Brooklyn [RFB Live Stream][radiofreebrooklyn.org]
 http://192.111.140.6:9300/stream
 #EXTINF:-0,RFB2 Radio Free Brooklyn [Local Chords][radiofreebrooklyn.org][online-only][**]
 http://192.111.140.6:9300/stream
-#EXTINF:-0,Rinse FM [London England][rinse.fm][online-only][**]
+#EXTINF:-0,Rinse FM [London England][rinse.fm][online-only][**][/]
 https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:-0,Rinse France [Paris France][rinse.fm/channels/france/]
 https://radio10.pro-fhi.net/flux-trmqtiat/stream
@@ -113,16 +154,24 @@ https://radio10.pro-fhi.net/flux-trmqtiat/stream
 http://mixlr.com/seydisfjordur-community-radio
 #EXTINF:-0,Shared Frequencies [Austin TX][sharedfrequencies.live][online-only][**]
 https://sharedfrequencies.out.airtime.pro/sharedfrequencies_a
-#EXTINF:-0,Sister Midnight FM [London U.K.][sistermidnight.org][online-only][**]
+#EXTINF:-0,Sister Midnight FM [London England][sistermidnight.org][online-only][**][/]
 https://stream.radio.co/s35e4926a1/listen
+#EXTINF:-0,Skylab Radio [Melbourne Australia][skylab-radio.com][online-only][**]
+https://stream.skylab-radio.com/live
 #EXTINF:-0,Stranded FM [Utrecht Netherlands][stranded.fm][offline][**]
 http://offline.now
-#EXTINF:-0,SOHO Radio [London U.K.][sohoradiolondon.com][online-only][**]
+#EXTINF:-0,SOHO Radio [London England][sohoradiolondon.com][online-only][**][/]
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
-#EXTINF:-0,Subcity Radio Glasgow University [Glasgow U.K.][subcity.org]
+#EXTINF:-0,Subcity Radio Glasgow University [Glasgow Scotland][subcity.org][/]
 https://stream.subcity.org/listen
 #EXTINF:-0,THF Radio [Berlin Germany][thfradio.de][online-only][**]
 https://thfradio2.out.airtime.pro/thfradio2_b
+#***********************************************************
+#EXTINF:-0,Threads Radio [London England][threadsradio.com][online-only][**]
+https://threads.out.airtime.pro/threads_b
+#***********************************************************
+#EXTINF:-0,Tīrkultūra [Riga Latvia][tirkultura.lv][online-only][**]
+https://s3.radio.co/s216811754/listen
 #EXTINF:-0,WBAR Bernard College [NYC NY][wbar.org]
 http://160.39.103.190:8000/stream
 #EXTINF:-0,WCBN 88.3 University of Michigan [ANN ARBOR MI]
@@ -177,6 +226,8 @@ https://lpm.streamguys1.com/wfpk-popup.aac?uuid=2jw2pk90b
 https://lpm.streamguys1.com/wfpl-popup.aac?uuid=2jw2pk90b
 #EXTINF:-0,WFPK 91.9 [Classical][Louisville KY][lpm.org/music]
 https://lpm.streamguys1.com/wuol-popup.aac?uuid=2jw2pk90b
+#EXTINF:-0,WGXC 90.7 Radio for open ears [Catskill NY][wgxc.org][online-only][**]
+https://audio.wavefarm.org/wgxc.mp3
 #EXTINF:-0,WHRW 90.5 Binghamton University [Binghamton NY][whrw.fm][mp3 320k]
 http://stream.whrwfm.org/hi
 #EXTINF:-0,WLRA 88.1 Lewis University [Lockport IL][wlraradio.com]
