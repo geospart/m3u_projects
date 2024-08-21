@@ -1465,6 +1465,8 @@ http://no.stream
 https://s2.voscast.com:11835/stream
 #EXTINF:-0,WGRP KGSP 90.5 Park University [Parkville MO][kgsp.park.edu][offline]
 http://66.148.171.37:8000/KGSPRadio
+#EXTINF:-0,WGXC 90.7 Radio for open ears [Catskill NY][wgxc.org][Freeform]
+https://audio.wavefarm.org/wgxc.mp3
 #EXTINF:-0,WGSU 89.3 State University Of New York [Geneseo NY][mp3 119k]
 http://wgsu-live.geneseo.edu:8000/icy_0
 #EXTINF:-0,WHCP 90.3 Nassau Community College [Garden City NY][ncc.edu/studentlife/whpcradiostation][aac 128k]
