@@ -212,9 +212,9 @@ http://ec1.yesstreaming.net:4310/;
 http://no.stream
 #EXTINF:-0,Flirt FM 101.3 University of Galway [Ireland][flirtfm.ie]
 https://audio-edge-es6pf.mia.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
-#EXTINF:-0,Fréquence Banane University of Lausanne [Switzerland][frequencebanane.ch]
+#EXTINF:-0,Fréquence Banane University of Lausanne [Switzerland][frequencebanane.ch][offline]
 https://player.frequencebanane.ch/fb_192
-#EXTINF:-0,GAIA FM 106.9 [Tauranga, New Zealand][gaiafm.stationplaylist.com]
+#EXTINF:-0,GAIA FM 106.9 [Tauranga, New Zealand][gaiafm.stationplaylist.com][offline]
 https://s2.stationplaylist.com:9000/gaiafm.aac
 #EXTINF:-0,Global Community Radio [GCR1][Geneva NY][globalcommunityradio.blogspot.com]
 http://142.4.219.8:8019/;stream.mp3
@@ -234,9 +234,9 @@ https://kamu.streamguys1.com/hd1-192
 https://kamu.streamguys1.com/hd2-192
 #EXTINF:-0,KANM Texas A&M [kanm.tamu.edu][mp3 192k][Freeform]
 https://icecast.kanm.org/listen
-#EXTINF:-0,KAOR 91.1 University of South Dakota [Vermillion SD][kaorradio.com]
+#EXTINF:-0,KAOR 91.1 University of South Dakota [Vermillion SD][kaorradio.com][offline]
 https://janus.cdnstream.com:5314/stream
-#EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k]
+#EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k][offline]
 https://ark3.spincom/ark2/KAOS-20240708T070000Z/index.m3u8
 #EXTINF:-0,KAOS 89.3 Evergreen State College[Olypia WA][kaosradio.org][mp3 128k]
 http://205.134.192.90:8930/;
@@ -264,17 +264,18 @@ https://27053.live.streamtheworld.com/KBIAFM.mp3
 https://27053.live.streamtheworld.com/KBIAHD2.mp3
 #EXTINF:-0,KBIA-HD3 91.3 [World Cafe/University of Missouri][Columbia MO][kbia.org][mp3 64k]
 https://18123.live.streamtheworld.com/KBIAHD3.mp3
-#EXTINF:-0,KBLT 88.1 Butler County Community College [El Dorado KS][kbtl.butlercc.edu][aac 64k]
+#EXTINF:-0,KBLT 88.1 Butler County Community College [El Dorado KS][kbtl.butlercc.edu][aac 64k][sometimes-offline]
 https://ic1.sslstream.com/kbtl-fm
 #EXTINF:-0,KCED 91.3 Centralia College [Centralia WA][centralia.edu][offline]
 http://134.39.125.251:88/broadwavehigh.mp3
 #EXTINF:-0,KCFV 89.5 Louis Community College [Ferguson MO][https://stlcc.edu/campus-life-community/kcfv_fv/kcfv.aspx][aac 32k]
 https://ice24.securenetsystems.net/KCFV
-#EXTINF:-0,KCHU-KXKM-KXGA 770-89.7-90.5 Community Public Radio[ for Prince William Sound and Copper River Valley Mccarthy-Glennallen AK][aac 48k]
+#EXTINF:-0,KCHU-KXKM-KXGA 770-89.7-90.5 Community Public Radio[for Prince William Sound and Copper River Valley Mccarthy-Glennallen AK][aac 48k]
+https://ice8.securenetsystems.net/KCHU
 #EXTINF:-0,KCMP 89.3 The Current [MPR][Saint Paul MN][thecurrent.org]
+https://current.stream.publicradio.org/current.aac
 #EXTINF:-0,KCHUNG 1630 Chinatown [Los Angeles LA][kchungradio.org][Freeform]
 https://kchungradio.out.airtime.pro/kchungradio_a
-https://localcurrent.stream.publicradio.org/localcurrent.aac
 #EXTINF:-0,KCOU 88.1 Missouri Students Association [Columbia MO][kcou.fm][offline]
 https://ssl.shoutcaststreaming.us:8088/stream
 #EXTINF:-0,KCOU 88.1 Missouri Students Association [Columbia MO][kcou.fm][mp3 192k]
