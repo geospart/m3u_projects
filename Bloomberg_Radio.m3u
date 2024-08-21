@@ -1,0 +1,22 @@
+#EXTM3U
+# Edited on Xed,SMPlay and VLC on Linux Mint
+# By @geospart
+# https://docs.fileformat.com/audio/m3u/
+# https://github.com/geospart/m3u_projects
+# https://mastodon.social/@geospart
+# created 082124
+#PLAYLIST:-0,Freeform Radio Stations
+#EXTGRP:-Main List
+#EXTINF:-0,Bloomberg New York WBBR 1130AM
+https://17573.live.streamtheworld.com/WBBRAMAAC.aac
+#EXTINF:-0,Bloomberg Boston WRCA 106.1/1330/1450
+https://24403.live.streamtheworld.com/WRCAAMAAC_SC
+#EXTINF:-0,Bloomberg Boston WRCA 106.1/1330/1450
+https://18193.live.streamtheworld.com/WRCAAMAAC_SC
+#EXTINF:-0,Bloomberg San Francisco KNEW 960
+https://stream.revma.ihrhls.com/zc301
+#EXTINF:-0,Bloomberg Washington WDCH 99.1
+https://n49b-e2.revma.ihrhls.com/zc7094
+#EXTINF:-0,Bloomberg London [DAB]
+http://ais-sa10.cdnstream1.com/4062_96.mp3
+
