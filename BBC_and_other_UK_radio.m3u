@@ -212,13 +212,13 @@ http://stream.otherside.network:8904/listen.mp3
 http://stream-ar.planetradio.co.uk/absolute80shigh.aac
 #EXTINF:-0,AllFM 96.9 The Real Voice of Manchester [Community][allfm.org][aac 131k]
 https://uksoutha.streaming.broadcast.radio:15870/allfm
-#EXTINF:-0,alto radio [Leeds England][altoradio.live][online-only][**][/]
+#EXTINF:-0,alto radio [Leeds England][altoradio.live][Freeform][/]
 https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/leeds.json?slug=leeds
 #EXTINF:-0,Angel Radio [angelradio.co.uk][mp3 96k]
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:-0,AWAZ FM 107.20 Glasgow [Asian][awazfm.co.uk][mp3 128k]
 https://uksoutha.streaming.broadcast.radio/awazfm
-#EXTINF:-0,Balamii [London England][balamii.com][online-only][**]
+#EXTINF:-0,Balamii [London England][balamii.com][Freeform]
 https://balamii.out.airtime.pro/balamii_a
 #EXTINF:-0,Beat 106 Glasgow [beat106scotland.com][mp3 128k]
 https://n10.rcs.revma.com:443/3d6v2ut171zuv
@@ -258,9 +258,9 @@ http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs16.aac
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs17.aac
 #EXTINF:-0,BFBS Radio Scotland [british-forces-broadcasting-service][bfbs.com][aac 56k]
 http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs18.aac
-#EXTINF:-0,Bloop [London England][blooplondon.com][online-only][**]
+#EXTINF:-0,Bloop [London England][blooplondon.com][Freeform]
 https://radio.canstream.co.uk:8058/live.mp3
-#EXTINF:-0,Radio Buena Vida [Glasgow Scotland][buenavida.co.uk][online-only][**]
+#EXTINF:-0,Radio Buena Vida [Glasgow Scotland][buenavida.co.uk][Freeform]
 https://s4.radio.co/s69b281ac0/listen
 #EXTINF:-0,Capital Dance [U.K.][capitaldance.com][48k]
 http://ice-sov.musicradio.com/CapitalDance
@@ -296,8 +296,10 @@ http://stream.celticmusicradio.net:8000/celticmusic.mp3
 https://streaming.broadcastradio.com:11130/celtic
 #EXTINF:-0,Clyde 1/50 [Glasgow][hellorayo.co.uk/clyde/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
-#EXTINF:-0,Clyde Built Radio [Glasgow Scotland][clydebuiltradio.com][offline][online-only][**]
+#EXTINF:-0,Clyde Built Radio [Glasgow Scotland][clydebuiltradio.com][offline][Freeform]
 https://s3.radio.co/s27cf5b4e2/listen
+#EXTINF:-0,EH-FM [Edinburgh Scotland][ehfm.live][Freeform]
+https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-0,Foundation FM [London England][foundation.fm]
 https://streamer.radio.co/s0628bdd53/listen
 #EXTINF:-0,GayDio Manchester [gaydio.co.uk][mp3 128k]
@@ -314,7 +316,7 @@ http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
 https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
 #EXTINF:-0,Hits Radio Manchester [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/key.mp3
-#EXTINF:-0,Hoxton Radio [London England][hoxtonradio.com][online-only][**]
+#EXTINF:-0,Hoxton Radio [London England][hoxtonradio.com][Freeform]
 http://99.198.118.250:8014/stream
 #EXTINF:-0,Jamboradio [Glasgow][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
@@ -328,15 +330,17 @@ https://likeradiostream.com/likeoneuk
 https://ukwesta.streaming.broadcast.radio/lomondradio
 #EXTINF:-0,Love 80's Manchester [love80sradio.co.uk][mp3 128k]
 http://stream1.themediasite.co.uk:8038/stream
-#EXTINF:-0,NARR RADIO [Leeds England][narr.co.uk][online-only][**]
+#EXTINF:-0,NARR RADIO [Leeds England][narr.co.uk][Freeform]
 https://s4.radio.co/s695e0d95b/listen
 #EXTINF:-0,National Radio Scotland [nationplayer.com/nation-radio-scotland][mp3 128k]
 http://listen-nation.sharp-stream.com/nationscotland.mp3
-#EXTINF:-0,Netil Radio [London England][netilradio.com][online-only][**]
+#EXTINF:-0,Netil Radio [London England][netilradio.com][Freeform]
 https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/london.json?slug=london
-#EXTINF:-0,NTS 1 [London England][nts.live][online-only][**]
+#EXTINF:-0,Noods [Bristol England][noodsradio.com][nts.live][Freeform]
+https://noodsradio.out.airtime.pro/noodsradio_a
+#EXTINF:-0,NTS 1 [London England][nts.live][Freeform]
 https://stream-relay-geo.ntslive.net/stream/64.aac
-#EXTINF:-0,NTS 2[LA] [London England][nts.live][online-only][**]
+#EXTINF:-0,NTS 2[LA] [London England][nts.live][Freeform]
 https://stream-relay-geo.ntslive.net/stream2/64.aac
 #EXTINF:-0,PIE Radio Manchester [pieradio.co.uk][mp3 256k]
 http://playoutonestreaming.com:8097/stream
@@ -364,7 +368,7 @@ http://sc8.radiocaroline.net:8040/;
 http://78.129.202.200:8040/;
 #EXTINF:-0,Radio Caroline Flashback [Rock][Pirate Radio][www.radiocaroline.co.uk][mp3 128k]
 http://sc2.radiocaroline.net:10558/listen.pls
-#EXTINF:-0,Radiophrenia [Glasgow Scotland][soundcloud.com/radiophrenia][not live - eps on soundcloud][online-only][**]
+#EXTINF:-0,Radiophrenia [Glasgow Scotland][soundcloud.com/radiophrenia][not live - eps on soundcloud][Freeform]
 http://no.stream
 #EXTINF:-0,Radio X [Alt][radiox.co.uk][mp3 128k]
 http://ice-sov.musicradio.com/RadioXUKMP3
@@ -374,15 +378,17 @@ https://ice-sov.musicradio.com/RadioXUKHD
 https://ice-sov.musicradio.com/RadioXLondonHD
 #EXTINF:-0,Radio X [Alt][Manchester][radiox.co.uk][aac 192k]
 http://ice-sov.musicradio.com/RadioXManchesterHD
-#EXTINF:-0,Reform Radio [Manchester England][reformradio.co.uk/projects][online-only][**]
+#EXTINF:-0,Reform Radio [Manchester England][reformradio.co.uk/projects][Freeform]
 https://icecasting.reformradio.space/high.mp3
-#EXTINF:-0,Resonance Extra [London England][extra.resonance.fm][online-only][**]
+#EXTINF:-0,Reprezent [London England][reprezentradio.org.uk][Freeform]
+https://radio.canstream.co.uk:8022/live.mp3
+#EXTINF:-0,Resonance Extra [London England][extra.resonance.fm][Freeform]
 https://stream.resonance.fm/resonance-extra
-#EXTINF:-0,Resonance FM [London England][resonancefm.com][online-only][**]
+#EXTINF:-0,Resonance FM [London England][resonancefm.com][Freeform]
 https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/london.json?slug=london
-#EXTINF:-0,Rinse FM [London England][rinse.fm][online-only][**]
+#EXTINF:-0,Rinse FM [London England][rinse.fm][Freeform]
 https://streamer-uk.rinse.fm:8443/stream
-#EXTINF:-0,Sister Midnight FM [London England][sistermidnight.org][online-only][**]
+#EXTINF:-0,Sister Midnight FM [London England][sistermidnight.org][Freeform]
 https://stream.radio.co/s35e4926a1/listen
 #EXTINF:-0,Slack City Manchester [Alternative][slackcity.org.uk][mp3 192k]
 https://tx.sharp-stream.com/http_live.php?i=slackcity.mp3
@@ -394,6 +400,8 @@ http://radio.talkradio.co.uk/stream
 http://timesradio.wireless.radio/stream-mobile
 #EXTINF:-0,The Times Radio London [mp3 128k]
 http://timesradio.wireless.radio/stream
+#EXTINF:-0,Threads Radio [London England][threadsradio.com][Freeform]
+https://threads.out.airtime.pro/threads_b
 #EXTINF:-0,Virgin Radio [mp3 128k]
 http://radio.virginradio.co.uk/stream
 #EXTINF:-0,Wythenshawe FM [Community][www.wfmradio.org][mp3 96k]
