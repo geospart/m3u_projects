@@ -5,7 +5,9 @@
 # created 08/20/2024
 # https://docs.fileformat.com/audio/m3u/
 # https://en.wikipedia.org/wiki/Category:Freeform_radio_stations
-# https://www.freeformradio.directorynn [**]
+#***********************************************************
+# https://www.freeformradio.directory [**]
+#***********************************************************
 # https://www.radicalradio.media
 # https://streamingradioguide.com/
 # https://www.radiolineup.com/
@@ -15,8 +17,20 @@
 #************************************************************************
 #PLAYLIST:-0,Freeform Radio Stations
 #EXTGRP:-Main List
-#EXTINF:-0,Crescent City Radio [New Orleans LA][crescentcityradio.com][offline]
-http://offline.now
+#EXTINF:-0,Ajajajaneeneenee [Amsterdam Netherlands][jajajaneeneenee.com][No Stream just podcast style shows]
+http://no.stream
+#EXTINF:-0,Balamii [London England][balamii.com][online-only][**]
+https://balamii.out.airtime.pro/balamii_a
+#EXTINF:-0,Black Rhino Radio [Bucharest	Romania][blackrhinoradio.com][online-only][**]
+https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
+#EXTINF:-0,Foundation FM [London England][foundation.fm]
+https://streamer.radio.co/s0628bdd53/listen
+#EXTINF:-0,Fritto FM [Milan Italy][fritto.fm][online-only][**]
+https://frittofm2020.out.airtime.pro/frittofm2020_a
+#EXTINF:-0,Hoxton Radio [London England][hoxtonradio.com][online-only][**]
+http://99.198.118.250:8014/stream
+#EXTINF:-0,IDA Raadio [Tallinn Estonia][idaidaida.net][online-only][**]
+https://streams.radio.co/s053b51423/listen
 #EXTINF:-0,KALX 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k]
 https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
 #EXTINF:-0,KANM Texas A&M [kanm.tamu.edu][mp3 192k]
@@ -35,6 +49,8 @@ http://centova.rockhost.com:8001/stream
 http://lostcoast.streamguys.us/khum-hi
 #EXTINF:-0,KHUM 104.7 [Cutten CA][khum.com]
 http://lostcoast.streamguys.us/
+#EXTINF:-0,Kiosk Radio [Brussels Belgium][kioskradio.com]
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
 #EXTINF:-0,KLBE-LP 100.7 [New Song Church/Christian][Bismark ND][clubradiolive.com]
 https://ais-sa1.streamon.fm/7058_24k.aac
 #EXTINF:-0,KNMR University of Missouri-Rolla [Rolla MO][kmnr.org]
@@ -63,17 +79,50 @@ https://kzsu-streams.stanford.edu/kzsu-1-128.mp3
 https://kzsu-streams.stanford.edu/kzsu-2-128.mp3
 #EXTINF:-0,KZSU 90.1 Stanford University [Stanford CA][mp3 128k]
 https://kzsu-streams.stanford.edu/kzsu-3-128.mp3
+#EXTINF:-0,Lower Grand Radio [San Francisco CA][lowergrandradio.com][online-only][**]
+https://lowergrandradio.out.airtime.pro:8000/lowergrandradio_a
+#EXTINF:-0,Mushroom Radio [The Hague Netherlands][radiomushroom.org][online-only][**]
+https://radio.goodtimesbadtimes.club/radio/8020/radio.mp3
+#EXTINF:-0,NTS 1 [London England][nts.live][online-only][**]
+https://stream-relay-geo.ntslive.net/stream/64.aac
+#EXTINF:-0,NTS 2 [LA] [London England][nts.live][online-only][**]
+https://stream-relay-geo.ntslive.net/stream2/64.aac
+#EXTINF:-0,Open Lab 106.4 FM [Ibiza Spain][openlab.fm][**]
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-0,Particle FM [San Diego CA][particle.fm][online-only][**]
+https://azuracast.particle.fm/radio/8000/radio.mp3
+#EXTINF:-0, Radio 80000 [Munich Germany][radio80k.de][online-only][**]
+https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-0,Radio Banda Larga [Turin Italy][rbl.media][online-only][**]
+https://rblmedia.out.airtime.pro/rblmedia_a
+#EXTINF:-0,Radio Centraal [Antwerp Belgium][radiocentraal.be][offline]
+https://streams.movemedia.eu:8530/
+#***********************************************************
+#EXTINF:-0,Radio Relativa [Madrid Spain][online-only][**]
+https://streamer.radio.co/sd6131729c/listen
+#***********************************************************
 #EXTINF:-0,RFB Radio Free Brooklyn [RFB Live Stream][radiofreebrooklyn.org]
 http://192.111.140.6:9300/stream
-#EXTINF:-0,RFB2 Radio Free Brooklyn [Local Chords][radiofreebrooklyn.org]
+#EXTINF:-0,RFB2 Radio Free Brooklyn [Local Chords][radiofreebrooklyn.org][online-only][**]
 http://192.111.140.6:9300/stream
-http://159.203.70.187:9736/stream
+#EXTINF:-0,Rinse FM [London England][rinse.fm][online-only][**]
+https://streamer-uk.rinse.fm:8443/stream
+#EXTINF:-0,Rinse France [Paris France][rinse.fm/channels/france/]
+https://radio10.pro-fhi.net/flux-trmqtiat/stream
+#EXTINF:-0,Seyðisfjörður Community Radio 107.1 [Seyðisfjörður Iceland][seydisfjordurcommunityradio.net][**]
+http://mixlr.com/seydisfjordur-community-radio
+#EXTINF:-0,Shared Frequencies [Austin TX][sharedfrequencies.live][online-only][**]
+https://sharedfrequencies.out.airtime.pro/sharedfrequencies_a
+#EXTINF:-0,Sister Midnight FM [London U.K.][sistermidnight.org][online-only][**]
+https://stream.radio.co/s35e4926a1/listen
 #EXTINF:-0,Stranded FM [Utrecht Netherlands][stranded.fm][offline][**]
 http://offline.now
 #EXTINF:-0,SOHO Radio [London U.K.][sohoradiolondon.com][online-only][**]
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 #EXTINF:-0,Subcity Radio Glasgow University [Glasgow U.K.][subcity.org]
 https://stream.subcity.org/listen
+#EXTINF:-0,THF Radio [Berlin Germany][thfradio.de][online-only][**]
+https://thfradio2.out.airtime.pro/thfradio2_b
 #EXTINF:-0,WBAR Bernard College [NYC NY][wbar.org]
 http://160.39.103.190:8000/stream
 #EXTINF:-0,WCBN 88.3 University of Michigan [ANN ARBOR MI]
