@@ -1743,6 +1743,8 @@ http://167.88.241.163:8000/listen1
 https://wprb.streamguys1.com/live
 #EXTINF:-0,WPRK 91.5 Rollins College [Winter Park FL][wprk.org][Freeform]
 https://wprk.broadcasttool.stream:80/stream
+#EXTINF:-0,WPSE 1450/107.1 Money Radio / Penn State [Erie PA][wpse.bd.psu.edu]
+https://radio.bd.psu.edu:8501/wpse
 #EXTINF:-0,WPSU 91.5 Penn State [News][University Park][NPR/College][wpsu.org]
 http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
 #EXTINF:-0,WPSU 91.5 Penn State [Classical][University Park][NPR/College][wpsu.org]
