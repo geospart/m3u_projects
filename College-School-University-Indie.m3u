@@ -1643,9 +1643,9 @@ http://real.monmouth.edu:8080/stream1
 http://wmeb-stream.maine.edu:8000/wmeb
 #EXTINF:-0,WMEX 1510 [Quincy MA][wmexboston.com]
 https://streaming.proradiosolutions.com:8004/wmex
-#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][256k][Freeform]
+#EXTINF:-0,WMFO 91.5 Tufts University [Medford MA][wmfo.org][256k][Freeform]
 https://www.wmfo.org/popout_player.php?bitrate=256
-#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][56k][Freeform]
+#EXTINF:-0,WMFO 91.5 Tufts University [Medford MA][wmfo.org][56k][Freeform]
 https://www.wmfo.org/popout_player.php?bitrate=56
 #EXTINF:-0,WMNF-HD1 88.5 Community Radio [Tampa FL][wmnf.org]
 https://stream.wmnf.org:4443/wmnf_high_quality
@@ -2431,6 +2431,8 @@ https://player.amperwave.net/4398
 http://66.135.55.19:7800/stream
 #EXTINF:-0,KEXP 90.3 Seattle Community Radio [Seattle WA][kexp.org][mp3 128k]
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-0,KFFP-LP/KFFD-LP 90.3/98.3 Freeform Portland [freeformportland.org]
+http://listen.freeformportland.org:8000/stream
 #EXTINF:-0,KFJC 89.7 Foothill College [Los Altos Hills][mp3 128k]
 https://netcast.kfjc.org/kfjc-128k-mp3
 #EXTINF:-0,KFJM 90.7-HD1 University of North Dakota [KCDN][Grand Forks ND][prairiepublic.org]
