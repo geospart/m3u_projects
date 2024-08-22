@@ -82,6 +82,8 @@ https://aggieradio.creek.stream/stream
 https://kchungradio.out.airtime.pro/kchungradio_a
 #EXTINF:-0,KDVS 90.3 University of California [Davis CA][kdvs.org][aac 130k]
 https://archives.kdvs.org/stream
+#EXTINF:-0,KFFP-LP/KFFD-LP 90.3/98.3 Freeform Portland [freeformportland.org]
+http://listen.freeformportland.org:8000/stream
 #EXTINF:-0,KFJC 89.7 Foothill College [Los Altos Hills][mp3 128k][Freeform]
 https://netcast.kfjc.org/kfjc-128k-mp3
 #EXTINF:-0,KHUH-LP 104.9 Hallow Earth Radio [Seattle WA][hollowearthradio.org]
@@ -297,9 +299,9 @@ https://audio.wavefarm.org/wgxc.mp3
 http://stream.whrwfm.org/hi
 #EXTINF:-0,WLRA 88.1 Lewis University [Lockport IL][wlraradio.com]
 http://199.245.229.210:8000/128
-#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][256k]
+#EXTINF:-0,WMFO 91.5 Tufts University [Medford MA][wmfo.org][256k][Freeform]
 https://www.wmfo.org/popout_player.php?bitrate=256
-#EXTINF:-0,WMFU 91.5 Tufts University [Medford MA][wmfo.org][56k]
+#EXTINF:-0,WMFO 91.5 Tufts University [Medford MA][wmfo.org][56k][Freeform]
 https://www.wmfo.org/popout_player.php?bitrate=56
 #EXTINF:-0,WNJR 91.7 W & J College [Washington PA][wnjr.org]
 https://s2.radio.co/s27c8d8fad/listen
@@ -313,6 +315,10 @@ http://stream.wrct.org:8000/wrct-hi.mp3
 https://wrfl.fm:8002/stream/1
 #EXTINF:-0,WSHE 820 The Gamut [Frederick Maryland][live.gamut.fm/listen/]
 https://24443.live.streamtheworld.com/WWFDAM.mp3
+#EXTINF:-0,WSKR 95.5 UNF [Jacksonville FL][spinnakerradio.com]
+http://208.73.20.10:8000/mp3
+#EXTINF:-0,WSKR 95.5 UNF [Jacksonville FL][spinnakerradio.com]
+https://listen.spinnakerradio.com/mp3
 #EXTINF:-0,WSUM 91.7 University of Wisconsin-Madison [Madison WI]
 https://ice23.securenetsystems.net/WSUMFM
 #EXTINF:-0,WUAG 103.1 University of North Carolina at Greensboro [Greensboro NC][wuag.uncg.edu]
