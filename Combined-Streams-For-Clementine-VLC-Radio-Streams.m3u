@@ -2700,8 +2700,7 @@ https://stream.resonance.fm/resonance
 #EXTINF:0, - Resonance Extra 🇬🇧 [London England][extra.resonance.fm][Freeform]
 https://stream.resonance.fm/resonance-extra
 #EXTINF:0, - Resonance FM 🇬🇧 [London England][resonancefm.com][Freeform]
-https://www.freeformradio.directory/_next/data/y2my9AKVC8sF2-7KbuFZR/cities/london.json?slug=london
-#EXTINF:0, - Retreat Radio [Malmö Sweden][retreatradio.net][Freeform]
+https://stream.resonance.fm/resonance#EXTINF:0, - Retreat Radio [Malmö Sweden][retreatradio.net][Freeform]
 https://retreatradio.out.airtime.pro/retreatradio_b
 #EXTINF:0, - RFB2 Radio Free Brooklyn 🇺🇸 [Local Chords][radiofreebrooklyn.org][Freeform]
 http://192.111.140.6:9300/stream
