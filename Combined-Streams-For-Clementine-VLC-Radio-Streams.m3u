@@ -7,6 +7,7 @@
 # ✅🕵🕶🦃🧕📻🎙️📶🐞💻
 # https://unicode.org/emoji/charts/full-emoji-list.html
 # https://emojipedia.org/
+# https://github.com/geospart
 #************************************************************************
 #************************************************************************
 #EXTINF:0, - *The BugCast 🇬🇧 🐞 [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
@@ -363,6 +364,8 @@ https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
 https://live-radio01.mediahubaustralia.com/RAMW/mp3/
 #EXTINF:0, - ABC 🇦🇺Radio News [abc.net.au/southwestwa/live][mp3]
 https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
+#EXTINF:0, - ABC 🇦🇺 Radio Australia - Pacific [abc.net.au/pacific/live]
+https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
 #EXTINF:0, - ABC 🇦🇺Sunshine Coast [4SUNW]
 https://live-radio03.mediahubaustralia.com/4SUNW/mp3/
 #EXTINF:0, - ABC 🇦🇺Triple J [NSW-ACT-VIC-TAS]
@@ -783,14 +786,14 @@ http://no.stream
 http://bx01.junkes.it/flac
 #EXTINF:0, - Brooklyn Radio 🇺🇸 [New York City][brooklynradio.com][Offline Episodes On Site]
 https://stream78.hearthis.at/index.php?track=brooklynradio/mtr-episode32&secret=cRbx7
-#EXTINF:0, - C9 🇫🇷 [www.c9.fr][FLAC]
+#EXTINF:0, - C9 🇫🇷 [www.c9.fr][FLAC/OGG]
 https://stream.c9.fr/c9radio-flac.ogg.m3u
-#EXTINF:0, - c9 🇫🇷 radio-192.mp3
-/home/geospart/Github/m3u_projects-main/MP3 192kbps: http://stream.c9.fr/c9radio-192.mp3.m3u
-#EXTINF:0, - c9 🇫🇷 radio-32.m4a
-/home/geospart/Github/m3u_projects-main/AAC-HE v2 32kbps: http://stream.c9.fr/c9radio-32.m4a.m3u
+#EXTINF:0, -C9 🇫🇷 [www.c9.fr][MP3 192k]
+http://stream.c9.fr/c9radio-192.mp3.m3u
+#EXTINF:0, - C9 🇫🇷 [www.c9.fr][M4A]
+http://stream.c9.fr/c9radio-32.m4a.m3u
 #EXTINF:0, - c9  🇫🇷 radio-88.m4a
-/home/geospart/Github/m3u_projects-main/AAC-HE 88kbps: http://stream.c9.fr/c9radio-88.m4a.m3u
+http://stream.c9.fr/c9radio-88.m4a.m3u
 #EXTINF:0, - Calamar Rradio 🇨🇱 [calamarrradio.org]
 http://www.calamarrradio.org:8000/stream
 #EXTINF:0, - Calon FM 🇬🇧 105 [calon.fm][AAC 320k]
@@ -1139,7 +1142,7 @@ https://radio.eduneu.ar:8020/radio3
 https://radio.eduneu.ar:8030/transmision.mp3
 #EXTINF:0, - EOS Radio 🇩🇪 [Frankfurt Germany][eosradio.de][Freeform]
 https://s5.radio.co/s21c5fbf27/listen?i1621002467060
-#EXTINF:0,Radiophrenia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][soundcloud.com/radiophrenia][not live - eps on soundcloud][Freeform]
+#EXTINF:0,Radiophrenia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][soundcloud.com/radiophrenia][not-live-eps-on-soundcloud][Freeform]
 http://no.stream
 #EXTINF:0, - Eye Radio 🇫🇷 [France][www.eyeradio.org][🕵🕶Eritrea📻]
 https://media.streambrothers.com:8000/stream
@@ -2523,8 +2526,6 @@ https://p6.p4groupaudio.com/P06_MM
 https://p8.p4groupaudio.com/P08_MM
 #EXTINF:0, - P9 🇳🇴 Retro [Oslo, Norway][Oldies][p9retro.no]
 https://p9.p4groupaudio.com/P09_MM
-#EXTINF:0,ABC Radio Australia - Pacific [abc.net.au/pacific/live][Aussie]
-https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
 #EXTINF:0, - Palanga Street Radio 🇱🇹 [Vilnius Lithuania][palanga.live][Freeform]
 https://stream.palanga.live:8443/palanga128.mp3
 #EXTINF:0, - Particle FM 🇺🇸 [San Diego CA][particle.fm][Freeform]
@@ -2700,11 +2701,12 @@ https://stream.resonance.fm/resonance
 #EXTINF:0, - Resonance Extra 🇬🇧 [London England][extra.resonance.fm][Freeform]
 https://stream.resonance.fm/resonance-extra
 #EXTINF:0, - Resonance FM 🇬🇧 [London England][resonancefm.com][Freeform]
-https://stream.resonance.fm/resonance#EXTINF:0, - Retreat Radio [Malmö Sweden][retreatradio.net][Freeform]
+https://stream.resonance.fm/resonance
+#EXTINF:0, - Retreat Radio [Malmö Sweden][retreatradio.net][Freeform]
 https://retreatradio.out.airtime.pro/retreatradio_b
 #EXTINF:0, - RFB2 Radio Free Brooklyn 🇺🇸 [Local Chords][radiofreebrooklyn.org][Freeform]
 http://192.111.140.6:9300/stream
-#EXTINF:0, - RUV - Ríkisútvarpið Iceland 🇮🇸 [www.ruv.is][✖2007💀SW📻][💻 Only][On Demand-ruv.is/english]
+#EXTINF:0, - RUV-Ríkisútvarpið Iceland 🇮🇸 [www.ruv.is][✖2007💀SW📻][💻 Only][On Demand-ruv.is/english]
 http://no.stream
 #EXTINF:0, - Rinse FM 🇬🇧 [London England][rinse.fm][Freeform]
 https://streamer-uk.rinse.fm:8443/stream
