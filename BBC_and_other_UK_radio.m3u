@@ -8,6 +8,7 @@
 # BBC and some other U.K. stations I listen to. 
 # Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 # created 06/24/2024
+# https://github.com/geospart
 #EXTINF:-0,BBC World Service [U.K.][bbc.co.uk][☑2024][sw][aac-56k]
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
 #EXTINF:-0,BBC World Service [U.K.][bbc.co.uk][☑2024][sw][aac-56k]
