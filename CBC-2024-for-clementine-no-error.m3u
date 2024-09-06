@@ -7,6 +7,7 @@
 # Edited from https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # to work better in apps like Clementine and SMPlayer
 # created 06/28/2024
+# https://github.com/geospart
 #PLAYLIST:CBC Radio Streams
 #EXTINF:0,CBC Music [Atlantic]
 https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
