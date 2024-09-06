@@ -9,6 +9,7 @@
 # Edited from https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # to work better in apps like Clementine and SMPlayer
 # created 06/28/2024
+# https://github.com/geospart
 # https://www.cbc.ca/liveradio/snippets/menuAllStreams.html
 #EXTINF:-0,CBH-FM [CBC Radio 2] Music [Atlantic][mp3-128k]
 http://26283.live.streamtheworld.com:80/CBH_CBC_SC
