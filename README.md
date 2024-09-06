@@ -7,6 +7,8 @@ ABC-2024.m3u [Australian Radio Streams]
 
 BBC_and_other_UK_radio.m3u [British Radio Streams]
 
+Bloomberg_Radio.m3u
+
 CBC-2024.m3u [Canadian Radio Streams]-Deleted
 
 CBC-2024-for-clementine-no-error.m3u
@@ -14,6 +16,8 @@ CBC-2024-for-clementine-no-error.m3u
 CBC-and-other-Canadian_stations.m3u
 
 College-School-University-Indie.m3u
+
+Freefrom_Radio.m3u
 
 Norway-Sweden_2024.m3u [Norwegian and Swedish Radio Streams]
 
