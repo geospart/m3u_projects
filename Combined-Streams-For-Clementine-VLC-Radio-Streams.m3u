@@ -8,12 +8,23 @@
 # https://unicode.org/emoji/charts/full-emoji-list.html
 # https://emojipedia.org/
 # https://github.com/geospart
+# updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
 #************************************************************************
 #************************************************************************
 #EXTINF:0, - *The BugCast 🇬🇧 🐞 [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
 http://stream.otherside.network:8904/listen.mp3
 #EXTINF:0, - 1A12 🇦🇺 87.8 University of Canberra [ucfm.com.au]
 https://www.radioking.com/play/ucfm/631505
+#EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 128k][💻🎧🕵️-New]
+https://fr3.1mix.co.uk:8060/128
+#EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 192k][💻🎧🕵️-New]
+https://fr3.1mix.co.uk:8000/192
+#EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 256k][💻🎧🕵️-New]
+https://fr3.1mix.co.uk:8060/256
+#EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 320k][💻🎧🕵️-New]
+https://fr3.1mix.co.uk:8060/;
+#EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 320k][💻🎧🕵️-New]
+http://fr1.1mix.co.uk:8060/320b
 #EXTINF:0, - 20ft Radio [Kiev Ukraine][20ftradio.net][Freeform]
 https://c18.radioboss.fm:18146/stream
 #EXTINF:0, - 2MBS 🇦🇺 Fine Music [Sydney][2mbsfinemusicsydney.com]
@@ -706,6 +717,8 @@ https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/a
 https://n10.rcs.revma.com:443/3d6v2ut171zuv
 #EXTINF:0, - Belfield FM 🇮🇪 University College Dublin [belfieldfm.com][On Demand][offline]
 http://media.heanet.ie/player/live/73b725db6e62550832232116ac7202e8
+#EXTINF:0, - Belter Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][belter-radio.com][mp3 64k][💻🎧🕵️-New]
+https://uk2.internet-radio.com/proxy/belters?mp=/live
 #EXTINF:0, - BesideFM 🇷🇺 [Russia][Rock][AAC 320k]
 http://5.128.138.8:8000/aac
 #EXTINF:0, - BesideFM 🇷🇺 [Russia][Rock][FLAC]
@@ -812,12 +825,32 @@ https://ice-sov.musicradio.com/CapitalDanceHD
 http://ice-sov.musicradio.com/CapitalDanceMP3
 #EXTINF:0, - Capital Radio 🇬🇧 [U.K.][capitalfm.com/digital/][aac 48k]
 http://vis.media-ice.musicradio.com/CapitalUK
-#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow [U.K.][capitalfm.com/digital/][mp3 128k]
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland] [U.K.][capitalfm.com/digital/][mp3 48k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalEdinburgh
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland] [U.K.][capitalfm.com/digital/][mp3 128k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalEdinburghMP3
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland] [U.K.][capitalfm.com/digital/][mp3 192k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalEdinburghHD
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][capitalfm.com/digital/][mp3 48k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalGlasgow 
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][capitalfm.com/digital/][mp3 128k]
 https://icecast.thisisdax.com/CapitalGlasgowMP3
+#EXTINF:0, - Capital Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][capitalfm.com/digital/][mp3 192k]
+https://ice-sov.musicradio.com/CapitalGlasgowHD
+#EXTINF:0, - Capital Radio 🇬🇧 London 95.8 [U.K.][capitalfm.com/digital/][mp3 48k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/Capital
+#EXTINF:0, - Capital Radio 🇬🇧 London 95.8 [U.K.][capitalfm.com/digital/][mp3 128k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalMP3
+#EXTINF:0, - Capital Radio 🇬🇧 London 95.8 [U.K.][capitalfm.com/digital/][mp3 192k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalHD
 #EXTINF:0, - Capital Radio 🇬🇧 London 95.8 [U.K.][capitalfm.com/digital/][mp3 128k]
 http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:0, - Capital Radio 🇬🇧 Manchester [U.K.][capitalfm.com/digital/][mp3 48k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalManchester
 #EXTINF:0, - Capital Radio 🇬🇧 Manchester [U.K.][capitalfm.com/digital/][mp3 128k]
 https://icecast.thisisdax.com/CapitalManchesterMP3
+#EXTINF:0, - Capital Radio 🇬🇧 Manchester [U.K.][capitalfm.com/digital/][mp3 192k][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/CapitalManchesterHD
 #EXTINF:0, - Capital Radio 🇬🇧 Smooth Chill [U.K.][capitalfm.com/digital/][mp3 128k]
 http://media-ice.musicradio.com/ChillMP3.m3u
 #EXTINF:0, - Capital XTra 🇬🇧 [London][capitalxtra.com][128k]
@@ -834,6 +867,8 @@ https://ice-sov.musicradio.com/CapitalXTRANationalHD
 https://ice-sov.musicradio.com/CapitalXTRANational
 #EXTINF:0, - Cashmere Radio 🇩🇪 [Berlin Germany][cashmereradio.com][Freeform]
 https://cashmereradio.out.airtime.pro/cashmereradio_a
+#EXTINF:0, - Castle FM 98.8 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][https://scotlandscastle.co.uk/sp2511][mp3 320k][💻🎧🕵️-New]
+https://s7.myradiostream.com:10126/;
 #EXTINF:0, - Castleton Radio Castleton University 🇺🇸 [Castleton VT][offline]
 http://155.42.161.60:8000/listen
 #EXTINF:0, - CBC 🇨🇦 Music [Atlantic]
@@ -920,10 +955,14 @@ https://cbcradiolive.akamaized.net/hls/live/2041053/ES_R1SRE/master.m3u8
 https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/master.m3u8
 #EXTINF:0, - CBC 🇨🇦 Radio 1 [YT/Whitehorse]
 https://cbcradiolive.akamaized.net/hls/live/2041052/ES_R1PWH/master.m3u8
-#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow][celticmusicradio.net][alt][mp3 128k]
+#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow Scotland][celticmusicradio.net][alt][mp3 128k]
 https://streaming.broadcastradio.com:11130/celtic
-#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow][celticmusicradio.net][mp3 128k]
+#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow Scotland][celticmusicradio.net][mp3 128k]
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
+#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow Scotland][celticmusicradio.net][alt][mp3 128k/44][💻🎧🕵️-New]
+https://ukwesta.streaming.broadcast.radio/celtic
+#EXTINF:0, - Celtic Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 95.5FM [Glasgow Scotland][celticmusicradio.net][alt][mp3 128k/44][💻🎧🕵️-New]
+https://ukwesta.streaming.broadcast.radio/celtic
 #EXTINF:0, - CFAK 🇨🇦 88.3 Université de Sherbrooke [Sherbrooke QC][cfak.ca]
 https://audio-edge-es6pf.mia.g.radiomast.io/a372c74f-6c78-48b9-9933-81a8fc50b54a
 #EXTINF:0, - CFBU 🇨🇦 103.7 Brock University [St Catharines ON][cfbu.ca]
@@ -1040,12 +1079,72 @@ https://stream2.statsradio.com:8150/stream
 https://5amigos.streamb.live/SB00354
 #EXTINF:0, - CKXU 🇨🇦 88.3 University of Lethbridge [Lethbridge AB][ckxu.com]
 https://stream.ckxu.com/
-#EXTINF:0, - Clyde 1/50 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][hellorayo.co.uk/clyde/][mp3 112k]
+#EXTINF:0, - Clyde 1/50 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][hellorayo.co.uk/clyde/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
-#EXTINF:0, - Clyde Built Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][clydebuiltradio.com][offline]
+#EXTINF:0, - Clyde 1/50 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][hellorayo.co.uk/clyde/][mp3 112k][💻🎧🕵️-New]
+https://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
+#EXTINF:0, - Clyde 2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][hellorayo.co.uk/clyde/][mp3 112k][💻🎧🕵️-New]
+https://stream-al.planetradio.co.uk/clyde2.mp3
+#EXTINF:0, - Clyde Built Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][clydebuiltradio.com][offline]
 https://s3.radio.co/s27cf5b4e2/listen
-#EXTINF:0, - Clyde Built Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][clydebuiltradio.com][offline][Freeform]
+#EXTINF:0, - Clyde Built Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][clydebuiltradio.com][offline][Freeform]
 https://s3.radio.co/s27cf5b4e2/listen
+#EXTINF:0, - Concertzender-Barok  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/barok
+#EXTINF:0, - Concertzender-Concert  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/liveconcert
+#EXTINF:0, - Concertzender-Crosslinks  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/pop
+#EXTINF:0, - Concertzender-De Gehoorde Stilte 🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/gehoordestilte
+#EXTINF:0, - Concertzender-De Muzikant 🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/amateurmuziek
+#EXTINF:0, - Concertzender-Filmmuziek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/film
+#EXTINF:0, - Concertzender-Folk it  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/folkit
+#EXTINF:0, - Concertzender-Geen dag Zonder Bach  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/bach
+#EXTINF:0, - Concertzender-Gregoriaans  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/gregoriaans
+#EXTINF:0, - Concertzender-Hard Bop  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/hardbop
+#EXTINF:0, - Concertzender-Jazz  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/jazz
+#EXTINF:0, - Concertzender-Jazznotjazz  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/jazznotjazz
+#EXTINF:0, - Concertzender-Nieuwe Muziek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/nieuwemuziek
+#EXTINF:0, - Concertzender-November Music  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 128k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/novembermusic
+#EXTINF:0, - Concertzender-Opera in de e Eeuw  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/opera
+#EXTINF:0, - Concertzender-Oriënt Express  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/orientexpress
+#EXTINF:0, - Concertzender-Oude Muziek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/oudemuziek
+#EXTINF:0, - Concertzender-Raakvlakken  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/raakvlakken
+#EXTINF:0, - Concertzender-Radiophonics  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/radiophonics
+#EXTINF:0, - Concertzender-Solta a Franga  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 144k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/slotaafranga
+#EXTINF:0, - Concertzender-Utrecht Miziekstad  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/vredenburg 
+#EXTINF:0, - Concertzender-Wereldmuziek 🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/wereldmuziek 
+#EXTINF:0, - Concertzender-X-Rated  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/concertzenderlive
+#EXTINF:0, - Concertzender-Klassiek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/sb
+#EXTINF:0, - Concertzender-Klassiek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+http://streams.greenhost.nl:8080/dmm
+#EXTINF:0, - Concertzender-Klassiek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 256k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8006/live
+#EXTINF:0, - Concertzender-Klassiek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 144k][💻🎧🕵️-New]
+http://streams.greenhost.nl:8080/chanson
+#EXTINF:0, - Concertzender-Concertzender Klassieke Muziek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][💻🎧🕵️-New]
+https://streams.greenhost.nl:8080/klassiek 
 #EXTINF:0, - COOG 🇺🇸 Radio Univerity of Houston [Houston TX][aac 56k]
 https://coogradio2.es.uh.edu/coogradio
 #EXTINF:0, - CRI轻松调频 🇨🇳 [https://chinaplus.cri.cn][China Radio International][SW📻]
@@ -1124,14 +1223,18 @@ https://easyradio.bg/m3u/easyradio.bg-flac.m3u
 https://live.easyradio.bg/192?type=.mp3
 #EXTINF:0, - EasyRadio 🇧🇬 [Bulgaria][][MP3 192k][alt]
 https://easyradio.bg/m3u/easyradio.bg-192.m3u
+#EXTINF:0, - Edge Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][https://heartsonglive.co.uk/][mp3 128k][💻🎧🕵️-New]
+https://listen-edgeradio.sharp-stream.com/753_edge_radio_1_128_mp3
 #EXTINF:0, - EH-FM 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][ehfm.live][Freeform]
 https://ehfm.out.airtime.pro/ehfm_a
-#EXTINF:0, - Eirewave Radio 🇬🇧 [eirewave.co.uk][AAC 64k]
+#EXTINF:0, - Eirewave Radio 🇬🇧 [eirewave.co.uk][AAC 64k][💻🎧🕵️-New]
 https://stream.rcs.revma.com/z0mfskucweuvv
-#EXTINF:0, - Eirewave Radio 🇬🇧 [eirewave.co.uk][FLAC]
+#EXTINF:0, - Eirewave Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][eirewave.co.uk][FLAC][💻🎧🕵️-New]
 https://audio-edge-5bkfj.fra.h.radiomast.io/
-#EXTINF:0, - Eirewave Radio 🇬🇧 [eirewave.co.uk][MP3 128k]
+#EXTINF:0, - Eirewave Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][eirewave.co.uk][MP3 128k][💻🎧🕵️-New]
 https://stream.rcs.revma.com/f8z603t6g5uvv
+#EXTINF:0, - Eirewave Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][eirewave.co.uk][MP3 128k][💻🎧🕵️-New]
+https://eirewave.ice.infomaniak.ch/eirewave-128.mp3
 #EXTINF:0, - EduNeu Radio 1 🇦🇷 Electric Circus [Argentina][radio.eduneu.ar]
 https://radio.eduneu.ar:8000/radio1_aire
 #EXTINF:0, - EduNeu Radio 2 🇦🇷 LifeFM [Argentina][radio.eduneu.ar]
@@ -1142,7 +1245,7 @@ https://radio.eduneu.ar:8020/radio3
 https://radio.eduneu.ar:8030/transmision.mp3
 #EXTINF:0, - EOS Radio 🇩🇪 [Frankfurt Germany][eosradio.de][Freeform]
 https://s5.radio.co/s21c5fbf27/listen?i1621002467060
-#EXTINF:0,Radiophrenia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][soundcloud.com/radiophrenia][not-live-eps-on-soundcloud][Freeform]
+#EXTINF:0,Radiophrenia 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][soundcloud.com/radiophrenia][not-live-eps-on-soundcloud][Freeform]
 http://no.stream
 #EXTINF:0, - Eye Radio 🇫🇷 [France][www.eyeradio.org][🕵🕶Eritrea📻]
 https://media.streambrothers.com:8000/stream
@@ -1168,6 +1271,10 @@ https://audio-edge-es6pf.mia.g.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 http://stream.sweetfm.fr:8000/flac-forever-bdx
 #EXTINF:0, - ForEver La Radio 🇫🇷 [Bordeaux][https://www.foreverlaradio.fr/][MP3 256k]
 http://stream.sweetfm.fr:8000/secours-fm-forever-bdx.mp3
+#EXTINF:0, - Forth 1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][planetradio.co.uk/forth/][mp3 128k][💻🎧🕵️-New]
+https://edge-bauerall-01-gos2.sharp-stream.com/forth1.mp3
+#EXTINF:0, - Forth 2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][planetradio.co.uk/forth-2][aac 128k][💻🎧🕵️-New]
+https://stream-al.planetradio.co.uk/forth2.aac
 #EXTINF:0, - Foundation FM 🇬🇧 [London England][foundation.fm][Freeform]
 https://streamer.radio.co/s0628bdd53/listen
 #EXTINF:0, - Free Music Radio 🇳🇱 [freemusicradio.nl][AAC 160k]
@@ -1208,6 +1315,20 @@ https://half-moon.radiocult.fm/stream
 https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
 #EXTINF:0, - HCJB Quito Ecuador 🇪🇨 [hcjb.org][Only stream is of FM Radio][SW📻]
 https://streamingecuador.net:8287/hcjb
+#EXTINF:0, - Heart 100-101 Scotland [Edinburgh Scotland][heart.co.uk][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/HeartEdinburgh
+#EXTINF:0, - Heart 100-101 [Oxfordshire][heart.co.uk][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/HeartOxfordshire
+#EXTINF:0, - Heart 100-101 [Oxfordshire][heart.co.uk][💻🎧🕵️-New][HD]
+https://ice-sov.musicradio.com/HeartOxfordshireHD
+#EXTINF:0, - Heart 100-101 [Plymouth][heart.co.uk][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/HeartPlymouth
+#EXTINF:0, - Heart 100-101 Scotland [Glasgow Scotland][heart.co.uk/glasgow/][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/HeartGlasgow
+#EXTINF:0, - Heart 100-101 [London][heart.co.uk][💻🎧🕵️-New][HD]
+https://ice-sov.musicradio.com/HeartLondonMP3
+#EXTINF:0, - Heart 100-101 [London][heart.co.uk][💻🎧🕵️-New]
+https://ice-sov.musicradio.com/HeartLondon
 #EXTINF:0, - Hits Radio Manchester 🇬🇧 [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/key.mp3
 #EXTINF:0, - Hoxton Radio 🇬🇧 [London England][hoxtonradio.com][Freeform]
@@ -1292,7 +1413,7 @@ https://c11.radioboss.fm:18270/stream
 https://live4.presstv.ir/irib/irib8/playlist.m3u8
 #EXTINF:0, - Israel Radio International 🇮🇱 [🎬-Vid-HD]
 https://www.kan.org.il/live/radio.aspx?stationid=10
-#EXTINF:0, - Jamboradio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][talk][jamboradio.co.uk][mp3 192k]
+#EXTINF:0, - Jamboradio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 192k]
 https://danubiusradio.hu/danubius_192k.m3u
@@ -1576,6 +1697,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KETRFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KETR_HD2.mp3
 #EXTINF:0, - KETR-HD3 🇺🇸 88.9 Your Station [Radio Bilingue][Commerce TX][ketr.org]
 https://radio.radiobilingue.org/?uuid=a7cp2m50d
+#EXTINF:0, - KEUL 88.9 🇺🇸 Glacier City Radio/Legal Pirate Radio [Girdwood AK][glaciercity.us][mp3 192k][💻🎧🕵️-New]
+https://keul.broadcasttool.stream/play
 #EXTINF:0, - KEXP 🇺🇸 90.3 [Seattle WA][kexp.org]
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 #EXTINF:0, - KEXP 🇺🇸 90.3 Seattle Community Radio [Seattle WA][kexp.org][mp3 128k]
@@ -2416,7 +2539,7 @@ http://media-sov.musicradio.com/LBC973MP3Low
 https://play.radioking.io/lemellotron-stream
 #EXTINF:0, - Like ONE UK 🇬🇧 [Pop][media.info/radio/stations/like-one-uk][mp3 128k]
 https://likeradiostream.com/likeoneuk
-#EXTINF:0, - Lomond Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Local-Music][Glasgow][lomondradio.co.uk][mp3 128k]
+#EXTINF:0, - Lomond Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Local-Music][Glasgow Scotland][lomondradio.co.uk][mp3 128k]
 https://ukwesta.streaming.broadcast.radio/lomondradio
 #EXTINF:0, - Loose Antenna 🇨🇭 [Lausanne Switzerland][looseantenna.fm][Freeform]
 https://stream.looseantenna.fm/radio/8000/default.mp3
@@ -2442,8 +2565,22 @@ http://nthmost.net:8000/mutiny-studio
 https://n10as.out.airtime.pro/n10as_a
 #EXTINF:0, - NARR RADIO 🇬🇧 [Leeds England][narr.co.uk][Freeform]
 https://s4.radio.co/s695e0d95b/listen
+#EXTINF:0, - Nation Dance-Club Nation 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][nationplayer.com/nation-radio-uk][mp3 128k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/clubnation.mp3
+#EXTINF:0, - Nation Love 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][nationplayer.com/nation-radio-uk][mp3 128k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/lovenation.mp3
+#EXTINF:0, - Nation New 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][https://www.nationplayer.com/nation-new][mp3 128k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/nationparty-tunein.mp3
+#EXTINF:0, - Nation Party 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][nationplayer.com/nation-party][mp3 48k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/nationparty.aac
+#EXTINF:0, - Nation Rocks 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][nationplayer.com/nation-radio-uk][mp3 128k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/nationrocks.mp3
 #EXTINF:0, - National Radio Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [nationplayer.com/nation-radio-scotland][mp3 128k]
 http://listen-nation.sharp-stream.com/nationscotland.mp3
+#EXTINF:0, - National Radio Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [nationplayer.com/nation-radio-scotland][aac 48k][💻🎧🕵️-New]
+https://edge-ads-01-gos2.sharp-stream.com/nationscotlandi.aac
+#EXTINF:0, - National Radio Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [nationplayer.com/nation-radio-scotland][aac 48k][💻🎧🕵️-New]
+https://listen-nation.sharp-stream.com/nationscotlandi.aac
 #EXTINF:0, - Ness Radio 🇲🇦 [Marrakech Morocco][nessradio.com][offline]
 https://radio.nessradio.net:8000/nessradio.mp3
 #EXTINF:0, - Netil Radio 🇬🇧 [London England][netilradio.com][Freeform]
@@ -2574,7 +2711,7 @@ https://ia800304.us.archive.org/0/items/sraa-radio-berlin-international-final-ep
 https://c23.radioboss.fm:8129/stream
 #EXTINF:0, - Radio Budapest Hungary 🇭🇺 [www.radio.hu][✖][✖2015💀SW📻]
 https://ia601607.us.archive.org/27/items/sraa-radio-budapest-august-25-2009/Radio_Budapest_-_6150_-_20090825_011231GMT.mp3
-#EXTINF:0, - Radio Buena Vida 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow][buenavida.co.uk][Freeform]
+#EXTINF:0, - Radio Buena Vida 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][buenavida.co.uk][Freeform]
 https://s4.radio.co/s69b281ac0/listen
 #EXTINF:0, - Radio Bulgaria [https://bnr.bg/en][No Stream/Daily Upload @ bnr.bg/en/podcast-in-english/broadcast]
 https://bnr.bg/en/podcast-in-english/broadcast
@@ -2712,6 +2849,8 @@ http://no.stream
 https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:0, - Rinse France [Paris France][rinse.fm/channels/france/][Freeform]
 https://radio10.pro-fhi.net/flux-trmqtiat/stream
+#EXTINF:0, - RNIB Connect Radio FM101 [Europes first radio station for blind][rnib.org.uk/connect-radio][💻🎧🕵️-New][64k]
+https://n12.rcs.revma.com/yv4znr4xcg0uv?rj-ttl=5&rj-tok=AAABkqp11IgAxgHAeLX_j0UMyw
 #EXTINF:24, - RNZ Radio New Zealand 🇳🇿[Concert-Classical][www.rnz.co.nz/international][SW📻]
 https://radionz.streamguys1.com/concert/concert/playlist.m3u8
 #EXTINF:0, - RNZ Radio New Zealand 🇳🇿[National][www.rnz.co.nz/international][SW📻]
@@ -3104,6 +3243,10 @@ http://ice2.somafm.com/vaporwaves-64-aac
 http://ice6.somafm.com/vaporwaves-64-aac
 #EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#4): All Vaporwave. All the time.
 http://ice5.somafm.com/vaporwaves-64-aac
+#EXTINF:0, - Spanish Rock Shot 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][spanishrockshot.com][aac 128k][💻🎧🕵️-New]
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC062.aac
+#EXTINF:0, - Spanish Rock Shot 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][spanishrockshot.com][mp3 128k][💻🎧🕵️-New]
+https://samcloud.spacial.com/api/listen?sid=92328&rid=166716&f=mp3
 #EXTINF:0, - SR International 🇸🇪 Radio Sweden [sverigesradio.se][✖2010💀SW📻][[On Demand-sverigesradio.se/radiosweden]
 http://no.stream
 #EXTINF:0, - Stranded FM 🇳🇱 [Utrecht Netherlands][stranded.fm]
@@ -3112,6 +3255,8 @@ https://stream.stranded.fm/video_low.m3u8
 https://stream.subcity.org/listen
 #EXTINF:0, - Subcity Radio Glasgow University 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Glasgow U.K.][subcity.org][Freeform]
 https://stream.subcity.org/listen
+#EXTINF:0, - Sunny Govan Community Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Glasgow Scotland][sunnyg.org][320k][💻🎧🕵️-New]
+https://streaming06.liveboxstream.uk/proxy/gary1?mp=/;
 #EXTINF:0, - Sveriges Radio P1 🇸🇪 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-aac-192]
 https://http-live.sr.se/p1-aac-192
 #EXTINF:0, - Sveriges Radio P1 🇸🇪 [Stockholm Sweden][News Talk][https://sverigesradio.se/][p1-aac-32]
@@ -3162,6 +3307,8 @@ https://threads.out.airtime.pro/threads_b
 https://sounds.threedradio.com/stream
 #EXTINF:0, - Tīrkultūra 🇱🇻 [Riga Latvia][tirkultura.lv][Freeform]
 https://s3.radio.co/s216811754/listen
+#EXTINF:0, - TMN 🇺🇸 [Valdez AK][alaska.am][][💻🎧🕵️-New]
+https://s1.reliastream.com/proxy/iamalask/stream
 #EXTINF:0, - Topp 40 🇳🇴 [Oslo, Norway][Pop][https://radioplay.no/topp-40]
 https://live-bauerno.sharp-stream.com/top40_no_mp3
 #EXTINF:0, - Trance Plus 🇮🇪 [trancepulsefm.ie][AAC128k]
@@ -4002,6 +4149,18 @@ https://wojb.streamguys1.com/live
 https://womr.streamguys1.com/live
 #EXTINF:0, - WONC 🇺🇸 89.1 North Central College [Naperville IL][wonc.org]
 https://stream.revma.ihrhls.com/zc6201
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][96k][💻🎧🕵️-New]
+https://stream.probroadcast.dk/wmr
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][128k][💻🎧🕵️-New]
+http://media.wlmm.dk:8010/;
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][128k][💻🎧🕵️-New]
+http://stream.wlmm.dk:8010/wmr
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][mp3 160k][💻🎧🕵️-New]
+http://stream2.wlmm.dk:8010/wmrmp3
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][mp3 160k][💻🎧🕵️-New]
+http://media.wlmm.dk:8010/wmrmp3
+#EXTINF:0, - World Music Radio / WMR 🇩🇰 Copenhagen Denmark [wmr.dk][mp3 160k][💻🎧🕵️-New]
+http://stream.wlmm.dk:8010/wmrmp3
 #EXTINF:0, - World Radio Paris 🇫🇷 [worldradioparis.org][****][Paris France]
 https://wrp.stream.dicast.fr/wrp-128.mp3
 #EXTINF:0, - WORT 🇺🇸 89.9 Community Radio [Madison WI][wortfm.org]
