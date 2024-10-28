@@ -3379,11 +3379,11 @@ https://listen7.myradio24.com/69366
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1.mp3
 #EXTINF:0, - WABE-FM-HD2 🇺🇸 90.1 CLASSICAL [Atlanta GA][wabe.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD2_CLASSICAL.mp3
-#EXTINF:0, - WABE-FM-HD3 🇺🇸 90.1 NEWS  [Atlanta GA][wabe.org][mp3 64k][💻🎧🕵️-New]
+#EXTINF:0, - WABE-FM-HD3 🇺🇸 90.1 NEWS  [Atlanta GA][wabe.org][mp3 64k]
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD3_NEWS.mp3
-#EXTINF:0, - Walmart Radio 🇺🇸 90.1 NEWS  [US][walmartworld.com][mp3 64k][💻🎧🕵️-New]
+#EXTINF:0, - Walmart Radio 🇺🇸 90.1 NEWS  [Atlanta GA][walmartworld.com][mp3 64k]
 https://streams.radiomast.io/2ce0b08d-2fe6-42a1-b64a-9f0a682f5508
-#EXTINF:0, - Walmart Radio 🇺🇸 90.1 NEWS  [US][walmartworld.com][mp3 64k]
+#EXTINF:0, - Walmart Radio 🇺🇸 90.1 NEWS  [Atlanta GA][walmartworld.com][mp3 64k]
 https://audio-edge-qse4n.yyz.g.radiomast.io/2ce0b08d-2fe6-42a1-b64a-9f0a682f5508
 #EXTINF:0, - WAMC-FM-HD1 🇺🇸 90.3 [News][Albany N.E.Public radio NY][cfpublic.org]
 https://20593.live.streamtheworld.com/WAMCFM.mp3
@@ -4665,16 +4665,18 @@ http://s4.streammonster.com:8530/;
 http://media.wmra.org:8000/wxjm
 #EXTINF:0, - WXLV 🇺🇸 Lehigh Carbon Community College [Allentown PA][wxlvradio.com]
 https://securestream.casthost.net:8047/live
-#EXTINF:0, - WXOU 🇺🇸 88.3 Oakland University [Auburn Hills MI][wxou.org]
+#EXTINF:0, - WXOU 🇺🇸 88.3 Oaklnd University [Auburn Hills MI][wxou.org]
 http://wxou.oakland.edu:8000/;
-#EXTINF:0, - WXPN-HD1 🇺🇸 91.9 [XPN2][Hackettstown NJ][xpn.org]
+#EXTINF:0, - WXPN-HD1/WXPJ 🇺🇸 88.7/91.9 U-Penn [XPN1][Philadelphia, PA/Hackettstown NJ][xpn.org][💻🎧🕵️-New]
 https://wxpn.xpn.org/xpnmp3hi
-#EXTINF:0, - WXPN-HD2 🇺🇸 91.9 [XPN2][Hackettstown NJ][xpn.org]
+#EXTINF:0, - WXPN-HD1/WXPJ 🇺🇸 88.7/91.9 U-Penn [XPN2][Philadelphia, PA/Hackettstown NJ][xpn.org][💻🎧🕵️-New]
 https://wxpn.xpn.org/xpn2mp3hi
 #EXTINF:0, - WXPR 🇺🇸 91.7 [Rhinelander WI][wxpr.org]
 https://amber.streamguys1.com:4372/wxpr2-aac
 #EXTINF:0, - WXPX 🇺🇸 107.1 The Peak [White Plains NY][1071thepeak.com]
 https://ais-sa1.streamon.fm/7836_128k.aac
+#EXTINF:0, - WXRT 🇺🇸 93.1 The Peak [Chicago IL][AOR][audacy.com/wxrt][💻🎧🕵️-New]
+https://live.amperwave.net/direct/audacy-wxrtfmaac-imc
 #EXTINF:0, - WXRV 🇺🇸 92.5 The River Radio [theriverboston.com]
 http://72.13.83.130:8010/;
 #EXTINF:0, - WXRY 🇺🇸 Indie [Columbia SC][wxryfm.org]
