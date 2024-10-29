@@ -8,7 +8,9 @@
 # https://unicode.org/emoji/charts/full-emoji-list.html
 # https://emojipedia.org/
 # https://github.com/geospart
+# https://mxtoolbox.com/SuperTool.aspx
 # updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
+# Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
 #************************************************************************
 #************************************************************************
 #EXTINF:0, - *The BugCast 🇬🇧 🐞 [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
@@ -399,6 +401,10 @@ http://frontend.streamonkey.net/aidaradio-meergefuehl
 https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 #EXTINF:0, - AIDA Radio 🇩🇪 [aidaradio.de][MP3 128k]
 http://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
+#EXTINF:0, - Agape's JPop/Anisong Radio 🇨🇳 [China][jpop][nas.agapec.fun:81/public/agapes_anisong_radio][MP3 128k][💻🎧🕵️-New]
+http://nas.agapec.fun:38000/mp3
+#EXTINF:0, - Agape's JPop/Anisong Radio 🇨🇳 [China][jpop][nas.agapec.fun:81/public/agapes_anisong_radio][FLAC][💻🎧🕵️-New]
+http://nas.agapec.fun:38000/flac
 #EXTINF:0, - All India Radio 🇮🇳 [allindiaradio.gov.in *on demand audio*][newsonair.gov.in]
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
 #EXTINF:0, - All India Radio 🇮🇳 [allindiaradio.gov.in][newsonair.gov.in]
@@ -715,6 +721,14 @@ http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/aks/bbc_world_service.m3u8
 #EXTINF:0, - Beat 106 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow [beat106scotland.com][mp3 128k]
 https://n10.rcs.revma.com:443/3d6v2ut171zuv
+#EXTINF:0, - Bee Radio 🇳🇱 [Netherlands][pop][beeradio.nl][mp3 320k][💻🎧🕵️-New]
+http://stream.beeradio.nl/main
+#EXTINF:0, - Bee Radio 🇳🇱 [Netherlands][pop][beeradio.nl][aac 96k][💻🎧🕵️-New]
+http://stream.beeradio.nl/mobile
+#EXTINF:0, - Bee Classics Radio 🇳🇱 [Netherlands][classics][beeradio.nl][mp3 320k][💻🎧🕵️-New]
+http://stream.beeradio.nl/classics
+#EXTINF:0, - Bee Classics Radio 🇳🇱 [Netherlands][classics][beeradio.nl][aac 96k][💻🎧🕵️-New]
+http://stream.beeradio.nl/classics-mobile
 #EXTINF:0, - Belfield FM 🇮🇪 University College Dublin [belfieldfm.com][On Demand][offline]
 http://media.heanet.ie/player/live/73b725db6e62550832232116ac7202e8
 #EXTINF:0, - Belter Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][belter-radio.com][mp3 64k][💻🎧🕵️-New]
@@ -1311,6 +1325,12 @@ http://ec5.yesstreaming.net:2065/stream
 http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
 #EXTINF:0, - Half Moon Radio 🇺🇸 [New York][halfmoonbk.com][Freeform]
 https://half-moon.radiocult.fm/stream
+#EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][mp3 192k[💻🎧🕵️-New]
+https://streaming.starterfm.com/radio/8070/ghr192
+#EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][mp3 192k[💻🎧🕵️-New]
+https://streaming.starterfm.com:8070/ghr192
+#EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][aac 48k[💻🎧🕵️-New]
+https://streaming.starterfm.com:8070/ghr48
 #EXTINF:0, - HBS-Glasgow's Hospital Broadcasting Service 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [hbs.org.uk][mp3 256k]
 https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream
 #EXTINF:0, - HCJB Quito Ecuador 🇪🇨 [hcjb.org][Only stream is of FM Radio][SW📻]
@@ -1413,6 +1433,12 @@ https://c11.radioboss.fm:18270/stream
 https://live4.presstv.ir/irib/irib8/playlist.m3u8
 #EXTINF:0, - Israel Radio International 🇮🇱 [🎬-Vid-HD]
 https://www.kan.org.il/live/radio.aspx?stationid=10
+#EXTINF:0, - Italomelody 🇬🇧 [England][Eclectic][italomelody.uk][mp3 320k][💻🎧🕵️-New]
+https://stream.italomelody.uk:8680/live320.mp3
+#EXTINF:0, - Italomelody 🇬🇧 [England][Eclectic][italomelody.uk][mp3 192k][💻🎧🕵️-New]
+https://stream.italomelody.uk:8680/live192.mp3
+#EXTINF:0, - Italomelody 🇬🇧 [England][Eclectic][italomelody.uk][FLAC/OGG 1100k][💻🎧🕵️-New]
+https://stream.italomelody.uk:8680/live.flac.ogg
 #EXTINF:0, - Jamboradio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 192k]
@@ -2699,6 +2725,8 @@ https://n0b.radiojar.com/78cxy6wkxtzuv
 https://paineldj5.com.br:20087/stream
 #EXTINF:0, - Radio Apintie 🇸🇷 [Suriname][www.apintie.sr/radio][SW📻]
 https://surilive.com:8000/;
+#EXTINF:0, - Radio Aristona [German/Dutch Music][radioaristona.homedns.org][💻🎧🕵️-New]
+http://radioaristona.homedns.org/listen/radio_aristona/radio.mp3
 #EXTINF:0, - Radio Banda Larga 🇮🇹 [Turin Italy][rbl.media][Freeform]
 https://rblmedia.out.airtime.pro/rblmedia_a
 #EXTINF:0, - Radio Belarus 🇧🇾 [www.tvr.by/radio/radio-belarus][SW📻]
