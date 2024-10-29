@@ -8,6 +8,7 @@
 # https://unicode.org/emoji/charts/full-emoji-list.html
 # https://emojipedia.org/
 # https://github.com/geospart
+# https://laut.fm/stations/
 # https://mxtoolbox.com/SuperTool.aspx
 # updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
 # Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
@@ -27,13 +28,13 @@ https://fr3.1mix.co.uk:8060/256
 https://fr3.1mix.co.uk:8060/;
 #EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 320k][💻🎧🕵️-New]
 http://fr1.1mix.co.uk:8060/320b
-#EXTINF:0, - 20ft Radio [Kiev Ukraine][20ftradio.net][Freeform]
+#EXTINF:0, - 20ft Radio [Kiev Ukraine][20ftradio.net][mp3 320k][Freeform]
 https://c18.radioboss.fm:18146/stream
-#EXTINF:0, - 2MBS 🇦🇺 Fine Music [Sydney][2mbsfinemusicsydney.com]
+#EXTINF:0, - 2MBS 🇦🇺 Fine Music [Sydney][2mbsfinemusicsydney.com][mp3 128k]
 https://fmfm.org.au:8001/finemusicdigital
 #EXTINF:0, - 2MCE 🇦🇺 92.3 Charles Sturt University [Bathurst NSW AU][2mce.org][offline]
 https://arts-ed-streams.csu.edu.au:8080/2MCE
-#EXTINF:0, - 2NUR 🇦🇺 103.7 University of Newcastle [Newcastle NSW AU][2nurfm.com.au]
+#EXTINF:0, - 2NUR 🇦🇺 103.7 University of Newcastle [Newcastle NSW AU][mp3 96k][2nurfm.com.au]
 https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3
 #EXTINF:0, - 2SER 🇦🇺 107.3 University of Technology Sydney / Macquarie University [Sydney NSW AU][2ser.com]
 https://icecast1.myradio.click/streamrelay
@@ -1201,6 +1202,12 @@ http://amp.cesnet.cz:8000/cro3.flac
 http://amp.cesnet.cz:8000/cro3.ogg
 #EXTINF:0, - ČRo 🇨🇿 Vltava [amp.cesnet.cz][OGG 256k]
 http://amp.cesnet.cz:8000/cro3-256.ogg
+#EXTINF:0, - Dandelion Radio [London England][Indi][dandelionradio.com][mp3 128k][💻🎧🕵️-New]
+http://stream.dandelionradio.com:9414/stream
+#EXTINF:0, - Dandelion Radio [London England][Indi][dandelionradio.com][mp3 128k][💻🎧🕵️-New]
+https://streamz.anytek.co.uk/proxy/dandelio2?mp=/stream
+#EXTINF:0, - Dandelion Radio [London England][Indi][dandelionradio.com][mp3 128k][💻🎧🕵️-New]
+https://www.dandelionradio.com/DandelionRadio.pls
 #EXTINF:0, - Danubius Radio 🇭🇺 [roxyradio.hu][FLAC]
 https://s2.audiostream.hu/bdpstrock_FLAC.m3u
 #EXTINF:0, - Danubius Radio 🇭🇺 [roxyradio.hu][MP3 192k]
@@ -1209,6 +1216,10 @@ https://s2.audiostream.hu/bdpstrock_192k.m3u
 https://s2.audiostream.hu/bdpstrock_320k.m3u
 #EXTINF:0, - Danubius Radio 🇭🇺 [roxyradio.hu][MP3 96k]
 https://s2.audiostream.hu/bdpstrock_96k.m3u
+#EXTINF:0, - Dark Bites 🇩🇪[Freiburg Germany][sdz.sh/ia7voY][Goth][laut.fm/dark-bites][💻🎧🕵️-New]
+https://dark-bites.stream.laut.fm/dark-bites
+#EXTINF:0, - Dark Bites 🇩🇪[Freiburg Germany][sdz.sh/ia7voY][Goth][laut.fm/dark-bites][💻🎧🕵️-New]
+https://stream.laut.fm/dark-bites
 #EXTINF:0, - Deutsche Welle/DW 🇩🇪 [Germany][www.dw.com/en/]
 https://dispatcher.rndfnk.com/dw/1027/mp3/64/dw08.mp3
 #EXTINF:0, - DO!! YOU!!! RADIO 🇬🇧 [London England][doyou.world][offline]
@@ -1441,6 +1452,8 @@ https://stream.italomelody.uk:8680/live192.mp3
 https://stream.italomelody.uk:8680/live.flac.ogg
 #EXTINF:0, - Jamboradio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
+#EXTINF:-0, - JKYog Radio 🇺🇸 [Plano TX][Meditation][https://www.jkyog.org/jkyog-radio][mp3 128k][💻🎧🕵️-New]
+http://procyon.shoutca.st:8331/stream/
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 192k]
 https://danubiusradio.hu/danubius_192k.m3u
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 320k]
@@ -2531,6 +2544,8 @@ https://listen.kxua.com/stream
 https://19253.live.streamtheworld.com/KYCRAMAAC.aac
 #EXTINF:0, - KYUK 🇺🇸 640/90.3 Public Media for Alaska's Yukon-Kuskokwim Delta [Bethel AK][kyuk.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KYUKAM.mp3
+#EXTINF:0, - KZND 🇺🇸 94.7 Alternative Anchorage [Anchorage / Houston AK][alternativeanchorage.com][💻🎧🕵️-New]
+https://ice10.securenetsystems.net/KZND
 #EXTINF:0, - KZPA 🇺🇸 900 [Ft Yukon AK][kzparadio.org][offline]
 http://no.stream
 #EXTINF:0, - KZRF 🇺🇸 90.1 [Chico CA][kzfr.org]
@@ -4707,6 +4722,8 @@ https://ais-sa1.streamon.fm/7836_128k.aac
 https://live.amperwave.net/direct/audacy-wxrtfmaac-imc
 #EXTINF:0, - WXRV 🇺🇸 92.5 The River Radio [theriverboston.com]
 http://72.13.83.130:8010/;
+#EXTINF:0, - WXRV 🇺🇸 92.5 The River Radio [theriverboston.com][💻🎧🕵️-New]
+https://nebcoradio.com:8443/WXRV
 #EXTINF:0, - WXRY 🇺🇸 Indie [Columbia SC][wxryfm.org]
 https://stream1.rcast.net/67477
 #EXTINF:0, - WXTC 🇺🇸 89.3 University of North Carolina [Chapel Hill NC][wxyc.org]
