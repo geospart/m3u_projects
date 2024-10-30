@@ -5,11 +5,12 @@
 # created 08/24/2024
 # 💀SW📻 - Short Wave Offline
 # ✅🕵🕶🦃🧕📻🎙️📶🐞💻
-# https://unicode.org/emoji/charts/full-emoji-list.html
-# https://emojipedia.org/
+# https://unicode.org/emoji/charts/full-emoji-list.html [research]
+# https://emojipedia.org/ [research]
 # https://github.com/geospart
-# https://laut.fm/stations/
-# https://mxtoolbox.com/SuperTool.aspx
+# https://laut.fm/stations/ [research]
+# https://mxtoolbox.com/SuperTool.aspx [research]
+# https://github.com/junguler/m3u-radio-music-playlists/ [research]
 # updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
 # Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
 #************************************************************************
@@ -528,6 +529,14 @@ https://stream.antenne.de/weihnachts-hits/stream/mp3
 https://stream.antenne.de/workout-hits/stream/mp3
 #EXTINF:0, - AWAZ FM 🏴󠁧󠁢󠁳󠁣󠁴󠁿 107.20 Glasgow [Asian][awazfm.co.uk][mp3 128k]
 https://uksoutha.streaming.broadcast.radio/awazfm
+#EXTINF:0, - BAGeL Radio  [Forest Hills NY][Indie][bagelradio.com][aac 128k][💻🎧🕵️-New]
+https://ais-sa3.cdnstream1.com/2606_128.aac
+#EXTINF:0, - BAGeL Radio  [Forest Hills NY][Indie][bagelradio.com][mp3 128k][💻🎧🕵️-New]
+http://ais-sa3.cdnstream1.com/2606_128.mp3
+#EXTINF:0, - BAGeL Radio  [Forest Hills NY][Indie][bagelradio.com][aac 64k][💻🎧🕵️-New]
+http://ais-sa3.cdnstream1.com/2606_64.aac
+#EXTINF:0, - BAGeL Radio  [Forest Hills NY][Indie][bagelradio.com][aac 32k][💻🎧🕵️-New]
+http://ais-sa3.cdnstream1.com/2606_32.aac
 #EXTINF:0, - BailBailrigg 🇬🇧 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][MP3 320k]
 https://bfm-stream.lancs.ac.uk/320.mp3
 #EXTINF:0, - Bailrigg 🇬🇧 95.3FM [LANCASTER UNIVERSITY STUDENT RADIO][bailriggradio.lancastersu.co.uk][FLAC]
@@ -886,6 +895,8 @@ https://cashmereradio.out.airtime.pro/cashmereradio_a
 https://s7.myradiostream.com:10126/;
 #EXTINF:0, - Castleton Radio Castleton University 🇺🇸 [Castleton VT][offline]
 http://155.42.161.60:8000/listen
+#EXTINF:0, - CAYA Radio 🇺🇸 [Marshaltown IA][Alternative 90s Indie][cayaradio.com][mp3 128k][💻🎧🕵️-New]
+https://www.tuneintoradio1.com/radio/8020/radio.mp3
 #EXTINF:0, - CBC 🇨🇦 Music [Atlantic]
 https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
 #EXTINF:0, - CBC 🇨🇦 Music [Central]
@@ -1220,7 +1231,7 @@ https://s2.audiostream.hu/bdpstrock_96k.m3u
 https://dark-bites.stream.laut.fm/dark-bites
 #EXTINF:0, - Dark Bites 🇩🇪[Freiburg Germany][sdz.sh/ia7voY][Goth][laut.fm/dark-bites][💻🎧🕵️-New]
 https://stream.laut.fm/dark-bites
-#EXTINF:0, - Deutsche Welle/DW 🇩🇪 [Germany][www.dw.com/en/]
+#EXTINF:0, - Deutsche Welle/DW 🇩🇪 [Germany][www.dw.com/en/][SW📻]
 https://dispatcher.rndfnk.com/dw/1027/mp3/64/dw08.mp3
 #EXTINF:0, - DO!! YOU!!! RADIO 🇬🇧 [London England][doyou.world][offline]
 https://doyouworld.out.airtime.pro/doyouworld_a
@@ -1328,6 +1339,8 @@ http://142.4.219.8:8019/;stream.mp3
 http://142.4.219.8:8110/;stream.mp3
 #EXTINF:0, - Global Community Radio 🇺🇸 [GCR3][Geneva NY][globalcommunityradio.blogspot.com]
 http://142.4.219.8:8327/;stream.mp3
+#EXTINF:0, - Great Day Radio-The Peoples Station 🇺🇸 [Denver CO][greatdayradio.com][mp3 128k[💻🎧🕵️-New]
+https://streaming.live365.com/a01123
 #EXTINF:0, - Greatest Hits Radio Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [clyde2][hellorayo.co.uk/greatest-hits/glasgow/][mp3 128k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde2.mp3
 #EXTINF:0, - Greatest Hits Radio London 🇬🇧 [hellorayo.co.uk/greatest-hits/london/][mp3 112k]
@@ -1452,8 +1465,12 @@ https://stream.italomelody.uk:8680/live192.mp3
 https://stream.italomelody.uk:8680/live.flac.ogg
 #EXTINF:0, - Jamboradio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][talk][jamboradio.co.uk][mp3 192k]
 https://stream3.themediasite.co.uk:8130/stream
+#EXTINF:0, - Jane Radio 🇺🇸 [Austin TX][Freeform][janeradio.com][mp3 128k][💻🎧🕵️-New]
+https://das-edge10-live365-dal03.cdnstream.com/a17876
 #EXTINF:-0, - JKYog Radio 🇺🇸 [Plano TX][Meditation][https://www.jkyog.org/jkyog-radio][mp3 128k][💻🎧🕵️-New]
 http://procyon.shoutca.st:8331/stream/
+#EXTINF:0, - Joint Vision Radio Worldwide [Freeform][live365.com/station/Joint-Vision-Radio-Worldwide][mp3 128k][💻🎧🕵️-New]
+https://das-edge17-live365-dal02.cdnstream.com/a46459
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 192k]
 https://danubiusradio.hu/danubius_192k.m3u
 #EXTINF:0, - Juventus Radio 🇭🇺 [roxyradio.hu][MP3 320k]
@@ -2072,6 +2089,10 @@ https://ice24.securenetsystems.net/KRFCFM
 https://listen.mixlr.com/46c94e4d347526fd7b51e4dc44448d4e
 #EXTINF:0, - KRNO 🇺🇸 90.3 University of Nebraska [Lincoln NE][krnu.nebraskanewsservice.net][mp3 192k]
 https://s8.yesstreaming.net:17004/krnu
+#EXTINF:0, - KROQ 🇺🇸 106.7 HD-1 [Los Angeles CA][Alternative][url][aac 128k][💻🎧🕵️-New]
+https://prod-44-205-18-153.amperwave.net/audacy-kroqfmaac-hlsc.m3u8/
+#EXTINF:0, - KROQ 🇺🇸 106.7 HD-2 80's [Los Angeles CA][Alternative][url][aac 128k][💻🎧🕵️-New]
+https://prod-34-229-52-86.amperwave.net/audacy-kroqhd2aac-hlsc.m3u8/
 #EXTINF:0, - KRPS 🇺🇸 89.9 Public Radio for the Four States [Pittsburg KS][krps.org]
 https://s2.voscast.com:12109/stream
 #EXTINF:0, - KRSU 🇺🇸 91.3 Rogers State University [Claremore OK][mp3 128k]
@@ -2720,6 +2741,8 @@ http://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
 http://stream-mz.planetradio.co.uk/planetrock.mp3
 #EXTINF:0, - Public Radio of Armenia 🇦🇲 [en.armradio.am][SW📻]
 http://31.7.166.59:8000/stream
+#EXTINF:0, - QC Indie 🇨🇦 [Regina Canada][Indie][qcindie.com][mp3 128k][💻🎧🕵️-New]
+https://stream.qcindie.com/live
 #EXTINF:0, - Quality Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Paisley Renfrewshire Scotland][https://qualityradio.uk/radio/][mp3 128k]
 http://radio.canstream.co.uk:8123/live.mp3
 #EXTINF:0, - Quê Me Radio 🇫🇷 [France][queme.org/en][🕵🕶Vietnam📻][offline]
@@ -3358,6 +3381,10 @@ https://station.thecheese.co.nz/hls/the_cheese/stream_high.m3u8
 https://ec1.yesstreaming.net:4330/;
 #EXTINF:0, - The Detour Network 🇺🇸 [Talk][Knoxville TN][thedetour.us]
 https://ec1.yesstreaming.net:4350/;
+#EXTINF:0, - The Independent FM 🇺🇸 [Los Angeles CA][Indie][theindependent.fm][mp3 320k][💻🎧🕵️-New]
+https://listen.radioking.com/radio/293701/stream/340084
+#EXTINF:0, - 103.1 The Independent FM 🇺🇸 [Los Angeles CA][Indie][theindependent.fm][mp3 320k][💻🎧🕵️-New]
+https://play.radioking.io/the-independent-fm-1
 #EXTINF:0, - The Times Radio 🇬🇧 London [mp3 128k]
 http://timesradio.wireless.radio/stream
 #EXTINF:0, - The Times Radio 🇬🇧 London[aac 48k]
