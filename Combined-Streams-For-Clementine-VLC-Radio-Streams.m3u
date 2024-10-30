@@ -2979,357 +2979,837 @@ http://stream8.slowradio.com
 https://play.radioking.io/slowlyradio/476452
 #EXTINF:0, - SOHO Radio 🇬🇧 [London England][sohoradiolondon.com][Freeform]
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
-#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#1): A late night blend of deep-house and downtempo chill.
+#EXTINF:-0,SomaFM 🇺🇸:Seven Inch Soul (#1): Vintage soul tracks from the original 45 RPM vinyl. [mp3 128k]
+http://ice2.somafm.com/7soul-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Seven Inch Soul (#2): Vintage soul tracks from the original 45 RPM vinyl. [mp3 128k]
+http://ice6.somafm.com/7soul-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Seven Inch Soul (#3): Vintage soul tracks from the original 45 RPM vinyl. [mp3 128k]
+http://ice4.somafm.com/7soul-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Seven Inch Soul (#4): Vintage soul tracks from the original 45 RPM vinyl. [mp3 128k]
+http://ice5.somafm.com/7soul-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Beat Blender (#1): A late night blend of deep-house and downtempo chill. [mp3 128k]
+http://ice2.somafm.com/beatblender-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Beat Blender (#2): A late night blend of deep-house and downtempo chill. [mp3 128k]
+http://ice6.somafm.com/beatblender-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Beat Blender (#3): A late night blend of deep-house and downtempo chill. [mp3 128k]
+http://ice4.somafm.com/beatblender-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Beat Blender (#4): A late night blend of deep-house and downtempo chill. [mp3 128k]
+http://ice5.somafm.com/beatblender-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Boot Liquor (#1): Americana Roots music for Cowhands, Cowpokes and Cowtippers [mp3 128k]
+http://ice2.somafm.com/bootliquor-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Boot Liquor (#2): Americana Roots music for Cowhands, Cowpokes and Cowtippers [mp3 128k]
+http://ice6.somafm.com/bootliquor-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Boot Liquor (#3): Americana Roots music for Cowhands, Cowpokes and Cowtippers [mp3 128k]
+http://ice4.somafm.com/bootliquor-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Boot Liquor (#4): Americana Roots music for Cowhands, Cowpokes and Cowtippers [mp3 128k]
+http://ice5.somafm.com/bootliquor-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Bossa Beyond (Special) (#1): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [mp3 128k]
+http://ice2.somafm.com/bossa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Bossa Beyond (Special) (#2): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [mp3 128k]
+http://ice6.somafm.com/bossa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Bossa Beyond (Special) (#3): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [mp3 128k]
+http://ice4.somafm.com/bossa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Bossa Beyond (Special) (#4): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [mp3 128k]
+http://ice5.somafm.com/bossa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Black Rock FM (#1): From the Playa to the world, for the annual Burning Man festival. [mp3 128k]
+http://ice2.somafm.com/brfm-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Black Rock FM (#2): From the Playa to the world, for the annual Burning Man festival. [mp3 128k]
+http://ice6.somafm.com/brfm-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Black Rock FM (#3): From the Playa to the world, for the annual Burning Man festival. [mp3 128k]
+http://ice4.somafm.com/brfm-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Black Rock FM (#4): From the Playa to the world, for the annual Burning Man festival. [mp3 128k]
+http://ice5.somafm.com/brfm-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Chillits Radio (Special) (#1): Celebrating 25 years of music, chilling and camping [mp3 128k]
+http://ice2.somafm.com/chillits-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Chillits Radio (Special) (#2): Celebrating 25 years of music, chilling and camping [mp3 128k]
+http://ice6.somafm.com/chillits-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Chillits Radio (Special) (#3): Celebrating 25 years of music, chilling and camping [mp3 128k]
+http://ice4.somafm.com/chillits-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Chillits Radio (Special) (#4): Celebrating 25 years of music, chilling and camping [mp3 128k]
+http://ice5.somafm.com/chillits-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:cliqhop idm (#1): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [mp3 128k]
+http://ice2.somafm.com/cliqhop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:cliqhop idm (#2): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [mp3 128k]
+http://ice6.somafm.com/cliqhop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:cliqhop idm (#3): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [mp3 128k]
+http://ice4.somafm.com/cliqhop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:cliqhop idm (#4): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [mp3 128k]
+http://ice5.somafm.com/cliqhop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Covers (#1): Just covers. Songs you know by artists you don't. We've got you covered. [mp3 128k]
+http://ice2.somafm.com/covers-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Covers (#2): Just covers. Songs you know by artists you don't. We've got you covered. [mp3 128k]
+http://ice6.somafm.com/covers-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Covers (#3): Just covers. Songs you know by artists you don't. We've got you covered. [mp3 128k]
+http://ice4.somafm.com/covers-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Covers (#4): Just covers. Songs you know by artists you don't. We've got you covered. [mp3 128k]
+http://ice5.somafm.com/covers-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Dark Zone (#1): The darker side of deep ambient. Music for staring into the Abyss. [mp3 128k]
+http://ice2.somafm.com/darkzone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Dark Zone (#2): The darker side of deep ambient. Music for staring into the Abyss. [mp3 128k]
+http://ice6.somafm.com/darkzone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Dark Zone (#3): The darker side of deep ambient. Music for staring into the Abyss. [mp3 128k]
+http://ice4.somafm.com/darkzone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Dark Zone (#4): The darker side of deep ambient. Music for staring into the Abyss. [mp3 128k]
+http://ice5.somafm.com/darkzone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Deep Space One (#1): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [mp3 128k]
+http://ice2.somafm.com/deepspaceone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Deep Space One (#2): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [mp3 128k]
+http://ice6.somafm.com/deepspaceone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Deep Space One (#3): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [mp3 128k]
+http://ice4.somafm.com/deepspaceone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Deep Space One (#4): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [mp3 128k]
+http://ice5.somafm.com/deepspaceone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:DEF CON Radio (#1): Music for Hacking. The DEF CON Year-Round Channel. [mp3 128k]
+http://ice2.somafm.com/defcon-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:DEF CON Radio (#2): Music for Hacking. The DEF CON Year-Round Channel. [mp3 128k]
+http://ice6.somafm.com/defcon-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:DEF CON Radio (#3): Music for Hacking. The DEF CON Year-Round Channel. [mp3 128k]
+http://ice4.somafm.com/defcon-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:DEF CON Radio (#4): Music for Hacking. The DEF CON Year-Round Channel. [mp3 128k]
+http://ice5.somafm.com/defcon-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Digitalis (#1): Digitally affected analog rock to calm the agitated heart. [mp3 128k]
+http://ice2.somafm.com/digitalis-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Digitalis (#2): Digitally affected analog rock to calm the agitated heart. [mp3 128k]
+http://ice6.somafm.com/digitalis-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Digitalis (#3): Digitally affected analog rock to calm the agitated heart. [mp3 128k]
+http://ice4.somafm.com/digitalis-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Digitalis (#4): Digitally affected analog rock to calm the agitated heart. [mp3 128k]
+http://ice5.somafm.com/digitalis-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Doomed (#1): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [mp3 128k]
+http://ice2.somafm.com/doomed-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Doomed (#2): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [mp3 128k]
+http://ice6.somafm.com/doomed-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Doomed (#3): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [mp3 128k]
+http://ice4.somafm.com/doomed-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Doomed (#4): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [mp3 128k]
+http://ice5.somafm.com/doomed-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Drone Zone (#1): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [mp3 128k]
+http://ice2.somafm.com/dronezone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Drone Zone (#2): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [mp3 128k]
+http://ice6.somafm.com/dronezone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Drone Zone (#3): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [mp3 128k]
+http://ice4.somafm.com/dronezone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Drone Zone (#4): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [mp3 128k]
+http://ice5.somafm.com/dronezone-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Dub Step Beyond (#1): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [mp3 128k]
+http://ice2.somafm.com/dubstep-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Dub Step Beyond (#2): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [mp3 128k]
+http://ice6.somafm.com/dubstep-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Dub Step Beyond (#3): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [mp3 128k]
+http://ice4.somafm.com/dubstep-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Dub Step Beyond (#4): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [mp3 128k]
+http://ice5.somafm.com/dubstep-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Fluid (#1): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [mp3 128k]
+http://ice2.somafm.com/fluid-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Fluid (#2): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [mp3 128k]
+http://ice6.somafm.com/fluid-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Fluid (#3): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [mp3 128k]
+http://ice4.somafm.com/fluid-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Fluid (#4): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [mp3 128k]
+http://ice5.somafm.com/fluid-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Folk Forward (#1): Indie Folk, Alt-folk and the occasional folk classics. [mp3 128k]
+http://ice2.somafm.com/folkfwd-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Folk Forward (#2): Indie Folk, Alt-folk and the occasional folk classics. [mp3 128k]
+http://ice6.somafm.com/folkfwd-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Folk Forward (#3): Indie Folk, Alt-folk and the occasional folk classics. [mp3 128k]
+http://ice4.somafm.com/folkfwd-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Folk Forward (#4): Indie Folk, Alt-folk and the occasional folk classics. [mp3 128k]
+http://ice5.somafm.com/folkfwd-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad (#1): A nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad (#2): A nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice6.somafm.com/groovesalad-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad (#3): A nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice4.somafm.com/groovesalad-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad (#4): A nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice5.somafm.com/groovesalad-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad Classic (#1): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice2.somafm.com/gsclassic-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad Classic (#2): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice6.somafm.com/gsclassic-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad Classic (#3): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice4.somafm.com/gsclassic-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Groove Salad Classic (#4): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [mp3 128k]
+http://ice5.somafm.com/gsclassic-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Illinois Street Lounge (#1): Classic bachelor pad, playful exotica and vintage music of tomorrow. [mp3 128k]
+http://ice2.somafm.com/illstreet-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Illinois Street Lounge (#2): Classic bachelor pad, playful exotica and vintage music of tomorrow. [mp3 128k]
+http://ice6.somafm.com/illstreet-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Illinois Street Lounge (#3): Classic bachelor pad, playful exotica and vintage music of tomorrow. [mp3 128k]
+http://ice4.somafm.com/illstreet-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Illinois Street Lounge (#4): Classic bachelor pad, playful exotica and vintage music of tomorrow. [mp3 128k]
+http://ice5.somafm.com/illstreet-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Indie Pop Rocks! (#1): New and classic favorite indie pop tracks. [mp3 128k]
+http://ice6.somafm.com/indiepop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Indie Pop Rocks! (#2): New and classic favorite indie pop tracks. [mp3 128k]
+http://ice4.somafm.com/indiepop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Indie Pop Rocks! (#3): New and classic favorite indie pop tracks. [mp3 128k]
+http://ice2.somafm.com/indiepop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Indie Pop Rocks! (#4): New and classic favorite indie pop tracks. [mp3 128k]
+http://ice5.somafm.com/indiepop-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The In-Sound (Special) (#1): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [mp3 128k]
+http://ice2.somafm.com/insound-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The In-Sound (Special) (#2): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [mp3 128k]
+http://ice6.somafm.com/insound-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The In-Sound (Special) (#3): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [mp3 128k]
+http://ice4.somafm.com/insound-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The In-Sound (Special) (#4): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [mp3 128k]
+http://ice5.somafm.com/insound-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Live (#1): Special Live Events and rebroadcasts of past live events [mp3 128k]
+http://ice2.somafm.com/live-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Live (#2): Special Live Events and rebroadcasts of past live events [mp3 128k]
+http://ice6.somafm.com/live-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Live (#3): Special Live Events and rebroadcasts of past live events [mp3 128k]
+http://ice4.somafm.com/live-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Live (#4): Special Live Events and rebroadcasts of past live events [mp3 128k]
+http://ice5.somafm.com/live-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Lush (#1): Sensuous and mellow female vocals, many with an electronic influence. [mp3 128k]
+http://ice2.somafm.com/lush-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Lush (#2): Sensuous and mellow female vocals, many with an electronic influence. [mp3 128k]
+http://ice6.somafm.com/lush-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Lush (#3): Sensuous and mellow female vocals, many with an electronic influence. [mp3 128k]
+http://ice4.somafm.com/lush-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Lush (#4): Sensuous and mellow female vocals, many with an electronic influence. [mp3 128k]
+http://ice5.somafm.com/lush-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Metal Detector (#1): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [mp3 128k]
+http://ice4.somafm.com/metal-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Metal Detector (#2): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [mp3 128k]
+http://ice2.somafm.com/metal-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Metal Detector (#3): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [mp3 128k]
+http://ice6.somafm.com/metal-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Metal Detector (#4): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [mp3 128k]
+http://ice5.somafm.com/metal-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Mission Control (#1): Celebrating NASA and Space Explorers everywhere. [mp3 128k]
+http://ice4.somafm.com/missioncontrol-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Mission Control (#2): Celebrating NASA and Space Explorers everywhere. [mp3 128k]
+http://ice2.somafm.com/missioncontrol-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Mission Control (#3): Celebrating NASA and Space Explorers everywhere. [mp3 128k]
+http://ice6.somafm.com/missioncontrol-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Mission Control (#4): Celebrating NASA and Space Explorers everywhere. [mp3 128k]
+http://ice5.somafm.com/missioncontrol-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:n5MD Radio (#1): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [mp3 128k]
+http://ice2.somafm.com/n5md-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:n5MD Radio (#2): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [mp3 128k]
+http://ice6.somafm.com/n5md-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:n5MD Radio (#3): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [mp3 128k]
+http://ice4.somafm.com/n5md-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:n5MD Radio (#4): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [mp3 128k]
+http://ice5.somafm.com/n5md-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#1): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+http://ice2.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#2): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+http://ice6.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#3): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+http://ice4.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#4): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+http://ice5.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#1): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+http://ice2.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#2): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+http://ice6.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#3): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+http://ice4.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#4): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+http://ice5.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#1): San Francisco Public Safety Scanner Feed [mp3 128k]
+http://ice2.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#2): San Francisco Public Safety Scanner Feed [mp3 128k]
+http://ice6.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#3): San Francisco Public Safety Scanner Feed [mp3 128k]
+http://ice4.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#4): San Francisco Public Safety Scanner Feed [mp3 128k]
+http://ice5.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#1): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+http://ice2.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#2): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+http://ice6.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#3): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+http://ice4.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#4): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+http://ice5.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#1): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+http://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#2): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+http://ice6.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#3): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+http://ice4.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#4): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+http://ice5.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#1): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+http://ice4.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#2): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+http://ice2.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#3): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+http://ice6.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#4): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+http://ice5.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#1): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+http://ice2.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#2): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+http://ice6.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#3): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+http://ice4.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#4): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+http://ice5.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#1): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+http://ice2.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#2): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+http://ice6.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#3): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+http://ice4.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#4): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+http://ice5.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#1): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+http://ice2.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#2): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+http://ice6.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#3): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+http://ice4.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#4): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+http://ice5.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#1): Desi-influenced Asian world beats and beyond. [mp3 128k]
+http://ice2.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#2): Desi-influenced Asian world beats and beyond. [mp3 128k]
+http://ice6.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#3): Desi-influenced Asian world beats and beyond. [mp3 128k]
+http://ice4.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#4): Desi-influenced Asian world beats and beyond. [mp3 128k]
+http://ice5.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#1): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+http://ice6.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#2): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+http://ice4.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#3): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+http://ice2.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#4): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+http://ice5.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#1): Progressive house / trance. Tip top tunes. [mp3 128k]
+http://ice2.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#2): Progressive house / trance. Tip top tunes. [mp3 128k]
+http://ice6.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#3): Progressive house / trance. Tip top tunes. [mp3 128k]
+http://ice4.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#4): Progressive house / trance. Tip top tunes. [mp3 128k]
+http://ice5.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#1): Exploring music from Celtic roots and branches [mp3 128k]
+http://ice2.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#2): Exploring music from Celtic roots and branches [mp3 128k]
+http://ice6.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#3): Exploring music from Celtic roots and branches [mp3 128k]
+http://ice4.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#4): Exploring music from Celtic roots and branches [mp3 128k]
+http://ice5.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#1): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+http://ice2.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#2): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+http://ice6.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#3): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+http://ice4.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#4): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+http://ice5.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#1): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+http://ice4.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#2): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+http://ice2.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#3): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+http://ice6.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#4): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+http://ice5.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Vaporwaves (#1): All Vaporwave. All the time. [mp3 128k]
+http://ice6.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Vaporwaves (#2): All Vaporwave. All the time. [mp3 128k]
+http://ice4.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Vaporwaves (#3): All Vaporwave. All the time. [mp3 128k]
+http://ice2.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Vaporwaves (#4): All Vaporwave. All the time. [mp3 128k]
+http://ice5.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#1): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+https://ice4.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#2): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+https://ice2.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#3): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+https://ice6.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:PopTron (#4): Electropop and indie dance rock with sparkle and pop. [mp3 128k]
+https://ice5.somafm.com/poptron-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#1): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+https://ice6.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#2): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+https://ice4.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#3): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+https://ice2.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Heavyweight Reggae (#4): Reggae, Ska, Rocksteady classic and deep tracks. [mp3 128k]
+https://ice5.somafm.com/reggae-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#1): San Francisco Public Safety Scanner Feed [mp3 128k]
+https://ice6.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#2): San Francisco Public Safety Scanner Feed [mp3 128k]
+https://ice4.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#3): San Francisco Public Safety Scanner Feed [mp3 128k]
+https://ice2.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF Police Scanner (#4): San Francisco Public Safety Scanner Feed [mp3 128k]
+https://ice5.somafm.com/scanner-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#1): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+https://ice4.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#2): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+https://ice2.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#3): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+https://ice6.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Secret Agent (#4): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [mp3 128k]
+https://ice5.somafm.com/secretagent-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#1): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+https://ice4.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#2): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+https://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#3): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+https://ice6.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Left Coast 70s (#4): Mellow album rock from the Seventies. Yacht not required. [mp3 128k]
+https://ice5.somafm.com/seventies-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#1): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+https://ice6.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#2): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+https://ice4.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#3): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+https://ice2.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF 10-33 (#4): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [mp3 128k]
+https://ice5.somafm.com/sf1033-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#1): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+https://ice2.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#2): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+https://ice6.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#3): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+https://ice4.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SF in SF (#4): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [mp3 128k]
+https://ice5.somafm.com/sfinsf-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#1): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+https://ice4.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#2): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+https://ice2.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#3): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+https://ice6.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Sonic Universe (#4): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [mp3 128k]
+https://ice5.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Space Station Soma (#1): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [mp3 128k]
+https://ice4.somafm.com/spacestation-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Space Station Soma (#2): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [mp3 128k]
+https://ice2.somafm.com/spacestation-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Space Station Soma (#3): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [mp3 128k]
+https://ice6.somafm.com/spacestation-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Space Station Soma (#4): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [mp3 128k]
+https://ice5.somafm.com/spacestation-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#1): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+https://ice6.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#2): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+https://ice4.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#3): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+https://ice2.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:SomaFM Specials (#4): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [mp3 128k]
+https://ice5.somafm.com/specials-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#1): Desi-influenced Asian world beats and beyond. [mp3 128k]
+https://ice4.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#2): Desi-influenced Asian world beats and beyond. [mp3 128k]
+https://ice2.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#3): Desi-influenced Asian world beats and beyond. [mp3 128k]
+https://ice6.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Suburbs of Goa (#4): Desi-influenced Asian world beats and beyond. [mp3 128k]
+https://ice5.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#1): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+https://ice2.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#2): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+https://ice6.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#3): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+https://ice4.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Synphaera Radio (#4): Featuring the music from an independent record label focused on modern electronic ambient and space music. [mp3 128k]
+https://ice5.somafm.com/synphaera-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#1): Progressive house / trance. Tip top tunes. [mp3 128k]
+https://ice4.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#2): Progressive house / trance. Tip top tunes. [mp3 128k]
+https://ice2.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#3): Progressive house / trance. Tip top tunes. [mp3 128k]
+https://ice6.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:The Trip (#4): Progressive house / trance. Tip top tunes. [mp3 128k]
+https://ice5.somafm.com/thetrip-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#1): Exploring music from Celtic roots and branches [mp3 128k]
+https://ice6.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#2): Exploring music from Celtic roots and branches [mp3 128k]
+https://ice4.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#3): Exploring music from Celtic roots and branches [mp3 128k]
+https://ice2.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:ThistleRadio (#4): Exploring music from Celtic roots and branches [mp3 128k]
+https://ice5.somafm.com/thistle-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#1): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+https://ice6.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#2): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+https://ice4.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#3): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+https://ice2.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Tiki Time (Special) (#4): Classic Tiki music and Vintage island rhythms to sip cocktails by. [mp3 128k]
+https://ice5.somafm.com/tikitime-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#1): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+https://ice6.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#2): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+https://ice4.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#3): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+https://ice2.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸:Underground 80s (#4): Early 80s UK Synthpop and a bit of New Wave. [mp3 128k]
+https://ice5.somafm.com/u80s-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸: Vaporwaves (#1): All Vaporwave. All the time. [mp3 128k]
+https://ice4.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸: Vaporwaves (#2): All Vaporwave. All the time. [mp3 128k]
+https://ice2.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸: Vaporwaves (#3): All Vaporwave. All the time. [mp3 128k]
+https://ice6.somafm.com/vaporwaves-128-mp3
+#EXTINF:-0,SomaFM 🇺🇸: Vaporwaves (#4): All Vaporwave. All the time. [mp3 128k]
+https://ice5.somafm.com/vaporwaves-128-mp3
+#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#1): A late night blend of deep-house and downtempo chill. [aac 64k]
 http://ice4.somafm.com/beatblender-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#2): A late night blend of deep-house and downtempo chill.
+#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#2): A late night blend of deep-house and downtempo chill. [aac 64k]
 http://ice6.somafm.com/beatblender-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#3): A late night blend of deep-house and downtempo chill.
+#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#3): A late night blend of deep-house and downtempo chill. [aac 64k]
 http://ice2.somafm.com/beatblender-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#4): A late night blend of deep-house and downtempo chill.
+#EXTINF:0, - SomaFM 🇺🇸: Beat Blender (#4): A late night blend of deep-house and downtempo chill. [aac 64k]
 http://ice5.somafm.com/beatblender-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#1): From the Playa to the world, for the annual Burning Man festival.
+#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#1): From the Playa to the world, for the annual Burning Man festival. [aac 64k]
 http://ice6.somafm.com/brfm-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#2): From the Playa to the world, for the annual Burning Man festival.
+#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#2): From the Playa to the world, for the annual Burning Man festival. [aac 64k]
 http://ice4.somafm.com/brfm-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#3): From the Playa to the world, for the annual Burning Man festival.
+#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#3): From the Playa to the world, for the annual Burning Man festival. [aac 64k]
 http://ice2.somafm.com/brfm-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#4): From the Playa to the world, for the annual Burning Man festival.
+#EXTINF:0, - SomaFM 🇺🇸: Black Rock FM (#4): From the Playa to the world, for the annual Burning Man festival. [aac 64k]
 http://ice5.somafm.com/brfm-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#1): Americana Roots music for Cowhands, Cowpokes and Cowtippers
+#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#1): Americana Roots music for Cowhands, Cowpokes and Cowtippers [aac 64k]
 http://ice4.somafm.com/bootliquor-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#2): Americana Roots music for Cowhands, Cowpokes and Cowtippers
+#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#2): Americana Roots music for Cowhands, Cowpokes and Cowtippers [aac 64k]
 http://ice6.somafm.com/bootliquor-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#3): Americana Roots music for Cowhands, Cowpokes and Cowtippers
+#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#3): Americana Roots music for Cowhands, Cowpokes and Cowtippers [aac 64k]
 http://ice2.somafm.com/bootliquor-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#4): Americana Roots music for Cowhands, Cowpokes and Cowtippers
+#EXTINF:0, - SomaFM 🇺🇸: Boot Liquor (#4): Americana Roots music for Cowhands, Cowpokes and Cowtippers [aac 64k]
 http://ice5.somafm.com/bootliquor-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#1): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#1): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [aac 64k]
 http://ice6.somafm.com/bossa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#2): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#2): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [aac 64k]
 http://ice4.somafm.com/bossa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#3): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#3): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [aac 64k]
 http://ice2.somafm.com/bossa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#4): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+#EXTINF:0, - SomaFM 🇺🇸: Bossa Beyond (Special) (#4): Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond [aac 64k]
 http://ice5.somafm.com/bossa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#1): Celebrating 25 years of music, chilling and camping
+#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#1): Celebrating 25 years of music, chilling and camping [aac 64k]
 http://ice4.somafm.com/chillits-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#2): Celebrating 25 years of music, chilling and camping
+#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#2): Celebrating 25 years of music, chilling and camping [aac 64k]
 http://ice6.somafm.com/chillits-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#3): Celebrating 25 years of music, chilling and camping
+#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#3): Celebrating 25 years of music, chilling and camping [aac 64k]
 http://ice2.somafm.com/chillits-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#4): Celebrating 25 years of music, chilling and camping
+#EXTINF:0, - SomaFM 🇺🇸: Chillits Radio (Special) (#4): Celebrating 25 years of music, chilling and camping [aac 64k]
 http://ice5.somafm.com/chillits-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#1): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
+#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#1): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [aac 64k]
 http://ice6.somafm.com/cliqhop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#2): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
+#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#2): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [aac 64k]
 http://ice4.somafm.com/cliqhop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#3): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
+#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#3): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [aac 64k]
 http://ice2.somafm.com/cliqhop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#4): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
+#EXTINF:0, - SomaFM 🇺🇸: cliqhop idm (#4): Blips'n'beeps backed mostly w/beats. Intelligent Dance Music. [aac 64k]
 http://ice5.somafm.com/cliqhop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Covers (#1): Just covers. Songs you know by artists you don't. We've got you covered.
+#EXTINF:0, - SomaFM 🇺🇸: Covers (#1): Just covers. Songs you know by artists you don't. We've got you covered. [aac 64k]
 http://ice2.somafm.com/covers-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Covers (#2): Just covers. Songs you know by artists you don't. We've got you covered.
+#EXTINF:0, - SomaFM 🇺🇸: Covers (#2): Just covers. Songs you know by artists you don't. We've got you covered. [aac 64k]
 http://ice6.somafm.com/covers-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Covers (#3): Just covers. Songs you know by artists you don't. We've got you covered.
+#EXTINF:0, - SomaFM 🇺🇸: Covers (#3): Just covers. Songs you know by artists you don't. We've got you covered. [aac 64k]
 http://ice4.somafm.com/covers-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Covers (#4): Just covers. Songs you know by artists you don't. We've got you covered.
+#EXTINF:0, - SomaFM 🇺🇸: Covers (#4): Just covers. Songs you know by artists you don't. We've got you covered. [aac 64k]
 http://ice5.somafm.com/covers-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#1): Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#1): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [aac 64k]
 http://ice4.somafm.com/deepspaceone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#2): Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#2): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [aac 64k]
 http://ice6.somafm.com/deepspaceone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#3): Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#3): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [aac 64k]
 http://ice2.somafm.com/deepspaceone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#4): Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+#EXTINF:0, - SomaFM 🇺🇸: Deep Space One (#4): Deep ambient electronic, experimental and space music. For inner and outer space exploration. [aac 64k]
 http://ice5.somafm.com/deepspaceone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#1): Music for Hacking. The DEF CON Year-Round Channel.
+#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#1): Music for Hacking. The DEF CON Year-Round Channel. [aac 64k]
 http://ice6.somafm.com/defcon-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#2): Music for Hacking. The DEF CON Year-Round Channel.
+#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#2): Music for Hacking. The DEF CON Year-Round Channel. [aac 64k]
 http://ice4.somafm.com/defcon-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#3): Music for Hacking. The DEF CON Year-Round Channel.
+#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#3): Music for Hacking. The DEF CON Year-Round Channel. [aac 64k]
 http://ice2.somafm.com/defcon-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#4): Music for Hacking. The DEF CON Year-Round Channel.
+#EXTINF:0, - SomaFM 🇺🇸: DEF CON Radio (#4): Music for Hacking. The DEF CON Year-Round Channel. [aac 64k]
 http://ice5.somafm.com/defcon-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#1): Digitally affected analog rock to calm the agitated heart.
+#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#1): Digitally affected analog rock to calm the agitated heart. [aac 64k]
 http://ice2.somafm.com/digitalis-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#2): Digitally affected analog rock to calm the agitated heart.
+#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#2): Digitally affected analog rock to calm the agitated heart. [aac 64k]
 http://ice6.somafm.com/digitalis-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#3): Digitally affected analog rock to calm the agitated heart.
+#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#3): Digitally affected analog rock to calm the agitated heart. [aac 64k]
 http://ice4.somafm.com/digitalis-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#4): Digitally affected analog rock to calm the agitated heart.
+#EXTINF:0, - SomaFM 🇺🇸: Digitalis (#4): Digitally affected analog rock to calm the agitated heart. [aac 64k]
 http://ice5.somafm.com/digitalis-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Doomed (#1): Where every day is Halloween: Dark industrial/ambient music for tortured souls.
+#EXTINF:0, - SomaFM 🇺🇸: Doomed (#1): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [aac 64k]
 http://ice2.somafm.com/doomed-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Doomed (#2): Where every day is Halloween: Dark industrial/ambient music for tortured souls.
+#EXTINF:0, - SomaFM 🇺🇸: Doomed (#2): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [aac 64k]
 http://ice6.somafm.com/doomed-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Doomed (#3): Where every day is Halloween: Dark industrial/ambient music for tortured souls.
+#EXTINF:0, - SomaFM 🇺🇸: Doomed (#3): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [aac 64k]
 http://ice4.somafm.com/doomed-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Doomed (#4): Where every day is Halloween: Dark industrial/ambient music for tortured souls.
+#EXTINF:0, - SomaFM 🇺🇸: Doomed (#4): Where every day is Halloween: Dark industrial/ambient music for tortured souls. [aac 64k]
 http://ice5.somafm.com/doomed-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#1): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
+#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#1): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [aac 64k]
 http://ice2.somafm.com/dronezone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#2): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
+#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#2): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [aac 64k]
 http://ice6.somafm.com/dronezone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#3): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
+#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#3): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [aac 64k]
 http://ice4.somafm.com/dronezone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#4): Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
+#EXTINF:0, - SomaFM 🇺🇸: Drone Zone (#4): Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [aac 64k]
 http://ice5.somafm.com/dronezone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#1): Dubstep, Dub and Deep Bass. May damage speakers at high volume.
+#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#1): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [aac 64k]
 http://ice6.somafm.com/dubstep-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#2): Dubstep, Dub and Deep Bass. May damage speakers at high volume.
+#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#2): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [aac 64k]
 http://ice4.somafm.com/dubstep-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#3): Dubstep, Dub and Deep Bass. May damage speakers at high volume.
+#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#3): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [aac 64k]
 http://ice2.somafm.com/dubstep-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#4): Dubstep, Dub and Deep Bass. May damage speakers at high volume.
+#EXTINF:0, - SomaFM 🇺🇸: Dub Step Beyond (#4): Dubstep, Dub and Deep Bass. May damage speakers at high volume. [aac 64k]
 http://ice5.somafm.com/dubstep-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Fluid (#1): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap.
+#EXTINF:0, - SomaFM 🇺🇸: Fluid (#1): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [aac 64k]
 http://ice4.somafm.com/fluid-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Fluid (#2): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap.
+#EXTINF:0, - SomaFM 🇺🇸: Fluid (#2): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [aac 64k]
 http://ice6.somafm.com/fluid-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Fluid (#3): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap.
+#EXTINF:0, - SomaFM 🇺🇸: Fluid (#3): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [aac 64k]
 http://ice2.somafm.com/fluid-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Fluid (#4): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap.
+#EXTINF:0, - SomaFM 🇺🇸: Fluid (#4): Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [aac 64k]
 http://ice5.somafm.com/fluid-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#1): Indie Folk, Alt-folk and the occasional folk classics.
+#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#1): Indie Folk, Alt-folk and the occasional folk classics. [aac 64k]
 http://ice2.somafm.com/folkfwd-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#2): Indie Folk, Alt-folk and the occasional folk classics.
+#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#2): Indie Folk, Alt-folk and the occasional folk classics. [aac 64k]
 http://ice6.somafm.com/folkfwd-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#3): Indie Folk, Alt-folk and the occasional folk classics.
+#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#3): Indie Folk, Alt-folk and the occasional folk classics. [aac 64k]
 http://ice4.somafm.com/folkfwd-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#4): Indie Folk, Alt-folk and the occasional folk classics.
+#EXTINF:0, - SomaFM 🇺🇸: Folk Forward (#4): Indie Folk, Alt-folk and the occasional folk classics. [aac 64k]
 http://ice5.somafm.com/folkfwd-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#1): A nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#1): A nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice6.somafm.com/groovesalad-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#2): A nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#2): A nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice4.somafm.com/groovesalad-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#3): A nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#3): A nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice2.somafm.com/groovesalad-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#4): A nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad (#4): A nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice5.somafm.com/groovesalad-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#1): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#1): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice4.somafm.com/gsclassic-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#2): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#2): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice6.somafm.com/gsclassic-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#3): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#3): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice2.somafm.com/gsclassic-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#4): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+#EXTINF:0, - SomaFM 🇺🇸: Groove Salad Classic (#4): The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [aac 64k]
 http://ice5.somafm.com/gsclassic-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#1): Reggae, Ska, Rocksteady classic and deep tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#1): Reggae, Ska, Rocksteady classic and deep tracks. [aac 64k]
 https://ice2.somafm.com/reggae-128-aac
-#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#2): Reggae, Ska, Rocksteady classic and deep tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#2): Reggae, Ska, Rocksteady classic and deep tracks. [aac 64k]
 https://ice6.somafm.com/reggae-128-aac
-#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#3): Reggae, Ska, Rocksteady classic and deep tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#3): Reggae, Ska, Rocksteady classic and deep tracks. [aac 64k]
 https://ice4.somafm.com/reggae-128-aac
-#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#4): Reggae, Ska, Rocksteady classic and deep tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Heavyweight Reggae (#4): Reggae, Ska, Rocksteady classic and deep tracks. [aac 64k]
 https://ice5.somafm.com/reggae-128-aac
-#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#1): Classic bachelor pad, playful exotica and vintage music of tomorrow.
+#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#1): Classic bachelor pad, playful exotica and vintage music of tomorrow. [aac 64k]
 http://ice4.somafm.com/illstreet-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#2): Classic bachelor pad, playful exotica and vintage music of tomorrow.
+#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#2): Classic bachelor pad, playful exotica and vintage music of tomorrow. [aac 64k]
 http://ice2.somafm.com/illstreet-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#3): Classic bachelor pad, playful exotica and vintage music of tomorrow.
+#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#3): Classic bachelor pad, playful exotica and vintage music of tomorrow. [aac 64k]
 http://ice6.somafm.com/illstreet-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#4): Classic bachelor pad, playful exotica and vintage music of tomorrow.
+#EXTINF:0, - SomaFM 🇺🇸: Illinois Street Lounge (#4): Classic bachelor pad, playful exotica and vintage music of tomorrow. [aac 64k]
 http://ice5.somafm.com/illstreet-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#1): New and classic favorite indie pop tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#1): New and classic favorite indie pop tracks. [aac 64k]
 http://ice2.somafm.com/indiepop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#2): New and classic favorite indie pop tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#2): New and classic favorite indie pop tracks. [aac 64k]
 http://ice6.somafm.com/indiepop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#3): New and classic favorite indie pop tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#3): New and classic favorite indie pop tracks. [aac 64k]
 http://ice4.somafm.com/indiepop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#4): New and classic favorite indie pop tracks.
+#EXTINF:0, - SomaFM 🇺🇸: Indie Pop Rocks! (#4): New and classic favorite indie pop tracks. [aac 64k]
 http://ice5.somafm.com/indiepop-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#1): Mellow album rock from the Seventies. Yacht not required.
+#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#1): Mellow album rock from the Seventies. Yacht not required. [aac 64k]
 http://ice2.somafm.com/seventies-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#2): Mellow album rock from the Seventies. Yacht not required.
+#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#2): Mellow album rock from the Seventies. Yacht not required. [aac 64k]
 http://ice6.somafm.com/seventies-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#3): Mellow album rock from the Seventies. Yacht not required.
+#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#3): Mellow album rock from the Seventies. Yacht not required. [aac 64k]
 http://ice4.somafm.com/seventies-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#4): Mellow album rock from the Seventies. Yacht not required.
+#EXTINF:0, - SomaFM 🇺🇸: Left Coast 70s (#4): Mellow album rock from the Seventies. Yacht not required. [aac 64k]
 http://ice5.somafm.com/seventies-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Lush (#1): Sensuous and mellow female vocals, many with an electronic influence.
+#EXTINF:0, - SomaFM 🇺🇸: Lush (#1): Sensuous and mellow female vocals, many with an electronic influence. [aac 64k]
 http://ice4.somafm.com/lush-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Lush (#2): Sensuous and mellow female vocals, many with an electronic influence.
+#EXTINF:0, - SomaFM 🇺🇸: Lush (#2): Sensuous and mellow female vocals, many with an electronic influence. [aac 64k]
 http://ice2.somafm.com/lush-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Lush (#3): Sensuous and mellow female vocals, many with an electronic influence.
+#EXTINF:0, - SomaFM 🇺🇸: Lush (#3): Sensuous and mellow female vocals, many with an electronic influence. [aac 64k]
 http://ice6.somafm.com/lush-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Lush (#4): Sensuous and mellow female vocals, many with an electronic influence.
+#EXTINF:0, - SomaFM 🇺🇸: Lush (#4): Sensuous and mellow female vocals, many with an electronic influence. [aac 64k]
 http://ice5.somafm.com/lush-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#1): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial.
+#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#1): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [aac 64k]
 http://ice2.somafm.com/metal-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#2): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial.
+#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#2): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [aac 64k]
 http://ice6.somafm.com/metal-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#3): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial.
+#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#3): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [aac 64k]
 http://ice4.somafm.com/metal-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#4): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial.
+#EXTINF:0, - SomaFM 🇺🇸: Metal Detector (#4): From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [aac 64k]
 http://ice5.somafm.com/metal-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#1): Celebrating NASA and Space Explorers everywhere.
+#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#1): Celebrating NASA and Space Explorers everywhere. [aac 64k]
 http://ice2.somafm.com/missioncontrol-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#2): Celebrating NASA and Space Explorers everywhere.
+#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#2): Celebrating NASA and Space Explorers everywhere. [aac 64k]
 http://ice6.somafm.com/missioncontrol-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#3): Celebrating NASA and Space Explorers everywhere.
+#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#3): Celebrating NASA and Space Explorers everywhere. [aac 64k]
 http://ice4.somafm.com/missioncontrol-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#4): Celebrating NASA and Space Explorers everywhere.
+#EXTINF:0, - SomaFM 🇺🇸: Mission Control (#4): Celebrating NASA and Space Explorers everywhere. [aac 64k]
 http://ice5.somafm.com/missioncontrol-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#1): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music
+#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#1): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [aac 64k]
 http://ice2.somafm.com/n5md-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#2): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music
+#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#2): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [aac 64k]
 http://ice6.somafm.com/n5md-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#3): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music
+#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#3): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [aac 64k]
 http://ice4.somafm.com/n5md-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#4): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music
+#EXTINF:0, - SomaFM 🇺🇸: n5MD Radio (#4): Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [aac 64k]
 http://ice5.somafm.com/n5md-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: PopTron (#1): Electropop and indie dance rock with sparkle and pop.
+#EXTINF:0, - SomaFM 🇺🇸: PopTron (#1): Electropop and indie dance rock with sparkle and pop. [aac 64k] 
 http://ice4.somafm.com/poptron-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: PopTron (#2): Electropop and indie dance rock with sparkle and pop.
+#EXTINF:0, - SomaFM 🇺🇸: PopTron (#2): Electropop and indie dance rock with sparkle and pop. [aac 64k]
 http://ice2.somafm.com/poptron-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: PopTron (#3): Electropop and indie dance rock with sparkle and pop.
+#EXTINF:0, - SomaFM 🇺🇸: PopTron (#3): Electropop and indie dance rock with sparkle and pop. [aac 64k]
 http://ice6.somafm.com/poptron-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: PopTron (#4): Electropop and indie dance rock with sparkle and pop.
+#EXTINF:0, - SomaFM 🇺🇸: PopTron (#4): Electropop and indie dance rock with sparkle and pop. [aac 64k]
 http://ice5.somafm.com/poptron-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#1): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#1): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [aac 64k]
 http://ice6.somafm.com/secretagent-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#2): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#2): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [aac 64k]
 http://ice4.somafm.com/secretagent-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#3): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#3): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [aac 64k]
 http://ice2.somafm.com/secretagent-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#4): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+#EXTINF:0, - SomaFM 🇺🇸: Secret Agent (#4): The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [aac 64k]
 http://ice5.somafm.com/secretagent-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#1): Vintage soul tracks from the original 45 RPM vinyl.
+#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#1): Vintage soul tracks from the original 45 RPM vinyl. [aac 64k]
 http://ice4.somafm.com/7soul-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#2): Vintage soul tracks from the original 45 RPM vinyl.
+#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#2): Vintage soul tracks from the original 45 RPM vinyl. [aac 64k]
 http://ice6.somafm.com/7soul-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#3): Vintage soul tracks from the original 45 RPM vinyl.
+#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#3): Vintage soul tracks from the original 45 RPM vinyl. [aac 64k]
 http://ice2.somafm.com/7soul-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#4): Vintage soul tracks from the original 45 RPM vinyl.
+#EXTINF:0, - SomaFM 🇺🇸: Seven Inch Soul (#4): Vintage soul tracks from the original 45 RPM vinyl. [aac 64k]
 http://ice5.somafm.com/7soul-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#1): Ambient music mixed with the sounds of San Francisco public safety radio traffic.
+#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#1): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [aac 64k]
 http://ice6.somafm.com/sf1033-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#2): Ambient music mixed with the sounds of San Francisco public safety radio traffic.
+#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#2): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [aac 64k]
 http://ice4.somafm.com/sf1033-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#3): Ambient music mixed with the sounds of San Francisco public safety radio traffic.
+#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#3): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [aac 64k]
 http://ice2.somafm.com/sf1033-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#4): Ambient music mixed with the sounds of San Francisco public safety radio traffic.
+#EXTINF:0, - SomaFM 🇺🇸: SF 10-33 (#4): Ambient music mixed with the sounds of San Francisco public safety radio traffic. [aac 64k]
 http://ice5.somafm.com/sf1033-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#1): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields.
+#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#1): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [aac 64k]
 http://ice2.somafm.com/sfinsf-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#2): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields.
+#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#2): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [aac 64k]
 http://ice6.somafm.com/sfinsf-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#3): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields.
+#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#3): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [aac 64k]
 http://ice4.somafm.com/sfinsf-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#4): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields.
+#EXTINF:0, - SomaFM 🇺🇸: SF in SF (#4): Author readings and discussions from the science fiction, fantasy, horror, and genre literary fields. [aac 64k]
 http://ice5.somafm.com/sfinsf-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#1): San Francisco Public Safety Scanner Feed
+#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#1): San Francisco Public Safety Scanner Feed [aac 64k]
 http://ice2.somafm.com/scanner-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#2): San Francisco Public Safety Scanner Feed
+#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#2): San Francisco Public Safety Scanner Feed [aac 64k]
 http://ice6.somafm.com/scanner-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#3): San Francisco Public Safety Scanner Feed
+#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#3): San Francisco Public Safety Scanner Feed [aac 64k]
 http://ice4.somafm.com/scanner-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#4): San Francisco Public Safety Scanner Feed
+#EXTINF:0, - SomaFM 🇺🇸: SF Police Scanner (#4): San Francisco Public Safety Scanner Feed [aac 64k]
 http://ice5.somafm.com/scanner-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#1): Special Live Events and rebroadcasts of past live events
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#1): Special Live Events and rebroadcasts of past live events [aac 64k]
 http://ice2.somafm.com/live-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#2): Special Live Events and rebroadcasts of past live events
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#2): Special Live Events and rebroadcasts of past live events [aac 64k]
 http://ice6.somafm.com/live-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#3): Special Live Events and rebroadcasts of past live events
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#3): Special Live Events and rebroadcasts of past live events [aac 64k]
 http://ice4.somafm.com/live-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#4): Special Live Events and rebroadcasts of past live events
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Live (#4): Special Live Events and rebroadcasts of past live events [aac 64k]
 http://ice5.somafm.com/live-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#1): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More!
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#1): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [aac 64k]
 http://ice4.somafm.com/specials-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#2): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More!
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#2): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [aac 64k]
 http://ice2.somafm.com/specials-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#3): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More!
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#3): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [aac 64k]
 http://ice6.somafm.com/specials-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#4): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More!
+#EXTINF:0, - SomaFM 🇺🇸: SomaFM Specials (#4): Now featuring Afternoon Jazz, Wavepool, DubX, The Surf Report & More! [aac 64k]
 http://ice5.somafm.com/specials-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#1): Transcending the world of jazz with eclectic, avant-garde takes on tradition.
+#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#1): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [aac 64k]
 http://ice2.somafm.com/sonicuniverse-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#2): Transcending the world of jazz with eclectic, avant-garde takes on tradition.
+#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#2): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [aac 64k]
 http://ice6.somafm.com/sonicuniverse-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#3): Transcending the world of jazz with eclectic, avant-garde takes on tradition.
+#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#3): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [aac 64k]
 http://ice4.somafm.com/sonicuniverse-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#4): Transcending the world of jazz with eclectic, avant-garde takes on tradition.
+#EXTINF:0, - SomaFM 🇺🇸: Sonic Universe (#4): Transcending the world of jazz with eclectic, avant-garde takes on tradition. [aac 64k]
 http://ice5.somafm.com/sonicuniverse-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#1): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
+#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#1): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [aac 64k]
 http://ice2.somafm.com/spacestation-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#2): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
+#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#2): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [aac 64k]
 http://ice6.somafm.com/spacestation-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#3): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
+#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#3): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [aac 64k]
 http://ice4.somafm.com/spacestation-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#4): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
+#EXTINF:0, - SomaFM 🇺🇸: Space Station Soma (#4): Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [aac 64k]
 http://ice5.somafm.com/spacestation-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#1): Desi-influenced Asian world beats and beyond.
+#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#1): Desi-influenced Asian world beats and beyond. [aac 64k]
 http://ice2.somafm.com/suburbsofgoa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#2): Desi-influenced Asian world beats and beyond.
+#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#2): Desi-influenced Asian world beats and beyond. [aac 64k]
 http://ice6.somafm.com/suburbsofgoa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#3): Desi-influenced Asian world beats and beyond.
+#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#3): Desi-influenced Asian world beats and beyond. [aac 64k]
 http://ice4.somafm.com/suburbsofgoa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#4): Desi-influenced Asian world beats and beyond.
+#EXTINF:0, - SomaFM 🇺🇸: Suburbs of Goa (#4): Desi-influenced Asian world beats and beyond. [aac 64k]
 http://ice5.somafm.com/suburbsofgoa-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#1): Featuring the music from an independent record label focused on modern electronic ambient and space music.
+#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#1): Featuring the music from an independent record label focused on modern electronic ambient and space music. [aac 64k]
 http://ice2.somafm.com/synphaera-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#2): Featuring the music from an independent record label focused on modern electronic ambient and space music.
+#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#2): Featuring the music from an independent record label focused on modern electronic ambient and space music. [aac 64k]
 http://ice6.somafm.com/synphaera-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#3): Featuring the music from an independent record label focused on modern electronic ambient and space music.
+#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#3): Featuring the music from an independent record label focused on modern electronic ambient and space music. [aac 64k]
 http://ice4.somafm.com/synphaera-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#4): Featuring the music from an independent record label focused on modern electronic ambient and space music.
+#EXTINF:0, - SomaFM 🇺🇸: Synphaera Radio (#4): Featuring the music from an independent record label focused on modern electronic ambient and space music. [aac 64k]
 http://ice5.somafm.com/synphaera-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#1): The darker side of deep ambient. Music for staring into the Abyss.
+#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#1): The darker side of deep ambient. Music for staring into the Abyss. [aac 64k]
 http://ice6.somafm.com/darkzone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#2): The darker side of deep ambient. Music for staring into the Abyss.
+#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#2): The darker side of deep ambient. Music for staring into the Abyss. [aac 64k]
 http://ice4.somafm.com/darkzone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#3): The darker side of deep ambient. Music for staring into the Abyss.
+#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#3): The darker side of deep ambient. Music for staring into the Abyss. [aac 64k]
 http://ice2.somafm.com/darkzone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#4): The darker side of deep ambient. Music for staring into the Abyss.
+#EXTINF:0, - SomaFM 🇺🇸: The Dark Zone (#4): The darker side of deep ambient. Music for staring into the Abyss. [aac 64k]
 http://ice5.somafm.com/darkzone-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#1): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.
+#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#1): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [aac 64k]
 http://ice2.somafm.com/insound-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#2): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.
+#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#2): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [aac 64k]
 http://ice6.somafm.com/insound-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#3): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.
+#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#3): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [aac 64k]
 http://ice4.somafm.com/insound-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#4): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.
+#EXTINF:0, - SomaFM 🇺🇸: The In-Sound (Special) (#4): 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes. [aac 64k]
 http://ice5.somafm.com/insound-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Trip (#1): Progressive house / trance. Tip top tunes.
+#EXTINF:0, - SomaFM 🇺🇸: The Trip (#1): Progressive house / trance. Tip top tunes. [aac 64k]
 http://ice6.somafm.com/thetrip-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Trip (#2): Progressive house / trance. Tip top tunes.
+#EXTINF:0, - SomaFM 🇺🇸: The Trip (#2): Progressive house / trance. Tip top tunes. [aac 64k]
 http://ice4.somafm.com/thetrip-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Trip (#3): Progressive house / trance. Tip top tunes.
+#EXTINF:0, - SomaFM 🇺🇸: The Trip (#3): Progressive house / trance. Tip top tunes. [aac 64k]
 http://ice2.somafm.com/thetrip-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: The Trip (#4): Progressive house / trance. Tip top tunes.
+#EXTINF:0, - SomaFM 🇺🇸: The Trip (#4): Progressive house / trance. Tip top tunes. [aac 64k]
 http://ice5.somafm.com/thetrip-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#1): Exploring music from Celtic roots and branches
+#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#1): Exploring music from Celtic roots and branches [aac 64k]
 http://ice4.somafm.com/thistle-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#2): Exploring music from Celtic roots and branches
+#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#2): Exploring music from Celtic roots and branches [aac 64k]
 http://ice2.somafm.com/thistle-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#3): Exploring music from Celtic roots and branches
+#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#3): Exploring music from Celtic roots and branches [aac 64k]
 http://ice6.somafm.com/thistle-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#4): Exploring music from Celtic roots and branches
+#EXTINF:0, - SomaFM 🇺🇸: ThistleRadio (#4): Exploring music from Celtic roots and branches [aac 64k]
 http://ice5.somafm.com/thistle-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#1): Classic Tiki music and Vintage island rhythms to sip cocktails by.
+#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#1): Classic Tiki music and Vintage island rhythms to sip cocktails by. [aac 64k]
 http://ice6.somafm.com/tikitime-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#2): Classic Tiki music and Vintage island rhythms to sip cocktails by.
+#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#2): Classic Tiki music and Vintage island rhythms to sip cocktails by. [aac 64k]
 http://ice4.somafm.com/tikitime-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#3): Classic Tiki music and Vintage island rhythms to sip cocktails by.
+#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#3): Classic Tiki music and Vintage island rhythms to sip cocktails by. [aac 64k]
 http://ice2.somafm.com/tikitime-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#4): Classic Tiki music and Vintage island rhythms to sip cocktails by.
+#EXTINF:0, - SomaFM 🇺🇸: Tiki Time (Special) (#4): Classic Tiki music and Vintage island rhythms to sip cocktails by. [aac 64k]
 http://ice5.somafm.com/tikitime-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#1): Early 80s UK Synthpop and a bit of New Wave.
+#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#1): Early 80s UK Synthpop and a bit of New Wave. [aac 64k]
 http://ice6.somafm.com/u80s-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#2): Early 80s UK Synthpop and a bit of New Wave.
+#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#2): Early 80s UK Synthpop and a bit of New Wave. [aac 64k]
 http://ice4.somafm.com/u80s-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#3): Early 80s UK Synthpop and a bit of New Wave.
+#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#3): Early 80s UK Synthpop and a bit of New Wave. [aac 64k]
 http://ice2.somafm.com/u80s-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#4): Early 80s UK Synthpop and a bit of New Wave.
+#EXTINF:0, - SomaFM 🇺🇸: Underground 80s (#4): Early 80s UK Synthpop and a bit of New Wave. [aac 64k]
 http://ice5.somafm.com/u80s-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#1): All Vaporwave. All the time.
+#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#1): All Vaporwave. All the time. [aac 64k]
 http://ice4.somafm.com/vaporwaves-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#2): All Vaporwave. All the time.
+#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#2): All Vaporwave. All the time. [aac 64k]
 http://ice2.somafm.com/vaporwaves-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#3): All Vaporwave. All the time.
+#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#3): All Vaporwave. All the time. [aac 64k]
 http://ice6.somafm.com/vaporwaves-64-aac
-#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#4): All Vaporwave. All the time.
+#EXTINF:0, - SomaFM 🇺🇸: Vaporwaves (#4): All Vaporwave. All the time. [aac 64k]
 http://ice5.somafm.com/vaporwaves-64-aac
 #EXTINF:0, - Spanish Rock Shot 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Edinburgh Scotland][U.K.][spanishrockshot.com][aac 128k][💻🎧🕵️-New]
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC062.aac
