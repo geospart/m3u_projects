@@ -10,6 +10,7 @@
 # https://github.com/geospart
 # https://laut.fm/stations/ [research]
 # https://mxtoolbox.com/SuperTool.aspx [research]
+# https://lookup.icann.org/en/lookup
 # https://github.com/junguler/m3u-radio-music-playlists/ [research]
 # updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
 # Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
@@ -825,7 +826,7 @@ http://bx01.junkes.it/flac
 https://stream78.hearthis.at/index.php?track=brooklynradio/mtr-episode32&secret=cRbx7
 #EXTINF:0, - C9 🇫🇷 [www.c9.fr][FLAC/OGG]
 https://stream.c9.fr/c9radio-flac.ogg.m3u
-#EXTINF:0, -C9 🇫🇷 [www.c9.fr][MP3 192k]
+#EXTINF:0, - C9 🇫🇷 [www.c9.fr][MP3 192k]
 http://stream.c9.fr/c9radio-192.mp3.m3u
 #EXTINF:0, - C9 🇫🇷 [www.c9.fr][M4A]
 http://stream.c9.fr/c9radio-32.m4a.m3u
@@ -1347,6 +1348,8 @@ http://edge-bauerall-01-gos2.sharp-stream.com/clyde2.mp3
 http://ec5.yesstreaming.net:2065/stream
 #EXTINF:0, - Greatest Hits Radio Manchester 🇬🇧 [RadioFeeds.co.uk][hellorayo.co.uk/greatest-hits/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
+#EXTINF:0, - Gull Bylgjan 90.9 🇮🇸 [80s-90's][Reykjavík Iceland][bylgjan.visir.is][also listed under visir][💻🎧🕵️-New]
+https://icecast.visir.is/orbGullBylgjan.aac
 #EXTINF:0, - Half Moon Radio 🇺🇸 [New York][halfmoonbk.com][Freeform]
 https://half-moon.radiocult.fm/stream
 #EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][mp3 192k[💻🎧🕵️-New]
@@ -1375,6 +1378,8 @@ https://ice-sov.musicradio.com/HeartLondonMP3
 https://ice-sov.musicradio.com/HeartLondon
 #EXTINF:0, - Hits Radio Manchester 🇬🇧 [RadioFeeds.co.uk][hellorayo.co.uk/hits-radio/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/key.mp3
+#EXTINF:0, - House of Love Radio 🇺🇸 [ST Louis MO][Indie Freeform][holstudios.com][💻🎧🕵️-New]
+http://68.126.192.95:8003/
 #EXTINF:0, - Hoxton Radio 🇬🇧 [London England][hoxtonradio.com][Freeform]
 http://99.198.118.250:8014/stream
 #EXTINF:0, - Hoxton Radio 🇬🇧 [London England][hoxtonradio.com][Freeform]
@@ -1451,6 +1456,10 @@ https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/master.m3u8
 https://streams.radio.co/s053b51423/listen
 #EXTINF:0, - IDC Radio 🇮🇱 [Herzliya, hmz, Israel][College Radio][1062fm.co.il]
 https://1062onair.runi.ac.il/idc123.mp3
+#EXTINF:0, - IndieSpectrum Radio 🇮🇸 🇺🇸 [Reykjavik Iceland / Lake City Fl??][Indie][indiespectrum.com][💻🎧🕵️-New]
+http://indiespectrum.com:9000/;
+#EXTINF:0, - IndieSpectrum Radio 🇮🇸 🇺🇸 [Reykjavik Iceland / Lake City Fl]??[Indie][indiespectrum.com][💻🎧🕵️-New]
+http://162.0.224.246:9000/
 #EXTINF:0, - Internet Public Radio 🇲🇽 [Guadalajara Mexico][internetpublicradio.live][Freeform]
 https://c11.radioboss.fm:18270/stream
 #EXTINF:0, - IRIB World Service 🇮🇷 [Iran][parstoday.ir/en/radio][SW📻]
@@ -1971,6 +1980,14 @@ https://14923.live.streamtheworld.com/KNBAFM.mp3
 https://streamdb6web.securenetsystems.net/cirrusencore/KNCT
 #EXTINF:0, - KNDS-LP 🇺🇸 96.3 North Dakota State University [Fargo ND][myndsu.ndsu.edu/organization/knds][offline]
 http://173.244.209.143:8190/;
+#EXTINF:0, - KNR Radio 🇬🇱 Greenlandic Broadcasting Corporation [Nuuk Greenland][knr.gl/kl/knr-radio][mp3 16k][💻🎧🕵️-New]
+https://rrr.sz.xlcdn.com/?account=knr&file=audio16&type=live&service=icecast&port=8000&output=pls&protocol=https
+#EXTINF:0, - KNR Radio 🇬🇱 Greenlandic Broadcasting Corporation [Nuuk Greenland][knr.gl/kl/knr-radio][mp3 24k][💻🎧🕵️-New]
+https://rrr.sz.xlcdn.com/?account=knr&file=audio24&type=live&service=icecast&port=8000&output=pls&protocol=https
+#EXTINF:0, - KNR Radio 🇬🇱 Greenlandic Broadcasting Corporation [Nuuk Greenland][knr.gl/kl/knr-radio][mp3 192k][💻🎧🕵️-New]
+https://knr.gl/radiolivestream
+#EXTINF:0, - KNR tusarnaarpat 🇬🇱 Greenlandic Broadcasting Corporation [Nuuk Greenland][knr.gl/kl/knr-radio][mp3 192k][💻🎧🕵️-New]
+https://knr.gl/radiolivestream
 #EXTINF:0, - KNHC 🇺🇸 89.5 C89.5 Seattles Home For Dance [Seattle WA][c895.org]
 https://knhc-ice.streamguys1.com/live
 #EXTINF:0, - KNKX 🇺🇸 88.5 [Jazz][News][Tacoma/Seattle WA][knkx.org][aac-256]
@@ -2593,6 +2610,10 @@ https://kzyx.mcn.org/kzyxlive
 http://icecast.l-uni.co:8001/lunico_high_mp3
 #EXTINF:0, - L’UniCo 🇩🇪 89.4 University Paderborn [Paderborn Germany][l-uni.co][ogg]
 http://icecast.l-uni.co:8001/lunico_high_ogg
+#EXTINF:0, - Lava Lounge - Playing The Best Unsigned Music 🇦🇺 [Australia][Freeform Indie][lavaloungeradio.com][💻🎧🕵️-New]
+https://usa10.fastcast4u.com:7840/;
+#EXTINF:0, - Lava Lounge - Playing The Best Unsigned Music 🇦🇺 [Australia][Freeform Indie][lavaloungeradio.com][💻🎧🕵️-New]
+https://usa10.fastcast4u.com/bigben2010dj
 #EXTINF:0, - LBC 🇬🇧 [Talk][www.lbc.co.uk][London][aac 48k]
 http://media-sov.musicradio.com/LBCLondon
 #EXTINF:0, - LBC 🇬🇧 [Talk][www.lbc.co.uk][mp3 48k]
@@ -2625,6 +2646,8 @@ https://radio.goodtimesbadtimes.club/radio/8020/radio.mp3
 http://nthmost.net:8000/mutiny-studio
 #EXTINF:0, - N10.AS 🇨🇦 [Montreal Canada][n10.as][Freeform]
 https://n10as.out.airtime.pro/n10as_a
+#EXTINF:0, - Nanoq 100.0 🇬🇱 [Nuuk Greenland][nanoqmedia.gl][mp3 192k][💻🎧🕵️-New]
+http://getnanoq.retro-radio.dk/Nanoq-TX-1
 #EXTINF:0, - NARR RADIO 🇬🇧 [Leeds England][narr.co.uk][Freeform]
 https://s4.radio.co/s695e0d95b/listen
 #EXTINF:0, - Nation Dance-Club Nation 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][nationplayer.com/nation-radio-uk][mp3 128k][💻🎧🕵️-New]
@@ -2775,6 +2798,10 @@ https://listen.radioking.com/radio/47608/stream/84430
 https://ia800304.us.archive.org/0/items/sraa-radio-berlin-international-final-episode-october-2-1990/RadioBerlinInternational-9.730MHz-02October1990-0045UTC.mp3
 #EXTINF:0, - RadioBoss.fm 🏴󠁺󠁷󠁭󠁥󠁿 80s Flashback Radio [https://c23.radioboss.fm/u/129][FLAC]
 https://c23.radioboss.fm:8129/stream
+#EXTINF:0, - Radio Bruškin 🇲🇪 [Kotor Montenegro][Freeform Indie][radiobruskin.me][💻🎧🕵️-New]
+http://167.86.116.99:8004/stream
+#EXTINF:0, - Radio Bruškin 🇲🇪 [Kotor Montenegro][Freeform Indie][radiobruskin.me][💻🎧🕵️-New]
+https://player.radiobruskin.me/proxy/radiobruskin/stream
 #EXTINF:0, - Radio Budapest Hungary 🇭🇺 [www.radio.hu][✖][✖2015💀SW📻]
 https://ia601607.us.archive.org/27/items/sraa-radio-budapest-august-25-2009/Radio_Budapest_-_6150_-_20090825_011231GMT.mp3
 #EXTINF:0, - Radio Buena Vida 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][buenavida.co.uk][Freeform]
@@ -3905,6 +3932,57 @@ https://umfm.com/media/listen/umfm_high.m3u
 https://radio.vaticannews.va/stream-en
 #EXTINF:0, - Virgin Radio 🇬🇧 [mp3 128k]
 http://radio.virginradio.co.uk/stream
+#EXTINF:0, - Visir 80's Bylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/80s/chunklist_DVR.m3u8
+#EXTINF:0, - Visir 80's Bylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][aac 130k][💻🎧🕵️-New]
+https://icecast.visir.is/orb80s.aac
+#EXTINF:0, - Visir Apparatið 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/apparatid/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Apparatið 🇮🇸 [Reykjavík Iceland][pop][visir.is][aac 130k][💻🎧🕵️-New]
+http://icecast.365net.is:8000/orbApparatid.aac
+#EXTINF:0, - Visir Bylgjan 🇮🇸 [Reykjavík Iceland][pop][bylgjan.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/bylgjan/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Bylgjan 🇮🇸 [Reykjavík Iceland][pop][bylgjan.visir.is][aac 130k[💻🎧🕵️-New]
+http://icecast.365net.is:8000/orbbylgjan.aac
+#EXTINF:0, - Visir Country Bylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/fmextra/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Country Íslenska Bylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/islenska/chunklist_DVR.m3u8
+#EXTINF:0, - Visir FM 957e 🇮🇸 [Reykjavík Iceland][pop][fm957.visir.is][aac 130k][💻🎧🕵️-New]
+https://icecast.visir.is/orbFm957.aac
+#EXTINF:0, - Visir FM 957e 🇮🇸 [Reykjavík Iceland][pop][fm957.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/fm957/chunklist.m3u8
+#EXTINF:0, - Visir FM 957e 🇮🇸 [Reykjavík Iceland][pop][fm957.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/fm957/chunklist_DVR.m3u8
+#EXTINF:0, - Visir FMExtra 🇮🇸 [Reykjavík Iceland][pop][visir.is][AAC 130k][💻🎧🕵️-New]
+http://icecast.365net.is:8000/orbFmExtra.aac
+#EXTINF:0, - Visir FMX 🇮🇸 [Reykjavík Iceland][pop][visir.is][AAC 130k][💻🎧🕵️-New]
+http://icecast.365net.is:8000/orbFMX.aac
+#EXTINF:0, - Visir Gullbylgjane 🇮🇸 [Reykjavík Iceland][pop][fm957.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/gullbylgjan/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Gullbylgjane 🇮🇸 [Reykjavík Iceland][pop][fm957.visir.is][aac 130k[💻🎧🕵️-New]
+https://icecast.visir.is/orbGullBylgjan.aac
+#EXTINF:0, - Visir K100 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://k100streymi.mbl.is/beint/k100/tracks-v1a1/mono.m3u8
+#EXTINF:0, - Visir Klassík 🇮🇸 [Reykjavík Iceland][pop][fmx.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/fmx/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Léttbylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/lettbylgjan/chunklist_DVR.m3u8
+#EXTINF:0, - Visir Léttbylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][aac 97k][💻🎧🕵️-New]
+http://icecast.365net.is:8000/orbLettBylgjan.aac
+#EXTINF:0, - Visir Léttbylgjan 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://icecast.visir.is/orbLettBylgjan.aac
+#EXTINF:0, - Visir Rás 1 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://ruv-radio-live.akamaized.net/streymi/ras1/ras1/ras1.m3u8
+#EXTINF:0, - Visir Rás 2 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://ruv-radio-live.akamaized.net/streymi/ras2/ras2/ras2.m3u8
+#EXTINF:0, - Visir X977 🇮🇸 [Reykjavík Iceland][pop][x977.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/x977/chunklist_DVR.m3u8
+#EXTINF:0, - Visir X977 🇮🇸 [Reykjavík Iceland][pop][x977.visir.is][💻🎧🕵️-New]
+https://live.visir.is/hls-radio/x977/playlist.m3u8
+#EXTINF:0, - Visir X977 🇮🇸 [Reykjavík Iceland][pop][x977.visir.is][aac 130k][💻🎧🕵️-New]
+#EXTINF:0, - Visir Rondó 🇮🇸 [Reykjavík Iceland][pop][visir.is][💻🎧🕵️-New]
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8
 #EXTINF:0, - VOA 🇺🇸 Voice of America [Chinese][SW📻]
 http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11
 #EXTINF:0, - VOA 🇺🇸 Voice of America [English][SW📻]
