@@ -403,17 +403,19 @@ https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8
 https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8
 #EXTINF:0, - ABC 🇦🇺Triple J Unearthed [abc.net.au/triplejunearthed]
 https://www.abc.net.au/res/streaming/audio-live/shout-aac/unearthed.pls
-#EXTINF:0, - Absolute 00s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 00s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute00s.aac
-#EXTINF:0, - Absolute 10s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 10s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute10s.aac
-#EXTINF:0, - Absolute 60s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 20s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
+https://stream-ar.hellorayo.co.uk/absolute20s.aac
+#EXTINF:0, - Absolute 60s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute60s.aac
-#EXTINF:0, - Absolute 70s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 70s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute70s.aac
-#EXTINF:0, - Absolute 80s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 80s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute80s.aac
-#EXTINF:0, - Absolute 90s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute 90s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute90s.aac
 #EXTINF:0, - Absolute Classic Rock 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
 https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac
