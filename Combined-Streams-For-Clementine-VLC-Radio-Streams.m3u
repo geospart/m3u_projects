@@ -17,8 +17,6 @@
 # Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
 #************************************************************************
 #************************************************************************
-#EXTINF:0, - *The BugCast 🇬🇧 🐞 [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
-http://stream.otherside.network:8904/listen.mp3
 #EXTINF:0, - 1A12 🇦🇺 87.8 University of Canberra [ucfm.com.au]
 https://www.radioking.com/play/ucfm/631505
 #EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 128k][💻🎧🕵️-New]
@@ -853,6 +851,8 @@ http://no.stream
 http://bx01.junkes.it/flac
 #EXTINF:0, - Brooklyn Radio 🇺🇸 [New York City][brooklynradio.com][Offline Episodes On Site]
 https://stream78.hearthis.at/index.php?track=brooklynradio/mtr-episode32&secret=cRbx7
+#EXTINF:0, - The BugCast 🇬🇧 🐞 [Only Fridays at 9:30pm GMT-Live Audience][thebugcast.org/live][Podcast][mp3 128k]
+http://stream.otherside.network:8904/listen.mp3
 #EXTINF:0, - C9 🇫🇷 [www.c9.fr][FLAC/OGG]
 https://stream.c9.fr/c9radio-flac.ogg.m3u
 #EXTINF:0, - C9 🇫🇷 [www.c9.fr][MP3 192k]
