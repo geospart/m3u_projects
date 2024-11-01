@@ -5,12 +5,13 @@
 # created 08/24/2024
 # 💀SW📻 - Short Wave Offline
 # ✅🕵🕶🦃🧕📻🎙️📶🐞💻
+# https://github.com/geospart
 # https://unicode.org/emoji/charts/full-emoji-list.html [research]
 # https://emojipedia.org/ [research]
-# https://github.com/geospart
 # https://laut.fm/stations/ [research]
+# https://radioplayer.co.uk/ [research]
 # https://mxtoolbox.com/SuperTool.aspx [research]
-# https://lookup.icann.org/en/lookup
+# https://lookup.icann.org/en/lookup [research]
 # https://github.com/junguler/m3u-radio-music-playlists/ [research]
 # updates [💻🎧🕵️-New] [new but not transposed to individual subject files]
 # Format [new] #EXTINF:0, - Station Name 🇦🇺 [Location][Format][url][mp3/aac 0k][💻🎧🕵️-New]
@@ -44,6 +45,10 @@ https://icecast1.myradio.click/streamrelay
 https://surg12-gecko.radioca.st/stream
 #EXTINF:0, - 2UNE 🇦🇺 106.9 University of New England's [Armidale NSW AU][tunefm.net]
 https://icast1.streamcom.net/TuneFM
+3FM 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
+https://n03.rcs.revma.com/0kv9v43t87zuv
+3FM Relax 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
+https://n01.rcs.revma.com/dpfkytz764uvv
 #EXTINF:0, - 3SYN 90.7 [Melbourne VI AU][syn.org.au/syn-90-7][offline]
 http://128.199.77.168:8000/stream907
 #EXTINF:0, - 5UV 🇦🇺 101.5 Radio Adelaide-University of Adelaide [Adelaide SA AU][radioadelaide.org.au]
@@ -58,6 +63,8 @@ http://r5.zetcast.net/flac
 http://cdn1.zetcast.net/stream
 #EXTINF:0, - 6NR 🇦🇺 100.1 Curtin University [Perth WA AU][curtinfm.com.au]
 https://usa7.fastcast4u.com/proxy/curtinfm
+#EXTINF:0, - 6TR 🇬🇧 Six Towns Radio [Stoke-on-Trent, Newcastle-under-Lyme England][6towns.co.uk][💻🎧🕵️-New]
+https://townsra2.radioca.st/stream
 #EXTINF:0, - 8 Ball Radio 🇺🇸 [New York City][8ballradio.nyc][Freeform]
 https://eightball.out.airtime.pro/eightball_a
 #EXTINF:0, - 8K.NZ 🇳🇿 [Christchurch New Zealand][8k.nz][Freeform]
@@ -396,8 +403,24 @@ https://mediaserviceslive.akamaized.net/hls/live/2038345/triplejwa/masterhq.m3u8
 https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8
 #EXTINF:0, - ABC 🇦🇺Triple J Unearthed [abc.net.au/triplejunearthed]
 https://www.abc.net.au/res/streaming/audio-live/shout-aac/unearthed.pls
-#EXTINF:0, - Absolute Radio 80s 🇬🇧 London[mp3 112k]
-http://stream-ar.planetradio.co.uk/absolute80shigh.aac
+#EXTINF:0, - Absolute 00s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute00s.aac
+#EXTINF:0, - Absolute 10s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute10s.aac
+#EXTINF:0, - Absolute 60s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute60s.aac
+#EXTINF:0, - Absolute 70s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute70s.aac
+#EXTINF:0, - Absolute 80s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute80s.aac
+#EXTINF:0, - Absolute 90s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolute90s.aac
+#EXTINF:0, - Absolute Classic Rock 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac
+#EXTINF:0, - Absolute Country 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absolutecountry.aac
+#EXTINF:0, - Absolute Radio 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+https://stream-ar.hellorayo.co.uk/absoluteradio.aac
 #EXTINF:0, - AIDA Radio 🇩🇪 [aidaradio.de][AAC 64k]
 http://frontend.streamonkey.net/aidaradio-meergefuehl
 #EXTINF:0, - AIDA Radio 🇩🇪 [aidaradio.de][FLAC]
@@ -408,6 +431,8 @@ http://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
 http://nas.agapec.fun:38000/mp3
 #EXTINF:0, - Agape's JPop/Anisong Radio 🇨🇳 [China][jpop][nas.agapec.fun:81/public/agapes_anisong_radio][FLAC][💻🎧🕵️-New]
 http://nas.agapec.fun:38000/flac
+#EXTINF:0, - Alfred Radio 107.3 🇬🇧 [Talk][Shaftesbury, Vale and Chase England][thisisalfred.com][💻🎧🕵️-New]
+https://stream2.hippynet.co.uk/stream/8204
 #EXTINF:0, - All India Radio 🇮🇳 [allindiaradio.gov.in *on demand audio*][newsonair.gov.in]
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
 #EXTINF:0, - All India Radio 🇮🇳 [allindiaradio.gov.in][newsonair.gov.in]
@@ -5547,7 +5572,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WYSOFM.mp3
 https://live.streamguys1.com:3181/hd1.mp3
 #EXTINF:0, - WYSU 🇺🇸 88.5-HD2 [Classical][Youngstown OH]
 https://live.streamguys1.com:3181/hd2.mp3
-#EXTINF:0, - Wythenshawe 🇺🇸 FM [Community][www.wfmradio.org][mp3 96k]
+#EXTINF:0, - Wythenshawe FM WFM 97.2 🇬🇧  [Manchester England][Community][www.wfmradio.org][mp3 96k]
 http://radio.canstream.co.uk:8082/live.mp3
 #EXTINF:0, - WYTX 🇺🇸 98.5 York Technical College [Rock Hill SC][wytxrockhill.godaddysites.com]
 https://ice64.securenetsystems.net/WYTX
