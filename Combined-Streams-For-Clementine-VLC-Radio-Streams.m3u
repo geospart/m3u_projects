@@ -43,9 +43,9 @@ https://icecast1.myradio.click/streamrelay
 https://surg12-gecko.radioca.st/stream
 #EXTINF:0, - 2UNE 🇦🇺 106.9 University of New England's [Armidale NSW AU][tunefm.net]
 https://icast1.streamcom.net/TuneFM
-3FM 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
+#EXTINF:0, - 3FM 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
 https://n03.rcs.revma.com/0kv9v43t87zuv
-3FM Relax 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
+#EXTINF:0, - 3FM Relax 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
 https://n01.rcs.revma.com/dpfkytz764uvv
 #EXTINF:0, - 3SYN 90.7 [Melbourne VI AU][syn.org.au/syn-90-7][offline]
 http://128.199.77.168:8000/stream907
