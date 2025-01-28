@@ -30,11 +30,11 @@ https://fr3.1mix.co.uk:8060/;
 #EXTINF:0, - 1Mix Radio-Trance 🇬🇧 [Douglas U.K.][1mix.co.uk][mp3 320k][💻🎧🕵️-New]
 http://fr1.1mix.co.uk:8060/320b
 #EXTINF:0, - 20ft Radio [Kiev Ukraine][20ftradio.net][mp3 320k][Freeform]
-https://c18.radioboss.fm:18146/stream
+https://20ft-radio.radiocult.fm/stream
 #EXTINF:0, - 2MBS 🇦🇺 Fine Music [Sydney][2mbsfinemusicsydney.com][mp3 128k]
 https://fmfm.org.au:8001/finemusicdigital
-#EXTINF:0, - 2MCE 🇦🇺 92.3 Charles Sturt University [Bathurst NSW AU][2mce.org][offline]
-https://arts-ed-streams.csu.edu.au:8080/2MCE
+#EXTINF:0, - 2MCE 🇦🇺 92.3 Charles Sturt University [Bathurst NSW AU][2mce.org]
+https://stream.2mce.org/2MCE
 #EXTINF:0, - 2NUR 🇦🇺 103.7 University of Newcastle [Newcastle NSW AU][mp3 96k][2nurfm.com.au]
 https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3
 #EXTINF:0, - 2SER 🇦🇺 107.3 University of Technology Sydney / Macquarie University [Sydney NSW AU][2ser.com]
@@ -47,8 +47,8 @@ https://icast1.streamcom.net/TuneFM
 https://n03.rcs.revma.com/0kv9v43t87zuv
 #EXTINF:0, - 3FM Relax 🇬🇧 [Isle of Man England][three.fm][💻🎧🕵️-New]
 https://n01.rcs.revma.com/dpfkytz764uvv
-#EXTINF:0, - 3SYN 90.7 [Melbourne VI AU][syn.org.au/syn-90-7][offline]
-http://128.199.77.168:8000/stream907
+#EXTINF:0, - 3SYN 90.7 [Melbourne VI AU][syn.org.au/syn-90-7]
+https://23093.live.streamtheworld.com/3SYNAAC.aac
 #EXTINF:0, - 5UV 🇦🇺 101.5 Radio Adelaide-University of Adelaide [Adelaide SA AU][radioadelaide.org.au]
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ADEAAC.aac
 #EXTINF:0, - 60Nort Radio 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [60north.radio][Sheltland Scotland][AAC 256k]
@@ -69,8 +69,10 @@ https://eightball.out.airtime.pro/eightball_a
 https://radio8k.out.airtime.pro/radio8k_b
 #EXTINF:0, - 8TFM 🇦🇺 104.1 Charles Darwin University [Darwin NT AU][www.territoryfm.com]
 http://streaming.territoryfm.com:8000/TerritoryFM
+#EXTINF:0, - 8TFM 🇦🇺 104.1 Charles Darwin University [Darwin NT AU][www.territoryfm.com]
+https://streaming.territoryfm.com:8443/TerritoryFM
 #EXTINF:0, - 8TFM 🇦🇺 104.1 Charles Darwin University [Serene][Darwin NT AU][www.territoryfm.com]
-https://usa7.fastcast4u.com/proxy/umevpocf
+https://streaming.territoryfm.com:8443/Serene
 #EXTINF:0, - 95 BFM [95bfm.com][FLAC]
 https://streams.95bfm.com/stream112
 #EXTINF:0, - 95BFM 🇳🇿 University of Auckland [New Zealand]
@@ -415,11 +417,11 @@ https://stream-ar.hellorayo.co.uk/absolute70s.aac
 https://stream-ar.hellorayo.co.uk/absolute80s.aac
 #EXTINF:0, - Absolute 90s 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolute90s.aac
-#EXTINF:0, - Absolute Classic Rock 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute Classic Rock 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac
-#EXTINF:0, - Absolute Country 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute Country 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absolutecountry.aac
-#EXTINF:0, - Absolute Radio 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New]
+#EXTINF:0, - Absolute Radio 🇬🇧 London[mp3 112k][hellorayo.co.uk/absolute-radio][💻🎧🕵️-New][VPN Regional]
 https://stream-ar.hellorayo.co.uk/absoluteradio.aac
 #EXTINF:0, - AIDA Radio 🇩🇪 [aidaradio.de][AAC 64k]
 http://frontend.streamonkey.net/aidaradio-meergefuehl
@@ -427,10 +429,6 @@ http://frontend.streamonkey.net/aidaradio-meergefuehl
 https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 #EXTINF:0, - AIDA Radio 🇩🇪 [aidaradio.de][MP3 128k]
 http://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
-#EXTINF:0, - Agape's JPop/Anisong Radio 🇨🇳 [China][jpop][nas.agapec.fun:81/public/agapes_anisong_radio][MP3 128k][💻🎧🕵️-New]
-http://nas.agapec.fun:38000/mp3
-#EXTINF:0, - Agape's JPop/Anisong Radio 🇨🇳 [China][jpop][nas.agapec.fun:81/public/agapes_anisong_radio][FLAC][💻🎧🕵️-New]
-http://nas.agapec.fun:38000/flac
 #EXTINF:0, - Alfred Radio 107.3 🇬🇧 [Talk][Shaftesbury, Vale and Chase England][thisisalfred.com][💻🎧🕵️-New]
 https://stream2.hippynet.co.uk/stream/8204
 #EXTINF:0, - All India Radio 🇮🇳 [allindiaradio.gov.in *on demand audio*][newsonair.gov.in]
@@ -441,10 +439,6 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264k
 https://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:0, - alto radio 🇬🇧 [Leeds England][altoradio.live][Freeform]
 https://stream-169.zeno.fm/gn6bn3tct7zuv
-#EXTINF:0, - American Forces Network 🇺🇸 [USA][myafn.dodmedia.osd.mil][[Stations Index-afngo.net]
-http://no.stream
-#EXTINF:0, - andHow.FM 🇳🇿 107.5 [Mangaroa New Zealand]
-https://us4.internet-radio.com/proxy/andhowfm/stream
 #EXTINF:0, - Angel Radio 🇬🇧 [angelradio.co.uk][mp3 96k]
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:0, - Antena Zadar 🇭🇺 – 97.2 FM [antenazadar.hr][FLAC]
@@ -579,162 +573,128 @@ https://bfm-stream.lancs.ac.uk/mobile.mp3
 https://bfm-stream.lancs.ac.uk/HighQuality.ogg
 #EXTINF:0, - Balamii 🇬🇧 [London England][balamii.com][Freeform]
 https://balamii.out.airtime.pro/balamii_a
-#EXTINF:0, - BBC 🇬🇧 2 Adult Contemporary [U.K.][bbc.co.uk][aac-48k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 [no-rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 [rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Dance [aac-48k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Dance [no-rewind][U.K.][bbc.co.uk][aac-48k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Dance [no-rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Dance [no-rewind][U.K.][bbc.co.uk][aac-98k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Extra [no-rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Relax [no-rewind][U.K.][bbc.co.uk][aac-48k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Relax [no-rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 2 [no-rewind][U.K.][bbc.co.uk][aac-48k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 2 [no-rewind][U.K.][bbc.co.uk][aac-96k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 3 [aac-96k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 3 [no-rewind][U.K.][bbc.co.uk][aac-48k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4 Extra [aac-48k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4 Extra [aac-96k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4FM [aac-48k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4FM [aac-96k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4LW [aac-48k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 4LW [aac-99k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 5 Asian Network [aac-48k][no-rewind][U.K.][bbc.co.uk][dead]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 5 Asian Network [aac-93k][no-rewind][U.K.][bbc.co.uk][dead]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 5 Live [aac-96k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 5 Live Sports [aac-00k][no-rewind][U.K.][bbc.co.uk][dead][dead-uk-only]
-http://as-hls-uk.live.cf.md.bbci.co.uk/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 5 Sports [aac-00k][no-rewind][U.K.][bbc.co.uk][dead-uk-only]
-http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 6 Music [aac-48k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3D48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 6 Music [aac-96k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 6 Music [aac-99k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 CWR Coventry [aac-99k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Essex [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Hereford Worcester [aac-99k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/bbc_radio_hereford_worcester-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Berkshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Bristol [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Cambridge [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Cornwall [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cornwall/bbc_radio_cornwall.isml/bbc_radio_cornwall-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Cumbria [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cumbria/bbc_radio_cumbria.isml/bbc_radio_cumbria-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Cymru 2-Wales  [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Cymru-Wales [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Derby  [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_derby/bbc_radio_derby.isml/bbc_radio_derby-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Devon [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_devon/bbc_radio_devon.isml/bbc_radio_devon-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Foyle [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Gloucestershire  [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_gloucestershire/bbc_radio_gloucestershire.isml/bbc_radio_gloucestershire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Guernsey [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/bbc_radio_guernsey-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Humberside [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/bbc_radio_humberside-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Jersey [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_jersey/bbc_radio_jersey.isml/bbc_radio_jersey-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Kent [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_kent/bbc_radio_kent.isml/bbc_radio_kent-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Lancashire [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_lancashire/bbc_radio_lancashire.isml/bbc_radio_lancashire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Leeds [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Leicester [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_leicester/bbc_radio_leicester.isml/bbc_radio_leicester-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Lincolnshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_lincolnshire/bbc_radio_lincolnshire.isml/bbc_radio_lincolnshire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio London [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Manchester [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Merseyside [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio nan Gaidheal [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Newcastle [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Norfolk [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Northampton [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Nottingham [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nottingham/bbc_radio_nottingham.isml/bbc_radio_nottingham-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Orkney [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Oxford [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Scotland FM [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Scotland MW [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_mw/bbc_radio_scotland_mw.isml/bbc_radio_scotland_mw-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Sheffield [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_sheffield/bbc_radio_sheffield.isml/bbc_radio_sheffield-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Shropshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_shropshire/bbc_radio_shropshire.isml/bbc_radio_shropshire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Solent [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Solent West Dorset [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_solent_west_dorset/bbc_radio_solent_west_dorset.isml/bbc_radio_solent_west_dorset-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Somerset Sound [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_somerset_sound/bbc_radio_somerset_sound.isml/bbc_radio_somerset_sound-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Stoke [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_stoke/bbc_radio_stoke.isml/bbc_radio_stoke-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Suffolk [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Surrey [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Sussex [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_sussex/bbc_radio_sussex.isml/bbc_radio_sussex-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Tees [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Ulster [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Wales [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio Wiltshire [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio WM [aac-98k][no-rewind][U.K.][bbc.co.uk]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Radio York [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 Three Counties [aac-98k][no-rewind][U.K.][bbc.co.uk][☑2024]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3D96000.norewind.m3u8
+#EXTINF:0, - BBC 🇬🇧 1 [bbc.co.uk]
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
+#EXTINF:0, - BBC 🇬🇧 1 [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_one%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 1 [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_1xtra%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 1 Dance [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_one_dance%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 1 Relax [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_one_relax%22&bitrate=320000%22-audio%3D48000.norewind.m3u8
+#EXTINF:0, - BBC 🇬🇧 2 [U.K.][bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_two%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 3 [U.K.][bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_three%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 4 [U.K.][bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_fourfm%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 4 Extra [U.K.][bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_four_extra%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 6 Music [U.K.][bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_6music%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 CWR Coventry [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_coventry_warwickshire%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Essex [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_essex%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Hereford Worcester [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_hereford_worcester%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Berkshire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_berkshire%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Bristol [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_bristol%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Cambridge [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_cambridge%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Cornwall [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_cornwall%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Cumbria [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_cumbria%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Cymru [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_cymru%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Cymru 2 [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_cymru_2%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Derby [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_derby%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Devon [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_devon%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Foyle [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_foyle%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Gloucestershire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_gloucestershire%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Guernsey [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_guernsey%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Humberside [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_humberside%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Jersey [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_jersey%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Kent [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_kent%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Lancashire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_lancashire%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Leeds [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_leeds%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Leicester [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_leicester%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Lincolnshire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_lincolnshire%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio London [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_london%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Manchester [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_manchester%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Merseyside [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_merseyside%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio nan Gaidheal [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_nan_gaidheal%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 Radio Newcastle [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_newcastle%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Norfolk [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_norfolk%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Northampton [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_northampton%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Nottingham [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_nottingham%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Orkney [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_orkney%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Oxford [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_oxford%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Scotland FM [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_scotland_fm%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Scotland MW [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_scotland_mw%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Sheffield [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_sheffield%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Shropshire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_shropshire%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Solent [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_solent%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Solent West Dorset [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_solent_west_dorset%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Somerset Sound [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_somerset_sound%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Stoke [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_stoke%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Suffolk [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_suffolk%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Surrey [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_surrey%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Sussex [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_sussex%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Tees [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_tees%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Ulster [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_ulster%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Wales [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_fm%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio Wiltshire [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_wiltshire%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio WM [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_wm/bbc_wm.isml%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Radio York [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_radio_york%22&bitrate=320000%22
+#EXTINF:0, -BBC 🇬🇧 Three Counties Radio [bbc.co.uk]
+https://lstn.lv/bbcradio.m3u8?station=bbc_three_counties_radio%22&bitrate=320000%22
+#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][SW📻]
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #EXTINF:0, - BBC 🇬🇧 World Service [aac-100k][U.K.][bbc.co.uk][SW📻]
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #EXTINF:0, - BBC 🇬🇧 World Service [aac-56k][U.K.][bbc.co.uk][SW📻]
@@ -834,13 +794,13 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 #EXTINF:0, - Bloomberg Boston 🇺🇸  WRCA 106.1/1330/1450
 https://24403.live.streamtheworld.com/WRCAAMAAC_SC
 #EXTINF:0, - Bloomberg London 🇬🇧 [DAB]
-http://ais-sa10.cdnstream1.com/4062_96.mp3
+https://18003.live.streamtheworld.com/WBBRBOSAAC.aac
 #EXTINF:0, - Bloomberg New York 🇺🇸  WBBR 1130AM
-https://17573.live.streamtheworld.com/WBBRAMAAC.aac
+https://stream.revma.ihrhls.com/zc6286
 #EXTINF:0, - Bloomberg San Francisco 🇺🇸  KNEW 960
 https://stream.revma.ihrhls.com/zc301
 #EXTINF:0, - Bloomberg Washington 🇺🇸  WDCH 99.1
-https://n49b-e2.revma.ihrhls.com/zc7094
+https://stream.revma.ihrhls.com/zc7094
 #EXTINF:0, - Bloop 🇬🇧 [London England][blooplondon.com][Freeform]
 https://radio.canstream.co.uk:8058/live.mp3
 #EXTINF:0, - Bloop 🇬🇧 [London England][blooplondon.com][Freeform]
@@ -4287,6 +4247,8 @@ https://wblv.streamguys1.com/live
 #EXTINF:0, - WBNY 🇺🇸 91.3 Buffalo State College [Buffalo NY][wbny.buffalostate.edu]
 http://136.183.9.38:3307/;
 #EXTINF:0, - WBOR 🇺🇸 91.1 Bowdoin College [Portland ME][wbor.org][offline]
+https://listen.wbor.org:8000/stream
+#EXTINF:0, - WBOS 🇺🇸 92.p Bostons Rock [Bloomberg HD-2][Brookline MA][wbor.org]
 https://listen.wbor.org:8000/stream
 #EXTINF:0, - WBRH 🇺🇸 90.3 East Ba🇻🇦ton Rouge Parish School Board [Baton Rouge LA][wbrh.org][offline]
 https://wbrh.streamguys1.com:80/wbrh-mp3
