@@ -6,20 +6,18 @@
 # https://mastodon.social/@geospart
 # created 082124
 # https://github.com/geospart
-#PLAYLIST:-0,Freeform Radio Stations
+#PLAYLIST:-0,Bloomberg Radio
 #EXTGRP:-Main List
-#EXTINF:-0,Bloomberg New York WBBR 1130AM
-https://17573.live.streamtheworld.com/WBBRAMAAC.aac
-#EXTINF:-0,Bloomberg Boston WRCA 106.1/1330/1450
+#EXTINF:0, - Bloomberg Boston 🇺🇸  WRCA 106.1/1330/1450
 https://24403.live.streamtheworld.com/WRCAAMAAC_SC
-#EXTINF:-0,Bloomberg Boston WRCA 106.1/1330/1450
-https://18193.live.streamtheworld.com/WRCAAMAAC_SC
-#EXTINF:-0,Bloomberg San Francisco KNEW 960
+#EXTINF:0, - Bloomberg London 🇬🇧 [DAB]
+https://18003.live.streamtheworld.com/WBBRBOSAAC.aac
+#EXTINF:0, - Bloomberg New York 🇺🇸  WBBR 1130AM
+https://stream.revma.ihrhls.com/zc6286
+#EXTINF:0, - Bloomberg San Francisco 🇺🇸  KNEW 960
 https://stream.revma.ihrhls.com/zc301
-#EXTINF:-0,Bloomberg Washington WDCH 99.1
-https://n49b-e2.revma.ihrhls.com/zc7094
-#EXTINF:-0,Bloomberg London [DAB]
-http://ais-sa10.cdnstream1.com/4062_96.mp3
+#EXTINF:0, - Bloomberg Washington 🇺🇸  WDCH 99.1
+https://stream.revma.ihrhls.com/zc7094
 #EXTINF:-0,KYCR 1440 The Biz [Eagan MN]
 https://19253.live.streamtheworld.com/KYCRAMAAC.aac
 #EXTINF:-0,WPSE 1450/107.1 Money Radio / Penn State [Erie PA][wpse.bd.psu.edu]
