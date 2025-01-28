@@ -13,7 +13,7 @@
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 #EXTINF:0, - BBC 🇬🇧 1 Dance [bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 1 Relax [bbc.co.uk]
+#EXTINF:0, - BBC 🇬🇧 1 Relax [bbc.co.uk][offline-no longer in sounds app/page]
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/NULL/NULL.isml/NULL-audio%3d320000-audio48000.norewind.m3u8.norewind.m3u8
 #EXTINF:0, - BBC 🇬🇧 2 [U.K.][bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
