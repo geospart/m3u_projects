@@ -89,7 +89,7 @@ https://streaming.territoryfm.com:8443/Serene
 https://streams.95bfm.com/stream112
 #EXTINF:0, - 95BFM 🇳🇿 University of Auckland [New Zealand][95bfm.com]
 https://ssl.rockhost.com/proxy/caitlinssl/stream
-#EXTINF:0, - A.M. America OTR Comedy Channel 🇺🇸 [Joliet IL][OTR]
+#EXTINF:0, - A.M. America OTR Comedy Channel 1640 AM 🇺🇸 [Joliet IL][1640radio.net][OTR]
 https://hemnos.cdnstream.com/1666_32
 #EXTINF:0, - ABC 🇦🇺 [WA] Radio KIMBERLEY [abc.net.au/kimberley/live]
 https://mediaserviceslive.akamaized.net/hls/live/2038325/localbroome/index.m3u8
@@ -2508,6 +2508,20 @@ https://stream1.cprnetwork.org/cpr2_lo
 https://stream1.cprnetwork.org/cpr3_lo
 #EXTINF:0, - KVOD-KRCC 🇺🇸 88.1/102.3 Colorado Public Radio [Denver/Colorado Springs CO][cpr.org/krcc]
 https://streams.krcc.org/krcc_mp3
+#EXTINF:0, - KVOX 740 AM Tne Fan [Fargo ND][740thefan.com]
+https://24883.live.streamtheworld.com/KVOXAMAAC.aac
+#EXTINF:0, - KVPR 🇺🇸 89.3 [Fresno CA][kvpr.org]
+https://19793.live.streamtheworld.com/KVPRFM.mp3
+#EXTINF:0, - KVPR 🇺🇸 89.3 [Fresno CA][kvpr.org]
+https://27033.live.streamtheworld.com/KVPRFM.mp3
+#EXTINF:0, - KVPR 🇺🇸 89.3 [Fresno CA][kvpr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3
+#EXTINF:0, - KVPR 🇺🇸 89.3 Classical [Fresno CA][kvpr.org]
+https://26373.live.streamtheworld.com/KVPR_CLASSICAL.mp3
+#EXTINF:0, - KVPR 🇺🇸 89.3 Classical [Fresno CA][kvpr.org]
+https://19793.live.streamtheworld.com/KVPR_CLASSICAL.mp3
+#EXTINF:0, - KVPR 🇺🇸 89.3 Classical [Fresno CA][kvpr.org]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVPR_CLASSICAL.mp3
 #EXTINF:0, - KVRX 🇺🇸 91.7 University of Texas at Austin [Austin TX][kvrx.org][Fix-Offline-Dead]
 https://kvrx.org/now_playing/stream
 #EXTINF:0, - KVSC 🇺🇸 St Cloud University 88.1 [St Cloud MN][kvsc.org][mp3 128k]
