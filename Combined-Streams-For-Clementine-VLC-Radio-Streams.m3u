@@ -89,6 +89,8 @@ https://streaming.territoryfm.com:8443/Serene
 https://streams.95bfm.com/stream112
 #EXTINF:0, - 95BFM 🇳🇿 University of Auckland [New Zealand][95bfm.com]
 https://ssl.rockhost.com/proxy/caitlinssl/stream
+#EXTINF:0, - A.M. America OTR Comedy Channel 🇺🇸 [Joliet IL][OTR]
+https://hemnos.cdnstream.com/1666_32
 #EXTINF:0, - ABC 🇦🇺 [WA] Radio KIMBERLEY [abc.net.au/kimberley/live]
 https://mediaserviceslive.akamaized.net/hls/live/2038325/localbroome/index.m3u8
 #EXTINF:0, - ABC 🇦🇺[WA] Radio KIMBERLEY [abc.net.au/kimberley/live][ABC Broome][mp3]
@@ -455,6 +457,8 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264k
 https://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:0, - alto radio 🇬🇧 [Leeds England][altoradio.live][Freeform]
 https://stream-169.zeno.fm/gn6bn3tct7zuv
+#EXTINF:0, - America's OTR - 24/7 Gunsmoke 🇺🇸 [Chicago IL][OTR]
+https://das-edge12-live365-dal02.cdnstream.com/a68303
 #EXTINF:0, - Angel Radio 🇬🇧 [angelradio.co.uk][mp3 96k]
 http://s2.xrad.io:8522/listen.pls
 #EXTINF:0, - Antena Zadar 🇭🇺 – 97.2 FM [antenazadar.hr][FLAC][Fix-Offline-Dead]
@@ -803,8 +807,8 @@ https://birncontrol.getstreamhosting.com:9014/stream
 https://birncontrol.getstreamhosting.com:9010/stream
 #EXTINF:0, - Black Rhino Radio 🇷🇴 [Bucharest Romania][blackrhinoradio.com][Freeform]
 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
-#EXTINF:0, - Bloomberg Boston 🇺🇸  WRCA 106.1/1330/1450 [Fix-Offline-Dead]
-https://24403.live.streamtheworld.com/WRCAAMAAC_SC
+#EXTINF:0, - Bloomberg Boston Brookline-Boston 🇺🇸 WBOS 92.9 [AAC 96k]
+https://tunein.cdnstream1.com:443/3689_96.aac/playlist.m3u8
 #EXTINF:0, - Bloomberg London 🇬🇧 [DAB]
 https://18003.live.streamtheworld.com/WBBRBOSAAC.aac
 #EXTINF:0, - Bloomberg New York 🇺🇸  WBBR 1130AM
@@ -997,10 +1001,12 @@ https://audio-edge-es6pf.mia.g.radiomast.io/a372c74f-6c78-48b9-9933-81a8fc50b54a
 http://s2.stationplaylist.com:8110
 #EXTINF:0, - CFBX 🇨🇦 92.5 Thompson Rivers University [Kamloops BC][thex.ca]
 http://198.162.21.84:8002/
+#EXTINF:0, - CFCR 🇨🇦 90.5 Community Radio [Saskatoon][cfcr.ca]
+https://onair.cfcr.ca/hifi.mp3
 #EXTINF:0, - CFFF 🇨🇦 92.7 Trent University "Trent Radio" [Peterborough][trentradio.ca][mp3 181k]
 http://trentradio.ca:8800/hi-fi
-#EXTINF:0, - CFMH 🇨🇦 107.3 University of New Brunswick-Saint John [Saint Jonh NB][localfm.ca][Fix-Offline-Dead]
-http://no.stream
+#EXTINF:0, - CFMH 🇨🇦 107.3 University of New Brunswick-Saint John [Saint Jonh NB][localfm.ca][Works-Expired-Cert]
+http://cfmh-listen.unbsj.ca:8000/1
 #EXTINF:0, - CFML 🇨🇦 107.9 British Columbia Institute of Technology [Burnaby BC][evolution1079.com]
 https://evolution1079.streamb.live/SB00207
 #EXTINF:0, - CFMU 🇨🇦 93.3 McMaster University [Hamilton ON][cfmu.ca][mp3 128k]
@@ -1086,8 +1092,6 @@ https://live.umfm.com:8010/;stream/1
 http://s2.yesstreaming.net:7069/stream
 #EXTINF:0, - CKIA 🇨🇦 88.3 Radio Urbaine [Quebec QE][https://ckiafm.org][French][Freeform]
 https://stream2.statsradio.com/8148/stream
-#EXTINF:0, - CKCU 🇨🇦 93.1 Carleton University [Ottawa ON][ckcufm.com][Freeform][Fix-Offline-Dead]
-http://livestream.ckcufm.com/ckcu.mp3
 #EXTINF:0, - CKCU 🇨🇦 93.1 Carleton University [Ottawa ON][ckcufm.com][Freeform]
 https://stream2.statsradio.com:8124/stream
 #EXTINF:0, - CKDJ 🇨🇦 107.9 Algonquin College [Ottawa ON][ckdj.net]
@@ -1100,11 +1104,11 @@ https://humber.leanstream.co/CKHCFM-MP3
 http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:0, - CKON 🇨🇦 97.3 [Akwesasne ON][ckonfm.com]
 https://18853.live.streamtheworld.com/CKONFM_SC
-#EXTINF:0, - CKRL 🇨🇦 89.1 [Quebec][ckrl.qc.ca]
+#EXTINF:0, - CKRL 🇨🇦 89.1 [Quebec][ckrl.qc.ca][Freeform]
 https://stream02.ustream.ca/ckrl128.mp3
-#EXTINF:0, - CKUA 🇨🇦 94.9 [Alberta][ckua.com][1st Public radio in Canada 1927][Freeform]
+#EXTINF:0, - CKUA 🇨🇦 94.9 [Alberta][ckua.com][1st Public radio in Canada 1927][AAC 48k][Freeform]
 https://ais-sa1.streamon.fm/7000_48k.aac/playlist.m3u8
-#EXTINF:0, - CKUT 🇨🇦 90.3 Montreal McGill University [ckut.ca][mp3 192k]
+#EXTINF:0, - CKUT 🇨🇦 90.3 Montreal McGill University [ckut.ca][mp3 192k][Freeform]
 https://ckut.out.airtime.pro/ckut_a
 #EXTINF:0, - CKUW 🇨🇦 95.9 University of Winnipeg [Winnipeg MB][ckuw.ca]
 http://www.ckuw.ca/listen
@@ -1114,6 +1118,8 @@ https://stream2.statsradio.com:8150/stream
 https://5amigos.streamb.live/SB00354
 #EXTINF:0, - CKXU 🇨🇦 88.3 University of Lethbridge [Lethbridge AB][ckxu.com][Fix-Offline-Dead]
 https://stream.ckxu.com/
+#EXTINF:0, - Classic Old Time Radio 🇪🇸 [Segovia Spain][OTR]
+https://stream.zeno.fm/b6v6nu8uhnruv
 #EXTINF:0, - Clyde 1/50 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][hellorayo.co.uk/clyde/][mp3 112k]
 http://edge-bauerall-01-gos2.sharp-stream.com/clyde1.mp3
 #EXTINF:0, - Clyde 1/50 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Glasgow Scotland][hellorayo.co.uk/clyde/][mp3 112k]
@@ -1180,6 +1186,10 @@ https://streams.greenhost.nl:8006/live
 http://streams.greenhost.nl:8080/chanson
 #EXTINF:0, - Concertzender-Concertzender Klassieke Muziek  🇳🇱 [Hilversum Netherlands][concertzender.nl][mp3 160k][Fix-Offline-Dead]
 https://streams.greenhost.nl:8080/klassiek 
+#EXTINF:0, - Conyers Old Time Radio 🇺🇸 [Conyers GA][conyersradio.net][OTR]
+https://s2.yesstreaming.net:17161/stream
+#EXTINF:0, - Conyers Old Time Radio 🇺🇸 [Conyers GA][conyersradio.net][OTR]
+https://s2.yesstreaming.net:7161/stream
 #EXTINF:0, - COOG 🇺🇸 Radio Univerity of Houston [Houston TX][aac 56k]
 https://coogradio2.es.uh.edu/coogradio
 #EXTINF:0, - CRI轻松调频 🇨🇳 [https://chinaplus.cri.cn][China Radio International][SW📻]
@@ -1348,6 +1358,8 @@ http://142.4.219.8:8019/;stream.mp3
 http://142.4.219.8:8110/;stream.mp3
 #EXTINF:0, - Global Community Radio 🇺🇸 [GCR3][Geneva NY][globalcommunityradio.blogspot.com]
 http://142.4.219.8:8327/;stream.mp3
+#EXTINF:0, - Golden Hollywood OTR 🇺🇸 [Bradenton FL][OTR]
+https://video2.getstreamhosting.com:8124/stream.mp3
 #EXTINF:0, - Great Day Radio-The Peoples Station 🇺🇸 [Denver CO][greatdayradio.com][mp3 128k
 https://streaming.live365.com/a01123
 #EXTINF:0, - Greatest Hits Radio Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [clyde2][hellorayo.co.uk/greatest-hits/glasgow/][mp3 128k]
@@ -1360,6 +1372,8 @@ http://edge-bauerall-01-gos2.sharp-stream.com/magic1152m.mp3
 https://icecast.visir.is/orbGullBylgjan.aac
 #EXTINF:0, - Half Moon Radio 🇺🇸 [New York][halfmoonbk.com][Freeform]
 https://half-moon.radiocult.fm/stream
+#EXTINF:0, - Hank's Gumshoe OTR 🇺🇸 [Summerfield FL][OTR]
+https://s21.myradiostream.com/:9714/listen.mp3/;
 #EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][mp3 192k
 https://streaming.starterfm.com/radio/8070/ghr192
 #EXTINF:0, - Hawkesbury Radio 🇦🇺 [Windsor NSW Australia][eclectic][hawkesbury.radio][mp3 192k
@@ -1496,6 +1510,10 @@ https://danubiusradio.hu/danubius_96k.m3u
 https://danubiusradio.hu/danubius_HiFi.m3u
 #EXTINF:0, - K-UTE 🇺🇸 <-[web]-> University of Utah [Salt Lake City UT][kuteradio.org][m4a]
 https://stream.radiojar.com/t5uc7dqek5zuv.m4a
+#EXTINF:0, - KABC 🇺🇸 790 AM Los Angeles [Culver City CA][kabc.com][MP3]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAM.mp3
+#EXTINF:0, - KABC 🇺🇸 790 AM Los Angeles [Culver City CA][kabc.com][AAC]
+https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC.aac
 #EXTINF:0, - KABF 🇺🇸 88.3 Community Radio in Central Arkansas [Little Rock AR][kabf.org][Little Rock AR][mp3 128k]
 https://cast.acornradio.org/kabf
 #EXTINF:0, - KABR 🇺🇸 107.5/88.1 NV1 Native Voice One [Navajo][Alamo NM][ansbi.org/divisions/radio-station][Fix-Offline-Dead]
@@ -1514,7 +1532,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAJXFMAAC.aac
 https://24983.live.streamtheworld.com/KAXEFMAAC.aac
 #EXTINF:0, - KAKE/KBXE 🇺🇸 91.7/90.5 Northern Community Radio [Grand Rapids/Bagley MN][kaxe.org][aac 67k]
 https://24983.live.streamtheworld.com/KAXEFMAAC.aac
-#EXTINF:0, - KALX 🇺🇸 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k]
+#EXTINF:0, - KALX 🇺🇸 90.7 University of California [Berkeley CA][kalx.berkeley.edu][mp3 128k][Freeform]
 https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
 #EXTINF:0, - KAMU 🇺🇸 90.9 Texas A&M University [Classical][College Station TX][kamutvfm.org][kamu.tamu.edu/radio]
 https://kamu.streamguys1.com/hd2-192
@@ -1543,14 +1561,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2.m
 #EXTINF:0, - KANZ 🇺🇸 91.1 High Plains Public Radio [HPPR Mix][Garden City KS][hppr.org]
 https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR.mp3
 #EXTINF:0, - KAOR 🇺🇸 91.1 University of South Dakota [Vermillion SD][kaorradio.com]
-https://janus.cdnstream.com:5314/stream
-#EXTINF:0, - KAOR 🇺🇸 91.1 University of South Dakota [Vermillion SD][kaorradio.com][Fix-Offline-Dead]
-https://janus.cdnstream.com:5314/stream
-#EXTINF:0, - KAOS 🇺🇸 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k]
-https://ark3.spincom/ark2/KAOS-20240708T070000Z/index.m3u8
-#EXTINF:0, - KAOS 🇺🇸 89.3 Evergreen State College[Olypia WA][kaosradio.org][aac 134k][Fix-Offline-Dead]
-https://ark3.spincom/ark2/KAOS-20240708T070000Z/index.m3u8
-#EXTINF:0, - KAOS 🇺🇸 89.3 Evergreen State College[Olypia WA][kaosradio.org][mp3 128k]
+http://janus.cdnstream.com:5314/stream
+#EXTINF:0, - KAOS 🇺🇸 89.3 Evergreen State College[Olypia WA][kaosradio.org][mp3 128k][Freeform]
 http://205.134.192.90:8930/;
 #EXTINF:0, - KASU 🇺🇸 91.9 State University Radio [State Univerity AR][kazu.org][mp3 128k]
 https://kasu.streamguys1.com/live.mp3
