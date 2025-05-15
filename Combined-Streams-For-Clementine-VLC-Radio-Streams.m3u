@@ -709,30 +709,12 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/NULL/NULL.isml/NULL-audio%3
 http://as-hls-ww-live.akamaized.net/pool_90848428/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d320000.norewind.m3u8
 #EXTINF:0, - BBC 🇬🇧 Three Counties Radio [bbc.co.uk]
 http://as-hls-ww-live.akamaized.net/pool_69997923/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d320000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][SW📻]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [aac-100k][U.K.][bbc.co.uk][SW📻]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [aac-56k][U.K.][bbc.co.uk][SW📻]
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
-#EXTINF:0, - BBC 🇬🇧 World Service [aac-95k][U.K.][bbc.co.uk][SW📻][norew]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [aac-96k][U.K.][bbc.co.uk][SW📻]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/aks/bbc_world_service.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [aac-97k][U.K.][bbc.co.uk][SW📻][norew]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][norew][[SW📻][aac-95k]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3D96000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][norew][[SW📻][aac-97k]
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=48000.norewind.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][SW📻][aac-100k]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][SW📻][aac-50k]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/cfs/bbc_world_service.m3u8
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][SW📻][aac-56k]
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
-#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][☑2024][SW📻][aac-96k]
-https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/high/aks/bbc_world_service.m3u8
+#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][SW📻][mp3-56k]
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][SW📻][adts-48k]
+http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d320000.norewind.m3u8
+#EXTINF:0, - BBC 🇬🇧 World Service [U.K.][bbc.co.uk][SW📻][mp4a-32k]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_world_service.mpd
 #EXTINF:0, - Beat 106 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow [beat106scotland.com][mp3 128k]
 https://n10.rcs.revma.com:443/3d6v2ut171zuv
 #EXTINF:0, - Bee Radio 🇳🇱 [Netherlands][pop][beeradio.nl][mp3 320k]
